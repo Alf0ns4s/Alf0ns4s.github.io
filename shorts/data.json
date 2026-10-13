@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-13T16:28:02+00:00",
+ "synced": "2026-10-13T16:34:17+00:00",
  "stats_updated": "2026-10-13T16:27:59+00:00",
  "channels": [
   {
@@ -13,6 +13,8 @@
    "subscribers": 0,
    "views": 0,
    "uploads": 0,
+   "analytics": false,
+   "daily": [],
    "history": [
     {
      "date": "2026-10-13",
@@ -32,6 +34,8 @@
    "subscribers": 1,
    "views": 0,
    "uploads": 0,
+   "analytics": false,
+   "daily": [],
    "history": [
     {
      "date": "2026-10-13",
@@ -51,6 +55,8 @@
    "subscribers": 0,
    "views": 0,
    "uploads": 0,
+   "analytics": false,
+   "daily": [],
    "history": [
     {
      "date": "2026-10-13",
@@ -77,6 +83,8 @@
    "views": 0,
    "likes": 0,
    "comments": 0,
+   "analytics": null,
+   "thumb": "thumbs/20261013-153040_mystery-files.jpg",
    "score": 98,
    "video_score": 96,
    "script_score": 100,
@@ -116,6 +124,8 @@
    "views": 0,
    "likes": 0,
    "comments": 0,
+   "analytics": null,
+   "thumb": "thumbs/20261013-152218_money-facts.jpg",
    "score": 98,
    "video_score": 95,
    "script_score": 100,
@@ -153,6 +163,8 @@
    "views": 1,
    "likes": 0,
    "comments": 0,
+   "analytics": null,
+   "thumb": "thumbs/20261013-151756_deep-sea-files.jpg",
    "score": 100,
    "video_score": 100,
    "script_score": 100,
