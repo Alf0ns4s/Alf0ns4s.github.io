@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-13T21:41:16+00:00",
- "stats_updated": "2026-10-13T21:36:09+00:00",
+ "synced": "2026-10-13T21:41:25+00:00",
+ "stats_updated": "2026-10-13T21:41:20+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -15,7 +15,11 @@
    "uploads": 1,
    "analytics": true,
    "daily": [],
-   "audience": {},
+   "audience": {
+    "countries": [],
+    "ages": [],
+    "since": "2026-10-13"
+   },
    "history": [
     {
      "date": "2026-10-13",
@@ -37,7 +41,11 @@
    "uploads": 1,
    "analytics": true,
    "daily": [],
-   "audience": {},
+   "audience": {
+    "countries": [],
+    "ages": [],
+    "since": "2026-10-13"
+   },
    "history": [
     {
      "date": "2026-10-13",
@@ -59,7 +67,11 @@
    "uploads": 0,
    "analytics": true,
    "daily": [],
-   "audience": {},
+   "audience": {
+    "countries": [],
+    "ages": [],
+    "since": "2026-10-13"
+   },
    "history": [
     {
      "date": "2026-10-13",
@@ -124,9 +136,9 @@
    "url": "https://youtube.com/shorts/tlh7lj5iges",
    "privacy": "public",
    "publish_at": "2026-10-13T20:15:00.000Z",
-   "views": 0,
+   "views": 11,
    "likes": 0,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261013-152218_money-facts.jpg",
    "score": 98,
@@ -163,9 +175,9 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 1,
+   "views": 3,
    "likes": 0,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261013-151756_deep-sea-files.jpg",
    "score": 100,
