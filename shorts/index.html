@@ -14,6 +14,7 @@
   --deep:#0a7fa0; --myst:#a07400; --money:#14864a;
   --good:#167a43; --warn:#a15c00; --bad:#b4232c; --info:#2856b8;
   --good-bg:#e1f3e8; --warn-bg:#fbefd9; --bad-bg:#fbe3e4; --info-bg:#e3eafb;
+  --ch-deep:#0a7fa0; --ch-myst:#c2410c; --ch-money:#15803d; --grid:#e3e7ee;
   --display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
   --body:"IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
   --mono:"IBM Plex Mono", ui-monospace, Consolas, monospace;
@@ -22,12 +23,12 @@
   --bg:#0c1016; --panel:#141a23; --panel-2:#19202b; --line:#252e3b; --fg:#e8edf4; --muted:#8d98a9;
   --deep:#3dd6f5; --myst:#f2c94c; --money:#4ade80;
   --good:#5bd38d; --warn:#f0b34a; --bad:#ff6b73; --info:#7ea2ff;
-  --good-bg:#12291d; --warn-bg:#2d2312; --bad-bg:#311619; --info-bg:#172342; color-scheme:dark}}
+  --good-bg:#12291d; --warn-bg:#2d2312; --bad-bg:#311619; --info-bg:#172342; --ch-deep:#1b9cc0; --ch-myst:#d8661f; --ch-money:#2aa95b; --grid:#222a36; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0c1016; --panel:#141a23; --panel-2:#19202b; --line:#252e3b; --fg:#e8edf4; --muted:#8d98a9;
   --deep:#3dd6f5; --myst:#f2c94c; --money:#4ade80;
   --good:#5bd38d; --warn:#f0b34a; --bad:#ff6b73; --info:#7ea2ff;
-  --good-bg:#12291d; --warn-bg:#2d2312; --bad-bg:#311619; --info-bg:#172342; color-scheme:dark}
+  --good-bg:#12291d; --warn-bg:#2d2312; --bad-bg:#311619; --info-bg:#172342; --ch-deep:#1b9cc0; --ch-myst:#d8661f; --ch-money:#2aa95b; --grid:#222a36; color-scheme:dark}
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--fg);font:15px/1.5 var(--body)}
 .wrap{max-width:1180px;margin:0 auto;padding-inline:20px;padding-block:24px 64px;display:flex;flex-direction:column;gap:28px}
@@ -98,6 +99,16 @@ textarea{width:100%;min-height:64px;border:1px solid var(--line);border-radius:8
 .top{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
 .top-card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px;display:grid;grid-template-columns:54px minmax(0,1fr);gap:12px;align-items:center}
 .top-card .t{font-weight:600;font-size:13.5px;line-height:1.3}
+.charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:16px}
+.chart{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:10px;min-width:0;position:relative}
+.chart h3{margin:0;font:600 15px var(--body)}
+.chart svg{width:100%;height:auto;display:block;overflow:visible}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12.5px;color:var(--muted)}
+.legend i{display:inline-block;width:18px;height:0;border-top:2.5px solid;vertical-align:middle;margin-right:6px}
+.tip{position:absolute;pointer-events:none;background:var(--fg);color:var(--bg);font-size:12px;line-height:1.45;padding:7px 10px;border-radius:8px;white-space:nowrap;z-index:5;transform:translate(-50%,-110%)}
+.tip[hidden]{display:none}
+.chart details{font-size:13px} .chart table{border-collapse:collapse;width:100%;font-size:12.5px} .chart th,.chart td{text-align:right;padding:3px 6px;border-bottom:1px solid var(--line)} .chart th:first-child,.chart td:first-child{text-align:left}
+.tablewrap{overflow-x:auto}
 .empty{border:1px dashed var(--line);border-radius:12px;padding:28px 20px;text-align:center;color:var(--muted)}
 .note{font-size:13px;color:var(--muted)}
 .ok-msg{color:var(--good);font-size:13px}
@@ -129,6 +140,11 @@ textarea{width:100%;min-height:64px;border:1px solid var(--line);border-radius:8
   <section aria-labelledby="h-ch">
     <div class="section-head"><h2 id="h-ch">Channels</h2><span class="note" id="statsNote"></span></div>
     <div class="monitors" id="monitors"><div class="empty">Channel numbers appear here after the first sync.</div></div>
+  </section>
+
+  <section aria-labelledby="h-an">
+    <div class="section-head"><h2 id="h-an">Analytics</h2><span class="note">Hover a chart for exact numbers</span></div>
+    <div class="charts" id="charts"></div>
   </section>
 
   <section aria-labelledby="h-air">
@@ -188,6 +204,70 @@ function bars(daily, color){
     ${pts.map((p,i)=>{const h=Math.max(1,(p.views/max)*(H-14));return `<rect x="${(P+i*bw+1).toFixed(1)}" y="${(H-h).toFixed(1)}" width="${Math.max(1,bw-2).toFixed(1)}" height="${h.toFixed(1)}" rx="1.5" fill="${color}" fill-opacity="${i===pts.length-1?1:.55}"/>`}).join("")}
     <text x="${W-P}" y="10" text-anchor="end" font-size="10" fill="var(--muted)">${fmtN(max)}/day</text></svg>`;
 }
+const CH = {"deep-sea-files":{c:"var(--ch-deep)",dash:"",shape:"circle"},"mystery-files":{c:"var(--ch-myst)",dash:"7 4",shape:"square"},"money-facts":{c:"var(--ch-money)",dash:"2 4",shape:"diamond"}};
+const chOf = id => CH[id] || {c:"var(--info)",dash:"",shape:"circle"};
+function dailySeries(c){
+  if ((c.daily||[]).length) return c.daily.map(d => ({x:d.day, y:+d.views||0}));
+  const h = (c.history||[]).filter(r => r.views != null);
+  return h.slice(1).map((r,i) => ({x:r.date, y:Math.max(0, r.views - h[i].views)}));
+}
+function lineChart(id, title, series, fmt){
+  // series: [{name, id, pts:[{x,y}]}] ; x = YYYY-MM-DD
+  const xs = [...new Set(series.flatMap(s=>s.pts.map(p=>p.x)))].sort();
+  const box = `<div class="chart" id="${id}"><h3>${title}</h3>`;
+  if (xs.length < 2) return box + `<div class="empty">This chart fills in after two days of numbers.</div></div>`;
+  const W=440,H=230,L=40,R=84,T=12,B=26, maxY=Math.max(1,...series.flatMap(s=>s.pts.map(p=>p.y)));
+  const nice = (()=>{const p=Math.pow(10,Math.floor(Math.log10(maxY))); for (const m of [1,2,2.5,5,10]) if (m*p>=maxY) return m*p; return 10*p;})();
+  const X = i => L + i*(W-L-R)/(xs.length-1), Y = v => T + (1-v/nice)*(H-T-B);
+  let g = "";
+  for (let k=0;k<=4;k++){ const v=nice*k/4; g += `<line x1="${L}" x2="${W-R}" y1="${Y(v)}" y2="${Y(v)}" stroke="var(--grid)" stroke-width="1"/><text x="${L-6}" y="${Y(v)+4}" text-anchor="end" font-size="12.5" fill="var(--muted)">${fmt(v)}</text>`; }
+  const step = Math.max(1, Math.ceil(xs.length/6));
+  xs.forEach((x,i)=>{ if (i%step===0 || i===xs.length-1) g += `<text x="${X(i)}" y="${H-6}" text-anchor="middle" font-size="12.5" fill="var(--muted)">${new Date(x+"T12:00:00").toLocaleDateString([], {month:"short",day:"numeric"})}</text>`; });
+  let lines="", labels=[];
+  series.forEach(s => {
+    const m = new Map(s.pts.map(p=>[p.x,p.y])); const st = chOf(s.id);
+    const pts = xs.map((x,i)=> m.has(x) ? [X(i),Y(m.get(x))] : null).filter(Boolean);
+    if (!pts.length) return;
+    lines += `<path d="${pts.map((p,i)=>(i?"L":"M")+p[0].toFixed(1)+","+p[1].toFixed(1)).join("")}" fill="none" stroke="${st.c}" stroke-width="2" stroke-dasharray="${st.dash}" stroke-linejoin="round" stroke-linecap="round"/>`;
+    const last = pts[pts.length-1]; lines += `<circle cx="${last[0]}" cy="${last[1]}" r="4" fill="${st.c}" stroke="var(--panel)" stroke-width="2"/>`;
+    labels.push({y:last[1], x:last[0], name:s.name, v:m.get(xs[xs.length-1])});
+  });
+  labels.sort((a,b)=>a.y-b.y); for (let i=1;i<labels.length;i++) if (labels[i].y-labels[i-1].y<16) labels[i].y=labels[i-1].y+16;
+  const lab = labels.map(l=>`<text x="${l.x+8}" y="${l.y+4}" font-size="13" fill="var(--fg)">${esc(l.name.split(" ")[0])} ${l.v!=null?fmt(l.v):""}</text>`).join("");
+  const legend = `<div class="legend">${series.map(s=>`<span><i style="border-color:${chOf(s.id).c};border-top-style:${chOf(s.id).dash?"dashed":"solid"}"></i>${esc(s.name)}</span>`).join("")}</div>`;
+  const table = `<details><summary>Show as a table</summary><div class="tablewrap"><table><tr><th>Day</th>${series.map(s=>`<th>${esc(s.name)}</th>`).join("")}</tr>${xs.slice().reverse().map(x=>`<tr><td>${x}</td>${series.map(s=>{const p=s.pts.find(p=>p.x===x);return `<td class="num">${p?fmt(p.y):"–"}</td>`}).join("")}</tr>`).join("")}</table></div></details>`;
+  CHARTDATA[id] = {xs, series, X, L, R, W, H, T, B, fmt};
+  return box + `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(title)}">${g}${lines}${lab}<line class="xh" x1="0" x2="0" y1="${T}" y2="${H-B}" stroke="var(--muted)" stroke-width="1" opacity="0"/><rect x="${L}" y="${T}" width="${W-L-R}" height="${H-T-B}" fill="transparent" data-hover="${id}"/></svg>${legend}${table}<div class="tip" hidden></div></div>`;
+}
+function dotChart(id, title, videos, channels){
+  const rows = channels.filter(c => videos.some(v=>v.channel===c.id && (v.analytics||{}).averageViewPercentage!=null));
+  const box = `<div class="chart" id="${id}"><h3>${title}</h3>`;
+  if (!rows.length) return box + `<div class="empty">Each video's "% watched" appears here 1-2 days after it goes public (needs the Analytics connection).</div></div>`;
+  const W=440,L=104,R=16,rowH=48,H=rows.length*rowH+34, X = v => L + Math.min(100,Math.max(0,v))/100*(W-L-R);
+  let g = "";
+  for (const v of [0,25,50,75,100]) g += `<line x1="${X(v)}" x2="${X(v)}" y1="6" y2="${H-24}" stroke="var(--grid)"/><text x="${X(v)}" y="${H-8}" text-anchor="middle" font-size="12.5" fill="var(--muted)">${v}%</text>`;
+  const marks = [];
+  rows.forEach((c,ri) => {
+    const y = 6 + ri*rowH + rowH/2, st = chOf(c.id);
+    g += `<text x="${L-10}" y="${y+4}" text-anchor="end" font-size="13" fill="var(--fg)">${esc(c.name)}</text>`;
+    videos.filter(v=>v.channel===c.id && (v.analytics||{}).averageViewPercentage!=null).forEach((v,k) => {
+      const x = X(v.analytics.averageViewPercentage), yy = y + ((k%3)-1)*7, r = 7;
+      const shape = st.shape==="square" ? `<rect x="${x-r+1}" y="${yy-r+1}" width="${2*r-2}" height="${2*r-2}" rx="2"` : st.shape==="diamond" ? `<path d="M${x},${yy-r-1}L${x+r+1},${yy}L${x},${yy+r+1}L${x-r-1},${yy}Z"` : `<circle cx="${x}" cy="${yy}" r="${r}"`;
+      g += `${shape} fill="${st.c}" stroke="var(--panel)" stroke-width="2" data-dot="${esc(v.item)}"/>`;
+    });
+  });
+  return box + `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(title)}">${g}</svg><div class="note">Each mark is one video. Further right = people watched more of it.</div><div class="tip" hidden></div></div>`;
+}
+const CHARTDATA = {};
+function learnCard(chs){
+  const ins = (S.insights||{}).channels || {};
+  const parts = chs.map(c => { const i = ins[c.id]; if (!i) return "";
+    const best = (i.top||[])[0];
+    return `<div style="display:flex;flex-direction:column;gap:4px"><b style="font-size:13.5px"><i style="display:inline-block;width:10px;height:10px;border-radius:2px;background:${chOf(c.id).c};margin-right:6px"></i>${esc(c.name)} &middot; ${i.count} videos measured</b>` +
+      (best ? `<span class="note">Best so far: ${esc(best.topic||best.item||"")} &middot; ${esc(best.hook_style||"")} hook</span>` : "") +
+      (i.notes||[]).filter(n=>/^Do (MORE|LESS)|Not enough/.test(n)).map(n=>`<span style="font-size:13px">${esc(n)}</span>`).join("") + `</div>`; }).join("");
+  return `<div class="chart"><h3>What the numbers are teaching us</h3>` + (parts || `<div class="empty">After videos have been public for 36 hours, the hub compares them here (hook style, length) and the script writer uses it to make the next ones better.</div>`) + `</div>`;
+}
 function spark(hist, color){
   const pts = (hist||[]).filter(h => h.views != null);
   if (pts.length < 2) return `<div class="spark-note">View trend starts after two days of numbers.</div>`;
@@ -212,6 +292,11 @@ function render(){
   $("syncDot").className = "dot"+(stale?" stale":"");
   $("syncText").textContent = "Updated "+ago(S.synced);
   $("statsNote").textContent = S.stats_updated ? "YouTube numbers from "+ago(S.stats_updated) : "";
+  const chs = S.channels.filter(c => filter==="all" || c.id===filter);
+  $("charts").innerHTML =
+    lineChart("c-views", "Views per day", chs.map(c=>({name:c.name, id:c.id, pts:dailySeries(c)})), fmtN) +
+    lineChart("c-subs", "Subscribers", chs.map(c=>({name:c.name, id:c.id, pts:(c.history||[]).filter(h=>h.subscribers!=null).map(h=>({x:h.date,y:h.subscribers}))})), fmtN) +
+    dotChart("c-watch", "How much of each video people watch", S.videos, chs) + learnCard(chs);
   const noA = S.channels.filter(c => !c.analytics).map(c => c.name);
   $("banner").hidden = !noA.length;
   if (noA.length) $("banner").textContent = "Watch time and % viewed need one more YouTube connection for: " + noA.join(", ") + ". Until then you see views, likes and comments.";
@@ -282,6 +367,25 @@ function render(){
       ${(r.reasons||[]).length?`<ul class="small" style="margin:4px 0 0;padding-left:18px">${r.reasons.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:""}</div>`).join("")
     : `<div class="empty">Nothing waiting. Videos that fail the engagement test because of the script land here.</div>`;
 }
+document.addEventListener("pointermove", e => {
+  const t = e.target;
+  document.querySelectorAll(".chart .tip").forEach(tp => { if (!tp.parentElement.contains(t)) tp.hidden = true; });
+  if (t.dataset && t.dataset.hover) {
+    const d = CHARTDATA[t.dataset.hover], svg = t.ownerSVGElement, card = svg.parentElement, tip = card.querySelector(".tip");
+    const pt = svg.createSVGPoint(); pt.x = e.clientX; pt.y = e.clientY; const p = pt.matrixTransform(svg.getScreenCTM().inverse());
+    const i = Math.max(0, Math.min(d.xs.length-1, Math.round((p.x - d.L) / ((d.W-d.L-d.R)/(d.xs.length-1)))));
+    const x = d.X(i), xh = svg.querySelector(".xh"); xh.setAttribute("x1", x); xh.setAttribute("x2", x); xh.setAttribute("opacity", ".5");
+    tip.innerHTML = `<b>${new Date(d.xs[i]+"T12:00:00").toLocaleDateString([], {weekday:"short",month:"short",day:"numeric"})}</b><br>` +
+      d.series.map(s => { const q = s.pts.find(q=>q.x===d.xs[i]); return `${esc(s.name)}: ${q?d.fmt(q.y):"–"}`; }).join("<br>");
+    const r = card.getBoundingClientRect(); tip.style.left = (e.clientX - r.left) + "px"; tip.style.top = (e.clientY - r.top) + "px"; tip.hidden = false;
+  } else if (t.dataset && t.dataset.dot) {
+    const v = S.videos.find(v => v.item === t.dataset.dot), card = t.ownerSVGElement.parentElement, tip = card.querySelector(".tip");
+    tip.innerHTML = `<b>${esc(v.title)}</b><br>${pct(v.analytics.averageViewPercentage)} watched &middot; ${fmtN(v.views)} views`;
+    const r = card.getBoundingClientRect(); tip.style.left = (e.clientX - r.left) + "px"; tip.style.top = (e.clientY - r.top) + "px"; tip.hidden = false;
+  } else {
+    document.querySelectorAll(".xh").forEach(l => l.setAttribute("opacity", "0"));
+  }
+});
 document.addEventListener("click", async e => {
   const b = e.target.closest("button"); if (!b) return;
   if (b.dataset.f) { filter = b.dataset.f; try { localStorage.setItem("sh_filter", filter); } catch (x) {} render(); return; }

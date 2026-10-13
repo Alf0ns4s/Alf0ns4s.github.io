@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-13T20:28:06+00:00",
+ "synced": "2026-10-13T20:39:38+00:00",
  "stats_updated": "2026-10-13T20:28:02+00:00",
  "channels": [
   {
@@ -183,5 +183,10 @@
   }
  ],
  "rework": [],
- "inbox_waiting": []
+ "inbox_waiting": [],
+ "insights": {
+  "updated": "2026-10-13T20:35:59+00:00",
+  "videos_analysed": 0,
+  "channels": {}
+ }
 }
