@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-13T20:39:38+00:00",
- "stats_updated": "2026-10-13T20:28:02+00:00",
+ "synced": "2026-10-13T21:28:28+00:00",
+ "stats_updated": "2026-10-13T21:28:23+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -13,7 +13,7 @@
    "subscribers": 0,
    "views": 0,
    "uploads": 0,
-   "analytics": false,
+   "analytics": true,
    "daily": [],
    "history": [
     {
@@ -34,7 +34,7 @@
    "subscribers": 1,
    "views": 0,
    "uploads": 1,
-   "analytics": false,
+   "analytics": true,
    "daily": [],
    "history": [
     {
@@ -55,7 +55,7 @@
    "subscribers": 0,
    "views": 0,
    "uploads": 0,
-   "analytics": false,
+   "analytics": true,
    "daily": [],
    "history": [
     {
@@ -185,7 +185,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-13T20:35:59+00:00",
+  "updated": "2026-10-13T21:28:25+00:00",
   "videos_analysed": 0,
   "channels": {}
  }
