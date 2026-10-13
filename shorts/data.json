@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-13T21:36:15+00:00",
+ "synced": "2026-10-13T21:41:16+00:00",
  "stats_updated": "2026-10-13T21:36:09+00:00",
  "channels": [
   {
@@ -15,6 +15,7 @@
    "uploads": 1,
    "analytics": true,
    "daily": [],
+   "audience": {},
    "history": [
     {
      "date": "2026-10-13",
@@ -36,6 +37,7 @@
    "uploads": 1,
    "analytics": true,
    "daily": [],
+   "audience": {},
    "history": [
     {
      "date": "2026-10-13",
@@ -57,6 +59,7 @@
    "uploads": 0,
    "analytics": true,
    "daily": [],
+   "audience": {},
    "history": [
     {
      "date": "2026-10-13",

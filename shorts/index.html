@@ -109,6 +109,10 @@ textarea{width:100%;min-height:64px;border:1px solid var(--line);border-radius:8
 .tip[hidden]{display:none}
 .chart details{font-size:13px} .chart table{border-collapse:collapse;width:100%;font-size:12.5px} .chart th,.chart td{text-align:right;padding:3px 6px;border-bottom:1px solid var(--line)} .chart th:first-child,.chart td:first-child{text-align:left}
 .tablewrap{overflow-x:auto}
+.hbars{display:grid;grid-template-columns:minmax(90px,max-content) 1fr 52px;gap:7px 10px;align-items:center;font-size:13px}
+.hbars .bar{height:12px;border-radius:0 4px 4px 0;min-width:2px}
+.hbars .val{text-align:right;font-family:var(--mono);font-size:12.5px;color:var(--muted)}
+.aud-h{font:600 12px var(--body);color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin-top:4px}
 .empty{border:1px dashed var(--line);border-radius:12px;padding:28px 20px;text-align:center;color:var(--muted)}
 .note{font-size:13px;color:var(--muted)}
 .ok-msg{color:var(--good);font-size:13px}
@@ -259,6 +263,29 @@ function dotChart(id, title, videos, channels){
   return box + `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(title)}">${g}</svg><div class="note">Each mark is one video. Further right = people watched more of it.</div><div class="tip" hidden></div></div>`;
 }
 const CHARTDATA = {};
+let _regionNames; try { _regionNames = new Intl.DisplayNames(["en"], {type:"region"}); } catch(e) {}
+const countryName = c => { try { return (_regionNames && _regionNames.of(c)) || c; } catch(e) { return c; } };
+function hbars(rows, color){
+  const max = Math.max(1, ...rows.map(r=>r.pct));
+  return `<div class="hbars">${rows.map(r=>`<span title="${esc(r.label)}: ${r.pct}%${r.views!=null?" ("+fmtN(r.views)+" views)":""}">${esc(r.label)}</span><div class="bar" style="width:${(r.pct/max*100).toFixed(1)}%;background:${r.muted?"var(--muted)":color};opacity:${r.muted?.45:1}"></div><span class="val">${r.pct.toFixed(r.pct<10?1:0)}%</span>`).join("")}</div>`;
+}
+function audienceCards(chs){
+  return chs.map(c => {
+    const a = c.audience || {}, col = chOf(c.id).c;
+    let body = "";
+    const cs = a.countries || [];
+    if (cs.length) {
+      const top = cs.slice(0, 7).map(x => ({label: countryName(x.country), pct: x.pct, views: x.views}));
+      const rest = cs.slice(7).reduce((s, x) => s + x.pct, 0);
+      if (rest > 0.05) top.push({label: "Other countries", pct: Math.round(rest*10)/10, muted: true});
+      body += `<div class="aud-h">Where views come from</div>` + hbars(top, col);
+    }
+    const ag = (a.ages || []).filter(x => x.pct > 0);
+    if (ag.length) body += `<div class="aud-h">Viewer age</div>` + hbars(ag.map(x => ({label: x.age.replace("-", "–") + (x.age.endsWith("-")?"+":""), pct: x.pct})), col);
+    if (!body) body = `<div class="empty">${c.analytics ? "YouTube shows countries and ages after a video has enough views (usually 1-3 days)." : "Needs the Analytics connection."}</div>`;
+    return `<div class="chart"><h3><i style="display:inline-block;width:10px;height:10px;border-radius:2px;background:${col};margin-right:8px"></i>${esc(c.name)} audience</h3>${body}</div>`;
+  }).join("");
+}
 function learnCard(chs){
   const ins = (S.insights||{}).channels || {};
   const parts = chs.map(c => { const i = ins[c.id]; if (!i) return "";
@@ -296,7 +323,7 @@ function render(){
   $("charts").innerHTML =
     lineChart("c-views", "Views per day", chs.map(c=>({name:c.name, id:c.id, pts:dailySeries(c)})), fmtN) +
     lineChart("c-subs", "Subscribers", chs.map(c=>({name:c.name, id:c.id, pts:(c.history||[]).filter(h=>h.subscribers!=null).map(h=>({x:h.date,y:h.subscribers}))})), fmtN) +
-    dotChart("c-watch", "How much of each video people watch", S.videos, chs) + learnCard(chs);
+    dotChart("c-watch", "How much of each video people watch", S.videos, chs) + learnCard(chs) + audienceCards(chs);
   const noA = S.channels.filter(c => !c.analytics).map(c => c.name);
   $("banner").hidden = !noA.length;
   if (noA.length) $("banner").textContent = "Watch time and % viewed need one more YouTube connection for: " + noA.join(", ") + ". Until then you see views, likes and comments.";
