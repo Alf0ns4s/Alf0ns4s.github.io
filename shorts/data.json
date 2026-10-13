@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-13T21:28:28+00:00",
- "stats_updated": "2026-10-13T21:28:23+00:00",
+ "synced": "2026-10-13T21:31:00+00:00",
+ "stats_updated": "2026-10-13T21:30:54+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -12,7 +12,7 @@
    ],
    "subscribers": 0,
    "views": 0,
-   "uploads": 0,
+   "uploads": 1,
    "analytics": true,
    "daily": [],
    "history": [
@@ -121,7 +121,7 @@
    "url": "https://youtube.com/shorts/tlh7lj5iges",
    "privacy": "public",
    "publish_at": "2026-10-13T20:15:00.000Z",
-   "views": 0,
+   "views": 4,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -158,8 +158,8 @@
    "duration": 47.7,
    "youtube_id": "gf9JdoiVQ9o",
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
-   "privacy": "private",
-   "publish_at": "2026-10-13T21:30:00Z",
+   "privacy": "public",
+   "publish_at": "2026-10-13T21:30:00.000Z",
    "views": 1,
    "likes": 0,
    "comments": 0,
