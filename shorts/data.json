@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-14T12:57:25+00:00",
+ "synced": "2026-10-14T15:04:19+00:00",
  "stats_updated": "2026-10-14T11:53:29+00:00",
  "channels": [
   {
@@ -106,17 +106,17 @@
    "created": "2026-10-14T05:55:40",
    "scheduled_for": "2026-10-15T02:15:00+03:00",
    "duration": 60.7,
-   "youtube_id": "-0EhQxHbSo8",
-   "url": "https://youtube.com/shorts/-0EhQxHbSo8",
+   "youtube_id": "Bv6YjHeXzLI",
+   "url": "https://youtube.com/shorts/Bv6YjHeXzLI",
    "privacy": "private",
-   "publish_at": "2026-10-14T23:15:00Z",
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
+   "publish_at": "2026-10-14T23:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
    "analytics": null,
    "thumb": "thumbs/20261014-053323_mystery-files.jpg",
    "score": 94,
-   "video_score": 89,
+   "video_score": 88,
    "script_score": 100,
    "verdict": "pass",
    "fixes": [
@@ -126,14 +126,14 @@
    ],
    "rounds": 3,
    "issues": [
-    "No clipping",
+    "No empty-looking shots",
     "Length 25-60 seconds"
    ],
    "metrics": {
-    "cuts": 23,
-    "avg_shot": 2.53,
+    "cuts": 24,
+    "avg_shot": 2.43,
     "wpm": 158,
-    "brightness": 50,
+    "brightness": 48,
     "loudness_db": -14.7
    },
    "error": null
@@ -147,30 +147,28 @@
    "created": "2026-10-14T05:33:23",
    "scheduled_for": "2026-10-14T23:15:00+03:00",
    "duration": 57.3,
-   "youtube_id": "f1Jjriysazk",
-   "url": "https://youtube.com/shorts/f1Jjriysazk",
+   "youtube_id": "OIGfOLVAxwg",
+   "url": "https://youtube.com/shorts/OIGfOLVAxwg",
    "privacy": "private",
-   "publish_at": "2026-10-14T20:15:00Z",
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
+   "publish_at": "2026-10-14T20:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
    "analytics": null,
    "thumb": "thumbs/20261014-051944_money-facts.jpg",
    "score": 100,
    "video_score": 100,
    "script_score": 100,
    "verdict": "pass",
-   "fixes": [
-    "fewer_flashes"
-   ],
-   "rounds": 2,
+   "fixes": [],
+   "rounds": 1,
    "issues": [],
    "metrics": {
-    "cuts": 24,
-    "avg_shot": 2.29,
+    "cuts": 28,
+    "avg_shot": 1.98,
     "wpm": 156,
-    "brightness": 85,
-    "loudness_db": -15.6
+    "brightness": 82,
+    "loudness_db": -15.5
    },
    "error": null
   },
@@ -183,17 +181,17 @@
    "created": "2026-10-14T05:19:44",
    "scheduled_for": "2026-10-15T00:30:00+03:00",
    "duration": 49.3,
-   "youtube_id": "8yOfeJxy6OQ",
-   "url": "https://youtube.com/shorts/8yOfeJxy6OQ",
+   "youtube_id": "RW8BPR1uodI",
+   "url": "https://youtube.com/shorts/RW8BPR1uodI",
    "privacy": "private",
-   "publish_at": "2026-10-14T21:30:00Z",
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
+   "publish_at": "2026-10-14T21:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
    "analytics": null,
    "thumb": "thumbs/20261014-050136_deep-sea-files.jpg",
-   "score": 98,
-   "video_score": 96,
+   "score": 96,
+   "video_score": 91,
    "script_score": 100,
    "verdict": "pass",
    "fixes": [
@@ -202,14 +200,15 @@
    ],
    "rounds": 3,
    "issues": [
-    "No shot longer than 6 seconds"
+    "No shot longer than 6 seconds",
+    "No empty-looking shots"
    ],
    "metrics": {
     "cuts": 18,
     "avg_shot": 2.6,
     "wpm": 184,
-    "brightness": 102,
-    "loudness_db": -15.5
+    "brightness": 96,
+    "loudness_db": -15.4
    },
    "error": null
   },
