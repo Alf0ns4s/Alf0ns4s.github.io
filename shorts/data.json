@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-13T22:50:59+00:00",
- "stats_updated": "2026-10-13T22:45:32+00:00",
+ "synced": "2026-10-14T00:16:12+00:00",
+ "stats_updated": "2026-10-14T00:16:07+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -10,7 +10,7 @@
    "post_times": [
     "00:30"
    ],
-   "subscribers": 1,
+   "subscribers": 2,
    "views": 0,
    "uploads": 1,
    "analytics": true,
@@ -24,6 +24,11 @@
     {
      "date": "2026-10-13",
      "subscribers": 1,
+     "views": 0
+    },
+    {
+     "date": "2026-10-14",
+     "subscribers": 2,
      "views": 0
     }
    ]
@@ -51,6 +56,11 @@
      "date": "2026-10-13",
      "subscribers": 1,
      "views": 0
+    },
+    {
+     "date": "2026-10-14",
+     "subscribers": 1,
+     "views": 0
     }
    ]
   },
@@ -64,7 +74,7 @@
    ],
    "subscribers": 0,
    "views": 0,
-   "uploads": 0,
+   "uploads": 1,
    "analytics": true,
    "daily": [],
    "audience": {
@@ -75,6 +85,11 @@
    "history": [
     {
      "date": "2026-10-13",
+     "subscribers": 0,
+     "views": 0
+    },
+    {
+     "date": "2026-10-14",
      "subscribers": 0,
      "views": 0
     }
@@ -93,10 +108,10 @@
    "duration": 53.3,
    "youtube_id": "_1GacRmOyUU",
    "url": "https://youtube.com/shorts/_1GacRmOyUU",
-   "privacy": "private",
-   "publish_at": "2026-10-13T23:15:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-13T23:15:00.000Z",
+   "views": 21,
+   "likes": 1,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261013-153040_mystery-files.jpg",
@@ -136,9 +151,9 @@
    "url": "https://youtube.com/shorts/tlh7lj5iges",
    "privacy": "public",
    "publish_at": "2026-10-13T20:15:00.000Z",
-   "views": 4,
-   "likes": 0,
-   "comments": 0,
+   "views": 52,
+   "likes": 1,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261013-152218_money-facts.jpg",
    "score": 98,
@@ -175,8 +190,8 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 288,
-   "likes": 10,
+   "views": 569,
+   "likes": 29,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261013-151756_deep-sea-files.jpg",
