@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-14T05:55:51+00:00",
- "stats_updated": "2026-10-14T04:54:57+00:00",
+ "synced": "2026-10-14T11:43:38+00:00",
+ "stats_updated": "2026-10-14T11:43:32+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -10,7 +10,7 @@
    "post_times": [
     "00:30"
    ],
-   "subscribers": 2,
+   "subscribers": 1,
    "views": 0,
    "uploads": 1,
    "analytics": true,
@@ -28,7 +28,7 @@
     },
     {
      "date": "2026-10-14",
-     "subscribers": 2,
+     "subscribers": 1,
      "views": 0
     }
    ]
@@ -109,10 +109,10 @@
    "youtube_id": "-0EhQxHbSo8",
    "url": "https://youtube.com/shorts/-0EhQxHbSo8",
    "privacy": "private",
-   "publish_at": "2026-10-14T23:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-14T23:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261014-053323_mystery-files.jpg",
    "score": 94,
@@ -150,10 +150,10 @@
    "youtube_id": "f1Jjriysazk",
    "url": "https://youtube.com/shorts/f1Jjriysazk",
    "privacy": "private",
-   "publish_at": "2026-10-14T20:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-14T20:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261014-051944_money-facts.jpg",
    "score": 100,
@@ -186,10 +186,10 @@
    "youtube_id": "8yOfeJxy6OQ",
    "url": "https://youtube.com/shorts/8yOfeJxy6OQ",
    "privacy": "private",
-   "publish_at": "2026-10-14T21:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-14T21:30:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261014-050136_deep-sea-files.jpg",
    "score": 98,
@@ -226,8 +226,8 @@
    "url": "https://youtube.com/shorts/_1GacRmOyUU",
    "privacy": "public",
    "publish_at": "2026-10-13T23:15:00.000Z",
-   "views": 100,
-   "likes": 3,
+   "views": 122,
+   "likes": 2,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261013-153040_mystery-files.jpg",
@@ -267,7 +267,7 @@
    "url": "https://youtube.com/shorts/tlh7lj5iges",
    "privacy": "public",
    "publish_at": "2026-10-13T20:15:00.000Z",
-   "views": 103,
+   "views": 155,
    "likes": 1,
    "comments": 1,
    "analytics": null,
@@ -306,7 +306,7 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 1014,
+   "views": 1074,
    "likes": 31,
    "comments": 1,
    "analytics": null,
@@ -331,7 +331,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-13T21:28:25+00:00",
+  "updated": "2026-10-14T11:43:35+00:00",
   "videos_analysed": 0,
   "channels": {}
  }
