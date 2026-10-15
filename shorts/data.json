@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-15T11:19:54+00:00",
- "stats_updated": "2026-10-15T11:19:49+00:00",
+ "synced": "2026-10-15T11:30:24+00:00",
+ "stats_updated": "2026-10-15T11:30:19+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 1,
-   "views": 1103,
+   "views": 0,
    "uploads": 2,
    "analytics": true,
    "daily": [],
@@ -34,7 +34,7 @@
     {
      "date": "2026-10-15",
      "subscribers": 1,
-     "views": 1103
+     "views": 0
     }
    ]
   },
@@ -315,7 +315,7 @@
    "url": "https://youtube.com/shorts/mK8M0AsWmLQ",
    "privacy": "public",
    "publish_at": "2026-10-14T21:30:00.000Z",
-   "views": 2,
+   "views": 3,
    "likes": 0,
    "comments": 1,
    "analytics": null,
