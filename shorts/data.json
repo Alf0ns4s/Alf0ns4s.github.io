@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-15T04:40:27+00:00",
+ "synced": "2026-10-15T05:44:23+00:00",
  "stats_updated": "2026-10-15T04:40:19+00:00",
  "channels": [
   {
@@ -112,6 +112,120 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261015-052658_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The lost colony of Roanoke and the word carved in a tree",
+   "title": "115 People Vanished and Left One Word",
+   "status": "posted",
+   "created": "2026-10-15T05:44:12",
+   "scheduled_for": "2026-10-16T02:15:00+03:00",
+   "duration": 45.8,
+   "youtube_id": "atC07hHLPRU",
+   "url": "https://youtube.com/shorts/atC07hHLPRU",
+   "privacy": "private",
+   "publish_at": "2026-10-15T23:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261015-052658_mystery-files.jpg",
+   "score": 94,
+   "video_score": 89,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "faster_voice",
+    "fewer_flashes"
+   ],
+   "rounds": 3,
+   "issues": [
+    "Speaking speed 150-195 words per minute",
+    "Length 28-42 seconds"
+   ],
+   "metrics": {
+    "cuts": 21,
+    "avg_shot": 2.08,
+    "wpm": 141,
+    "brightness": 64,
+    "loudness_db": -15.8
+   },
+   "error": null
+  },
+  {
+   "item": "20261015-051049_money-facts",
+   "channel": "money-facts",
+   "topic": "How much 30 seconds of Super Bowl TV costs",
+   "title": "30 Seconds of TV Cost $8 Million",
+   "status": "posted",
+   "created": "2026-10-15T05:26:58",
+   "scheduled_for": "2026-10-15T23:15:00+03:00",
+   "duration": 44.7,
+   "youtube_id": "UZkpW0wGhq0",
+   "url": "https://youtube.com/shorts/UZkpW0wGhq0",
+   "privacy": "private",
+   "publish_at": "2026-10-15T20:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261015-051049_money-facts.jpg",
+   "score": 94,
+   "video_score": 89,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "faster_voice",
+    "loudness"
+   ],
+   "rounds": 3,
+   "issues": [
+    "Speaking speed 150-195 words per minute",
+    "Length 28-42 seconds"
+   ],
+   "metrics": {
+    "cuts": 23,
+    "avg_shot": 1.86,
+    "wpm": 145,
+    "brightness": 81,
+    "loudness_db": -14.2
+   },
+   "error": null
+  },
+  {
+   "item": "20261015-050614_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: you're an orca pod hunting a seal on an ice floe",
+   "title": "POV: You Hunt Seals by Making Waves",
+   "status": "posted",
+   "created": "2026-10-15T05:10:49",
+   "scheduled_for": "2026-10-16T00:30:00+03:00",
+   "duration": 37.4,
+   "youtube_id": "FB9Bf3vQ0LA",
+   "url": "https://youtube.com/shorts/FB9Bf3vQ0LA",
+   "privacy": "private",
+   "publish_at": "2026-10-15T21:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261015-050614_deep-sea-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 21,
+    "avg_shot": 1.7,
+    "wpm": 170,
+    "brightness": 108,
+    "loudness_db": -15.8
+   },
+   "error": null
+  },
   {
    "item": "20261014-053323_mystery-files",
    "channel": "mystery-files",
