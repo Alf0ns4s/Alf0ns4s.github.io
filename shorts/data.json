@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-15T09:05:10+00:00",
- "stats_updated": "2026-10-15T09:05:05+00:00",
+ "synced": "2026-10-15T11:19:54+00:00",
+ "stats_updated": "2026-10-15T11:19:49+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 1,
-   "views": 0,
+   "views": 1103,
    "uploads": 2,
    "analytics": true,
    "daily": [],
@@ -34,7 +34,7 @@
     {
      "date": "2026-10-15",
      "subscribers": 1,
-     "views": 0
+     "views": 1103
     }
    ]
   },
@@ -460,8 +460,126 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-14T11:43:35+00:00",
-  "videos_analysed": 0,
-  "channels": {}
+  "updated": "2026-10-15T11:19:52+00:00",
+  "videos_analysed": 3,
+  "channels": {
+   "deep-sea-files": {
+    "count": 1,
+    "top": [
+     {
+      "channel": "deep-sea-files",
+      "title": "POV: You're the Octopus That Turns Into Other Animals",
+      "topic": "POV: you're a mimic octopus pretending to be other animals",
+      "hook": "POV: you're a mimic octopus.",
+      "hook_style": "POV / you are",
+      "duration": 47.7,
+      "scenes": 11,
+      "words": 140,
+      "views": 1110,
+      "likes": 31,
+      "comments": 1,
+      "watched": null,
+      "subs": null,
+      "score": 1110.0,
+      "age_h": 38
+     }
+    ],
+    "bottom": [],
+    "by_hook": {
+     "POV / you are": {
+      "n": 1,
+      "avg_vs_median": 1.0
+     }
+    },
+    "by_length": {
+     "35-50s": {
+      "n": 1,
+      "avg_vs_median": 1.0
+     }
+    },
+    "notes": [
+     "POV: You're the Octopus That Turns Into Other Animals - 1110 views, ?% watched, 48s, hook (POV / you are): \"POV: you're a mimic octopus.\"",
+     "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
+    ]
+   },
+   "money-facts": {
+    "count": 1,
+    "top": [
+     {
+      "channel": "money-facts",
+      "title": "Why This Steering Wheel Costs $50,000",
+      "topic": "How much a Formula 1 car really costs",
+      "hook": "This steering wheel costs about $50,000.",
+      "hook_style": "shocking number",
+      "duration": 47.7,
+      "scenes": 10,
+      "words": 123,
+      "views": 339,
+      "likes": 4,
+      "comments": 1,
+      "watched": null,
+      "subs": null,
+      "score": 339.0,
+      "age_h": 39
+     }
+    ],
+    "bottom": [],
+    "by_hook": {
+     "shocking number": {
+      "n": 1,
+      "avg_vs_median": 1.0
+     }
+    },
+    "by_length": {
+     "35-50s": {
+      "n": 1,
+      "avg_vs_median": 1.0
+     }
+    },
+    "notes": [
+     "Why This Steering Wheel Costs $50,000 - 339 views, ?% watched, 48s, hook (shocking number): \"This steering wheel costs about $50,000.\"",
+     "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
+    ]
+   },
+   "mystery-files": {
+    "count": 1,
+    "top": [
+     {
+      "channel": "mystery-files",
+      "title": "Nobody Could Read This Letter for 51 Years",
+      "topic": "The Zodiac cipher that amateurs finally cracked after 51 years",
+      "hook": "Nobody could read this letter for 51 years.",
+      "hook_style": "shocking number",
+      "duration": 53.3,
+      "scenes": 11,
+      "words": 123,
+      "views": 128,
+      "likes": 2,
+      "comments": 1,
+      "watched": null,
+      "subs": null,
+      "score": 128.0,
+      "age_h": 36
+     }
+    ],
+    "bottom": [],
+    "by_hook": {
+     "shocking number": {
+      "n": 1,
+      "avg_vs_median": 1.0
+     }
+    },
+    "by_length": {
+     "over 50s": {
+      "n": 1,
+      "avg_vs_median": 1.0
+     }
+    },
+    "notes": [
+     "Nobody Could Read This Letter for 51 Years - 128 views, ?% watched, 53s, hook (shocking number): \"Nobody could read this letter for 51 years.\"",
+     "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
+    ]
+   }
+  }
  }
 }
