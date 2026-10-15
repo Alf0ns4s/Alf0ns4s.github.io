@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-14T21:42:04+00:00",
- "stats_updated": "2026-10-14T21:41:57+00:00",
+ "synced": "2026-10-15T04:40:27+00:00",
+ "stats_updated": "2026-10-15T04:40:19+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -30,6 +30,11 @@
      "date": "2026-10-14",
      "subscribers": 1,
      "views": 0
+    },
+    {
+     "date": "2026-10-15",
+     "subscribers": 1,
+     "views": 0
     }
    ]
   },
@@ -41,8 +46,8 @@
    "post_times": [
     "23:15"
    ],
-   "subscribers": 1,
-   "views": 0,
+   "subscribers": 2,
+   "views": 278,
    "uploads": 2,
    "analytics": true,
    "daily": [],
@@ -61,6 +66,11 @@
      "date": "2026-10-14",
      "subscribers": 1,
      "views": 0
+    },
+    {
+     "date": "2026-10-15",
+     "subscribers": 2,
+     "views": 278
     }
    ]
   },
@@ -73,8 +83,8 @@
     "02:15"
    ],
    "subscribers": 0,
-   "views": 0,
-   "uploads": 1,
+   "views": 127,
+   "uploads": 2,
    "analytics": true,
    "daily": [],
    "audience": {
@@ -92,6 +102,11 @@
      "date": "2026-10-14",
      "subscribers": 0,
      "views": 0
+    },
+    {
+     "date": "2026-10-15",
+     "subscribers": 0,
+     "views": 127
     }
    ]
   }
@@ -108,9 +123,9 @@
    "duration": 60.7,
    "youtube_id": "OeqcpxiftPo",
    "url": "https://youtube.com/shorts/OeqcpxiftPo",
-   "privacy": "private",
-   "publish_at": "2026-10-14T23:15:00Z",
-   "views": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-14T23:15:00.000Z",
+   "views": 16,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -152,9 +167,9 @@
    "url": "https://youtube.com/shorts/LJsMIwwSHV0",
    "privacy": "public",
    "publish_at": "2026-10-14T20:15:00.000Z",
-   "views": 0,
+   "views": 8,
    "likes": 0,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261014-051944_money-facts.jpg",
    "score": 100,
@@ -186,9 +201,9 @@
    "url": "https://youtube.com/shorts/mK8M0AsWmLQ",
    "privacy": "public",
    "publish_at": "2026-10-14T21:30:00.000Z",
-   "views": 0,
+   "views": 2,
    "likes": 0,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261014-050136_deep-sea-files.jpg",
    "score": 96,
@@ -226,7 +241,7 @@
    "url": "https://youtube.com/shorts/_1GacRmOyUU",
    "privacy": "public",
    "publish_at": "2026-10-13T23:15:00.000Z",
-   "views": 127,
+   "views": 128,
    "likes": 2,
    "comments": 1,
    "analytics": null,
@@ -267,8 +282,8 @@
    "url": "https://youtube.com/shorts/tlh7lj5iges",
    "privacy": "public",
    "publish_at": "2026-10-13T20:15:00.000Z",
-   "views": 277,
-   "likes": 3,
+   "views": 329,
+   "likes": 4,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261013-152218_money-facts.jpg",
@@ -306,7 +321,7 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 1102,
+   "views": 1112,
    "likes": 31,
    "comments": 1,
    "analytics": null,
