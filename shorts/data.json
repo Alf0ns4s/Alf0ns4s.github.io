@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-15T05:44:23+00:00",
+ "synced": "2026-10-15T09:04:20+00:00",
  "stats_updated": "2026-10-15T04:40:19+00:00",
  "channels": [
   {
@@ -121,8 +121,8 @@
    "created": "2026-10-15T05:44:12",
    "scheduled_for": "2026-10-16T02:15:00+03:00",
    "duration": 45.8,
-   "youtube_id": "atC07hHLPRU",
-   "url": "https://youtube.com/shorts/atC07hHLPRU",
+   "youtube_id": "6_75ATczxu0",
+   "url": "https://youtube.com/shorts/6_75ATczxu0",
    "privacy": "private",
    "publish_at": "2026-10-15T23:15:00.000Z",
    "views": null,
@@ -144,8 +144,8 @@
     "Length 28-42 seconds"
    ],
    "metrics": {
-    "cuts": 21,
-    "avg_shot": 2.08,
+    "cuts": 23,
+    "avg_shot": 1.91,
     "wpm": 141,
     "brightness": 64,
     "loudness_db": -15.8
@@ -161,8 +161,8 @@
    "created": "2026-10-15T05:26:58",
    "scheduled_for": "2026-10-15T23:15:00+03:00",
    "duration": 44.7,
-   "youtube_id": "UZkpW0wGhq0",
-   "url": "https://youtube.com/shorts/UZkpW0wGhq0",
+   "youtube_id": "0zOCaSMs5bI",
+   "url": "https://youtube.com/shorts/0zOCaSMs5bI",
    "privacy": "private",
    "publish_at": "2026-10-15T20:15:00.000Z",
    "views": null,
@@ -184,8 +184,8 @@
     "Length 28-42 seconds"
    ],
    "metrics": {
-    "cuts": 23,
-    "avg_shot": 1.86,
+    "cuts": 26,
+    "avg_shot": 1.65,
     "wpm": 145,
     "brightness": 81,
     "loudness_db": -14.2
@@ -201,8 +201,8 @@
    "created": "2026-10-15T05:10:49",
    "scheduled_for": "2026-10-16T00:30:00+03:00",
    "duration": 37.4,
-   "youtube_id": "FB9Bf3vQ0LA",
-   "url": "https://youtube.com/shorts/FB9Bf3vQ0LA",
+   "youtube_id": "udaikAVMLMA",
+   "url": "https://youtube.com/shorts/udaikAVMLMA",
    "privacy": "private",
    "publish_at": "2026-10-15T21:30:00.000Z",
    "views": null,
@@ -218,8 +218,8 @@
    "rounds": 1,
    "issues": [],
    "metrics": {
-    "cuts": 21,
-    "avg_shot": 1.7,
+    "cuts": 27,
+    "avg_shot": 1.33,
     "wpm": 170,
     "brightness": 108,
     "loudness_db": -15.8
