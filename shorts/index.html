@@ -16,7 +16,7 @@
   --deep:#0a7fa0; --myst:#a07400; --money:#14864a;
   --good:#167a43; --warn:#a15c00; --bad:#b4232c; --info:#2856b8;
   --good-bg:#e1f3e8; --warn-bg:#fbefd9; --bad-bg:#fbe3e4; --info-bg:#e3eafb;
-  --ch-deep:#0a7fa0; --ch-myst:#c2410c; --ch-money:#15803d; --grid:#e3e7ee;
+  --ch-deep:#0a7fa0; --ch-myst:#c2410c; --ch-money:#15803d; --ch-out:#7c3aed; --grid:#e3e7ee;
   --display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
   --body:"IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
   --mono:"IBM Plex Mono", ui-monospace, Consolas, monospace;
@@ -25,12 +25,12 @@
   --bg:#0c1016; --panel:#141a23; --panel-2:#19202b; --line:#252e3b; --fg:#e8edf4; --muted:#8d98a9;
   --deep:#3dd6f5; --myst:#f2c94c; --money:#4ade80;
   --good:#5bd38d; --warn:#f0b34a; --bad:#ff6b73; --info:#7ea2ff;
-  --good-bg:#12291d; --warn-bg:#2d2312; --bad-bg:#311619; --info-bg:#172342; --ch-deep:#1b9cc0; --ch-myst:#d8661f; --ch-money:#2aa95b; --grid:#222a36; color-scheme:dark}}
+  --good-bg:#12291d; --warn-bg:#2d2312; --bad-bg:#311619; --info-bg:#172342; --ch-deep:#1b9cc0; --ch-myst:#d8661f; --ch-money:#2aa95b; --ch-out:#a78bfa; --grid:#222a36; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0c1016; --panel:#141a23; --panel-2:#19202b; --line:#252e3b; --fg:#e8edf4; --muted:#8d98a9;
   --deep:#3dd6f5; --myst:#f2c94c; --money:#4ade80;
   --good:#5bd38d; --warn:#f0b34a; --bad:#ff6b73; --info:#7ea2ff;
-  --good-bg:#12291d; --warn-bg:#2d2312; --bad-bg:#311619; --info-bg:#172342; --ch-deep:#1b9cc0; --ch-myst:#d8661f; --ch-money:#2aa95b; --grid:#222a36; color-scheme:dark}
+  --good-bg:#12291d; --warn-bg:#2d2312; --bad-bg:#311619; --info-bg:#172342; --ch-deep:#1b9cc0; --ch-myst:#d8661f; --ch-money:#2aa95b; --ch-out:#a78bfa; --grid:#222a36; color-scheme:dark}
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--fg);font:15px/1.5 var(--body)}
 .wrap{max-width:1180px;margin:0 auto;padding-inline:20px;padding-block:24px 64px;display:flex;flex-direction:column;gap:28px}
@@ -232,7 +232,7 @@ function bars(daily, color){
     ${pts.map((p,i)=>{const h=Math.max(1,(p.views/max)*(H-14));return `<rect x="${(P+i*bw+1).toFixed(1)}" y="${(H-h).toFixed(1)}" width="${Math.max(1,bw-2).toFixed(1)}" height="${h.toFixed(1)}" rx="1.5" fill="${color}" fill-opacity="${i===pts.length-1?1:.55}"/>`}).join("")}
     <text x="${W-P}" y="10" text-anchor="end" font-size="10" fill="var(--muted)">${fmtN(max)}/day</text></svg>`;
 }
-const CH = {"deep-sea-files":{c:"var(--ch-deep)",dash:"",shape:"circle"},"mystery-files":{c:"var(--ch-myst)",dash:"7 4",shape:"square"},"money-facts":{c:"var(--ch-money)",dash:"2 4",shape:"diamond"}};
+const CH = {"deep-sea-files":{c:"var(--ch-deep)",dash:"",shape:"circle"},"mystery-files":{c:"var(--ch-myst)",dash:"7 4",shape:"square"},"money-facts":{c:"var(--ch-money)",dash:"2 4",shape:"diamond"},"outbreak-files":{c:"var(--ch-out)",dash:"10 3 2 3",shape:"circle"}};
 const chOf = id => CH[id] || {c:"var(--info)",dash:"",shape:"circle"};
 function dailySeries(c){
   if ((c.daily||[]).length) return c.daily.map(d => ({x:d.day, y:+d.views||0}));
