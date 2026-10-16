@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-16T04:33:16+00:00",
+ "synced": "2026-10-16T05:51:57+00:00",
  "stats_updated": "2026-10-16T04:33:07+00:00",
  "channels": [
   {
@@ -219,6 +219,116 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261016-053106_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "Floor 30 - Part 1: the outbreak starts",
+   "title": "The Outbreak Starts on Floor 30 (Part 1)",
+   "status": "posted",
+   "created": "2026-10-16T05:51:45",
+   "scheduled_for": "2026-10-17T03:30:00+03:00",
+   "duration": 41.8,
+   "youtube_id": "UyU3Ihs8fbE",
+   "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
+   "privacy": "private",
+   "publish_at": "2026-10-17T00:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261016-053106_outbreak-files.jpg",
+   "score": 98,
+   "video_score": 100,
+   "script_score": 97,
+   "verdict": "pass",
+   "fixes": [
+    "faster_voice",
+    "fewer_flashes"
+   ],
+   "rounds": 3,
+   "issues": [
+    "Description lists sources"
+   ],
+   "metrics": {
+    "cuts": 21,
+    "avg_shot": 1.9,
+    "wpm": 138,
+    "brightness": 46,
+    "loudness_db": -15.7
+   },
+   "error": null
+  },
+  {
+   "item": "20261016-051105_money-facts",
+   "channel": "money-facts",
+   "topic": "Why Microsoft paid $2.5 billion for Minecraft",
+   "title": "Why Microsoft Paid $2.5 Billion for a Block Game",
+   "status": "posted",
+   "created": "2026-10-16T05:23:32",
+   "scheduled_for": "2026-10-16T23:15:00+03:00",
+   "duration": 41.2,
+   "youtube_id": "zwK4AdEdRRQ",
+   "url": "https://youtube.com/shorts/zwK4AdEdRRQ",
+   "privacy": "private",
+   "publish_at": "2026-10-16T20:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261016-051105_money-facts.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "faster_voice",
+    "fewer_flashes"
+   ],
+   "rounds": 2,
+   "issues": [],
+   "metrics": {
+    "cuts": 27,
+    "avg_shot": 1.47,
+    "wpm": 140,
+    "brightness": 89,
+    "loudness_db": -15.6
+   },
+   "error": null
+  },
+  {
+   "item": "20261016-050610_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: you're a pufferfish when a predator attacks",
+   "title": "POV: You're a Pufferfish and Something Wants You",
+   "status": "posted",
+   "created": "2026-10-16T05:11:05",
+   "scheduled_for": "2026-10-17T00:30:00+03:00",
+   "duration": 30.6,
+   "youtube_id": "YpXMdfydhT4",
+   "url": "https://youtube.com/shorts/YpXMdfydhT4",
+   "privacy": "private",
+   "publish_at": "2026-10-16T21:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261016-050610_deep-sea-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 22,
+    "avg_shot": 1.33,
+    "wpm": 160,
+    "brightness": 111,
+    "loudness_db": -15.6
+   },
+   "error": null
+  },
   {
    "item": "20261015-052658_mystery-files",
    "channel": "mystery-files",
