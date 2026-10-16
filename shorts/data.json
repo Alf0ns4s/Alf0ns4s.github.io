@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-16T12:34:52+00:00",
- "stats_updated": "2026-10-16T11:25:41+00:00",
+ "synced": "2026-10-16T16:40:35+00:00",
+ "stats_updated": "2026-10-16T16:40:26+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -384,7 +384,7 @@
    "url": "https://youtube.com/shorts/dAb0QgVIEx4",
    "privacy": "public",
    "publish_at": "2026-10-15T20:15:00.000Z",
-   "views": 168,
+   "views": 170,
    "likes": 2,
    "comments": 1,
    "analytics": null,
@@ -421,7 +421,7 @@
    "url": "https://youtube.com/shorts/wx6TMERkpLQ",
    "privacy": "public",
    "publish_at": "2026-10-15T21:30:00.000Z",
-   "views": 303,
+   "views": 309,
    "likes": 7,
    "comments": 1,
    "analytics": null,
@@ -457,7 +457,7 @@
    "url": "https://youtube.com/shorts/OeqcpxiftPo",
    "privacy": "public",
    "publish_at": "2026-10-14T23:15:00.000Z",
-   "views": 22,
+   "views": 23,
    "likes": 1,
    "comments": 1,
    "analytics": null,
@@ -499,7 +499,7 @@
    "url": "https://youtube.com/shorts/LJsMIwwSHV0",
    "privacy": "public",
    "publish_at": "2026-10-14T20:15:00.000Z",
-   "views": 33,
+   "views": 36,
    "likes": 1,
    "comments": 1,
    "analytics": null,
@@ -671,7 +671,7 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 1150,
+   "views": 1152,
    "likes": 31,
    "comments": 1,
    "analytics": {
