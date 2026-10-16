@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-16T17:17:44+00:00",
- "stats_updated": "2026-10-16T16:40:26+00:00",
+ "synced": "2026-10-16T21:09:50+00:00",
+ "stats_updated": "2026-10-16T21:09:42+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -21,6 +21,13 @@
      "estimatedMinutesWatched": 272,
      "subscribersGained": 2,
      "subscribersLost": 1
+    },
+    {
+     "day": "2026-10-14",
+     "views": 46,
+     "estimatedMinutesWatched": 10,
+     "subscribersGained": 0,
+     "subscribersLost": 0
     }
    ],
    "audience": {
@@ -94,8 +101,8 @@
     "23:15"
    ],
    "subscribers": 2,
-   "views": 315,
-   "uploads": 3,
+   "views": 405,
+   "uploads": 4,
    "analytics": true,
    "daily": [
     {
@@ -103,6 +110,13 @@
      "views": 146,
      "estimatedMinutesWatched": 16,
      "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-10-14",
+     "views": 204,
+     "estimatedMinutesWatched": 20,
+     "subscribersGained": 1,
      "subscribersLost": 0
     }
    ],
@@ -112,6 +126,11 @@
       "country": "US",
       "views": 57,
       "pct": 100.0
+     },
+     {
+      "country": "NL",
+      "views": 0,
+      "pct": 0.0
      }
     ],
     "ages": [],
@@ -136,7 +155,7 @@
     {
      "date": "2026-10-16",
      "subscribers": 2,
-     "views": 315
+     "views": 405
     }
    ]
   },
@@ -149,7 +168,7 @@
     "02:15"
    ],
    "subscribers": 0,
-   "views": 129,
+   "views": 152,
    "uploads": 3,
    "analytics": true,
    "daily": [
@@ -157,6 +176,13 @@
      "day": "2026-10-13",
      "views": 119,
      "estimatedMinutesWatched": 22,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-10-14",
+     "views": 28,
+     "estimatedMinutesWatched": 3,
      "subscribersGained": 0,
      "subscribersLost": 0
     }
@@ -191,7 +217,7 @@
     {
      "date": "2026-10-16",
      "subscribers": 0,
-     "views": 129
+     "views": 152
     }
    ]
   },
@@ -235,10 +261,10 @@
    "youtube_id": "BcBogfVHAKs",
    "url": "https://youtube.com/shorts/BcBogfVHAKs",
    "privacy": "private",
-   "publish_at": "2026-10-16T23:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-16T23:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261016-165929_mystery-files.jpg",
    "score": 96,
@@ -313,9 +339,9 @@
    "duration": 41.2,
    "youtube_id": "zwK4AdEdRRQ",
    "url": "https://youtube.com/shorts/zwK4AdEdRRQ",
-   "privacy": "private",
-   "publish_at": "2026-10-16T20:15:00Z",
-   "views": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-16T20:15:00.000Z",
+   "views": 1,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -424,7 +450,7 @@
    "url": "https://youtube.com/shorts/dAb0QgVIEx4",
    "privacy": "public",
    "publish_at": "2026-10-15T20:15:00.000Z",
-   "views": 170,
+   "views": 169,
    "likes": 2,
    "comments": 1,
    "analytics": null,
@@ -461,7 +487,7 @@
    "url": "https://youtube.com/shorts/wx6TMERkpLQ",
    "privacy": "public",
    "publish_at": "2026-10-15T21:30:00.000Z",
-   "views": 309,
+   "views": 314,
    "likes": 7,
    "comments": 1,
    "analytics": null,
@@ -500,7 +526,16 @@
    "views": 23,
    "likes": 1,
    "comments": 1,
-   "analytics": null,
+   "analytics": {
+    "views": 18,
+    "estimatedMinutesWatched": 1,
+    "averageViewDuration": 34,
+    "averageViewPercentage": 55.87,
+    "subscribersGained": 0,
+    "likes": 1,
+    "shares": 0,
+    "comments": 0
+   },
    "thumb": "thumbs/20261014-053323_mystery-files.jpg",
    "score": 92,
    "video_score": 84,
@@ -542,7 +577,16 @@
    "views": 36,
    "likes": 1,
    "comments": 1,
-   "analytics": null,
+   "analytics": {
+    "views": 9,
+    "estimatedMinutesWatched": 2,
+    "averageViewDuration": 46,
+    "averageViewPercentage": 80.22,
+    "subscribersGained": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0
+   },
    "thumb": "thumbs/20261014-051944_money-facts.jpg",
    "score": 100,
    "video_score": 100,
@@ -576,7 +620,16 @@
    "views": 8,
    "likes": 0,
    "comments": 1,
-   "analytics": null,
+   "analytics": {
+    "views": 2,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 6,
+    "averageViewPercentage": 13.08,
+    "subscribersGained": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0
+   },
    "thumb": "thumbs/20261014-050136_deep-sea-files.jpg",
    "score": 96,
    "video_score": 91,
@@ -617,10 +670,10 @@
    "likes": 2,
    "comments": 1,
    "analytics": {
-    "views": 119,
+    "views": 127,
     "estimatedMinutesWatched": 22,
-    "averageViewDuration": 23,
-    "averageViewPercentage": 43.49,
+    "averageViewDuration": 22,
+    "averageViewPercentage": 41.72,
     "subscribersGained": 0,
     "likes": 2,
     "shares": 0,
@@ -667,12 +720,12 @@
    "likes": 4,
    "comments": 1,
    "analytics": {
-    "views": 146,
-    "estimatedMinutesWatched": 16,
-    "averageViewDuration": 18,
-    "averageViewPercentage": 38.4,
+    "views": 340,
+    "estimatedMinutesWatched": 33,
+    "averageViewDuration": 17,
+    "averageViewPercentage": 36.32,
     "subscribersGained": 0,
-    "likes": 1,
+    "likes": 4,
     "shares": 0,
     "comments": 0
    },
@@ -711,14 +764,14 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 1152,
+   "views": 1153,
    "likes": 31,
    "comments": 1,
    "analytics": {
-    "views": 1069,
-    "estimatedMinutesWatched": 272,
-    "averageViewDuration": 28,
-    "averageViewPercentage": 59.3,
+    "views": 1110,
+    "estimatedMinutesWatched": 281,
+    "averageViewDuration": 27,
+    "averageViewPercentage": 58.26,
     "subscribersGained": 2,
     "likes": 31,
     "shares": 2,
