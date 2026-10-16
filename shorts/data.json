@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-16T16:40:35+00:00",
+ "synced": "2026-10-16T17:17:44+00:00",
  "stats_updated": "2026-10-16T16:40:26+00:00",
  "channels": [
   {
@@ -223,6 +223,46 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261016-165929_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Voynich manuscript - the book nobody can read",
+   "title": "Can You Read This 600-Year-Old Book? Nobody Can",
+   "status": "posted",
+   "created": "2026-10-16T17:17:35",
+   "scheduled_for": "2026-10-17T02:15:00+03:00",
+   "duration": 42.6,
+   "youtube_id": "BcBogfVHAKs",
+   "url": "https://youtube.com/shorts/BcBogfVHAKs",
+   "privacy": "private",
+   "publish_at": "2026-10-16T23:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261016-165929_mystery-files.jpg",
+   "score": 96,
+   "video_score": 93,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "loudness",
+    "tighten",
+    "fewer_flashes"
+   ],
+   "rounds": 3,
+   "issues": [
+    "Length 28-42 seconds"
+   ],
+   "metrics": {
+    "cuts": 28,
+    "avg_shot": 1.47,
+    "wpm": 133,
+    "brightness": 75,
+    "loudness_db": -14.7
+   },
+   "error": null
+  },
   {
    "item": "20261016-053106_outbreak-files",
    "channel": "outbreak-files",
