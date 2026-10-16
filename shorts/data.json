@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-16T05:51:57+00:00",
- "stats_updated": "2026-10-16T04:33:07+00:00",
+ "synced": "2026-10-16T11:14:40+00:00",
+ "stats_updated": "2026-10-16T11:14:30+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -206,9 +206,13 @@
    "subscribers": 0,
    "views": 0,
    "uploads": 0,
-   "analytics": false,
+   "analytics": true,
    "daily": [],
-   "audience": {},
+   "audience": {
+    "countries": [],
+    "ages": [],
+    "since": "2026-10-16"
+   },
    "history": [
     {
      "date": "2026-10-16",
@@ -231,10 +235,10 @@
    "youtube_id": "UyU3Ihs8fbE",
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "private",
-   "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-17T00:30:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261016-053106_outbreak-files.jpg",
    "score": 98,
@@ -270,10 +274,10 @@
    "youtube_id": "zwK4AdEdRRQ",
    "url": "https://youtube.com/shorts/zwK4AdEdRRQ",
    "privacy": "private",
-   "publish_at": "2026-10-16T20:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-16T20:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261016-051105_money-facts.jpg",
    "score": 100,
@@ -307,10 +311,10 @@
    "youtube_id": "YpXMdfydhT4",
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "private",
-   "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-16T21:30:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261016-050610_deep-sea-files.jpg",
    "score": 100,
@@ -342,9 +346,9 @@
    "url": "https://youtube.com/shorts/AFFz-1qIs5w",
    "privacy": "public",
    "publish_at": "2026-10-15T23:15:00.000Z",
-   "views": 10,
+   "views": 12,
    "likes": 0,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261015-052658_mystery-files.jpg",
    "score": 89,
@@ -380,7 +384,7 @@
    "url": "https://youtube.com/shorts/dAb0QgVIEx4",
    "privacy": "public",
    "publish_at": "2026-10-15T20:15:00.000Z",
-   "views": 132,
+   "views": 167,
    "likes": 2,
    "comments": 1,
    "analytics": null,
@@ -417,9 +421,9 @@
    "url": "https://youtube.com/shorts/wx6TMERkpLQ",
    "privacy": "public",
    "publish_at": "2026-10-15T21:30:00.000Z",
-   "views": 226,
-   "likes": 8,
-   "comments": 0,
+   "views": 303,
+   "likes": 7,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261015-050614_deep-sea-files.jpg",
    "score": 98,
@@ -453,7 +457,7 @@
    "url": "https://youtube.com/shorts/OeqcpxiftPo",
    "privacy": "public",
    "publish_at": "2026-10-14T23:15:00.000Z",
-   "views": 21,
+   "views": 22,
    "likes": 1,
    "comments": 1,
    "analytics": null,
@@ -495,8 +499,8 @@
    "url": "https://youtube.com/shorts/LJsMIwwSHV0",
    "privacy": "public",
    "publish_at": "2026-10-14T20:15:00.000Z",
-   "views": 28,
-   "likes": 0,
+   "views": 34,
+   "likes": 1,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261014-051944_money-facts.jpg",
@@ -569,7 +573,7 @@
    "url": "https://youtube.com/shorts/_1GacRmOyUU",
    "privacy": "public",
    "publish_at": "2026-10-13T23:15:00.000Z",
-   "views": 130,
+   "views": 131,
    "likes": 2,
    "comments": 1,
    "analytics": {
@@ -667,7 +671,7 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 1139,
+   "views": 1151,
    "likes": 31,
    "comments": 1,
    "analytics": {
@@ -701,11 +705,11 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-15T11:19:52+00:00",
-  "videos_analysed": 3,
+  "updated": "2026-10-16T11:14:37+00:00",
+  "videos_analysed": 5,
   "channels": {
    "deep-sea-files": {
-    "count": 1,
+    "count": 2,
     "top": [
      {
       "channel": "deep-sea-files",
@@ -716,35 +720,53 @@
       "duration": 47.7,
       "scenes": 11,
       "words": 140,
-      "views": 1110,
+      "views": 1151,
       "likes": 31,
+      "comments": 1,
+      "watched": 59.3,
+      "subs": 2,
+      "score": 975.0614285714285,
+      "age_h": 62
+     },
+     {
+      "channel": "deep-sea-files",
+      "title": "POV: This Shrimp's Claw Is Louder Than a Gunshot",
+      "topic": "POV: you're a pistol shrimp - your snap stuns fish",
+      "hook": "POV: you're a pistol shrimp.",
+      "hook_style": "POV / you are",
+      "duration": 49.3,
+      "scenes": 11,
+      "words": 148,
+      "views": 8,
+      "likes": 0,
       "comments": 1,
       "watched": null,
       "subs": null,
-      "score": 1110.0,
+      "score": 8.0,
       "age_h": 38
      }
     ],
     "bottom": [],
     "by_hook": {
      "POV / you are": {
-      "n": 1,
+      "n": 2,
       "avg_vs_median": 1.0
      }
     },
     "by_length": {
      "35-50s": {
-      "n": 1,
+      "n": 2,
       "avg_vs_median": 1.0
      }
     },
     "notes": [
-     "POV: You're the Octopus That Turns Into Other Animals - 1110 views, ?% watched, 48s, hook (POV / you are): \"POV: you're a mimic octopus.\"",
+     "POV: You're the Octopus That Turns Into Other Animals - 1151 views, 59.3% watched, 48s, hook (POV / you are): \"POV: you're a mimic octopus.\"",
+     "POV: This Shrimp's Claw Is Louder Than a Gunshot - 8 views, ?% watched, 49s, hook (POV / you are): \"POV: you're a pistol shrimp.\"",
      "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    },
    "money-facts": {
-    "count": 1,
+    "count": 2,
     "top": [
      {
       "channel": "money-facts",
@@ -755,30 +777,52 @@
       "duration": 47.7,
       "scenes": 10,
       "words": 123,
-      "views": 339,
+      "views": 373,
       "likes": 4,
+      "comments": 1,
+      "watched": 38.4,
+      "subs": 0,
+      "score": 204.61714285714288,
+      "age_h": 63
+     },
+     {
+      "channel": "money-facts",
+      "title": "Your $11 Movie Ticket? The Cinema Keeps About $3",
+      "topic": "How much of a movie ticket the cinema actually keeps",
+      "hook": "You pay about $11 for a movie ticket.",
+      "hook_style": "shocking number",
+      "duration": 57.3,
+      "scenes": 11,
+      "words": 146,
+      "views": 34,
+      "likes": 1,
       "comments": 1,
       "watched": null,
       "subs": null,
-      "score": 339.0,
+      "score": 34.0,
       "age_h": 39
      }
     ],
     "bottom": [],
     "by_hook": {
      "shocking number": {
-      "n": 1,
+      "n": 2,
       "avg_vs_median": 1.0
      }
     },
     "by_length": {
      "35-50s": {
       "n": 1,
-      "avg_vs_median": 1.0
+      "avg_vs_median": 1.72
+     },
+     "over 50s": {
+      "n": 1,
+      "avg_vs_median": 0.28
      }
     },
     "notes": [
-     "Why This Steering Wheel Costs $50,000 - 339 views, ?% watched, 48s, hook (shocking number): \"This steering wheel costs about $50,000.\"",
+     "Why This Steering Wheel Costs $50,000 - 373 views, 38.4% watched, 48s, hook (shocking number): \"This steering wheel costs about $50,000.\"",
+     "Your $11 Movie Ticket? The Cinema Keeps About $3 - 34 views, ?% watched, 57s, hook (shocking number): \"You pay about $11 for a movie ticket.\"",
      "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    },
@@ -794,13 +838,13 @@
       "duration": 53.3,
       "scenes": 11,
       "words": 123,
-      "views": 128,
+      "views": 131,
       "likes": 2,
       "comments": 1,
-      "watched": null,
-      "subs": null,
-      "score": 128.0,
-      "age_h": 36
+      "watched": 43.49,
+      "subs": 0,
+      "score": 81.38842857142858,
+      "age_h": 60
      }
     ],
     "bottom": [],
@@ -817,7 +861,7 @@
      }
     },
     "notes": [
-     "Nobody Could Read This Letter for 51 Years - 128 views, ?% watched, 53s, hook (shocking number): \"Nobody could read this letter for 51 years.\"",
+     "Nobody Could Read This Letter for 51 Years - 131 views, 43.49% watched, 53s, hook (shocking number): \"Nobody could read this letter for 51 years.\"",
      "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    }
