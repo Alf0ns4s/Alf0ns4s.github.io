@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-17T04:27:24+00:00",
- "stats_updated": "2026-10-17T04:27:16+00:00",
+ "synced": "2026-10-17T10:33:40+00:00",
+ "stats_updated": "2026-10-17T10:33:32+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 6,
-   "views": 1152,
+   "views": 1469,
    "uploads": 4,
    "analytics": true,
    "daily": [
@@ -93,7 +93,7 @@
     {
      "date": "2026-10-17",
      "subscribers": 6,
-     "views": 1152
+     "views": 1469
     }
    ]
   },
@@ -178,7 +178,7 @@
     "02:15"
    ],
    "subscribers": 1,
-   "views": 152,
+   "views": 166,
    "uploads": 4,
    "analytics": true,
    "daily": [
@@ -232,7 +232,7 @@
     {
      "date": "2026-10-17",
      "subscribers": 1,
-     "views": 152
+     "views": 166
     }
    ]
   },
@@ -244,7 +244,7 @@
    "post_times": [
     "03:30"
    ],
-   "subscribers": 2,
+   "subscribers": 4,
    "views": 0,
    "uploads": 1,
    "analytics": true,
@@ -262,7 +262,7 @@
     },
     {
      "date": "2026-10-17",
-     "subscribers": 2,
+     "subscribers": 4,
      "views": 0
     }
    ]
@@ -282,8 +282,8 @@
    "url": "https://youtube.com/shorts/BcBogfVHAKs",
    "privacy": "public",
    "publish_at": "2026-10-16T23:15:00.000Z",
-   "views": 565,
-   "likes": 18,
+   "views": 867,
+   "likes": 19,
    "comments": 3,
    "analytics": null,
    "thumb": "thumbs/20261016-165929_mystery-files.jpg",
@@ -322,9 +322,9 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 393,
-   "likes": 4,
-   "comments": 0,
+   "views": 962,
+   "likes": 11,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261016-053106_outbreak-files.jpg",
    "score": 98,
@@ -398,8 +398,8 @@
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "public",
    "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": 1196,
-   "likes": 30,
+   "views": 1247,
+   "likes": 31,
    "comments": 2,
    "analytics": null,
    "thumb": "thumbs/20261016-050610_deep-sea-files.jpg",
@@ -432,7 +432,7 @@
    "url": "https://youtube.com/shorts/AFFz-1qIs5w",
    "privacy": "public",
    "publish_at": "2026-10-15T23:15:00.000Z",
-   "views": 13,
+   "views": 17,
    "likes": 0,
    "comments": 1,
    "analytics": null,
@@ -470,7 +470,7 @@
    "url": "https://youtube.com/shorts/dAb0QgVIEx4",
    "privacy": "public",
    "publish_at": "2026-10-15T20:15:00.000Z",
-   "views": 170,
+   "views": 172,
    "likes": 2,
    "comments": 1,
    "analytics": null,
@@ -507,8 +507,8 @@
    "url": "https://youtube.com/shorts/wx6TMERkpLQ",
    "privacy": "public",
    "publish_at": "2026-10-15T21:30:00.000Z",
-   "views": 366,
-   "likes": 9,
+   "views": 871,
+   "likes": 15,
    "comments": 3,
    "analytics": null,
    "thumb": "thumbs/20261015-050614_deep-sea-files.jpg",
@@ -543,7 +543,7 @@
    "url": "https://youtube.com/shorts/OeqcpxiftPo",
    "privacy": "public",
    "publish_at": "2026-10-14T23:15:00.000Z",
-   "views": 24,
+   "views": 25,
    "likes": 1,
    "comments": 1,
    "analytics": {
@@ -784,7 +784,7 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 1161,
+   "views": 1163,
    "likes": 33,
    "comments": 2,
    "analytics": {
@@ -818,11 +818,11 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-16T11:14:37+00:00",
-  "videos_analysed": 5,
+  "updated": "2026-10-17T10:33:37+00:00",
+  "videos_analysed": 8,
   "channels": {
    "deep-sea-files": {
-    "count": 2,
+    "count": 3,
     "top": [
      {
       "channel": "deep-sea-files",
@@ -833,13 +833,30 @@
       "duration": 47.7,
       "scenes": 11,
       "words": 140,
-      "views": 1151,
-      "likes": 31,
-      "comments": 1,
-      "watched": 59.3,
+      "views": 1163,
+      "likes": 33,
+      "comments": 2,
+      "watched": 58.26,
       "subs": 2,
-      "score": 975.0614285714285,
-      "age_h": 62
+      "score": 967.9482857142857,
+      "age_h": 85
+     },
+     {
+      "channel": "deep-sea-files",
+      "title": "POV: You Hunt Seals by Making Waves",
+      "topic": "POV: you're an orca pod hunting a seal on an ice floe",
+      "hook": "POV: you hunt seals with waves.",
+      "hook_style": "POV / you are",
+      "duration": 38.3,
+      "scenes": 9,
+      "words": 103,
+      "views": 871,
+      "likes": 15,
+      "comments": 3,
+      "watched": null,
+      "subs": null,
+      "score": 871.0,
+      "age_h": 37
      },
      {
       "channel": "deep-sea-files",
@@ -850,36 +867,39 @@
       "duration": 49.3,
       "scenes": 11,
       "words": 148,
-      "views": 8,
-      "likes": 0,
+      "views": 12,
+      "likes": 2,
       "comments": 1,
-      "watched": null,
-      "subs": null,
-      "score": 8.0,
-      "age_h": 38
+      "watched": 13.08,
+      "subs": 0,
+      "score": 2.2422857142857144,
+      "age_h": 61
      }
     ],
     "bottom": [],
     "by_hook": {
      "POV / you are": {
-      "n": 2,
-      "avg_vs_median": 1.0
+      "n": 3,
+      "avg_vs_median": 0.7
      }
     },
     "by_length": {
      "35-50s": {
-      "n": 2,
-      "avg_vs_median": 1.0
+      "n": 3,
+      "avg_vs_median": 0.7
      }
     },
     "notes": [
-     "POV: You're the Octopus That Turns Into Other Animals - 1151 views, 59.3% watched, 48s, hook (POV / you are): \"POV: you're a mimic octopus.\"",
-     "POV: This Shrimp's Claw Is Louder Than a Gunshot - 8 views, ?% watched, 49s, hook (POV / you are): \"POV: you're a pistol shrimp.\"",
+     "POV: You're the Octopus That Turns Into Other Animals - 1163 views, 58.26% watched, 48s, hook (POV / you are): \"POV: you're a mimic octopus.\"",
+     "POV: You Hunt Seals by Making Waves - 871 views, ?% watched, 38s, hook (POV / you are): \"POV: you hunt seals with waves.\"",
+     "POV: This Shrimp's Claw Is Louder Than a Gunshot - 12 views, 13.08% watched, 49s, hook (POV / you are): \"POV: you're a pistol shrimp.\"",
+     "Do LESS: hook style POV / you are (scores well below this channel's median)",
+     "Do LESS: length 35-50s (scores well below this channel's median)",
      "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    },
    "money-facts": {
-    "count": 2,
+    "count": 3,
     "top": [
      {
       "channel": "money-facts",
@@ -893,10 +913,27 @@
       "views": 373,
       "likes": 4,
       "comments": 1,
-      "watched": 38.4,
+      "watched": 36.32,
       "subs": 0,
-      "score": 204.61714285714288,
-      "age_h": 63
+      "score": 193.5337142857143,
+      "age_h": 86
+     },
+     {
+      "channel": "money-facts",
+      "title": "30 Seconds of TV Cost $8 Million",
+      "topic": "How much 30 seconds of Super Bowl TV costs",
+      "hook": "30 seconds of TV: $8 million.",
+      "hook_style": "shocking number",
+      "duration": 49.9,
+      "scenes": 9,
+      "words": 105,
+      "views": 172,
+      "likes": 2,
+      "comments": 1,
+      "watched": null,
+      "subs": null,
+      "score": 172.0,
+      "age_h": 38
      },
      {
       "channel": "money-facts",
@@ -907,40 +944,41 @@
       "duration": 57.3,
       "scenes": 11,
       "words": 146,
-      "views": 34,
+      "views": 36,
       "likes": 1,
       "comments": 1,
-      "watched": null,
-      "subs": null,
-      "score": 34.0,
-      "age_h": 39
+      "watched": 80.22,
+      "subs": 0,
+      "score": 41.256,
+      "age_h": 62
      }
     ],
     "bottom": [],
     "by_hook": {
      "shocking number": {
-      "n": 2,
-      "avg_vs_median": 1.0
+      "n": 3,
+      "avg_vs_median": 0.79
      }
     },
     "by_length": {
      "35-50s": {
-      "n": 1,
-      "avg_vs_median": 1.72
+      "n": 2,
+      "avg_vs_median": 1.06
      },
      "over 50s": {
       "n": 1,
-      "avg_vs_median": 0.28
+      "avg_vs_median": 0.24
      }
     },
     "notes": [
-     "Why This Steering Wheel Costs $50,000 - 373 views, 38.4% watched, 48s, hook (shocking number): \"This steering wheel costs about $50,000.\"",
-     "Your $11 Movie Ticket? The Cinema Keeps About $3 - 34 views, ?% watched, 57s, hook (shocking number): \"You pay about $11 for a movie ticket.\"",
+     "Why This Steering Wheel Costs $50,000 - 373 views, 36.32% watched, 48s, hook (shocking number): \"This steering wheel costs about $50,000.\"",
+     "30 Seconds of TV Cost $8 Million - 172 views, ?% watched, 50s, hook (shocking number): \"30 seconds of TV: $8 million.\"",
+     "Your $11 Movie Ticket? The Cinema Keeps About $3 - 36 views, 80.22% watched, 57s, hook (shocking number): \"You pay about $11 for a movie ticket.\"",
      "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    },
    "mystery-files": {
-    "count": 1,
+    "count": 2,
     "top": [
      {
       "channel": "mystery-files",
@@ -954,27 +992,49 @@
       "views": 131,
       "likes": 2,
       "comments": 1,
-      "watched": 43.49,
+      "watched": 41.72,
       "subs": 0,
-      "score": 81.38842857142858,
-      "age_h": 60
+      "score": 78.076,
+      "age_h": 83
+     },
+     {
+      "channel": "mystery-files",
+      "title": "These Frames Have Been Empty for 36 Years",
+      "topic": "The Isabella Stewart Gardner Museum heist - $500 million of art still missing",
+      "hook": "You're looking at frames that have hung empty for 36 years.",
+      "hook_style": "mystery / impossible claim",
+      "duration": 60.7,
+      "scenes": 11,
+      "words": 157,
+      "views": 25,
+      "likes": 1,
+      "comments": 1,
+      "watched": 55.87,
+      "subs": 0,
+      "score": 19.95357142857143,
+      "age_h": 59
      }
     ],
     "bottom": [],
     "by_hook": {
      "shocking number": {
       "n": 1,
-      "avg_vs_median": 1.0
+      "avg_vs_median": 1.59
+     },
+     "mystery / impossible claim": {
+      "n": 1,
+      "avg_vs_median": 0.41
      }
     },
     "by_length": {
      "over 50s": {
-      "n": 1,
+      "n": 2,
       "avg_vs_median": 1.0
      }
     },
     "notes": [
-     "Nobody Could Read This Letter for 51 Years - 131 views, 43.49% watched, 53s, hook (shocking number): \"Nobody could read this letter for 51 years.\"",
+     "Nobody Could Read This Letter for 51 Years - 131 views, 41.72% watched, 53s, hook (shocking number): \"Nobody could read this letter for 51 years.\"",
+     "These Frames Have Been Empty for 36 Years - 25 views, 55.87% watched, 61s, hook (mystery / impossible claim): \"You're looking at frames that have hung empty for 36 years.\"",
      "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    }
