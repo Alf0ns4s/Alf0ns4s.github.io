@@ -311,13 +311,19 @@ function audienceCards(chs){
   }).join("");
 }
 function learnCard(chs){
-  const ins = (S.insights||{}).channels || {};
-  const parts = chs.map(c => { const i = ins[c.id]; if (!i) return "";
-    const best = (i.top||[])[0];
-    return `<div style="display:flex;flex-direction:column;gap:4px"><b style="font-size:13.5px"><i style="display:inline-block;width:10px;height:10px;border-radius:2px;background:${chOf(c.id).c};margin-right:6px"></i>${esc(c.name)} &middot; ${i.count} videos measured</b>` +
-      (best ? `<span class="note">Best so far: ${esc(best.topic||best.item||"")} &middot; ${esc(best.hook_style||"")} hook</span>` : "") +
-      (i.notes||[]).filter(n=>/^Do (MORE|LESS)|Not enough/.test(n)).map(n=>`<span style="font-size:13px">${esc(n)}</span>`).join("") + `</div>`; }).join("");
-  return `<div class="chart"><h3>What the numbers are teaching us</h3>` + (parts || `<div class="empty">After videos have been public for 36 hours, the hub compares them here (hook style, length) and the script writer uses it to make the next ones better.</div>`) + `</div>`;
+  const L = S.insights || {}, ins = L.channels || {};
+  const lvl = r => `<span style="font-size:11px;font-weight:700;letter-spacing:.04em;padding:2px 6px;border-radius:5px;margin-right:6px;background:${r.level==="confirmed"?"var(--ok-bg,#dcfce7)":"var(--warn-bg,#fef3c7)"};color:${r.level==="confirmed"?"var(--ok,#166534)":"var(--warn,#92400e)"}">${r.level.toUpperCase()}</span>`;
+  let h = "";
+  if ((L.rules||[]).length) h += `<div class="aud-h">Rules applied to every channel</div>` + L.rules.map(r=>`<div style="font-size:13px;margin:3px 0">${lvl(r)}${esc(r.text)}<div class="note" style="margin-left:2px">${esc(r.evidence||"")}</div></div>`).join("");
+  if ((L.leave||[]).length) h += `<div class="aud-h">Where viewers leave</div>` + L.leave.map(t=>`<div style="font-size:13px;margin:3px 0">${esc(t)}</div>`).join("");
+  if (L.start_hold!=null) h += `<div class="note">First 3 seconds: ${Math.round(L.start_hold*100)}% of viewers stay.</div>`;
+  const ex = Object.entries(L.experiments||{});
+  if (ex.length) h += `<div class="aud-h">Testing today</div>` + ex.map(([k,v])=>`<div style="font-size:13px">${esc((chs.find(c=>c.id===k)||{}).name||k)}: ${esc(v)}</div>`).join("");
+  if ((L.hints||[]).length) h += `<div class="aud-h">Hints, not proven yet</div>` + L.hints.slice(0,4).map(t=>`<div class="note">${esc(t)}</div>`).join("");
+  const per = chs.map(c => { const i = ins[c.id]; if (!i) return ""; const best=(i.top||[])[0];
+    return best ? `<div class="note"><i style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${chOf(c.id).c};margin-right:6px"></i>${esc(c.name)} best: ${esc(best.title||"")} (${best.views} views)</div>` : ""; }).join("");
+  if (per) h += `<div class="aud-h">Best so far</div>` + per;
+  return `<div class="chart"><h3>What the numbers are teaching us${L.videos_analysed?` <span class="note">(${L.videos_analysed} videos, all channels)</span>`:""}</h3>` + (h || `<div class="empty">After videos have been public for 36 hours, the hub compares them here and every new script follows what wins.</div>`) + `</div>`;
 }
 function spark(hist, color){
   const pts = (hist||[]).filter(h => h.views != null);

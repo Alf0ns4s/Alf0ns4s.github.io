@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-18T14:26:13+00:00",
+ "synced": "2026-10-18T14:53:31+00:00",
  "stats_updated": "2026-10-18T14:26:00+00:00",
  "channels": [
   {
@@ -1051,362 +1051,186 @@
  ],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-18T10:55:53+00:00",
-  "videos_analysed": 11,
+  "updated": "2026-10-18T14:32:11+00:00",
+  "videos_analysed": 13,
+  "rules": [
+   {
+    "id": "action:lots of acting/effects",
+    "kind": "feature",
+    "feature": "action",
+    "group": "lots of acting/effects",
+    "prefer": true,
+    "level": "likely",
+    "text": "Use lots of acting and effects (2+ per scene)",
+    "evidence": "7 videos vs 6, 69% better (agrees on 2 channel(s), disagrees on 1)"
+   },
+   {
+    "id": "length:38-44s",
+    "kind": "feature",
+    "feature": "length",
+    "group": "38-44s",
+    "prefer": true,
+    "level": "likely",
+    "text": "Do MORE: length '38-44s'",
+    "evidence": "4 videos vs 9, 42% better (agrees on 2 channel(s), disagrees on 1)"
+   },
+   {
+    "id": "scene:pos_scene_2",
+    "kind": "scene",
+    "feature": "pos_scene_2",
+    "level": "likely",
+    "text": "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'.",
+    "evidence": "Viewers leave fastest in scene 2 (2.17x the average rate). (5 scenes)"
+   }
+  ],
+  "changes": [],
+  "hints": [
+   "Do MORE: title style 'question'",
+   "Do LESS: title style 'POV'",
+   "Do MORE: speaking pace '135-150 wpm'",
+   "Do LESS: hook style 'POV / you'",
+   "Do LESS: length '44-50s'",
+   "Do LESS: speaking pace 'over 165 wpm'"
+  ],
+  "leave": [
+   "One-shot scenes longer than 3.5 seconds lose viewers 2.6x faster. Give any scene over 3.5 s a second shot (new angle or close-up).",
+   "Viewers leave fastest in scene 2 (2.17x the average rate). Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
+  ],
+  "start_hold": 0.958,
+  "experiments": {
+   "money-facts": "imagine / what if"
+  },
+  "targets": {
+   "words": [
+    70,
+    95
+   ],
+   "duration": [
+    28,
+    42
+   ],
+   "max_scene_s": 5.5,
+   "hook_words_max": 8
+  },
   "channels": {
    "deep-sea-files": {
     "count": 4,
+    "notes": [
+     "Use lots of acting and effects (2+ per scene)",
+     "Do MORE: length '38-44s'",
+     "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
+    ],
     "top": [
      {
-      "channel": "deep-sea-files",
       "title": "POV: You're a Pufferfish and Something Wants You",
-      "topic": "POV: you're a pufferfish when a predator attacks",
-      "hook": "POV: you can blow up like a balloon.",
-      "hook_style": "POV / you are",
-      "duration": 30.6,
-      "scenes": 9,
-      "words": 79,
-      "views": 1256,
-      "likes": 30,
-      "comments": 2,
+      "views": 1257,
       "watched": null,
-      "subs": null,
-      "score": 1256.0,
-      "age_h": 37
+      "duration": 30.6,
+      "hook": "POV: you can blow up like a balloon.",
+      "hook_style": "POV / you"
      },
      {
-      "channel": "deep-sea-files",
-      "title": "POV: You're the Octopus That Turns Into Other Animals",
-      "topic": "POV: you're a mimic octopus pretending to be other animals",
-      "hook": "POV: you're a mimic octopus.",
-      "hook_style": "POV / you are",
-      "duration": 47.7,
-      "scenes": 11,
-      "words": 140,
-      "views": 1170,
-      "likes": 33,
-      "comments": 2,
-      "watched": 57.95,
-      "subs": 2,
-      "score": 968.5928571428572,
-      "age_h": 109
-     },
-     {
-      "channel": "deep-sea-files",
       "title": "POV: You Hunt Seals by Making Waves",
-      "topic": "POV: you're an orca pod hunting a seal on an ice floe",
-      "hook": "POV: you hunt seals with waves.",
-      "hook_style": "POV / you are",
-      "duration": 38.3,
-      "scenes": 9,
-      "words": 103,
       "views": 1149,
-      "likes": 16,
-      "comments": 4,
       "watched": 54.88000000000001,
-      "subs": 0,
-      "score": 900.8160000000001,
-      "age_h": 61
-     }
-    ],
-    "bottom": [
+      "duration": 38.3,
+      "hook": "POV: you hunt seals with waves.",
+      "hook_style": "POV / you"
+     },
      {
-      "channel": "deep-sea-files",
       "title": "POV: You're the Octopus That Turns Into Other Animals",
-      "topic": "POV: you're a mimic octopus pretending to be other animals",
-      "hook": "POV: you're a mimic octopus.",
-      "hook_style": "POV / you are",
-      "duration": 47.7,
-      "scenes": 11,
-      "words": 140,
       "views": 1170,
-      "likes": 33,
-      "comments": 2,
       "watched": 57.95,
-      "subs": 2,
-      "score": 968.5928571428572,
-      "age_h": 109
-     },
-     {
-      "channel": "deep-sea-files",
-      "title": "POV: You Hunt Seals by Making Waves",
-      "topic": "POV: you're an orca pod hunting a seal on an ice floe",
-      "hook": "POV: you hunt seals with waves.",
-      "hook_style": "POV / you are",
-      "duration": 38.3,
-      "scenes": 9,
-      "words": 103,
-      "views": 1149,
-      "likes": 16,
-      "comments": 4,
-      "watched": 54.88000000000001,
-      "subs": 0,
-      "score": 900.8160000000001,
-      "age_h": 61
-     },
-     {
-      "channel": "deep-sea-files",
-      "title": "POV: This Shrimp's Claw Is Louder Than a Gunshot",
-      "topic": "POV: you're a pistol shrimp - your snap stuns fish",
-      "hook": "POV: you're a pistol shrimp.",
-      "hook_style": "POV / you are",
-      "duration": 49.3,
-      "scenes": 11,
-      "words": 148,
-      "views": 10,
-      "likes": 2,
-      "comments": 1,
-      "watched": 148.18,
-      "subs": 0,
-      "score": 21.16857142857143,
-      "age_h": 85
+      "duration": 47.7,
+      "hook": "POV: you're a mimic octopus.",
+      "hook_style": "POV / you"
      }
-    ],
-    "by_hook": {
-     "POV / you are": {
-      "n": 4,
-      "avg_vs_median": 0.84
-     }
-    },
-    "by_length": {
-     "under 35s": {
-      "n": 1,
-      "avg_vs_median": 1.34
-     },
-     "35-50s": {
-      "n": 3,
-      "avg_vs_median": 0.67
-     }
-    },
-    "notes": [
-     "POV: You're a Pufferfish and Something Wants You - 1256 views, ?% watched, 31s, hook (POV / you are): \"POV: you can blow up like a balloon.\"",
-     "POV: You're the Octopus That Turns Into Other Animals - 1170 views, 57.95% watched, 48s, hook (POV / you are): \"POV: you're a mimic octopus.\"",
-     "POV: You Hunt Seals by Making Waves - 1149 views, 54.88000000000001% watched, 38s, hook (POV / you are): \"POV: you hunt seals with waves.\"",
-     "POV: You're the Octopus That Turns Into Other Animals - 1170 views, 57.95% watched, 48s, hook (POV / you are): \"POV: you're a mimic octopus.\"",
-     "POV: You Hunt Seals by Making Waves - 1149 views, 54.88000000000001% watched, 38s, hook (POV / you are): \"POV: you hunt seals with waves.\"",
-     "POV: This Shrimp's Claw Is Louder Than a Gunshot - 10 views, 148.18% watched, 49s, hook (POV / you are): \"POV: you're a pistol shrimp.\"",
-     "Do LESS: length 35-50s (scores well below this channel's median)",
-     "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    },
    "money-facts": {
     "count": 4,
+    "notes": [
+     "Use lots of acting and effects (2+ per scene)",
+     "Do MORE: length '38-44s'",
+     "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
+    ],
     "top": [
      {
-      "channel": "money-facts",
       "title": "Why This Steering Wheel Costs $50,000",
-      "topic": "How much a Formula 1 car really costs",
-      "hook": "This steering wheel costs about $50,000.",
-      "hook_style": "shocking number",
-      "duration": 47.7,
-      "scenes": 10,
-      "words": 123,
       "views": 372,
-      "likes": 4,
-      "comments": 1,
       "watched": 36.4,
-      "subs": 0,
-      "score": 193.44,
-      "age_h": 111
+      "duration": 47.7,
+      "hook": "This steering wheel costs about $50,000.",
+      "hook_style": "shocking number"
      },
      {
-      "channel": "money-facts",
       "title": "30 Seconds of TV Cost $8 Million",
-      "topic": "How much 30 seconds of Super Bowl TV costs",
-      "hook": "30 seconds of TV: $8 million.",
-      "hook_style": "shocking number",
-      "duration": 49.9,
-      "scenes": 9,
-      "words": 105,
       "views": 178,
-      "likes": 2,
-      "comments": 1,
       "watched": 40.8,
-      "subs": 1,
-      "score": 103.74857142857142,
-      "age_h": 63
-     },
-     {
-      "channel": "money-facts",
-      "title": "Your $11 Movie Ticket? The Cinema Keeps About $3",
-      "topic": "How much of a movie ticket the cinema actually keeps",
-      "hook": "You pay about $11 for a movie ticket.",
-      "hook_style": "shocking number",
-      "duration": 57.3,
-      "scenes": 11,
-      "words": 146,
-      "views": 38,
-      "likes": 1,
-      "comments": 1,
-      "watched": 62.970000000000006,
-      "subs": 0,
-      "score": 34.18371428571429,
-      "age_h": 87
-     }
-    ],
-    "bottom": [
-     {
-      "channel": "money-facts",
-      "title": "30 Seconds of TV Cost $8 Million",
-      "topic": "How much 30 seconds of Super Bowl TV costs",
-      "hook": "30 seconds of TV: $8 million.",
-      "hook_style": "shocking number",
       "duration": 49.9,
-      "scenes": 9,
-      "words": 105,
-      "views": 178,
-      "likes": 2,
-      "comments": 1,
-      "watched": 40.8,
-      "subs": 1,
-      "score": 103.74857142857142,
-      "age_h": 63
+      "hook": "30 seconds of TV: $8 million.",
+      "hook_style": "shocking number"
      },
      {
-      "channel": "money-facts",
       "title": "Your $11 Movie Ticket? The Cinema Keeps About $3",
-      "topic": "How much of a movie ticket the cinema actually keeps",
-      "hook": "You pay about $11 for a movie ticket.",
-      "hook_style": "shocking number",
-      "duration": 57.3,
-      "scenes": 11,
-      "words": 146,
       "views": 38,
-      "likes": 1,
-      "comments": 1,
       "watched": 62.970000000000006,
-      "subs": 0,
-      "score": 34.18371428571429,
-      "age_h": 87
-     },
-     {
-      "channel": "money-facts",
-      "title": "Why Microsoft Paid $2.5 Billion for a Block Game",
-      "topic": "Why Microsoft paid $2.5 billion for Minecraft",
-      "hook": "Imagine selling your game for $2.5 billion.",
-      "hook_style": "imagine / what if",
-      "duration": 41.2,
-      "scenes": 9,
-      "words": 93,
-      "views": 11,
-      "likes": 3,
-      "comments": 1,
-      "watched": null,
-      "subs": null,
-      "score": 11.0,
-      "age_h": 39
+      "duration": 57.3,
+      "hook": "You pay about $11 for a movie ticket.",
+      "hook_style": "shocking number"
      }
-    ],
-    "by_hook": {
-     "shocking number": {
-      "n": 3,
-      "avg_vs_median": 1.6
-     },
-     "imagine / what if": {
-      "n": 1,
-      "avg_vs_median": 0.16
-     }
-    },
-    "by_length": {
-     "35-50s": {
-      "n": 3,
-      "avg_vs_median": 1.49
-     },
-     "over 50s": {
-      "n": 1,
-      "avg_vs_median": 0.5
-     }
-    },
-    "notes": [
-     "Why This Steering Wheel Costs $50,000 - 372 views, 36.4% watched, 48s, hook (shocking number): \"This steering wheel costs about $50,000.\"",
-     "30 Seconds of TV Cost $8 Million - 178 views, 40.8% watched, 50s, hook (shocking number): \"30 seconds of TV: $8 million.\"",
-     "Your $11 Movie Ticket? The Cinema Keeps About $3 - 38 views, 62.970000000000006% watched, 57s, hook (shocking number): \"You pay about $11 for a movie ticket.\"",
-     "30 Seconds of TV Cost $8 Million - 178 views, 40.8% watched, 50s, hook (shocking number): \"30 seconds of TV: $8 million.\"",
-     "Your $11 Movie Ticket? The Cinema Keeps About $3 - 38 views, 62.970000000000006% watched, 57s, hook (shocking number): \"You pay about $11 for a movie ticket.\"",
-     "Why Microsoft Paid $2.5 Billion for a Block Game - 11 views, ?% watched, 41s, hook (imagine / what if): \"Imagine selling your game for $2.5 billion.\"",
-     "Do MORE: hook style shocking number (scores well above this channel's median)",
-     "Do MORE: length 35-50s (scores well above this channel's median)",
-     "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    },
    "mystery-files": {
-    "count": 3,
+    "count": 4,
+    "notes": [
+     "Use lots of acting and effects (2+ per scene)",
+     "Do MORE: length '38-44s'",
+     "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
+    ],
     "top": [
      {
-      "channel": "mystery-files",
+      "title": "Can You Read This 600-Year-Old Book? Nobody Can",
+      "views": 912,
+      "watched": null,
+      "duration": 42.6,
+      "hook": "Can you read this 600-year-old book?",
+      "hook_style": "question"
+     },
+     {
       "title": "Nobody Could Read This Letter for 51 Years",
-      "topic": "The Zodiac cipher that amateurs finally cracked after 51 years",
-      "hook": "Nobody could read this letter for 51 years.",
-      "hook_style": "shocking number",
-      "duration": 53.3,
-      "scenes": 11,
-      "words": 123,
       "views": 130,
-      "likes": 2,
-      "comments": 1,
       "watched": 40.66,
-      "subs": 0,
-      "score": 75.51142857142857,
-      "age_h": 108
+      "duration": 53.3,
+      "hook": "Nobody could read this letter for 51 years.",
+      "hook_style": "shocking number"
      },
      {
-      "channel": "mystery-files",
-      "title": "These Frames Have Been Empty for 36 Years",
-      "topic": "The Isabella Stewart Gardner Museum heist - $500 million of art still missing",
-      "hook": "You're looking at frames that have hung empty for 36 years.",
-      "hook_style": "mystery / impossible claim",
-      "duration": 60.7,
-      "scenes": 11,
-      "words": 157,
-      "views": 26,
-      "likes": 1,
-      "comments": 1,
-      "watched": 55.87,
-      "subs": 0,
-      "score": 20.751714285714286,
-      "age_h": 84
-     },
-     {
-      "channel": "mystery-files",
       "title": "115 People Vanished and Left One Word",
-      "topic": "The lost colony of Roanoke and the word carved in a tree",
-      "hook": "115 people vanished.",
-      "hook_style": "mystery / impossible claim",
-      "duration": 52.5,
-      "scenes": 9,
-      "words": 105,
       "views": 22,
-      "likes": 0,
-      "comments": 1,
       "watched": 53.03,
-      "subs": 0,
-      "score": 16.66657142857143,
-      "age_h": 60
+      "duration": 52.5,
+      "hook": "115 people vanished.",
+      "hook_style": "shocking number"
      }
-    ],
-    "bottom": [],
-    "by_hook": {
-     "shocking number": {
-      "n": 1,
-      "avg_vs_median": 3.64
-     },
-     "mystery / impossible claim": {
-      "n": 2,
-      "avg_vs_median": 0.9
-     }
-    },
-    "by_length": {
-     "over 50s": {
-      "n": 3,
-      "avg_vs_median": 1.81
-     }
-    },
+    ]
+   },
+   "outbreak-files": {
+    "count": 1,
     "notes": [
-     "Nobody Could Read This Letter for 51 Years - 130 views, 40.66% watched, 53s, hook (shocking number): \"Nobody could read this letter for 51 years.\"",
-     "These Frames Have Been Empty for 36 Years - 26 views, 55.87% watched, 61s, hook (mystery / impossible claim): \"You're looking at frames that have hung empty for 36 years.\"",
-     "115 People Vanished and Left One Word - 22 views, 53.03% watched, 52s, hook (mystery / impossible claim): \"115 people vanished.\"",
-     "Do MORE: length over 50s (scores well above this channel's median)",
-     "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
+     "Use lots of acting and effects (2+ per scene)",
+     "Do MORE: length '38-44s'",
+     "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
+    ],
+    "top": [
+     {
+      "title": "The Outbreak Starts on Floor 30 (Part 1)",
+      "views": 1018,
+      "watched": null,
+      "duration": 41.8,
+      "hook": "POV: the outbreak starts below your window.",
+      "hook_style": "POV / you"
+     }
     ]
    }
   }
