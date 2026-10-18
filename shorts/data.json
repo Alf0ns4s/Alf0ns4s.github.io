@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-18T05:41:22+00:00",
+ "synced": "2026-10-18T09:16:40+00:00",
  "stats_updated": "2026-10-18T04:35:06+00:00",
  "channels": [
   {
@@ -1036,7 +1036,19 @@
    "error": null
   }
  ],
- "rework": [],
+ "rework": [
+  {
+   "item": "20261018-052126_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Antwerp diamond heist - the heist of the century",
+   "score": 94,
+   "round": 1,
+   "reasons": [
+    "Reviewer note: didnt pass the tes 94/100",
+    "Video is 48s. Aim for 30-38 s (with the end card): viewers watch about 28 s on average, so shorter videos get finished."
+   ]
+  }
+ ],
  "inbox_waiting": [],
  "insights": {
   "updated": "2026-10-17T10:33:37+00:00",
