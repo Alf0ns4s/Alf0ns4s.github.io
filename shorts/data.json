@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-18T14:53:31+00:00",
- "stats_updated": "2026-10-18T14:26:00+00:00",
+ "synced": "2026-10-18T14:53:51+00:00",
+ "stats_updated": "2026-10-18T14:53:39+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -202,7 +202,7 @@
     "02:15"
    ],
    "subscribers": 1,
-   "views": 1088,
+   "views": 169,
    "uploads": 4,
    "analytics": true,
    "daily": [
@@ -268,7 +268,7 @@
     {
      "date": "2026-10-18",
      "subscribers": 1,
-     "views": 1088
+     "views": 169
     }
    ]
   },
@@ -281,7 +281,7 @@
     "03:30"
    ],
    "subscribers": 4,
-   "views": 1014,
+   "views": 0,
    "uploads": 1,
    "analytics": true,
    "daily": [],
@@ -304,7 +304,7 @@
     {
      "date": "2026-10-18",
      "subscribers": 4,
-     "views": 1014
+     "views": 0
     }
    ]
   }
@@ -592,7 +592,7 @@
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "public",
    "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": 1257,
+   "views": 1258,
    "likes": 30,
    "comments": 2,
    "analytics": null,
@@ -1051,7 +1051,7 @@
  ],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-18T14:32:11+00:00",
+  "updated": "2026-10-18T14:53:48+00:00",
   "videos_analysed": 13,
   "rules": [
    {
@@ -1123,7 +1123,7 @@
     "top": [
      {
       "title": "POV: You're a Pufferfish and Something Wants You",
-      "views": 1257,
+      "views": 1258,
       "watched": null,
       "duration": 30.6,
       "hook": "POV: you can blow up like a balloon.",
