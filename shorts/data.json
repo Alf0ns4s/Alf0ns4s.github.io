@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-18T09:16:40+00:00",
- "stats_updated": "2026-10-18T04:35:06+00:00",
+ "synced": "2026-10-18T10:55:55+00:00",
+ "stats_updated": "2026-10-18T10:55:48+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -322,10 +322,10 @@
    "youtube_id": "6Giz7gWBchE",
    "url": "https://youtube.com/shorts/6Giz7gWBchE",
    "privacy": "private",
-   "publish_at": "2026-10-19T00:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-19T00:30:00Z",
+   "views": 1,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261018-052951_outbreak-files.jpg",
    "score": 98,
@@ -361,10 +361,10 @@
    "youtube_id": "s4SNObyfW3U",
    "url": "https://youtube.com/shorts/s4SNObyfW3U",
    "privacy": "private",
-   "publish_at": "2026-10-18T23:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-18T23:15:00Z",
+   "views": 1,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261018-052126_mystery-files.jpg",
    "score": 94,
@@ -400,10 +400,10 @@
    "youtube_id": "66hLUoCa31w",
    "url": "https://youtube.com/shorts/66hLUoCa31w",
    "privacy": "private",
-   "publish_at": "2026-10-18T20:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-18T20:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261018-051506_money-facts.jpg",
    "score": 98,
@@ -439,10 +439,10 @@
    "youtube_id": "UA6w-3E3XUk",
    "url": "https://youtube.com/shorts/UA6w-3E3XUk",
    "privacy": "private",
-   "publish_at": "2026-10-18T21:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-18T21:30:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261018-050915_deep-sea-files.jpg",
    "score": 100,
@@ -476,7 +476,7 @@
    "url": "https://youtube.com/shorts/BcBogfVHAKs",
    "privacy": "public",
    "publish_at": "2026-10-16T23:15:00.000Z",
-   "views": 911,
+   "views": 912,
    "likes": 19,
    "comments": 3,
    "analytics": null,
@@ -516,7 +516,7 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1013,
+   "views": 1015,
    "likes": 13,
    "comments": 1,
    "analytics": null,
@@ -555,7 +555,7 @@
    "url": "https://youtube.com/shorts/zwK4AdEdRRQ",
    "privacy": "public",
    "publish_at": "2026-10-16T20:15:00.000Z",
-   "views": 10,
+   "views": 11,
    "likes": 3,
    "comments": 1,
    "analytics": null,
@@ -592,7 +592,7 @@
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "public",
    "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": 1253,
+   "views": 1256,
    "likes": 30,
    "comments": 2,
    "analytics": null,
@@ -1051,12 +1051,29 @@
  ],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-17T10:33:37+00:00",
-  "videos_analysed": 8,
+  "updated": "2026-10-18T10:55:53+00:00",
+  "videos_analysed": 11,
   "channels": {
    "deep-sea-files": {
-    "count": 3,
+    "count": 4,
     "top": [
+     {
+      "channel": "deep-sea-files",
+      "title": "POV: You're a Pufferfish and Something Wants You",
+      "topic": "POV: you're a pufferfish when a predator attacks",
+      "hook": "POV: you can blow up like a balloon.",
+      "hook_style": "POV / you are",
+      "duration": 30.6,
+      "scenes": 9,
+      "words": 79,
+      "views": 1256,
+      "likes": 30,
+      "comments": 2,
+      "watched": null,
+      "subs": null,
+      "score": 1256.0,
+      "age_h": 37
+     },
      {
       "channel": "deep-sea-files",
       "title": "POV: You're the Octopus That Turns Into Other Animals",
@@ -1066,13 +1083,13 @@
       "duration": 47.7,
       "scenes": 11,
       "words": 140,
-      "views": 1163,
+      "views": 1170,
       "likes": 33,
       "comments": 2,
-      "watched": 58.26,
+      "watched": 57.95,
       "subs": 2,
-      "score": 967.9482857142857,
-      "age_h": 85
+      "score": 968.5928571428572,
+      "age_h": 109
      },
      {
       "channel": "deep-sea-files",
@@ -1083,13 +1100,49 @@
       "duration": 38.3,
       "scenes": 9,
       "words": 103,
-      "views": 871,
-      "likes": 15,
-      "comments": 3,
-      "watched": null,
-      "subs": null,
-      "score": 871.0,
-      "age_h": 37
+      "views": 1149,
+      "likes": 16,
+      "comments": 4,
+      "watched": 54.88000000000001,
+      "subs": 0,
+      "score": 900.8160000000001,
+      "age_h": 61
+     }
+    ],
+    "bottom": [
+     {
+      "channel": "deep-sea-files",
+      "title": "POV: You're the Octopus That Turns Into Other Animals",
+      "topic": "POV: you're a mimic octopus pretending to be other animals",
+      "hook": "POV: you're a mimic octopus.",
+      "hook_style": "POV / you are",
+      "duration": 47.7,
+      "scenes": 11,
+      "words": 140,
+      "views": 1170,
+      "likes": 33,
+      "comments": 2,
+      "watched": 57.95,
+      "subs": 2,
+      "score": 968.5928571428572,
+      "age_h": 109
+     },
+     {
+      "channel": "deep-sea-files",
+      "title": "POV: You Hunt Seals by Making Waves",
+      "topic": "POV: you're an orca pod hunting a seal on an ice floe",
+      "hook": "POV: you hunt seals with waves.",
+      "hook_style": "POV / you are",
+      "duration": 38.3,
+      "scenes": 9,
+      "words": 103,
+      "views": 1149,
+      "likes": 16,
+      "comments": 4,
+      "watched": 54.88000000000001,
+      "subs": 0,
+      "score": 900.8160000000001,
+      "age_h": 61
      },
      {
       "channel": "deep-sea-files",
@@ -1100,39 +1153,44 @@
       "duration": 49.3,
       "scenes": 11,
       "words": 148,
-      "views": 12,
+      "views": 10,
       "likes": 2,
       "comments": 1,
-      "watched": 13.08,
+      "watched": 148.18,
       "subs": 0,
-      "score": 2.2422857142857144,
-      "age_h": 61
+      "score": 21.16857142857143,
+      "age_h": 85
      }
     ],
-    "bottom": [],
     "by_hook": {
      "POV / you are": {
-      "n": 3,
-      "avg_vs_median": 0.7
+      "n": 4,
+      "avg_vs_median": 0.84
      }
     },
     "by_length": {
+     "under 35s": {
+      "n": 1,
+      "avg_vs_median": 1.34
+     },
      "35-50s": {
       "n": 3,
-      "avg_vs_median": 0.7
+      "avg_vs_median": 0.67
      }
     },
     "notes": [
-     "POV: You're the Octopus That Turns Into Other Animals - 1163 views, 58.26% watched, 48s, hook (POV / you are): \"POV: you're a mimic octopus.\"",
-     "POV: You Hunt Seals by Making Waves - 871 views, ?% watched, 38s, hook (POV / you are): \"POV: you hunt seals with waves.\"",
-     "POV: This Shrimp's Claw Is Louder Than a Gunshot - 12 views, 13.08% watched, 49s, hook (POV / you are): \"POV: you're a pistol shrimp.\"",
-     "Do LESS: hook style POV / you are (scores well below this channel's median)",
+     "POV: You're a Pufferfish and Something Wants You - 1256 views, ?% watched, 31s, hook (POV / you are): \"POV: you can blow up like a balloon.\"",
+     "POV: You're the Octopus That Turns Into Other Animals - 1170 views, 57.95% watched, 48s, hook (POV / you are): \"POV: you're a mimic octopus.\"",
+     "POV: You Hunt Seals by Making Waves - 1149 views, 54.88000000000001% watched, 38s, hook (POV / you are): \"POV: you hunt seals with waves.\"",
+     "POV: You're the Octopus That Turns Into Other Animals - 1170 views, 57.95% watched, 48s, hook (POV / you are): \"POV: you're a mimic octopus.\"",
+     "POV: You Hunt Seals by Making Waves - 1149 views, 54.88000000000001% watched, 38s, hook (POV / you are): \"POV: you hunt seals with waves.\"",
+     "POV: This Shrimp's Claw Is Louder Than a Gunshot - 10 views, 148.18% watched, 49s, hook (POV / you are): \"POV: you're a pistol shrimp.\"",
      "Do LESS: length 35-50s (scores well below this channel's median)",
      "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    },
    "money-facts": {
-    "count": 3,
+    "count": 4,
     "top": [
      {
       "channel": "money-facts",
@@ -1143,13 +1201,13 @@
       "duration": 47.7,
       "scenes": 10,
       "words": 123,
-      "views": 373,
+      "views": 372,
       "likes": 4,
       "comments": 1,
-      "watched": 36.32,
+      "watched": 36.4,
       "subs": 0,
-      "score": 193.5337142857143,
-      "age_h": 86
+      "score": 193.44,
+      "age_h": 111
      },
      {
       "channel": "money-facts",
@@ -1160,13 +1218,13 @@
       "duration": 49.9,
       "scenes": 9,
       "words": 105,
-      "views": 172,
+      "views": 178,
       "likes": 2,
       "comments": 1,
-      "watched": null,
-      "subs": null,
-      "score": 172.0,
-      "age_h": 38
+      "watched": 40.8,
+      "subs": 1,
+      "score": 103.74857142857142,
+      "age_h": 63
      },
      {
       "channel": "money-facts",
@@ -1177,41 +1235,102 @@
       "duration": 57.3,
       "scenes": 11,
       "words": 146,
-      "views": 36,
+      "views": 38,
       "likes": 1,
       "comments": 1,
-      "watched": 80.22,
+      "watched": 62.970000000000006,
       "subs": 0,
-      "score": 41.256,
-      "age_h": 62
+      "score": 34.18371428571429,
+      "age_h": 87
      }
     ],
-    "bottom": [],
+    "bottom": [
+     {
+      "channel": "money-facts",
+      "title": "30 Seconds of TV Cost $8 Million",
+      "topic": "How much 30 seconds of Super Bowl TV costs",
+      "hook": "30 seconds of TV: $8 million.",
+      "hook_style": "shocking number",
+      "duration": 49.9,
+      "scenes": 9,
+      "words": 105,
+      "views": 178,
+      "likes": 2,
+      "comments": 1,
+      "watched": 40.8,
+      "subs": 1,
+      "score": 103.74857142857142,
+      "age_h": 63
+     },
+     {
+      "channel": "money-facts",
+      "title": "Your $11 Movie Ticket? The Cinema Keeps About $3",
+      "topic": "How much of a movie ticket the cinema actually keeps",
+      "hook": "You pay about $11 for a movie ticket.",
+      "hook_style": "shocking number",
+      "duration": 57.3,
+      "scenes": 11,
+      "words": 146,
+      "views": 38,
+      "likes": 1,
+      "comments": 1,
+      "watched": 62.970000000000006,
+      "subs": 0,
+      "score": 34.18371428571429,
+      "age_h": 87
+     },
+     {
+      "channel": "money-facts",
+      "title": "Why Microsoft Paid $2.5 Billion for a Block Game",
+      "topic": "Why Microsoft paid $2.5 billion for Minecraft",
+      "hook": "Imagine selling your game for $2.5 billion.",
+      "hook_style": "imagine / what if",
+      "duration": 41.2,
+      "scenes": 9,
+      "words": 93,
+      "views": 11,
+      "likes": 3,
+      "comments": 1,
+      "watched": null,
+      "subs": null,
+      "score": 11.0,
+      "age_h": 39
+     }
+    ],
     "by_hook": {
      "shocking number": {
       "n": 3,
-      "avg_vs_median": 0.79
+      "avg_vs_median": 1.6
+     },
+     "imagine / what if": {
+      "n": 1,
+      "avg_vs_median": 0.16
      }
     },
     "by_length": {
      "35-50s": {
-      "n": 2,
-      "avg_vs_median": 1.06
+      "n": 3,
+      "avg_vs_median": 1.49
      },
      "over 50s": {
       "n": 1,
-      "avg_vs_median": 0.24
+      "avg_vs_median": 0.5
      }
     },
     "notes": [
-     "Why This Steering Wheel Costs $50,000 - 373 views, 36.32% watched, 48s, hook (shocking number): \"This steering wheel costs about $50,000.\"",
-     "30 Seconds of TV Cost $8 Million - 172 views, ?% watched, 50s, hook (shocking number): \"30 seconds of TV: $8 million.\"",
-     "Your $11 Movie Ticket? The Cinema Keeps About $3 - 36 views, 80.22% watched, 57s, hook (shocking number): \"You pay about $11 for a movie ticket.\"",
+     "Why This Steering Wheel Costs $50,000 - 372 views, 36.4% watched, 48s, hook (shocking number): \"This steering wheel costs about $50,000.\"",
+     "30 Seconds of TV Cost $8 Million - 178 views, 40.8% watched, 50s, hook (shocking number): \"30 seconds of TV: $8 million.\"",
+     "Your $11 Movie Ticket? The Cinema Keeps About $3 - 38 views, 62.970000000000006% watched, 57s, hook (shocking number): \"You pay about $11 for a movie ticket.\"",
+     "30 Seconds of TV Cost $8 Million - 178 views, 40.8% watched, 50s, hook (shocking number): \"30 seconds of TV: $8 million.\"",
+     "Your $11 Movie Ticket? The Cinema Keeps About $3 - 38 views, 62.970000000000006% watched, 57s, hook (shocking number): \"You pay about $11 for a movie ticket.\"",
+     "Why Microsoft Paid $2.5 Billion for a Block Game - 11 views, ?% watched, 41s, hook (imagine / what if): \"Imagine selling your game for $2.5 billion.\"",
+     "Do MORE: hook style shocking number (scores well above this channel's median)",
+     "Do MORE: length 35-50s (scores well above this channel's median)",
      "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    },
    "mystery-files": {
-    "count": 2,
+    "count": 3,
     "top": [
      {
       "channel": "mystery-files",
@@ -1222,13 +1341,13 @@
       "duration": 53.3,
       "scenes": 11,
       "words": 123,
-      "views": 131,
+      "views": 130,
       "likes": 2,
       "comments": 1,
-      "watched": 41.72,
+      "watched": 40.66,
       "subs": 0,
-      "score": 78.076,
-      "age_h": 83
+      "score": 75.51142857142857,
+      "age_h": 108
      },
      {
       "channel": "mystery-files",
@@ -1239,35 +1358,54 @@
       "duration": 60.7,
       "scenes": 11,
       "words": 157,
-      "views": 25,
+      "views": 26,
       "likes": 1,
       "comments": 1,
       "watched": 55.87,
       "subs": 0,
-      "score": 19.95357142857143,
-      "age_h": 59
+      "score": 20.751714285714286,
+      "age_h": 84
+     },
+     {
+      "channel": "mystery-files",
+      "title": "115 People Vanished and Left One Word",
+      "topic": "The lost colony of Roanoke and the word carved in a tree",
+      "hook": "115 people vanished.",
+      "hook_style": "mystery / impossible claim",
+      "duration": 52.5,
+      "scenes": 9,
+      "words": 105,
+      "views": 22,
+      "likes": 0,
+      "comments": 1,
+      "watched": 53.03,
+      "subs": 0,
+      "score": 16.66657142857143,
+      "age_h": 60
      }
     ],
     "bottom": [],
     "by_hook": {
      "shocking number": {
       "n": 1,
-      "avg_vs_median": 1.59
+      "avg_vs_median": 3.64
      },
      "mystery / impossible claim": {
-      "n": 1,
-      "avg_vs_median": 0.41
+      "n": 2,
+      "avg_vs_median": 0.9
      }
     },
     "by_length": {
      "over 50s": {
-      "n": 2,
-      "avg_vs_median": 1.0
+      "n": 3,
+      "avg_vs_median": 1.81
      }
     },
     "notes": [
-     "Nobody Could Read This Letter for 51 Years - 131 views, 41.72% watched, 53s, hook (shocking number): \"Nobody could read this letter for 51 years.\"",
-     "These Frames Have Been Empty for 36 Years - 25 views, 55.87% watched, 61s, hook (mystery / impossible claim): \"You're looking at frames that have hung empty for 36 years.\"",
+     "Nobody Could Read This Letter for 51 Years - 130 views, 40.66% watched, 53s, hook (shocking number): \"Nobody could read this letter for 51 years.\"",
+     "These Frames Have Been Empty for 36 Years - 26 views, 55.87% watched, 61s, hook (mystery / impossible claim): \"You're looking at frames that have hung empty for 36 years.\"",
+     "115 People Vanished and Left One Word - 22 views, 53.03% watched, 52s, hook (mystery / impossible claim): \"115 people vanished.\"",
+     "Do MORE: length over 50s (scores well above this channel's median)",
      "Not enough videos yet for firm conclusions - keep testing different hook styles and topics."
     ]
    }
