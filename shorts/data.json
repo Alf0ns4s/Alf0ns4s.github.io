@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-18T12:07:24+00:00",
- "stats_updated": "2026-10-18T11:06:15+00:00",
+ "synced": "2026-10-18T14:26:13+00:00",
+ "stats_updated": "2026-10-18T14:26:00+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -118,7 +118,7 @@
     "23:15"
    ],
    "subscribers": 3,
-   "views": 581,
+   "views": 598,
    "uploads": 4,
    "analytics": true,
    "daily": [
@@ -189,7 +189,7 @@
     {
      "date": "2026-10-18",
      "subscribers": 3,
-     "views": 581
+     "views": 598
     }
    ]
   },
@@ -202,7 +202,7 @@
     "02:15"
    ],
    "subscribers": 1,
-   "views": 169,
+   "views": 1088,
    "uploads": 4,
    "analytics": true,
    "daily": [
@@ -268,7 +268,7 @@
     {
      "date": "2026-10-18",
      "subscribers": 1,
-     "views": 169
+     "views": 1088
     }
    ]
   },
@@ -281,7 +281,7 @@
     "03:30"
    ],
    "subscribers": 4,
-   "views": 0,
+   "views": 1014,
    "uploads": 1,
    "analytics": true,
    "daily": [],
@@ -304,7 +304,7 @@
     {
      "date": "2026-10-18",
      "subscribers": 4,
-     "views": 0
+     "views": 1014
     }
    ]
   }
@@ -323,7 +323,7 @@
    "url": "https://youtube.com/shorts/6Giz7gWBchE",
    "privacy": "private",
    "publish_at": "2026-10-19T00:30:00Z",
-   "views": 1,
+   "views": 4,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -362,7 +362,7 @@
    "url": "https://youtube.com/shorts/s4SNObyfW3U",
    "privacy": "private",
    "publish_at": "2026-10-18T23:15:00Z",
-   "views": 1,
+   "views": 3,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -440,7 +440,7 @@
    "url": "https://youtube.com/shorts/UA6w-3E3XUk",
    "privacy": "private",
    "publish_at": "2026-10-18T21:30:00Z",
-   "views": 0,
+   "views": 1,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -516,7 +516,7 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1015,
+   "views": 1018,
    "likes": 13,
    "comments": 1,
    "analytics": null,
@@ -592,7 +592,7 @@
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "public",
    "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": 1256,
+   "views": 1257,
    "likes": 30,
    "comments": 2,
    "analytics": null,
@@ -1009,8 +1009,8 @@
    "likes": 33,
    "comments": 2,
    "analytics": {
-    "views": 1147,
-    "estimatedMinutesWatched": 288,
+    "views": 1145,
+    "estimatedMinutesWatched": 287,
     "averageViewDuration": 27,
     "averageViewPercentage": 57.95,
     "subscribersGained": 2,
