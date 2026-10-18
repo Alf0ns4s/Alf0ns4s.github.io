@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-18T20:44:15+00:00",
- "stats_updated": "2026-10-18T20:44:03+00:00",
+ "synced": "2026-10-18T23:13:30+00:00",
+ "stats_updated": "2026-10-18T23:13:16+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -12,7 +12,7 @@
    ],
    "subscribers": 6,
    "views": 3585,
-   "uploads": 4,
+   "uploads": 5,
    "analytics": true,
    "daily": [
     {
@@ -504,9 +504,9 @@
    "url": "https://youtube.com/shorts/66hLUoCa31w",
    "privacy": "public",
    "publish_at": "2026-10-18T20:15:00.000Z",
-   "views": 64,
+   "views": 102,
    "likes": 1,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261018-051506_money-facts.jpg",
    "score": 98,
@@ -541,11 +541,11 @@
    "duration": 33.3,
    "youtube_id": "UA6w-3E3XUk",
    "url": "https://youtube.com/shorts/UA6w-3E3XUk",
-   "privacy": "private",
-   "publish_at": "2026-10-18T21:30:00Z",
-   "views": 1,
-   "likes": 0,
-   "comments": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-18T21:30:00.000Z",
+   "views": 224,
+   "likes": 2,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261018-050915_deep-sea-files.jpg",
    "score": 100,
@@ -579,8 +579,8 @@
    "url": "https://youtube.com/shorts/BcBogfVHAKs",
    "privacy": "public",
    "publish_at": "2026-10-16T23:15:00.000Z",
-   "views": 992,
-   "likes": 23,
+   "views": 1061,
+   "likes": 24,
    "comments": 3,
    "analytics": {
     "views": 806,
@@ -628,7 +628,7 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1025,
+   "views": 1028,
    "likes": 13,
    "comments": 1,
    "analytics": {
@@ -722,7 +722,7 @@
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "public",
    "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": 1261,
+   "views": 1262,
    "likes": 30,
    "comments": 2,
    "analytics": {
@@ -858,7 +858,7 @@
    "url": "https://youtube.com/shorts/wx6TMERkpLQ",
    "privacy": "public",
    "publish_at": "2026-10-15T21:30:00.000Z",
-   "views": 1153,
+   "views": 1152,
    "likes": 16,
    "comments": 4,
    "analytics": {
@@ -1190,7 +1190,7 @@
  ],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-18T20:44:12+00:00",
+  "updated": "2026-10-18T23:13:24+00:00",
   "videos_analysed": 13,
   "rules": [
    {
@@ -1230,13 +1230,11 @@
     "evidence": "Viewers leave fastest in scene 2 (1.92x the average rate). (8 scenes)"
    }
   ],
-  "changes": [
-   "Now likely: Give any scene over 3.5 s a second shot (new angle or close-up)."
-  ],
+  "changes": [],
   "hints": [
    "Do MORE: title style 'question'",
-   "Do MORE: speaking pace '135-150 wpm'",
    "Do LESS: title style 'POV'",
+   "Do MORE: speaking pace '135-150 wpm'",
    "Do LESS: length '44-50s'",
    "Do LESS: hook style 'POV / you'",
    "Do LESS: speaking pace 'over 165 wpm'"
@@ -1247,7 +1245,7 @@
   ],
   "start_hold": 0.957,
   "experiments": {
-   "money-facts": "imagine / what if"
+   "deep-sea-files": "imagine / what if"
   },
   "targets": {
    "words": [
@@ -1273,7 +1271,7 @@
     "top": [
      {
       "title": "POV: You're a Pufferfish and Something Wants You",
-      "views": 1261,
+      "views": 1262,
       "watched": 70.33,
       "duration": 30.6,
       "hook": "POV: you can blow up like a balloon.",
@@ -1281,7 +1279,7 @@
      },
      {
       "title": "POV: You Hunt Seals by Making Waves",
-      "views": 1153,
+      "views": 1152,
       "watched": 51.18000000000001,
       "duration": 38.3,
       "hook": "POV: you hunt seals with waves.",
@@ -1343,7 +1341,7 @@
     "top": [
      {
       "title": "Can You Read This 600-Year-Old Book? Nobody Can",
-      "views": 992,
+      "views": 1061,
       "watched": 55.65,
       "duration": 42.6,
       "hook": "Can you read this 600-year-old book?",
@@ -1378,7 +1376,7 @@
     "top": [
      {
       "title": "The Outbreak Starts on Floor 30 (Part 1)",
-      "views": 1025,
+      "views": 1028,
       "watched": 51.94,
       "duration": 41.8,
       "hook": "POV: the outbreak starts below your window.",
