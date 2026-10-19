@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-19T04:42:00+00:00",
+ "synced": "2026-10-19T05:30:26+00:00",
  "stats_updated": "2026-10-19T04:41:46+00:00",
  "channels": [
   {
@@ -433,6 +433,155 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261019-052633_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "Floor 30 - Part 3: the roof, the crate and the lit window",
+   "title": "Who Is Waving From Your Window? (Part 3)",
+   "status": "posted",
+   "created": "2026-10-19T05:30:10",
+   "scheduled_for": "2026-10-20T03:30:00+03:00",
+   "duration": 39.7,
+   "youtube_id": "AZ8tNPMufEI",
+   "url": "https://youtube.com/shorts/AZ8tNPMufEI",
+   "privacy": "private",
+   "publish_at": "2026-10-20T00:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261019-052633_outbreak-files.jpg",
+   "score": 98,
+   "video_score": 100,
+   "script_score": 97,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Description lists sources"
+   ],
+   "metrics": {
+    "cuts": 27,
+    "avg_shot": 1.42,
+    "wpm": 135,
+    "brightness": 60,
+    "loudness_db": -15.2
+   },
+   "error": null
+  },
+  {
+   "item": "20261019-051702_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Antwerp diamond heist - the heist of the century",
+   "title": "This Sandwich Solved a $100 Million Heist",
+   "status": "posted",
+   "created": "2026-10-19T05:26:33",
+   "scheduled_for": "2026-10-20T02:15:00+03:00",
+   "duration": 36.3,
+   "youtube_id": "5sAH-e__Ero",
+   "url": "https://youtube.com/shorts/5sAH-e__Ero",
+   "privacy": "private",
+   "publish_at": "2026-10-19T23:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261019-051702_mystery-files.jpg",
+   "score": 97,
+   "video_score": 96,
+   "script_score": 98,
+   "verdict": "pass",
+   "fixes": [
+    "loudness"
+   ],
+   "rounds": 3,
+   "issues": [
+    "No clipping",
+    "Talks to the viewer ('you')"
+   ],
+   "metrics": {
+    "cuts": 24,
+    "avg_shot": 1.45,
+    "wpm": 129,
+    "brightness": 61,
+    "loudness_db": -14.7
+   },
+   "error": null
+  },
+  {
+   "item": "20261019-051040_money-facts",
+   "channel": "money-facts",
+   "topic": "What an Olympic gold medal is really made of and worth",
+   "title": "Is an Olympic Gold Medal Really Gold?",
+   "status": "posted",
+   "created": "2026-10-19T05:17:02",
+   "scheduled_for": "2026-10-19T23:15:00+03:00",
+   "duration": 40.2,
+   "youtube_id": "sTUYHnzFlTQ",
+   "url": "https://youtube.com/shorts/sTUYHnzFlTQ",
+   "privacy": "private",
+   "publish_at": "2026-10-19T20:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261019-051040_money-facts.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "fewer_flashes"
+   ],
+   "rounds": 2,
+   "issues": [],
+   "metrics": {
+    "cuts": 26,
+    "avg_shot": 1.49,
+    "wpm": 133,
+    "brightness": 84,
+    "loudness_db": -15.4
+   },
+   "error": null
+  },
+  {
+   "item": "20261019-050501_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: you're a cuttlefish hypnotising a crab",
+   "title": "Can a Cuttlefish Trick a Crab With Its Skin?",
+   "status": "posted",
+   "created": "2026-10-19T05:10:40",
+   "scheduled_for": "2026-10-20T00:30:00+03:00",
+   "duration": 33.7,
+   "youtube_id": "1v6jmwLtU64",
+   "url": "https://youtube.com/shorts/1v6jmwLtU64",
+   "privacy": "private",
+   "publish_at": "2026-10-19T21:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261019-050501_deep-sea-files.jpg",
+   "score": 98,
+   "video_score": 95,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "A new shot every 1.5-4 seconds on average"
+   ],
+   "metrics": {
+    "cuts": 27,
+    "avg_shot": 1.2,
+    "wpm": 160,
+    "brightness": 113,
+    "loudness_db": -15.4
+   },
+   "error": null
+  },
   {
    "item": "20261018-052951_outbreak-files",
    "channel": "outbreak-files",
@@ -1195,19 +1344,7 @@
    "error": null
   }
  ],
- "rework": [
-  {
-   "item": "20261018-052126_mystery-files",
-   "channel": "mystery-files",
-   "topic": "The Antwerp diamond heist - the heist of the century",
-   "score": 94,
-   "round": 1,
-   "reasons": [
-    "Reviewer note: didnt pass the tes 94/100",
-    "Video is 48s. Aim for 30-38 s (with the end card): viewers watch about 28 s on average, so shorter videos get finished."
-   ]
-  }
- ],
+ "rework": [],
  "inbox_waiting": [],
  "insights": {
   "updated": "2026-10-19T04:41:57+00:00",
