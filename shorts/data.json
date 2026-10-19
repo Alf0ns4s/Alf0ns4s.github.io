@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-18T23:13:30+00:00",
- "stats_updated": "2026-10-18T23:13:16+00:00",
+ "synced": "2026-10-19T04:42:00+00:00",
+ "stats_updated": "2026-10-19T04:41:46+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -126,6 +126,11 @@
      "date": "2026-10-18",
      "subscribers": 6,
      "views": 3585
+    },
+    {
+     "date": "2026-10-19",
+     "subscribers": 6,
+     "views": 3585
     }
    ]
   },
@@ -151,7 +156,7 @@
     },
     {
      "day": "2026-10-14",
-     "views": 204,
+     "views": 202,
      "estimatedMinutesWatched": 20,
      "subscribersGained": 1,
      "subscribersLost": 0
@@ -217,6 +222,11 @@
      "date": "2026-10-18",
      "subscribers": 3,
      "views": 598
+    },
+    {
+     "date": "2026-10-19",
+     "subscribers": 3,
+     "views": 598
     }
    ]
   },
@@ -228,9 +238,9 @@
    "post_times": [
     "02:15"
    ],
-   "subscribers": 1,
+   "subscribers": 3,
    "views": 1089,
-   "uploads": 4,
+   "uploads": 5,
    "analytics": true,
    "daily": [
     {
@@ -242,7 +252,7 @@
     },
     {
      "day": "2026-10-14",
-     "views": 28,
+     "views": 27,
      "estimatedMinutesWatched": 3,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -326,6 +336,11 @@
      "date": "2026-10-18",
      "subscribers": 1,
      "views": 1089
+    },
+    {
+     "date": "2026-10-19",
+     "subscribers": 3,
+     "views": 1089
     }
    ]
   },
@@ -339,7 +354,7 @@
    ],
    "subscribers": 5,
    "views": 1014,
-   "uploads": 1,
+   "uploads": 2,
    "analytics": true,
    "daily": [
     {
@@ -408,6 +423,11 @@
      "date": "2026-10-18",
      "subscribers": 5,
      "views": 1014
+    },
+    {
+     "date": "2026-10-19",
+     "subscribers": 5,
+     "views": 1014
     }
    ]
   }
@@ -424,10 +444,10 @@
    "duration": 40.3,
    "youtube_id": "6Giz7gWBchE",
    "url": "https://youtube.com/shorts/6Giz7gWBchE",
-   "privacy": "private",
-   "publish_at": "2026-10-19T00:30:00Z",
-   "views": 4,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-19T00:30:00.000Z",
+   "views": 144,
+   "likes": 2,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261018-052951_outbreak-files.jpg",
@@ -463,11 +483,11 @@
    "duration": 47.7,
    "youtube_id": "s4SNObyfW3U",
    "url": "https://youtube.com/shorts/s4SNObyfW3U",
-   "privacy": "private",
-   "publish_at": "2026-10-18T23:15:00Z",
-   "views": 3,
-   "likes": 0,
-   "comments": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-18T23:15:00.000Z",
+   "views": 749,
+   "likes": 22,
+   "comments": 2,
    "analytics": null,
    "thumb": "thumbs/20261018-052126_mystery-files.jpg",
    "score": 94,
@@ -504,8 +524,8 @@
    "url": "https://youtube.com/shorts/66hLUoCa31w",
    "privacy": "public",
    "publish_at": "2026-10-18T20:15:00.000Z",
-   "views": 102,
-   "likes": 1,
+   "views": 150,
+   "likes": 3,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261018-051506_money-facts.jpg",
@@ -543,9 +563,9 @@
    "url": "https://youtube.com/shorts/UA6w-3E3XUk",
    "privacy": "public",
    "publish_at": "2026-10-18T21:30:00.000Z",
-   "views": 224,
-   "likes": 2,
-   "comments": 1,
+   "views": 797,
+   "likes": 9,
+   "comments": 2,
    "analytics": null,
    "thumb": "thumbs/20261018-050915_deep-sea-files.jpg",
    "score": 100,
@@ -579,7 +599,7 @@
    "url": "https://youtube.com/shorts/BcBogfVHAKs",
    "privacy": "public",
    "publish_at": "2026-10-16T23:15:00.000Z",
-   "views": 1061,
+   "views": 1089,
    "likes": 24,
    "comments": 3,
    "analytics": {
@@ -628,7 +648,7 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1028,
+   "views": 1052,
    "likes": 13,
    "comments": 1,
    "analytics": {
@@ -722,7 +742,7 @@
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "public",
    "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": 1262,
+   "views": 1263,
    "likes": 30,
    "comments": 2,
    "analytics": {
@@ -1190,7 +1210,7 @@
  ],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-18T23:13:24+00:00",
+  "updated": "2026-10-19T04:41:57+00:00",
   "videos_analysed": 13,
   "rules": [
    {
@@ -1271,7 +1291,7 @@
     "top": [
      {
       "title": "POV: You're a Pufferfish and Something Wants You",
-      "views": 1262,
+      "views": 1263,
       "watched": 70.33,
       "duration": 30.6,
       "hook": "POV: you can blow up like a balloon.",
@@ -1341,7 +1361,7 @@
     "top": [
      {
       "title": "Can You Read This 600-Year-Old Book? Nobody Can",
-      "views": 1061,
+      "views": 1089,
       "watched": 55.65,
       "duration": 42.6,
       "hook": "Can you read this 600-year-old book?",
@@ -1376,7 +1396,7 @@
     "top": [
      {
       "title": "The Outbreak Starts on Floor 30 (Part 1)",
-      "views": 1028,
+      "views": 1052,
       "watched": 51.94,
       "duration": 41.8,
       "hook": "POV: the outbreak starts below your window.",
