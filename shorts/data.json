@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-19T12:59:14+00:00",
- "stats_updated": "2026-10-19T12:59:01+00:00",
+ "synced": "2026-10-19T13:17:17+00:00",
+ "stats_updated": "2026-10-19T13:17:04+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -748,7 +748,7 @@
    "url": "https://youtube.com/shorts/BcBogfVHAKs",
    "privacy": "public",
    "publish_at": "2026-10-16T23:15:00.000Z",
-   "views": 1092,
+   "views": 1090,
    "likes": 24,
    "comments": 3,
    "analytics": {
@@ -1347,7 +1347,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-19T12:59:12+00:00",
+  "updated": "2026-10-19T13:17:14+00:00",
   "videos_analysed": 13,
   "rules": [
    {
@@ -1498,7 +1498,7 @@
     "top": [
      {
       "title": "Can You Read This 600-Year-Old Book? Nobody Can",
-      "views": 1092,
+      "views": 1090,
       "watched": 55.65,
       "duration": 42.6,
       "hook": "Can you read this 600-year-old book?",
