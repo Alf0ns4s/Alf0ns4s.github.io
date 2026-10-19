@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-19T05:30:26+00:00",
- "stats_updated": "2026-10-19T04:41:46+00:00",
+ "synced": "2026-10-19T12:59:14+00:00",
+ "stats_updated": "2026-10-19T12:59:01+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 6,
-   "views": 3585,
+   "views": 3593,
    "uploads": 5,
    "analytics": true,
    "daily": [
@@ -130,7 +130,7 @@
     {
      "date": "2026-10-19",
      "subscribers": 6,
-     "views": 3585
+     "views": 3593
     }
    ]
   },
@@ -143,7 +143,7 @@
     "23:15"
    ],
    "subscribers": 3,
-   "views": 598,
+   "views": 599,
    "uploads": 5,
    "analytics": true,
    "daily": [
@@ -226,7 +226,7 @@
     {
      "date": "2026-10-19",
      "subscribers": 3,
-     "views": 598
+     "views": 599
     }
    ]
   },
@@ -238,8 +238,8 @@
    "post_times": [
     "02:15"
    ],
-   "subscribers": 3,
-   "views": 1089,
+   "subscribers": 2,
+   "views": 1195,
    "uploads": 5,
    "analytics": true,
    "daily": [
@@ -339,8 +339,8 @@
     },
     {
      "date": "2026-10-19",
-     "subscribers": 3,
-     "views": 1089
+     "subscribers": 2,
+     "views": 1195
     }
    ]
   },
@@ -353,7 +353,7 @@
     "03:30"
    ],
    "subscribers": 5,
-   "views": 1014,
+   "views": 1027,
    "uploads": 2,
    "analytics": true,
    "daily": [
@@ -427,7 +427,7 @@
     {
      "date": "2026-10-19",
      "subscribers": 5,
-     "views": 1014
+     "views": 1027
     }
    ]
   }
@@ -445,10 +445,10 @@
    "youtube_id": "AZ8tNPMufEI",
    "url": "https://youtube.com/shorts/AZ8tNPMufEI",
    "privacy": "private",
-   "publish_at": "2026-10-20T00:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-20T00:30:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261019-052633_outbreak-files.jpg",
    "score": 98,
@@ -481,10 +481,10 @@
    "youtube_id": "5sAH-e__Ero",
    "url": "https://youtube.com/shorts/5sAH-e__Ero",
    "privacy": "private",
-   "publish_at": "2026-10-19T23:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-19T23:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261019-051702_mystery-files.jpg",
    "score": 97,
@@ -520,10 +520,10 @@
    "youtube_id": "sTUYHnzFlTQ",
    "url": "https://youtube.com/shorts/sTUYHnzFlTQ",
    "privacy": "private",
-   "publish_at": "2026-10-19T20:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-19T20:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261019-051040_money-facts.jpg",
    "score": 100,
@@ -556,10 +556,10 @@
    "youtube_id": "1v6jmwLtU64",
    "url": "https://youtube.com/shorts/1v6jmwLtU64",
    "privacy": "private",
-   "publish_at": "2026-10-19T21:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-10-19T21:30:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261019-050501_deep-sea-files.jpg",
    "score": 98,
@@ -595,9 +595,9 @@
    "url": "https://youtube.com/shorts/6Giz7gWBchE",
    "privacy": "public",
    "publish_at": "2026-10-19T00:30:00.000Z",
-   "views": 144,
-   "likes": 2,
-   "comments": 0,
+   "views": 395,
+   "likes": 5,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261018-052951_outbreak-files.jpg",
    "score": 98,
@@ -634,9 +634,9 @@
    "url": "https://youtube.com/shorts/s4SNObyfW3U",
    "privacy": "public",
    "publish_at": "2026-10-18T23:15:00.000Z",
-   "views": 749,
-   "likes": 22,
-   "comments": 2,
+   "views": 950,
+   "likes": 20,
+   "comments": 3,
    "analytics": null,
    "thumb": "thumbs/20261018-052126_mystery-files.jpg",
    "score": 94,
@@ -673,7 +673,7 @@
    "url": "https://youtube.com/shorts/66hLUoCa31w",
    "privacy": "public",
    "publish_at": "2026-10-18T20:15:00.000Z",
-   "views": 150,
+   "views": 151,
    "likes": 3,
    "comments": 1,
    "analytics": null,
@@ -712,7 +712,7 @@
    "url": "https://youtube.com/shorts/UA6w-3E3XUk",
    "privacy": "public",
    "publish_at": "2026-10-18T21:30:00.000Z",
-   "views": 797,
+   "views": 814,
    "likes": 9,
    "comments": 2,
    "analytics": null,
@@ -748,7 +748,7 @@
    "url": "https://youtube.com/shorts/BcBogfVHAKs",
    "privacy": "public",
    "publish_at": "2026-10-16T23:15:00.000Z",
-   "views": 1089,
+   "views": 1092,
    "likes": 24,
    "comments": 3,
    "analytics": {
@@ -797,7 +797,7 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1052,
+   "views": 1064,
    "likes": 13,
    "comments": 1,
    "analytics": {
@@ -891,7 +891,7 @@
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "public",
    "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": 1263,
+   "views": 1288,
    "likes": 30,
    "comments": 2,
    "analytics": {
@@ -1076,7 +1076,7 @@
    "likes": 1,
    "comments": 1,
    "analytics": {
-    "views": 26,
+    "views": 25,
     "estimatedMinutesWatched": 1,
     "averageViewDuration": 34,
     "averageViewPercentage": 55.87,
@@ -1269,7 +1269,7 @@
    "likes": 4,
    "comments": 1,
    "analytics": {
-    "views": 374,
+    "views": 372,
     "estimatedMinutesWatched": 38,
     "averageViewDuration": 17,
     "averageViewPercentage": 36.4,
@@ -1320,7 +1320,7 @@
     "views": 1160,
     "estimatedMinutesWatched": 290,
     "averageViewDuration": 27,
-    "averageViewPercentage": 57.64,
+    "averageViewPercentage": 57.440000000000005,
     "subscribersGained": 2,
     "likes": 33,
     "shares": 2,
@@ -1347,7 +1347,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-19T04:41:57+00:00",
+  "updated": "2026-10-19T12:59:12+00:00",
   "videos_analysed": 13,
   "rules": [
    {
@@ -1384,7 +1384,7 @@
     "feature": "pos_scene_2",
     "level": "likely",
     "text": "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'.",
-    "evidence": "Viewers leave fastest in scene 2 (1.92x the average rate). (8 scenes)"
+    "evidence": "Viewers leave fastest in scene 2 (1.9x the average rate). (8 scenes)"
    }
   ],
   "changes": [],
@@ -1398,7 +1398,7 @@
   ],
   "leave": [
    "One-shot scenes longer than 3.5 seconds lose viewers 2.6x faster. Give any scene over 3.5 s a second shot (new angle or close-up).",
-   "Viewers leave fastest in scene 2 (1.92x the average rate). Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
+   "Viewers leave fastest in scene 2 (1.9x the average rate). Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
   ],
   "start_hold": 0.957,
   "experiments": {
@@ -1428,7 +1428,7 @@
     "top": [
      {
       "title": "POV: You're a Pufferfish and Something Wants You",
-      "views": 1263,
+      "views": 1288,
       "watched": 70.33,
       "duration": 30.6,
       "hook": "POV: you can blow up like a balloon.",
@@ -1445,7 +1445,7 @@
      {
       "title": "POV: You're the Octopus That Turns Into Other Animals",
       "views": 1170,
-      "watched": 57.64,
+      "watched": 57.440000000000005,
       "duration": 47.7,
       "hook": "POV: you're a mimic octopus.",
       "hook_style": "POV / you"
@@ -1498,7 +1498,7 @@
     "top": [
      {
       "title": "Can You Read This 600-Year-Old Book? Nobody Can",
-      "views": 1089,
+      "views": 1092,
       "watched": 55.65,
       "duration": 42.6,
       "hook": "Can you read this 600-year-old book?",
@@ -1533,7 +1533,7 @@
     "top": [
      {
       "title": "The Outbreak Starts on Floor 30 (Part 1)",
-      "views": 1052,
+      "views": 1064,
       "watched": 51.94,
       "duration": 41.8,
       "hook": "POV: the outbreak starts below your window.",
