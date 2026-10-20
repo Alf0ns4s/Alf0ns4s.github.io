@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-20T12:01:29+00:00",
+ "synced": "2026-10-20T12:15:59+00:00",
  "stats_updated": "2026-10-20T11:26:24+00:00",
  "channels": [
   {
@@ -486,6 +486,40 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261020-121112_money-facts",
+   "channel": "money-facts",
+   "topic": "Spotify stream payout per play",
+   "title": "Only $0.003 per Spotify Stream? The Shocking Truth",
+   "status": "posted",
+   "created": "2026-10-20T12:15:52",
+   "scheduled_for": "2026-10-20T23:15:00+03:00",
+   "duration": 33.9,
+   "youtube_id": "I_l9BNRqCWg",
+   "url": "https://youtube.com/shorts/I_l9BNRqCWg",
+   "privacy": "private",
+   "publish_at": "2026-10-20T20:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261020-121112_money-facts.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 18,
+    "avg_shot": 1.79,
+    "wpm": 132,
+    "brightness": 79,
+    "loudness_db": -14.8
+   },
+   "error": null
+  },
   {
    "item": "20261020-115747_outbreak-files",
    "channel": "outbreak-files",
