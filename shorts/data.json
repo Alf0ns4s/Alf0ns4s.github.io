@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-20T11:26:35+00:00",
+ "synced": "2026-10-20T12:01:29+00:00",
  "stats_updated": "2026-10-20T11:26:24+00:00",
  "channels": [
   {
@@ -486,6 +486,77 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261020-115747_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "Outbreak Files - The Cruise Ship (Part 1)",
+   "title": "30 Hours Below Deck: The Impossible Outbreak (Part 1)",
+   "status": "posted",
+   "created": "2026-10-20T12:01:17",
+   "scheduled_for": "2026-10-21T03:30:00+03:00",
+   "duration": 29.7,
+   "youtube_id": "Azd1a_nxP2c",
+   "url": "https://youtube.com/shorts/Azd1a_nxP2c",
+   "privacy": "private",
+   "publish_at": "2026-10-21T00:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261020-115747_outbreak-files.jpg",
+   "score": 96,
+   "video_score": 100,
+   "script_score": 92,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Numbers are made relatable",
+    "Description lists sources"
+   ],
+   "metrics": {
+    "cuts": 18,
+    "avg_shot": 1.56,
+    "wpm": 154,
+    "brightness": 67,
+    "loudness_db": -15.4
+   },
+   "error": null
+  },
+  {
+   "item": "20261020-115356_mystery-files",
+   "channel": "mystery-files",
+   "topic": "Kryptos \u2013 the CIA sculpture with an unsolved code segment",
+   "title": "867 Letters, 4 Solved, 1 Mystery: Kryptos' Hidden Code",
+   "status": "posted",
+   "created": "2026-10-20T11:57:42",
+   "scheduled_for": "2026-10-21T02:15:00+03:00",
+   "duration": 34.5,
+   "youtube_id": "uDUELAFjZ9Y",
+   "url": "https://youtube.com/shorts/uDUELAFjZ9Y",
+   "privacy": "private",
+   "publish_at": "2026-10-20T23:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261020-115356_mystery-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 15,
+    "avg_shot": 2.16,
+    "wpm": 134,
+    "brightness": 89,
+    "loudness_db": -15.8
+   },
+   "error": null
+  },
   {
    "item": "20261019-052633_outbreak-files",
    "channel": "outbreak-files",
