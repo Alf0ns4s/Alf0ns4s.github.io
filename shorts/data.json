@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-20T00:21:13+00:00",
- "stats_updated": "2026-10-20T00:21:01+00:00",
+ "synced": "2026-10-20T08:34:04+00:00",
+ "stats_updated": "2026-10-20T08:33:52+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 6,
-   "views": 3595,
+   "views": 4495,
    "uploads": 6,
    "analytics": true,
    "daily": [
@@ -147,7 +147,7 @@
     {
      "date": "2026-10-20",
      "subscribers": 6,
-     "views": 3595
+     "views": 4495
     }
    ]
   },
@@ -159,8 +159,8 @@
    "post_times": [
     "23:15"
    ],
-   "subscribers": 3,
-   "views": 599,
+   "subscribers": 4,
+   "views": 750,
    "uploads": 6,
    "analytics": true,
    "daily": [
@@ -254,8 +254,8 @@
     },
     {
      "date": "2026-10-20",
-     "subscribers": 3,
-     "views": 599
+     "subscribers": 4,
+     "views": 750
     }
    ]
   },
@@ -268,7 +268,7 @@
     "02:15"
    ],
    "subscribers": 2,
-   "views": 1269,
+   "views": 2233,
    "uploads": 6,
    "analytics": true,
    "daily": [
@@ -381,7 +381,7 @@
     {
      "date": "2026-10-20",
      "subscribers": 2,
-     "views": 1269
+     "views": 2233
     }
    ]
   },
@@ -393,9 +393,9 @@
    "post_times": [
     "03:30"
    ],
-   "subscribers": 5,
-   "views": 1051,
-   "uploads": 2,
+   "subscribers": 10,
+   "views": 1486,
+   "uploads": 3,
    "analytics": true,
    "daily": [
     {
@@ -479,8 +479,8 @@
     },
     {
      "date": "2026-10-20",
-     "subscribers": 5,
-     "views": 1051
+     "subscribers": 10,
+     "views": 1486
     }
    ]
   }
@@ -497,11 +497,11 @@
    "duration": 39.7,
    "youtube_id": "AZ8tNPMufEI",
    "url": "https://youtube.com/shorts/AZ8tNPMufEI",
-   "privacy": "private",
-   "publish_at": "2026-10-20T00:30:00Z",
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-20T00:30:00.000Z",
+   "views": 894,
+   "likes": 19,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261019-052633_outbreak-files.jpg",
    "score": 98,
@@ -535,9 +535,9 @@
    "url": "https://youtube.com/shorts/5sAH-e__Ero",
    "privacy": "public",
    "publish_at": "2026-10-19T23:15:00.000Z",
-   "views": 24,
-   "likes": 0,
-   "comments": 0,
+   "views": 53,
+   "likes": 1,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261019-051702_mystery-files.jpg",
    "score": 97,
@@ -574,7 +574,7 @@
    "url": "https://youtube.com/shorts/sTUYHnzFlTQ",
    "privacy": "public",
    "publish_at": "2026-10-19T20:15:00.000Z",
-   "views": 9,
+   "views": 70,
    "likes": 1,
    "comments": 1,
    "analytics": null,
@@ -610,9 +610,9 @@
    "url": "https://youtube.com/shorts/1v6jmwLtU64",
    "privacy": "public",
    "publish_at": "2026-10-19T21:30:00.000Z",
-   "views": 71,
-   "likes": 3,
-   "comments": 0,
+   "views": 200,
+   "likes": 2,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261019-050501_deep-sea-files.jpg",
    "score": 98,
@@ -648,8 +648,8 @@
    "url": "https://youtube.com/shorts/6Giz7gWBchE",
    "privacy": "public",
    "publish_at": "2026-10-19T00:30:00.000Z",
-   "views": 421,
-   "likes": 5,
+   "views": 485,
+   "likes": 6,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261018-052951_outbreak-files.jpg",
@@ -687,7 +687,7 @@
    "url": "https://youtube.com/shorts/s4SNObyfW3U",
    "privacy": "public",
    "publish_at": "2026-10-18T23:15:00.000Z",
-   "views": 962,
+   "views": 948,
    "likes": 20,
    "comments": 3,
    "analytics": null,
@@ -726,7 +726,7 @@
    "url": "https://youtube.com/shorts/66hLUoCa31w",
    "privacy": "public",
    "publish_at": "2026-10-18T20:15:00.000Z",
-   "views": 164,
+   "views": 183,
    "likes": 3,
    "comments": 1,
    "analytics": null,
@@ -765,7 +765,7 @@
    "url": "https://youtube.com/shorts/UA6w-3E3XUk",
    "privacy": "public",
    "publish_at": "2026-10-18T21:30:00.000Z",
-   "views": 1215,
+   "views": 1221,
    "likes": 9,
    "comments": 2,
    "analytics": null,
@@ -850,9 +850,9 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1070,
-   "likes": 14,
-   "comments": 1,
+   "views": 1077,
+   "likes": 15,
+   "comments": 2,
    "analytics": {
     "views": 1035,
     "estimatedMinutesWatched": 162,
@@ -944,7 +944,7 @@
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "public",
    "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": 1318,
+   "views": 1325,
    "likes": 30,
    "comments": 2,
    "analytics": {
@@ -1080,11 +1080,11 @@
    "url": "https://youtube.com/shorts/wx6TMERkpLQ",
    "privacy": "public",
    "publish_at": "2026-10-15T21:30:00.000Z",
-   "views": 1152,
+   "views": 1151,
    "likes": 16,
    "comments": 4,
    "analytics": {
-    "views": 1157,
+    "views": 1158,
     "estimatedMinutesWatched": 167,
     "averageViewDuration": 19,
     "averageViewPercentage": 51.04,
@@ -1400,8 +1400,8 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-20T00:21:11+00:00",
-  "videos_analysed": 13,
+  "updated": "2026-10-20T08:34:01+00:00",
+  "videos_analysed": 14,
   "rules": [
    {
     "id": "action:lots of acting/effects",
@@ -1411,7 +1411,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Use lots of acting and effects (2+ per scene)",
-    "evidence": "7 videos vs 6, 68% better (agrees on 2 channel(s), disagrees on 1)"
+    "evidence": "8 videos vs 6, 72% better (agrees on 3 channel(s), disagrees on 0)"
    },
    {
     "id": "length:38-44s",
@@ -1421,7 +1421,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Do MORE: length '38-44s'",
-    "evidence": "4 videos vs 9, 44% better (agrees on 2 channel(s), disagrees on 1)"
+    "evidence": "5 videos vs 9, 53% better (agrees on 2 channel(s), disagrees on 1)"
    },
    {
     "id": "hook_words:first line 5-6 words",
@@ -1431,7 +1431,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Do MORE: first line length 'first line 5-6 words'",
-    "evidence": "6 videos vs 7, 21% better (agrees on 2 channel(s), disagrees on 1)"
+    "evidence": "7 videos vs 7, 25% better (agrees on 2 channel(s), disagrees on 1)"
    },
    {
     "id": "scene:shots",
@@ -1452,12 +1452,12 @@
   ],
   "changes": [],
   "hints": [
-   "Do MORE: title style 'question'",
    "Do MORE: speaking pace '135-150 wpm'",
-   "Do LESS: title style 'POV'",
    "Do LESS: length '44-50s'",
+   "Do MORE: title style 'question'",
+   "Do LESS: title style 'POV'",
    "Do LESS: hook style 'POV / you'",
-   "Do LESS: speaking pace 'over 165 wpm'"
+   "Do MORE: average scene length 'scenes under 4s'"
   ],
   "leave": [
    "One-shot scenes longer than 3.5 seconds lose viewers 2.6x faster. Give any scene over 3.5 s a second shot (new angle or close-up).",
@@ -1492,7 +1492,7 @@
     "top": [
      {
       "title": "POV: You're a Pufferfish and Something Wants You",
-      "views": 1318,
+      "views": 1325,
       "watched": 70.15,
       "duration": 30.6,
       "hook": "POV: you can blow up like a balloon.",
@@ -1500,7 +1500,7 @@
      },
      {
       "title": "POV: You Hunt Seals by Making Waves",
-      "views": 1152,
+      "views": 1151,
       "watched": 51.04,
       "duration": 38.3,
       "hook": "POV: you hunt seals with waves.",
@@ -1517,7 +1517,7 @@
     ]
    },
    "money-facts": {
-    "count": 4,
+    "count": 5,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Do MORE: length '38-44s'",
@@ -1526,6 +1526,14 @@
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
     "top": [
+     {
+      "title": "This 16-Year-Old Won $3 Million Playing a Game",
+      "views": 183,
+      "watched": null,
+      "duration": 38.1,
+      "hook": "This 16-year-old won $3 million gaming.",
+      "hook_style": "shocking number"
+     },
      {
       "title": "Why This Steering Wheel Costs $50,000",
       "views": 372,
@@ -1540,14 +1548,6 @@
       "watched": 40.52,
       "duration": 49.9,
       "hook": "30 seconds of TV: $8 million.",
-      "hook_style": "shocking number"
-     },
-     {
-      "title": "Your $11 Movie Ticket? The Cinema Keeps About $3",
-      "views": 38,
-      "watched": 62.970000000000006,
-      "duration": 57.3,
-      "hook": "You pay about $11 for a movie ticket.",
       "hook_style": "shocking number"
      }
     ]
@@ -1600,7 +1600,7 @@
     "top": [
      {
       "title": "The Outbreak Starts on Floor 30 (Part 1)",
-      "views": 1070,
+      "views": 1077,
       "watched": 50.89,
       "duration": 41.8,
       "hook": "POV: the outbreak starts below your window.",
