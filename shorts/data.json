@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-21T04:48:57+00:00",
+ "synced": "2026-10-21T09:47:29+00:00",
  "stats_updated": "2026-10-21T04:48:46+00:00",
  "channels": [
   {
@@ -567,6 +567,44 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261021-094222_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "Cruise ship zombie outbreak",
+   "title": "4 Days, No Power, Zombies Below Deck (Part 2)",
+   "status": "posted",
+   "created": "2026-10-21T09:47:19",
+   "scheduled_for": "2026-10-22T03:30:00+03:00",
+   "duration": 33.4,
+   "youtube_id": "-5mZr6URP04",
+   "url": "https://youtube.com/shorts/-5mZr6URP04",
+   "privacy": "private",
+   "publish_at": "2026-10-22T00:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261021-094222_outbreak-files.jpg",
+   "score": 92,
+   "video_score": 100,
+   "script_score": 85,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Hook has a shock, number, question or contrast",
+    "At least 2 open loops / escalations",
+    "Description lists sources"
+   ],
+   "metrics": {
+    "cuts": 19,
+    "avg_shot": 1.67,
+    "wpm": 157,
+    "brightness": 70,
+    "loudness_db": -15.4
+   },
+   "error": null
+  },
   {
    "item": "20261020-123437_deep-sea-files",
    "channel": "deep-sea-files",
