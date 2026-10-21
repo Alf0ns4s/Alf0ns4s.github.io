@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-20T23:53:23+00:00",
- "stats_updated": "2026-10-20T23:53:10+00:00",
+ "synced": "2026-10-21T04:48:57+00:00",
+ "stats_updated": "2026-10-21T04:48:46+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -165,6 +165,11 @@
      "date": "2026-10-20",
      "subscribers": 6,
      "views": 4495
+    },
+    {
+     "date": "2026-10-21",
+     "subscribers": 6,
+     "views": 4495
     }
    ]
   },
@@ -280,6 +285,11 @@
      "date": "2026-10-20",
      "subscribers": 5,
      "views": 750
+    },
+    {
+     "date": "2026-10-21",
+     "subscribers": 5,
+     "views": 750
     }
    ]
   },
@@ -292,7 +302,7 @@
     "02:15"
    ],
    "subscribers": 4,
-   "views": 2233,
+   "views": 2224,
    "uploads": 7,
    "analytics": true,
    "daily": [
@@ -436,6 +446,11 @@
      "date": "2026-10-20",
      "subscribers": 4,
      "views": 2233
+    },
+    {
+     "date": "2026-10-21",
+     "subscribers": 4,
+     "views": 2224
     }
    ]
   },
@@ -447,9 +462,9 @@
    "post_times": [
     "03:30"
    ],
-   "subscribers": 11,
+   "subscribers": 12,
    "views": 1486,
-   "uploads": 3,
+   "uploads": 4,
    "analytics": true,
    "daily": [
     {
@@ -542,6 +557,11 @@
      "date": "2026-10-20",
      "subscribers": 11,
      "views": 1486
+    },
+    {
+     "date": "2026-10-21",
+     "subscribers": 12,
+     "views": 1486
     }
    ]
   }
@@ -560,9 +580,9 @@
    "url": "https://youtube.com/shorts/ACRS7mnluxM",
    "privacy": "public",
    "publish_at": "2026-10-20T21:30:00.000Z",
-   "views": 173,
-   "likes": 4,
-   "comments": 0,
+   "views": 231,
+   "likes": 6,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261020-123437_deep-sea-files.jpg",
    "score": 95,
@@ -601,9 +621,9 @@
    "url": "https://youtube.com/shorts/I_l9BNRqCWg",
    "privacy": "public",
    "publish_at": "2026-10-20T20:15:00.000Z",
-   "views": 238,
+   "views": 308,
    "likes": 5,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261020-121112_money-facts.jpg",
    "score": 100,
@@ -633,10 +653,10 @@
    "duration": 29.7,
    "youtube_id": "Azd1a_nxP2c",
    "url": "https://youtube.com/shorts/Azd1a_nxP2c",
-   "privacy": "private",
-   "publish_at": "2026-10-21T00:30:00Z",
-   "views": 1,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-21T00:30:00.000Z",
+   "views": 260,
+   "likes": 7,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261020-115747_outbreak-files.jpg",
@@ -672,9 +692,9 @@
    "url": "https://youtube.com/shorts/uDUELAFjZ9Y",
    "privacy": "public",
    "publish_at": "2026-10-20T23:15:00.000Z",
-   "views": 8,
+   "views": 25,
    "likes": 0,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261020-115356_mystery-files.jpg",
    "score": 100,
@@ -706,7 +726,7 @@
    "url": "https://youtube.com/shorts/AZ8tNPMufEI",
    "privacy": "public",
    "publish_at": "2026-10-20T00:30:00.000Z",
-   "views": 1044,
+   "views": 1054,
    "likes": 20,
    "comments": 2,
    "analytics": null,
@@ -742,7 +762,7 @@
    "url": "https://youtube.com/shorts/5sAH-e__Ero",
    "privacy": "public",
    "publish_at": "2026-10-19T23:15:00.000Z",
-   "views": 104,
+   "views": 106,
    "likes": 1,
    "comments": 1,
    "analytics": null,
@@ -781,7 +801,7 @@
    "url": "https://youtube.com/shorts/sTUYHnzFlTQ",
    "privacy": "public",
    "publish_at": "2026-10-19T20:15:00.000Z",
-   "views": 158,
+   "views": 169,
    "likes": 3,
    "comments": 1,
    "analytics": null,
@@ -817,8 +837,8 @@
    "url": "https://youtube.com/shorts/1v6jmwLtU64",
    "privacy": "public",
    "publish_at": "2026-10-19T21:30:00.000Z",
-   "views": 447,
-   "likes": 2,
+   "views": 476,
+   "likes": 4,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261019-050501_deep-sea-files.jpg",
@@ -855,7 +875,7 @@
    "url": "https://youtube.com/shorts/6Giz7gWBchE",
    "privacy": "public",
    "publish_at": "2026-10-19T00:30:00.000Z",
-   "views": 525,
+   "views": 539,
    "likes": 7,
    "comments": 1,
    "analytics": {
@@ -951,7 +971,7 @@
    "url": "https://youtube.com/shorts/66hLUoCa31w",
    "privacy": "public",
    "publish_at": "2026-10-18T20:15:00.000Z",
-   "views": 266,
+   "views": 267,
    "likes": 5,
    "comments": 1,
    "analytics": {
@@ -1000,7 +1020,7 @@
    "privacy": "public",
    "publish_at": "2026-10-18T21:30:00.000Z",
    "views": 1218,
-   "likes": 9,
+   "likes": 8,
    "comments": 2,
    "analytics": {
     "views": 809,
@@ -1462,7 +1482,7 @@
    "url": "https://youtube.com/shorts/mK8M0AsWmLQ",
    "privacy": "public",
    "publish_at": "2026-10-14T21:30:00.000Z",
-   "views": 10,
+   "views": 11,
    "likes": 2,
    "comments": 1,
    "analytics": {
@@ -1609,7 +1629,7 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 1171,
+   "views": 1172,
    "likes": 33,
    "comments": 2,
    "analytics": {
@@ -1643,7 +1663,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-20T23:53:20+00:00",
+  "updated": "2026-10-21T04:48:54+00:00",
   "videos_analysed": 17,
   "rules": [
    {
@@ -1819,7 +1839,7 @@
     "top": [
      {
       "title": "This 16-Year-Old Won $3 Million Playing a Game",
-      "views": 266,
+      "views": 267,
       "watched": 43.39,
       "duration": 38.1,
       "hook": "This 16-year-old won $3 million gaming.",
@@ -1907,7 +1927,7 @@
      },
      {
       "title": "One Seat Left. Two Survivors. (Part 2)",
-      "views": 525,
+      "views": 539,
       "watched": 49.25,
       "duration": 40.3,
       "hook": "Floor 30.",
