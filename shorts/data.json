@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-21T11:40:17+00:00",
- "stats_updated": "2026-10-21T11:40:02+00:00",
+ "synced": "2026-10-21T11:50:30+00:00",
+ "stats_updated": "2026-10-21T11:50:14+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -618,7 +618,7 @@
    "url": "https://youtube.com/shorts/ACRS7mnluxM",
    "privacy": "public",
    "publish_at": "2026-10-20T21:30:00.000Z",
-   "views": 286,
+   "views": 285,
    "likes": 6,
    "comments": 1,
    "analytics": null,
@@ -764,7 +764,7 @@
    "url": "https://youtube.com/shorts/AZ8tNPMufEI",
    "privacy": "public",
    "publish_at": "2026-10-20T00:30:00.000Z",
-   "views": 1281,
+   "views": 1284,
    "likes": 20,
    "comments": 2,
    "analytics": null,
@@ -1701,7 +1701,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-21T11:40:15+00:00",
+  "updated": "2026-10-21T11:50:27+00:00",
   "videos_analysed": 20,
   "rules": [
    {
@@ -1801,11 +1801,7 @@
     "evidence": "Viewers leave fastest in scene 2 (1.95x the average rate). (13 scenes)"
    }
   ],
-  "changes": [
-   "Now likely: Do MORE: average scene length 'scenes under 4s'",
-   "Now likely: Do MORE: title style 'question'",
-   "Dropped (no longer holds): Do MORE: title style 'number'"
-  ],
+  "changes": [],
   "hints": [
    "Do LESS: speaking pace '150-165 wpm'",
    "Do LESS: average scene length 'scenes 5-6s'",
