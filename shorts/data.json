@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-21T13:03:51+00:00",
+ "synced": "2026-10-21T13:41:43+00:00",
  "stats_updated": "2026-10-21T11:50:14+00:00",
  "channels": [
   {
@@ -567,6 +567,121 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261021-133004_mystery-files",
+   "channel": "mystery-files",
+   "topic": "Dyatlov Pass mystery",
+   "title": "What if nine hikers were caught in a deadly snowstorm?",
+   "status": "posted",
+   "created": "2026-10-21T13:41:28",
+   "scheduled_for": "2026-10-22T02:15:00+03:00",
+   "duration": 38.0,
+   "youtube_id": "rxPMvpp2U3E",
+   "url": "https://youtube.com/shorts/rxPMvpp2U3E",
+   "privacy": "private",
+   "publish_at": "2026-10-21T23:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261021-133004_mystery-files.jpg",
+   "score": 96,
+   "video_score": 95,
+   "script_score": 98,
+   "verdict": "pass",
+   "fixes": [
+    "fewer_flashes"
+   ],
+   "rounds": 2,
+   "issues": [
+    "No empty-looking shots",
+    "Talks to the viewer ('you')"
+   ],
+   "metrics": {
+    "cuts": 15,
+    "avg_shot": 2.38,
+    "wpm": 137,
+    "brightness": 51,
+    "loudness_db": -15.8
+   },
+   "error": null
+  },
+  {
+   "item": "20261021-132506_money-facts",
+   "channel": "money-facts",
+   "topic": "iPhone 15 manufacturing cost",
+   "title": "How can an iPhone 15 cost $200 to make?",
+   "status": "posted",
+   "created": "2026-10-21T13:29:59",
+   "scheduled_for": "2026-10-21T23:15:00+03:00",
+   "duration": 34.8,
+   "youtube_id": "s5-OgOfe6VQ",
+   "url": "https://youtube.com/shorts/s5-OgOfe6VQ",
+   "privacy": "private",
+   "publish_at": "2026-10-21T20:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261021-132506_money-facts.jpg",
+   "score": 96,
+   "video_score": 100,
+   "script_score": 92,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "At least 2 open loops / escalations",
+    "Numbers are made relatable"
+   ],
+   "metrics": {
+    "cuts": 17,
+    "avg_shot": 1.94,
+    "wpm": 134,
+    "brightness": 84,
+    "loudness_db": -15.9
+   },
+   "error": null
+  },
+  {
+   "item": "20261021-131649_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "vampire squid bioluminescent mucus",
+   "title": "Can glowing mucus hide you from predators?",
+   "status": "posted",
+   "created": "2026-10-21T13:25:00",
+   "scheduled_for": "2026-10-22T00:30:00+03:00",
+   "duration": 27.7,
+   "youtube_id": "cJxgc0Oa9-k",
+   "url": "https://youtube.com/shorts/cJxgc0Oa9-k",
+   "privacy": "private",
+   "publish_at": "2026-10-21T21:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261021-131649_deep-sea-files.jpg",
+   "score": 96,
+   "video_score": 93,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "brighten",
+    "fewer_flashes"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Length 28-42 seconds"
+   ],
+   "metrics": {
+    "cuts": 11,
+    "avg_shot": 2.31,
+    "wpm": 158,
+    "brightness": 61,
+    "loudness_db": -15.4
+   },
+   "error": null
+  },
   {
    "item": "20261021-094222_outbreak-files",
    "channel": "outbreak-files",
