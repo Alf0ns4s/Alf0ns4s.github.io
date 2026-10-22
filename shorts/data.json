@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-22T04:47:27+00:00",
+ "synced": "2026-10-22T10:23:46+00:00",
  "stats_updated": "2026-10-22T04:47:17+00:00",
  "channels": [
   {
@@ -640,6 +640,159 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261022-101827_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "Cruise ship zombie outbreak escape",
+   "title": "What happened when the ship lost power? (Part 3)",
+   "status": "posted",
+   "created": "2026-10-22T10:23:27",
+   "scheduled_for": "2026-10-23T03:30:00+03:00",
+   "duration": 34.6,
+   "youtube_id": "FV7koeCZk8Y",
+   "url": "https://youtube.com/shorts/FV7koeCZk8Y",
+   "privacy": "private",
+   "publish_at": "2026-10-23T00:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261022-101827_outbreak-files.jpg",
+   "score": 96,
+   "video_score": 100,
+   "script_score": 93,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Frame 1 shows the main subject big",
+    "Description lists sources"
+   ],
+   "metrics": {
+    "cuts": 21,
+    "avg_shot": 1.58,
+    "wpm": 144,
+    "brightness": 64,
+    "loudness_db": -15.1
+   },
+   "error": null
+  },
+  {
+   "item": "20261022-100010_mystery-files",
+   "channel": "mystery-files",
+   "topic": "Golden State Killer solved by DNA genealogy",
+   "title": "What if DNA could finally identify a 78\u2011year\u2011old killer?",
+   "status": "posted",
+   "created": "2026-10-22T10:18:27",
+   "scheduled_for": "2026-10-23T02:15:00+03:00",
+   "duration": 43.3,
+   "youtube_id": "53BV6Xa5E8k",
+   "url": "https://youtube.com/shorts/53BV6Xa5E8k",
+   "privacy": "private",
+   "publish_at": "2026-10-22T23:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261022-100010_mystery-files.jpg",
+   "score": 88,
+   "video_score": 89,
+   "script_score": 86,
+   "verdict": "pass",
+   "fixes": [
+    "tighten"
+   ],
+   "rounds": 3,
+   "issues": [
+    "Calm speaking speed 125-175 words per minute (with pauses)",
+    "Length 28-42 seconds",
+    "First line is 4-8 words (lands in ~1.5 s)",
+    "Frame 1 shows the main subject big",
+    "At least 2 open loops / escalations",
+    "Talks to the viewer ('you')"
+   ],
+   "metrics": {
+    "cuts": 21,
+    "avg_shot": 1.97,
+    "wpm": 120,
+    "brightness": 60,
+    "loudness_db": -15.9
+   },
+   "error": null
+  },
+  {
+   "item": "20261022-095456_money-facts",
+   "channel": "money-facts",
+   "topic": "TikTok creator earnings per million views",
+   "title": "How much do TikTok creators earn per million views?",
+   "status": "posted",
+   "created": "2026-10-22T10:00:07",
+   "scheduled_for": "2026-10-22T23:15:00+03:00",
+   "duration": 39.1,
+   "youtube_id": "q2VMHnVtuwA",
+   "url": "https://youtube.com/shorts/q2VMHnVtuwA",
+   "privacy": "private",
+   "publish_at": "2026-10-22T20:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261022-095456_money-facts.jpg",
+   "score": 98,
+   "video_score": 100,
+   "script_score": 97,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "First line is 4-8 words (lands in ~1.5 s)"
+   ],
+   "metrics": {
+    "cuts": 20,
+    "avg_shot": 1.86,
+    "wpm": 151,
+    "brightness": 71,
+    "loudness_db": -15.4
+   },
+   "error": null
+  },
+  {
+   "item": "20261022-095039_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: you're a bobbit worm ambushing prey",
+   "title": "Why does a 10\u2011ft bobbit worm strike so fast?",
+   "status": "posted",
+   "created": "2026-10-22T09:54:51",
+   "scheduled_for": "2026-10-23T00:30:00+03:00",
+   "duration": 29.5,
+   "youtube_id": "uCODTjlf20o",
+   "url": "https://youtube.com/shorts/uCODTjlf20o",
+   "privacy": "private",
+   "publish_at": "2026-10-22T21:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261022-095039_deep-sea-files.jpg",
+   "score": 98,
+   "video_score": 97,
+   "script_score": 98,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "No empty-looking shots",
+    "Talks to the viewer ('you')"
+   ],
+   "metrics": {
+    "cuts": 18,
+    "avg_shot": 1.55,
+    "wpm": 167,
+    "brightness": 128,
+    "loudness_db": -15.4
+   },
+   "error": null
+  },
   {
    "item": "20261021-133004_mystery-files",
    "channel": "mystery-files",
