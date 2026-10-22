@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-22T11:41:41+00:00",
- "stats_updated": "2026-10-22T11:41:29+00:00",
+ "synced": "2026-10-22T11:53:48+00:00",
+ "stats_updated": "2026-10-22T11:53:36+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -516,90 +516,9 @@
    "subscribers": 12,
    "views": 3370,
    "uploads": 5,
-   "analytics": true,
-   "daily": [
-    {
-     "day": "2026-10-16",
-     "views": 918,
-     "estimatedMinutesWatched": 146,
-     "subscribersGained": 3,
-     "subscribersLost": 0
-    },
-    {
-     "day": "2026-10-17",
-     "views": 117,
-     "estimatedMinutesWatched": 15,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
-    {
-     "day": "2026-10-18",
-     "views": 365,
-     "estimatedMinutesWatched": 50,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
-    {
-     "day": "2026-10-19",
-     "views": 1106,
-     "estimatedMinutesWatched": 212,
-     "subscribersGained": 5,
-     "subscribersLost": 0
-    }
-   ],
-   "audience": {
-    "countries": [
-     {
-      "country": "US",
-      "views": 1275,
-      "pct": 76.2
-     },
-     {
-      "country": "PH",
-      "views": 219,
-      "pct": 13.1
-     },
-     {
-      "country": "ID",
-      "views": 96,
-      "pct": 5.7
-     },
-     {
-      "country": "CA",
-      "views": 30,
-      "pct": 1.8
-     },
-     {
-      "country": "GB",
-      "views": 29,
-      "pct": 1.7
-     },
-     {
-      "country": "AU",
-      "views": 24,
-      "pct": 1.4
-     }
-    ],
-    "ages": [
-     {
-      "age": "13-17",
-      "pct": 33.4
-     },
-     {
-      "age": "18-24",
-      "pct": 11.1
-     },
-     {
-      "age": "25-34",
-      "pct": 31.9
-     },
-     {
-      "age": "35-44",
-      "pct": 23.6
-     }
-    ],
-    "since": "2026-10-16"
-   },
+   "analytics": false,
+   "daily": [],
+   "audience": {},
    "history": [
     {
      "date": "2026-10-16",
@@ -959,7 +878,7 @@
    "url": "https://youtube.com/shorts/ACRS7mnluxM",
    "privacy": "public",
    "publish_at": "2026-10-20T21:30:00.000Z",
-   "views": 445,
+   "views": 449,
    "likes": 8,
    "comments": 1,
    "analytics": null,
@@ -1000,7 +919,7 @@
    "url": "https://youtube.com/shorts/I_l9BNRqCWg",
    "privacy": "public",
    "publish_at": "2026-10-20T20:15:00.000Z",
-   "views": 329,
+   "views": 330,
    "likes": 5,
    "comments": 1,
    "analytics": null,
@@ -1105,19 +1024,10 @@
    "url": "https://youtube.com/shorts/AZ8tNPMufEI",
    "privacy": "public",
    "publish_at": "2026-10-20T00:30:00.000Z",
-   "views": 1365,
-   "likes": 20,
+   "views": 1350,
+   "likes": 21,
    "comments": 2,
-   "analytics": {
-    "views": 913,
-    "estimatedMinutesWatched": 184,
-    "averageViewDuration": 25,
-    "averageViewPercentage": 62.74999999999999,
-    "subscribersGained": 4,
-    "likes": 19,
-    "shares": 0,
-    "comments": 1
-   },
+   "analytics": null,
    "thumb": "thumbs/20261019-052633_outbreak-files.jpg",
    "score": 98,
    "video_score": 100,
@@ -1293,16 +1203,7 @@
    "views": 541,
    "likes": 7,
    "comments": 1,
-   "analytics": {
-    "views": 495,
-    "estimatedMinutesWatched": 70,
-    "averageViewDuration": 19,
-    "averageViewPercentage": 46.87,
-    "subscribersGained": 0,
-    "likes": 6,
-    "shares": 0,
-    "comments": 0
-   },
+   "analytics": null,
    "thumb": "thumbs/20261018-052951_outbreak-files.jpg",
    "score": 98,
    "video_score": 100,
@@ -1531,16 +1432,7 @@
    "views": 1082,
    "likes": 15,
    "comments": 2,
-   "analytics": {
-    "views": 1077,
-    "estimatedMinutesWatched": 169,
-    "averageViewDuration": 21,
-    "averageViewPercentage": 51.27,
-    "subscribersGained": 5,
-    "likes": 15,
-    "shares": 0,
-    "comments": 1
-   },
+   "analytics": null,
    "thumb": "thumbs/20261016-053106_outbreak-files.jpg",
    "score": 98,
    "video_score": 100,
@@ -2078,7 +1970,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-22T11:41:39+00:00",
+  "updated": "2026-10-22T11:53:44+00:00",
   "videos_analysed": 24,
   "rules": [
    {
@@ -2089,7 +1981,7 @@
     "prefer": true,
     "level": "confirmed",
     "text": "Do MORE: speaking pace '135-150 wpm'",
-    "evidence": "10 videos vs 14, 36% better (agrees on 3 channel(s), disagrees on 0)"
+    "evidence": "10 videos vs 14, 35% better (agrees on 3 channel(s), disagrees on 0)"
    },
    {
     "id": "action:lots of acting/effects",
@@ -2122,16 +2014,6 @@
     "evidence": "4 videos vs 20, 27% worse (agrees on 1 channel(s), disagrees on 0)"
    },
    {
-    "id": "title_style:question",
-    "kind": "feature",
-    "feature": "title_style",
-    "group": "question",
-    "prefer": true,
-    "level": "likely",
-    "text": "Do MORE: title style 'question'",
-    "evidence": "6 videos vs 18, 35% better (agrees on 4 channel(s), disagrees on 0)"
-   },
-   {
     "id": "scene_len:scenes under 4s",
     "kind": "feature",
     "feature": "scene_len",
@@ -2139,7 +2021,17 @@
     "prefer": true,
     "level": "likely",
     "text": "Do MORE: average scene length 'scenes under 4s'",
-    "evidence": "6 videos vs 18, 33% better (agrees on 2 channel(s), disagrees on 0)"
+    "evidence": "6 videos vs 18, 34% better (agrees on 2 channel(s), disagrees on 0)"
+   },
+   {
+    "id": "title_style:question",
+    "kind": "feature",
+    "feature": "title_style",
+    "group": "question",
+    "prefer": true,
+    "level": "likely",
+    "text": "Do MORE: title style 'question'",
+    "evidence": "6 videos vs 18, 34% better (agrees on 4 channel(s), disagrees on 0)"
    },
    {
     "id": "length:32-38s",
@@ -2159,7 +2051,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Do MORE: first line length 'first line 7-8 words'",
-    "evidence": "12 videos vs 12, 22% better (agrees on 3 channel(s), disagrees on 1)"
+    "evidence": "12 videos vs 12, 21% better (agrees on 3 channel(s), disagrees on 1)"
    },
    {
     "id": "scene:shots",
@@ -2178,11 +2070,7 @@
     "evidence": "Viewers leave fastest in scene 2 (1.86x the average rate). (17 scenes)"
    }
   ],
-  "changes": [
-   "Now confirmed: Do MORE: speaking pace '135-150 wpm'",
-   "New rule (likely): Do MORE: length '32-38s'",
-   "Dropped (no longer holds): Do MORE: length '38-44s'"
-  ],
+  "changes": [],
   "hints": [
    "Do MORE: hook style 'question'",
    "Do LESS: speaking pace '150-165 wpm'",
@@ -2219,8 +2107,8 @@
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
      "Do LESS: title style 'POV'",
-     "Do MORE: title style 'question'",
      "Do MORE: average scene length 'scenes under 4s'",
+     "Do MORE: title style 'question'",
      "Do MORE: length '32-38s'",
      "Do MORE: first line length 'first line 7-8 words'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
@@ -2260,8 +2148,8 @@
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
      "Do LESS: title style 'POV'",
-     "Do MORE: title style 'question'",
      "Do MORE: average scene length 'scenes under 4s'",
+     "Do MORE: title style 'question'",
      "Do MORE: length '32-38s'",
      "Do MORE: first line length 'first line 7-8 words'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
@@ -2270,7 +2158,7 @@
     "top": [
      {
       "title": "Only $0.003 per Spotify Stream? The Shocking Truth",
-      "views": 329,
+      "views": 330,
       "watched": null,
       "duration": 33.9,
       "hook": "Only $0.003 per Spotify stream?",
@@ -2301,8 +2189,8 @@
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
      "Do LESS: title style 'POV'",
-     "Do MORE: title style 'question'",
      "Do MORE: average scene length 'scenes under 4s'",
+     "Do MORE: title style 'question'",
      "Do MORE: length '32-38s'",
      "Do MORE: first line length 'first line 7-8 words'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
@@ -2342,8 +2230,8 @@
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
      "Do LESS: title style 'POV'",
-     "Do MORE: title style 'question'",
      "Do MORE: average scene length 'scenes under 4s'",
+     "Do MORE: title style 'question'",
      "Do MORE: length '32-38s'",
      "Do MORE: first line length 'first line 7-8 words'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
@@ -2352,8 +2240,8 @@
     "top": [
      {
       "title": "Who Is Waving From Your Window? (Part 3)",
-      "views": 1365,
-      "watched": 62.74999999999999,
+      "views": 1350,
+      "watched": null,
       "duration": 39.7,
       "hook": "Only one seat left for two of you.",
       "hook_style": "mystery / impossible claim"
@@ -2361,7 +2249,7 @@
      {
       "title": "The Outbreak Starts on Floor 30 (Part 1)",
       "views": 1082,
-      "watched": 51.27,
+      "watched": null,
       "duration": 41.8,
       "hook": "POV: the outbreak starts below your window.",
       "hook_style": "POV / you"
@@ -2369,7 +2257,7 @@
      {
       "title": "One Seat Left. Two Survivors. (Part 2)",
       "views": 541,
-      "watched": 46.87,
+      "watched": null,
       "duration": 40.3,
       "hook": "Floor 30.",
       "hook_style": "shocking number"
