@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-21T21:43:53+00:00",
- "stats_updated": "2026-10-21T21:43:40+00:00",
+ "synced": "2026-10-22T04:47:27+00:00",
+ "stats_updated": "2026-10-22T04:47:17+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 6,
-   "views": 4876,
+   "views": 5763,
    "uploads": 8,
    "analytics": true,
    "daily": [
@@ -192,6 +192,11 @@
      "date": "2026-10-21",
      "subscribers": 6,
      "views": 4876
+    },
+    {
+     "date": "2026-10-22",
+     "subscribers": 6,
+     "views": 5763
     }
    ]
   },
@@ -319,6 +324,11 @@
      "date": "2026-10-21",
      "subscribers": 5,
      "views": 780
+    },
+    {
+     "date": "2026-10-22",
+     "subscribers": 5,
+     "views": 780
     }
    ]
   },
@@ -332,7 +342,7 @@
    ],
    "subscribers": 4,
    "views": 2224,
-   "uploads": 7,
+   "uploads": 8,
    "analytics": true,
    "daily": [
     {
@@ -487,6 +497,11 @@
      "date": "2026-10-21",
      "subscribers": 4,
      "views": 2224
+    },
+    {
+     "date": "2026-10-22",
+     "subscribers": 4,
+     "views": 2224
     }
    ]
   },
@@ -500,7 +515,7 @@
    ],
    "subscribers": 12,
    "views": 1552,
-   "uploads": 4,
+   "uploads": 5,
    "analytics": true,
    "daily": [
     {
@@ -615,6 +630,11 @@
      "date": "2026-10-21",
      "subscribers": 12,
      "views": 1552
+    },
+    {
+     "date": "2026-10-22",
+     "subscribers": 12,
+     "views": 1552
     }
    ]
   }
@@ -631,10 +651,10 @@
    "duration": 38.0,
    "youtube_id": "rxPMvpp2U3E",
    "url": "https://youtube.com/shorts/rxPMvpp2U3E",
-   "privacy": "private",
-   "publish_at": "2026-10-21T23:15:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-21T23:15:00.000Z",
+   "views": 115,
+   "likes": 4,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261021-133004_mystery-files.jpg",
@@ -672,9 +692,9 @@
    "url": "https://youtube.com/shorts/s5-OgOfe6VQ",
    "privacy": "public",
    "publish_at": "2026-10-21T20:15:00.000Z",
-   "views": 120,
+   "views": 138,
    "likes": 3,
-   "comments": 0,
+   "comments": 2,
    "analytics": null,
    "thumb": "thumbs/20261021-132506_money-facts.jpg",
    "score": 96,
@@ -709,9 +729,9 @@
    "url": "https://youtube.com/shorts/cJxgc0Oa9-k",
    "privacy": "public",
    "publish_at": "2026-10-21T21:30:00.000Z",
-   "views": 2,
+   "views": 18,
    "likes": 0,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261021-131649_deep-sea-files.jpg",
    "score": 96,
@@ -746,9 +766,9 @@
    "duration": 33.4,
    "youtube_id": "-5mZr6URP04",
    "url": "https://youtube.com/shorts/-5mZr6URP04",
-   "privacy": "private",
-   "publish_at": "2026-10-22T00:30:00Z",
-   "views": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-22T00:30:00.000Z",
+   "views": 18,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -786,7 +806,7 @@
    "url": "https://youtube.com/shorts/ACRS7mnluxM",
    "privacy": "public",
    "publish_at": "2026-10-20T21:30:00.000Z",
-   "views": 306,
+   "views": 328,
    "likes": 5,
    "comments": 1,
    "analytics": null,
@@ -827,7 +847,7 @@
    "url": "https://youtube.com/shorts/I_l9BNRqCWg",
    "privacy": "public",
    "publish_at": "2026-10-20T20:15:00.000Z",
-   "views": 327,
+   "views": 331,
    "likes": 5,
    "comments": 1,
    "analytics": null,
@@ -861,7 +881,7 @@
    "url": "https://youtube.com/shorts/Azd1a_nxP2c",
    "privacy": "public",
    "publish_at": "2026-10-21T00:30:00.000Z",
-   "views": 420,
+   "views": 435,
    "likes": 10,
    "comments": 1,
    "analytics": null,
@@ -898,7 +918,7 @@
    "url": "https://youtube.com/shorts/uDUELAFjZ9Y",
    "privacy": "public",
    "publish_at": "2026-10-20T23:15:00.000Z",
-   "views": 31,
+   "views": 33,
    "likes": 0,
    "comments": 1,
    "analytics": null,
@@ -932,7 +952,7 @@
    "url": "https://youtube.com/shorts/AZ8tNPMufEI",
    "privacy": "public",
    "publish_at": "2026-10-20T00:30:00.000Z",
-   "views": 1319,
+   "views": 1333,
    "likes": 20,
    "comments": 2,
    "analytics": {
@@ -977,7 +997,7 @@
    "url": "https://youtube.com/shorts/5sAH-e__Ero",
    "privacy": "public",
    "publish_at": "2026-10-19T23:15:00.000Z",
-   "views": 129,
+   "views": 131,
    "likes": 1,
    "comments": 1,
    "analytics": {
@@ -1070,7 +1090,7 @@
    "url": "https://youtube.com/shorts/1v6jmwLtU64",
    "privacy": "public",
    "publish_at": "2026-10-19T21:30:00.000Z",
-   "views": 559,
+   "views": 563,
    "likes": 4,
    "comments": 1,
    "analytics": {
@@ -1261,7 +1281,7 @@
    "url": "https://youtube.com/shorts/UA6w-3E3XUk",
    "privacy": "public",
    "publish_at": "2026-10-18T21:30:00.000Z",
-   "views": 1225,
+   "views": 1229,
    "likes": 8,
    "comments": 2,
    "analytics": {
@@ -1585,7 +1605,7 @@
    "url": "https://youtube.com/shorts/wx6TMERkpLQ",
    "privacy": "public",
    "publish_at": "2026-10-15T21:30:00.000Z",
-   "views": 1152,
+   "views": 1153,
    "likes": 16,
    "comments": 4,
    "analytics": {
@@ -1871,7 +1891,7 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 1173,
+   "views": 1174,
    "likes": 33,
    "comments": 2,
    "analytics": {
@@ -1905,7 +1925,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-21T21:43:50+00:00",
+  "updated": "2026-10-22T04:47:24+00:00",
   "videos_analysed": 21,
   "rules": [
    {
@@ -2059,7 +2079,7 @@
      },
      {
       "title": "Only 1 in 1,000 Baby Sea Turtles Make It",
-      "views": 1225,
+      "views": 1229,
       "watched": 48.3,
       "duration": 33.3,
       "hook": "Only 1 in 1,000 of you survive.",
@@ -2067,7 +2087,7 @@
      },
      {
       "title": "POV: You Hunt Seals by Making Waves",
-      "views": 1152,
+      "views": 1153,
       "watched": 51.13999999999999,
       "duration": 38.3,
       "hook": "POV: you hunt seals with waves.",
@@ -2149,7 +2169,7 @@
      },
      {
       "title": "This Sandwich Solved a $100 Million Heist",
-      "views": 129,
+      "views": 131,
       "watched": 41.94,
       "duration": 36.3,
       "hook": "This sandwich solved a $100 million heist.",
@@ -2174,7 +2194,7 @@
     "top": [
      {
       "title": "Who Is Waving From Your Window? (Part 3)",
-      "views": 1319,
+      "views": 1333,
       "watched": 62.74999999999999,
       "duration": 39.7,
       "hook": "Only one seat left for two of you.",
