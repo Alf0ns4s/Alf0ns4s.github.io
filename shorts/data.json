@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-23T04:50:35+00:00",
+ "synced": "2026-10-23T10:03:42+00:00",
  "stats_updated": "2026-10-23T04:50:23+00:00",
  "channels": [
   {
@@ -706,6 +706,156 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261023-095910_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "Zombie mall outbreak",
+   "title": "Why did the mall go silent? (Part 1)",
+   "status": "posted",
+   "created": "2026-10-23T10:03:24",
+   "scheduled_for": "2026-10-24T03:30:00+03:00",
+   "duration": 38.0,
+   "youtube_id": "XdfdBNV_IAM",
+   "url": "https://youtube.com/shorts/XdfdBNV_IAM",
+   "privacy": "private",
+   "publish_at": "2026-10-24T00:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261023-095910_outbreak-files.jpg",
+   "score": 95,
+   "video_score": 100,
+   "script_score": 90,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Frame 1 shows the main subject big",
+    "Length 70-95 words (about 30-40 s at a calm pace)",
+    "Description lists sources"
+   ],
+   "metrics": {
+    "cuts": 18,
+    "avg_shot": 2.0,
+    "wpm": 153,
+    "brightness": 49,
+    "loudness_db": -15.3
+   },
+   "error": null
+  },
+  {
+   "item": "20261023-095447_mystery-files",
+   "channel": "mystery-files",
+   "topic": "Amelia Earhart disappearance",
+   "title": "Did Amelia Earhart Really Land on a Remote Island?",
+   "status": "posted",
+   "created": "2026-10-23T09:59:10",
+   "scheduled_for": "2026-10-24T02:15:00+03:00",
+   "duration": 38.7,
+   "youtube_id": "zg-CQpRks58",
+   "url": "https://youtube.com/shorts/zg-CQpRks58",
+   "privacy": "private",
+   "publish_at": "2026-10-23T23:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261023-095447_mystery-files.jpg",
+   "score": 99,
+   "video_score": 100,
+   "script_score": 98,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Talks to the viewer ('you')"
+   ],
+   "metrics": {
+    "cuts": 17,
+    "avg_shot": 2.15,
+    "wpm": 130,
+    "brightness": 64,
+    "loudness_db": -15.8
+   },
+   "error": null
+  },
+  {
+   "item": "20261023-095105_money-facts",
+   "channel": "money-facts",
+   "topic": "Roblox game earnings",
+   "title": "How a Roblox Horror Game Makes $30M From Plays",
+   "status": "posted",
+   "created": "2026-10-23T09:54:44",
+   "scheduled_for": "2026-10-23T23:15:00+03:00",
+   "duration": 34.5,
+   "youtube_id": "GsHQIkCo4u0",
+   "url": "https://youtube.com/shorts/GsHQIkCo4u0",
+   "privacy": "private",
+   "publish_at": "2026-10-23T20:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261023-095105_money-facts.jpg",
+   "score": 97,
+   "video_score": 100,
+   "script_score": 94,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Frame 1 shows the main subject big",
+    "Talks to the viewer ('you')"
+   ],
+   "metrics": {
+    "cuts": 23,
+    "avg_shot": 1.44,
+    "wpm": 132,
+    "brightness": 81,
+    "loudness_db": -15.0
+   },
+   "error": null
+  },
+  {
+   "item": "20261023-094655_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "Cone snail POV: venomous harpoon strike",
+   "title": "Why does a tiny snail pack a deadly harpoon?",
+   "status": "posted",
+   "created": "2026-10-23T09:51:05",
+   "scheduled_for": "2026-10-24T00:30:00+03:00",
+   "duration": 36.5,
+   "youtube_id": "UUktLQaNpfQ",
+   "url": "https://youtube.com/shorts/UUktLQaNpfQ",
+   "privacy": "private",
+   "publish_at": "2026-10-23T21:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261023-094655_deep-sea-files.jpg",
+   "score": 94,
+   "video_score": 97,
+   "script_score": 91,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "No empty-looking shots",
+    "First line is 4-8 words (lands in ~1.5 s)",
+    "First picture change within 2 seconds",
+    "Length 70-95 words (about 30-40 s at a calm pace)"
+   ],
+   "metrics": {
+    "cuts": 20,
+    "avg_shot": 1.74,
+    "wpm": 155,
+    "brightness": 131,
+    "loudness_db": -15.6
+   },
+   "error": null
+  },
   {
    "item": "20261022-101827_outbreak-files",
    "channel": "outbreak-files",
