@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-22T21:36:57+00:00",
- "stats_updated": "2026-10-22T21:36:40+00:00",
+ "synced": "2026-10-23T04:50:35+00:00",
+ "stats_updated": "2026-10-23T04:50:23+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 7,
-   "views": 5922,
+   "views": 6214,
    "uploads": 9,
    "analytics": true,
    "daily": [
@@ -204,6 +204,11 @@
      "date": "2026-10-22",
      "subscribers": 7,
      "views": 5922
+    },
+    {
+     "date": "2026-10-23",
+     "subscribers": 7,
+     "views": 6214
     }
    ]
   },
@@ -216,7 +221,7 @@
     "23:15"
    ],
    "subscribers": 5,
-   "views": 1531,
+   "views": 1534,
    "uploads": 9,
    "analytics": true,
    "daily": [
@@ -357,6 +362,11 @@
      "date": "2026-10-22",
      "subscribers": 5,
      "views": 1531
+    },
+    {
+     "date": "2026-10-23",
+     "subscribers": 5,
+     "views": 1534
     }
    ]
   },
@@ -370,7 +380,7 @@
    ],
    "subscribers": 4,
    "views": 2610,
-   "uploads": 8,
+   "uploads": 9,
    "analytics": true,
    "daily": [
     {
@@ -537,6 +547,11 @@
      "date": "2026-10-22",
      "subscribers": 4,
      "views": 2610
+    },
+    {
+     "date": "2026-10-23",
+     "subscribers": 4,
+     "views": 2610
     }
    ]
   },
@@ -550,7 +565,7 @@
    ],
    "subscribers": 12,
    "views": 3455,
-   "uploads": 5,
+   "uploads": 6,
    "analytics": true,
    "daily": [
     {
@@ -681,6 +696,11 @@
      "date": "2026-10-22",
      "subscribers": 12,
      "views": 3455
+    },
+    {
+     "date": "2026-10-23",
+     "subscribers": 12,
+     "views": 3455
     }
    ]
   }
@@ -697,10 +717,10 @@
    "duration": 34.6,
    "youtube_id": "FV7koeCZk8Y",
    "url": "https://youtube.com/shorts/FV7koeCZk8Y",
-   "privacy": "private",
-   "publish_at": "2026-10-23T00:30:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-23T00:30:00.000Z",
+   "views": 50,
+   "likes": 3,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261022-101827_outbreak-files.jpg",
@@ -734,10 +754,10 @@
    "duration": 43.3,
    "youtube_id": "53BV6Xa5E8k",
    "url": "https://youtube.com/shorts/53BV6Xa5E8k",
-   "privacy": "private",
-   "publish_at": "2026-10-22T23:15:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-22T23:15:00.000Z",
+   "views": 216,
+   "likes": 5,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261022-100010_mystery-files.jpg",
@@ -779,9 +799,9 @@
    "url": "https://youtube.com/shorts/q2VMHnVtuwA",
    "privacy": "public",
    "publish_at": "2026-10-22T20:15:00.000Z",
-   "views": 63,
-   "likes": 2,
-   "comments": 0,
+   "views": 147,
+   "likes": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261022-095456_money-facts.jpg",
    "score": 98,
@@ -815,9 +835,9 @@
    "url": "https://youtube.com/shorts/uCODTjlf20o",
    "privacy": "public",
    "publish_at": "2026-10-22T21:30:00.000Z",
-   "views": 58,
-   "likes": 0,
-   "comments": 0,
+   "views": 1114,
+   "likes": 10,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261022-095039_deep-sea-files.jpg",
    "score": 98,
@@ -891,7 +911,7 @@
    "url": "https://youtube.com/shorts/s5-OgOfe6VQ",
    "privacy": "public",
    "publish_at": "2026-10-21T20:15:00.000Z",
-   "views": 149,
+   "views": 154,
    "likes": 3,
    "comments": 2,
    "analytics": null,
@@ -928,8 +948,8 @@
    "url": "https://youtube.com/shorts/cJxgc0Oa9-k",
    "privacy": "public",
    "publish_at": "2026-10-21T21:30:00.000Z",
-   "views": 31,
-   "likes": 0,
+   "views": 45,
+   "likes": 1,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261021-131649_deep-sea-files.jpg",
@@ -967,7 +987,7 @@
    "url": "https://youtube.com/shorts/-5mZr6URP04",
    "privacy": "public",
    "publish_at": "2026-10-22T00:30:00.000Z",
-   "views": 26,
+   "views": 36,
    "likes": 0,
    "comments": 1,
    "analytics": null,
@@ -1005,7 +1025,7 @@
    "url": "https://youtube.com/shorts/ACRS7mnluxM",
    "privacy": "public",
    "publish_at": "2026-10-20T21:30:00.000Z",
-   "views": 715,
+   "views": 719,
    "likes": 10,
    "comments": 1,
    "analytics": {
@@ -1055,7 +1075,7 @@
    "url": "https://youtube.com/shorts/I_l9BNRqCWg",
    "privacy": "public",
    "publish_at": "2026-10-20T20:15:00.000Z",
-   "views": 332,
+   "views": 333,
    "likes": 5,
    "comments": 1,
    "analytics": {
@@ -1098,7 +1118,7 @@
    "url": "https://youtube.com/shorts/Azd1a_nxP2c",
    "privacy": "public",
    "publish_at": "2026-10-21T00:30:00.000Z",
-   "views": 456,
+   "views": 459,
    "likes": 10,
    "comments": 1,
    "analytics": {
@@ -1144,8 +1164,8 @@
    "url": "https://youtube.com/shorts/uDUELAFjZ9Y",
    "privacy": "public",
    "publish_at": "2026-10-20T23:15:00.000Z",
-   "views": 35,
-   "likes": 0,
+   "views": 36,
+   "likes": 1,
    "comments": 1,
    "analytics": {
     "views": 27,
@@ -1187,7 +1207,7 @@
    "url": "https://youtube.com/shorts/AZ8tNPMufEI",
    "privacy": "public",
    "publish_at": "2026-10-20T00:30:00.000Z",
-   "views": 1392,
+   "views": 1409,
    "likes": 20,
    "comments": 2,
    "analytics": {
@@ -1420,7 +1440,7 @@
    "url": "https://youtube.com/shorts/s4SNObyfW3U",
    "privacy": "public",
    "publish_at": "2026-10-18T23:15:00.000Z",
-   "views": 1028,
+   "views": 1025,
    "likes": 23,
    "comments": 3,
    "analytics": {
@@ -2160,7 +2180,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-22T21:36:53+00:00",
+  "updated": "2026-10-23T04:50:32+00:00",
   "videos_analysed": 25,
   "rules": [
    {
@@ -2184,6 +2204,16 @@
     "evidence": "19 videos vs 6, 93% better (agrees on 3 channel(s), disagrees on 0)"
    },
    {
+    "id": "length:over 50s",
+    "kind": "feature",
+    "feature": "length",
+    "group": "over 50s",
+    "prefer": false,
+    "level": "likely",
+    "text": "Do LESS: length 'over 50s'",
+    "evidence": "4 videos vs 21, 32% worse (agrees on 2 channel(s), disagrees on 0)"
+   },
+   {
     "id": "title_style:POV",
     "kind": "feature",
     "feature": "title_style",
@@ -2192,16 +2222,6 @@
     "level": "likely",
     "text": "Do LESS: title style 'POV'",
     "evidence": "4 videos vs 21, 32% worse (agrees on 1 channel(s), disagrees on 0)"
-   },
-   {
-    "id": "length:over 50s",
-    "kind": "feature",
-    "feature": "length",
-    "group": "over 50s",
-    "prefer": false,
-    "level": "likely",
-    "text": "Do LESS: length 'over 50s'",
-    "evidence": "4 videos vs 21, 31% worse (agrees on 2 channel(s), disagrees on 0)"
    },
    {
     "id": "pace:150-165 wpm",
@@ -2315,8 +2335,8 @@
     "notes": [
      "Do MORE: speaking pace '135-150 wpm'",
      "Use lots of acting and effects (2+ per scene)",
-     "Do LESS: title style 'POV'",
      "Do LESS: length 'over 50s'",
+     "Do LESS: title style 'POV'",
      "Do LESS: speaking pace '150-165 wpm'",
      "Do MORE: title style 'question'",
      "Do MORE: length '38-44s'",
@@ -2358,8 +2378,8 @@
     "notes": [
      "Do MORE: speaking pace '135-150 wpm'",
      "Use lots of acting and effects (2+ per scene)",
-     "Do LESS: title style 'POV'",
      "Do LESS: length 'over 50s'",
+     "Do LESS: title style 'POV'",
      "Do LESS: speaking pace '150-165 wpm'",
      "Do MORE: title style 'question'",
      "Do MORE: length '38-44s'",
@@ -2372,7 +2392,7 @@
     "top": [
      {
       "title": "Only $0.003 per Spotify Stream? The Shocking Truth",
-      "views": 332,
+      "views": 333,
       "watched": 57.32000000000001,
       "duration": 33.9,
       "hook": "Only $0.003 per Spotify stream?",
@@ -2401,8 +2421,8 @@
     "notes": [
      "Do MORE: speaking pace '135-150 wpm'",
      "Use lots of acting and effects (2+ per scene)",
-     "Do LESS: title style 'POV'",
      "Do LESS: length 'over 50s'",
+     "Do LESS: title style 'POV'",
      "Do LESS: speaking pace '150-165 wpm'",
      "Do MORE: title style 'question'",
      "Do MORE: length '38-44s'",
@@ -2423,7 +2443,7 @@
      },
      {
       "title": "This Sandwich Solved a $100 Million Heist",
-      "views": 1028,
+      "views": 1025,
       "watched": 40.63,
       "duration": 47.7,
       "hook": "This sandwich solved a $100 million heist.",
@@ -2444,8 +2464,8 @@
     "notes": [
      "Do MORE: speaking pace '135-150 wpm'",
      "Use lots of acting and effects (2+ per scene)",
-     "Do LESS: title style 'POV'",
      "Do LESS: length 'over 50s'",
+     "Do LESS: title style 'POV'",
      "Do LESS: speaking pace '150-165 wpm'",
      "Do MORE: title style 'question'",
      "Do MORE: length '38-44s'",
@@ -2458,7 +2478,7 @@
     "top": [
      {
       "title": "Who Is Waving From Your Window? (Part 3)",
-      "views": 1392,
+      "views": 1409,
       "watched": 71.97,
       "duration": 39.7,
       "hook": "Only one seat left for two of you.",
