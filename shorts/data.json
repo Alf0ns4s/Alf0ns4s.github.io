@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-23T11:30:53+00:00",
- "stats_updated": "2026-10-23T11:30:39+00:00",
+ "synced": "2026-10-23T11:40:18+00:00",
+ "stats_updated": "2026-10-23T11:40:04+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -869,7 +869,7 @@
    "url": "https://youtube.com/shorts/FV7koeCZk8Y",
    "privacy": "public",
    "publish_at": "2026-10-23T00:30:00.000Z",
-   "views": 158,
+   "views": 162,
    "likes": 3,
    "comments": 1,
    "analytics": null,
@@ -906,7 +906,7 @@
    "url": "https://youtube.com/shorts/53BV6Xa5E8k",
    "privacy": "public",
    "publish_at": "2026-10-22T23:15:00.000Z",
-   "views": 271,
+   "views": 272,
    "likes": 6,
    "comments": 1,
    "analytics": null,
@@ -1357,7 +1357,7 @@
    "url": "https://youtube.com/shorts/AZ8tNPMufEI",
    "privacy": "public",
    "publish_at": "2026-10-20T00:30:00.000Z",
-   "views": 1444,
+   "views": 1462,
    "likes": 20,
    "comments": 2,
    "analytics": {
@@ -2330,7 +2330,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-23T11:30:50+00:00",
+  "updated": "2026-10-23T11:40:14+00:00",
   "videos_analysed": 28,
   "rules": [
    {
@@ -2430,10 +2430,7 @@
     "evidence": "Viewers leave fastest in scene 2 (1.79x the average rate). (20 scenes)"
    }
   ],
-  "changes": [
-   "Dropped (no longer holds): Do MORE: average scene length 'scenes under 4s'",
-   "Dropped (no longer holds): Do MORE: first line length 'first line 7-8 words'"
-  ],
+  "changes": [],
   "hints": [
    "Do LESS: average scene length 'scenes 5-6s'",
    "Do LESS: speaking pace 'over 165 wpm'",
@@ -2601,7 +2598,7 @@
     "top": [
      {
       "title": "Who Is Waving From Your Window? (Part 3)",
-      "views": 1444,
+      "views": 1462,
       "watched": 71.97,
       "duration": 39.7,
       "hook": "Only one seat left for two of you.",
