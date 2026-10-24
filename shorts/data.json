@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-24T04:37:57+00:00",
+ "synced": "2026-10-24T09:45:21+00:00",
  "stats_updated": "2026-10-24T04:37:44+00:00",
  "channels": [
   {
@@ -754,6 +754,156 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261024-094016_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "Mall Night Survival",
+   "title": "Why the Mall Lights Went Out (Part 2)",
+   "status": "posted",
+   "created": "2026-10-24T09:45:05",
+   "scheduled_for": "2026-10-25T03:30:00+03:00",
+   "duration": 34.2,
+   "youtube_id": "B-1CLJHPFqM",
+   "url": "https://youtube.com/shorts/B-1CLJHPFqM",
+   "privacy": "private",
+   "publish_at": "2026-10-25T00:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261024-094016_outbreak-files.jpg",
+   "score": 96,
+   "video_score": 100,
+   "script_score": 91,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Hook has a shock, number, question or contrast",
+    "Description lists sources"
+   ],
+   "metrics": {
+    "cuts": 18,
+    "avg_shot": 1.8,
+    "wpm": 146,
+    "brightness": 54,
+    "loudness_db": -15.2
+   },
+   "error": null
+  },
+  {
+   "item": "20261024-093023_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Sodder Children disappearance",
+   "title": "Why did five kids vanish in a 1945 house fire?",
+   "status": "posted",
+   "created": "2026-10-24T09:40:12",
+   "scheduled_for": "2026-10-25T02:15:00+03:00",
+   "duration": 35.9,
+   "youtube_id": "6uaNdsAkzig",
+   "url": "https://youtube.com/shorts/6uaNdsAkzig",
+   "privacy": "private",
+   "publish_at": "2026-10-24T23:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261024-093023_mystery-files.jpg",
+   "score": 92,
+   "video_score": 95,
+   "script_score": 89,
+   "verdict": "pass",
+   "fixes": [
+    "fewer_flashes"
+   ],
+   "rounds": 2,
+   "issues": [
+    "No empty-looking shots",
+    "Frame 1 shows the main subject big",
+    "Talks to the viewer ('you')",
+    "Numbers are made relatable"
+   ],
+   "metrics": {
+    "cuts": 17,
+    "avg_shot": 1.99,
+    "wpm": 137,
+    "brightness": 52,
+    "loudness_db": -15.7
+   },
+   "error": null
+  },
+  {
+   "item": "20261024-092444_money-facts",
+   "channel": "money-facts",
+   "topic": "PS5 manufacturing cost vs retail price",
+   "title": "How can a $30 console cost $500?",
+   "status": "posted",
+   "created": "2026-10-24T09:30:18",
+   "scheduled_for": "2026-10-24T23:15:00+03:00",
+   "duration": 40.9,
+   "youtube_id": "mk1l_UcEi4M",
+   "url": "https://youtube.com/shorts/mk1l_UcEi4M",
+   "privacy": "private",
+   "publish_at": "2026-10-24T20:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261024-092444_money-facts.jpg",
+   "score": 98,
+   "video_score": 100,
+   "script_score": 96,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Frame 1 shows the main subject big"
+   ],
+   "metrics": {
+    "cuts": 24,
+    "avg_shot": 1.63,
+    "wpm": 126,
+    "brightness": 89,
+    "loudness_db": -15.3
+   },
+   "error": null
+  },
+  {
+   "item": "20261024-092017_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "Flamboyant cuttlefish color show",
+   "title": "Can a cuttlefish produce a flash brighter than a flashlight?",
+   "status": "posted",
+   "created": "2026-10-24T09:24:44",
+   "scheduled_for": "2026-10-25T00:30:00+03:00",
+   "duration": 32.5,
+   "youtube_id": "cme0bOrKPzc",
+   "url": "https://youtube.com/shorts/cme0bOrKPzc",
+   "privacy": "private",
+   "publish_at": "2026-10-24T21:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261024-092017_deep-sea-files.jpg",
+   "score": 98,
+   "video_score": 100,
+   "script_score": 97,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "First line is 4-8 words (lands in ~1.5 s)"
+   ],
+   "metrics": {
+    "cuts": 17,
+    "avg_shot": 1.81,
+    "wpm": 161,
+    "brightness": 111,
+    "loudness_db": -15.3
+   },
+   "error": null
+  },
   {
    "item": "20261023-095910_outbreak-files",
    "channel": "outbreak-files",
