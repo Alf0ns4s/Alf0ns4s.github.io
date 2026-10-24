@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-24T12:06:39+00:00",
- "stats_updated": "2026-10-24T11:01:34+00:00",
+ "synced": "2026-10-24T15:57:56+00:00",
+ "stats_updated": "2026-10-24T15:57:37+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -917,8 +917,8 @@
    "url": "https://youtube.com/shorts/XdfdBNV_IAM",
    "privacy": "public",
    "publish_at": "2026-10-24T00:30:00.000Z",
-   "views": 146,
-   "likes": 3,
+   "views": 196,
+   "likes": 4,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261023-095910_outbreak-files.jpg",
@@ -955,7 +955,7 @@
    "url": "https://youtube.com/shorts/zg-CQpRks58",
    "privacy": "public",
    "publish_at": "2026-10-23T23:15:00.000Z",
-   "views": 72,
+   "views": 79,
    "likes": 0,
    "comments": 1,
    "analytics": null,
@@ -991,7 +991,7 @@
    "url": "https://youtube.com/shorts/GsHQIkCo4u0",
    "privacy": "public",
    "publish_at": "2026-10-23T20:15:00.000Z",
-   "views": 895,
+   "views": 897,
    "likes": 14,
    "comments": 1,
    "analytics": null,
@@ -1028,8 +1028,8 @@
    "url": "https://youtube.com/shorts/UUktLQaNpfQ",
    "privacy": "public",
    "publish_at": "2026-10-23T21:30:00.000Z",
-   "views": 369,
-   "likes": 6,
+   "views": 398,
+   "likes": 8,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261023-094655_deep-sea-files.jpg",
@@ -1067,7 +1067,7 @@
    "url": "https://youtube.com/shorts/FV7koeCZk8Y",
    "privacy": "public",
    "publish_at": "2026-10-23T00:30:00.000Z",
-   "views": 409,
+   "views": 515,
    "likes": 5,
    "comments": 1,
    "analytics": null,
@@ -1104,7 +1104,7 @@
    "url": "https://youtube.com/shorts/53BV6Xa5E8k",
    "privacy": "public",
    "publish_at": "2026-10-22T23:15:00.000Z",
-   "views": 291,
+   "views": 295,
    "likes": 6,
    "comments": 1,
    "analytics": null,
@@ -1147,7 +1147,7 @@
    "url": "https://youtube.com/shorts/q2VMHnVtuwA",
    "privacy": "public",
    "publish_at": "2026-10-22T20:15:00.000Z",
-   "views": 211,
+   "views": 212,
    "likes": 0,
    "comments": 1,
    "analytics": null,
@@ -1183,7 +1183,7 @@
    "url": "https://youtube.com/shorts/uCODTjlf20o",
    "privacy": "public",
    "publish_at": "2026-10-22T21:30:00.000Z",
-   "views": 1361,
+   "views": 1362,
    "likes": 12,
    "comments": 1,
    "analytics": null,
@@ -1409,7 +1409,7 @@
    "url": "https://youtube.com/shorts/ACRS7mnluxM",
    "privacy": "public",
    "publish_at": "2026-10-20T21:30:00.000Z",
-   "views": 717,
+   "views": 716,
    "likes": 10,
    "comments": 1,
    "analytics": {
@@ -1459,7 +1459,7 @@
    "url": "https://youtube.com/shorts/I_l9BNRqCWg",
    "privacy": "public",
    "publish_at": "2026-10-20T20:15:00.000Z",
-   "views": 337,
+   "views": 336,
    "likes": 5,
    "comments": 1,
    "analytics": {
@@ -1502,7 +1502,7 @@
    "url": "https://youtube.com/shorts/Azd1a_nxP2c",
    "privacy": "public",
    "publish_at": "2026-10-21T00:30:00.000Z",
-   "views": 464,
+   "views": 463,
    "likes": 10,
    "comments": 1,
    "analytics": {
@@ -1548,7 +1548,7 @@
    "url": "https://youtube.com/shorts/uDUELAFjZ9Y",
    "privacy": "public",
    "publish_at": "2026-10-20T23:15:00.000Z",
-   "views": 36,
+   "views": 35,
    "likes": 1,
    "comments": 1,
    "analytics": {
@@ -2108,7 +2108,7 @@
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "public",
    "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": 1329,
+   "views": 1331,
    "likes": 30,
    "comments": 2,
    "analytics": {
@@ -2564,8 +2564,8 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-24T11:01:43+00:00",
-  "videos_analysed": 31,
+  "updated": "2026-10-24T15:57:52+00:00",
+  "videos_analysed": 33,
   "rules": [
    {
     "id": "pace:135-150 wpm",
@@ -2575,7 +2575,7 @@
     "prefer": true,
     "level": "confirmed",
     "text": "Do MORE: speaking pace '135-150 wpm'",
-    "evidence": "12 videos vs 19, 45% better (agrees on 3 channel(s), disagrees on 0)"
+    "evidence": "12 videos vs 21, 33% better (agrees on 3 channel(s), disagrees on 0)"
    },
    {
     "id": "action:lots of acting/effects",
@@ -2585,7 +2585,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Use lots of acting and effects (2+ per scene)",
-    "evidence": "25 videos vs 6, 91% better (agrees on 3 channel(s), disagrees on 0)"
+    "evidence": "27 videos vs 6, 96% better (agrees on 3 channel(s), disagrees on 0)"
    },
    {
     "id": "length:over 50s",
@@ -2595,7 +2595,7 @@
     "prefer": false,
     "level": "likely",
     "text": "Do LESS: length 'over 50s'",
-    "evidence": "4 videos vs 27, 36% worse (agrees on 2 channel(s), disagrees on 0)"
+    "evidence": "4 videos vs 29, 41% worse (agrees on 2 channel(s), disagrees on 0)"
    },
    {
     "id": "length:38-44s",
@@ -2605,17 +2605,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Do MORE: length '38-44s'",
-    "evidence": "10 videos vs 21, 49% better (agrees on 3 channel(s), disagrees on 1)"
-   },
-   {
-    "id": "title_style:POV",
-    "kind": "feature",
-    "feature": "title_style",
-    "group": "POV",
-    "prefer": false,
-    "level": "likely",
-    "text": "Do LESS: title style 'POV'",
-    "evidence": "4 videos vs 27, 26% worse (agrees on 1 channel(s), disagrees on 0)"
+    "evidence": "11 videos vs 22, 55% better (agrees on 3 channel(s), disagrees on 1)"
    },
    {
     "id": "title_style:question",
@@ -2625,7 +2615,17 @@
     "prefer": true,
     "level": "likely",
     "text": "Do MORE: title style 'question'",
-    "evidence": "11 videos vs 20, 35% better (agrees on 3 channel(s), disagrees on 1)"
+    "evidence": "13 videos vs 20, 43% better (agrees on 3 channel(s), disagrees on 1)"
+   },
+   {
+    "id": "title_style:POV",
+    "kind": "feature",
+    "feature": "title_style",
+    "group": "POV",
+    "prefer": false,
+    "level": "likely",
+    "text": "Do LESS: title style 'POV'",
+    "evidence": "4 videos vs 29, 25% worse (agrees on 1 channel(s), disagrees on 0)"
    },
    {
     "id": "pace:150-165 wpm",
@@ -2635,7 +2635,7 @@
     "prefer": false,
     "level": "likely",
     "text": "Do LESS: speaking pace '150-165 wpm'",
-    "evidence": "6 videos vs 25, 25% worse (agrees on 3 channel(s), disagrees on 0)"
+    "evidence": "7 videos vs 26, 22% worse (agrees on 3 channel(s), disagrees on 0)"
    },
    {
     "id": "scene:shots",
@@ -2656,9 +2656,10 @@
   ],
   "changes": [],
   "hints": [
+   "Do MORE: hook style 'question'",
    "Do LESS: average scene length 'scenes 5-6s'",
-   "Do LESS: speaking pace 'over 165 wpm'",
-   "Do MORE: hook style 'question'"
+   "Do LESS: length '44-50s'",
+   "Do LESS: speaking pace 'over 165 wpm'"
   ],
   "leave": [
    "One-shot scenes longer than 3.5 seconds lose viewers 1.9x faster. Give any scene over 3.5 s a second shot (new angle or close-up).",
@@ -2688,8 +2689,8 @@
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
      "Do MORE: length '38-44s'",
-     "Do LESS: title style 'POV'",
      "Do MORE: title style 'question'",
+     "Do LESS: title style 'POV'",
      "Do LESS: speaking pace '150-165 wpm'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
@@ -2697,7 +2698,7 @@
     "top": [
      {
       "title": "POV: You're a Pufferfish and Something Wants You",
-      "views": 1329,
+      "views": 1331,
       "watched": 68.59,
       "duration": 30.6,
       "hook": "POV: you can blow up like a balloon.",
@@ -2705,7 +2706,7 @@
      },
      {
       "title": "Why does a 10\u2011ft bobbit worm strike so fast?",
-      "views": 1361,
+      "views": 1362,
       "watched": null,
       "duration": 29.5,
       "hook": "A 10\u2011ft bobbit worm hides beneath sand.",
@@ -2728,8 +2729,8 @@
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
      "Do MORE: length '38-44s'",
-     "Do LESS: title style 'POV'",
      "Do MORE: title style 'question'",
+     "Do LESS: title style 'POV'",
      "Do LESS: speaking pace '150-165 wpm'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
@@ -2737,7 +2738,7 @@
     "top": [
      {
       "title": "Only $0.003 per Spotify Stream? The Shocking Truth",
-      "views": 337,
+      "views": 336,
       "watched": 57.56,
       "duration": 33.9,
       "hook": "Only $0.003 per Spotify stream?",
@@ -2753,7 +2754,7 @@
      },
      {
       "title": "How much do TikTok creators earn per million views?",
-      "views": 211,
+      "views": 212,
       "watched": null,
       "duration": 39.1,
       "hook": "Imagine earning just $100 for a million TikTok views.",
@@ -2762,14 +2763,14 @@
     ]
    },
    "mystery-files": {
-    "count": 8,
+    "count": 9,
     "notes": [
      "Do MORE: speaking pace '135-150 wpm'",
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
      "Do MORE: length '38-44s'",
-     "Do LESS: title style 'POV'",
      "Do MORE: title style 'question'",
+     "Do LESS: title style 'POV'",
      "Do LESS: speaking pace '150-165 wpm'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
@@ -2792,24 +2793,24 @@
       "hook_style": "shocking number"
      },
      {
-      "title": "What if nine hikers were caught in a deadly snowstorm?",
-      "views": 143,
-      "watched": 32.45,
-      "duration": 38.0,
-      "hook": "Imagine nine hikers caught in a deadly snowstorm.",
-      "hook_style": "imagine / what if"
+      "title": "What if DNA could finally identify a 78\u2011year\u2011old killer?",
+      "views": 295,
+      "watched": null,
+      "duration": 43.3,
+      "hook": "What if DNA could finally identify a 78\u2011year\u2011old killer?",
+      "hook_style": "question"
      }
     ]
    },
    "outbreak-files": {
-    "count": 5,
+    "count": 6,
     "notes": [
      "Do MORE: speaking pace '135-150 wpm'",
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
      "Do MORE: length '38-44s'",
-     "Do LESS: title style 'POV'",
      "Do MORE: title style 'question'",
+     "Do LESS: title style 'POV'",
      "Do LESS: speaking pace '150-165 wpm'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
