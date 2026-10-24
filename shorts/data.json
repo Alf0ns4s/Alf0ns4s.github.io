@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-23T21:25:18+00:00",
- "stats_updated": "2026-10-23T21:25:01+00:00",
+ "synced": "2026-10-24T04:37:57+00:00",
+ "stats_updated": "2026-10-24T04:37:44+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -12,7 +12,7 @@
    ],
    "subscribers": 7,
    "views": 7358,
-   "uploads": 9,
+   "uploads": 10,
    "analytics": true,
    "daily": [
     {
@@ -216,6 +216,11 @@
      "date": "2026-10-23",
      "subscribers": 7,
      "views": 7358
+    },
+    {
+     "date": "2026-10-24",
+     "subscribers": 7,
+     "views": 7358
     }
    ]
   },
@@ -227,8 +232,8 @@
    "post_times": [
     "23:15"
    ],
-   "subscribers": 5,
-   "views": 1733,
+   "subscribers": 6,
+   "views": 1800,
    "uploads": 10,
    "analytics": true,
    "daily": [
@@ -381,6 +386,11 @@
      "date": "2026-10-23",
      "subscribers": 5,
      "views": 1733
+    },
+    {
+     "date": "2026-10-24",
+     "subscribers": 6,
+     "views": 1800
     }
    ]
   },
@@ -573,6 +583,11 @@
      "date": "2026-10-23",
      "subscribers": 4,
      "views": 2881
+    },
+    {
+     "date": "2026-10-24",
+     "subscribers": 4,
+     "views": 2881
     }
    ]
   },
@@ -586,7 +601,7 @@
    ],
    "subscribers": 13,
    "views": 3690,
-   "uploads": 6,
+   "uploads": 7,
    "analytics": true,
    "daily": [
     {
@@ -729,6 +744,11 @@
      "date": "2026-10-23",
      "subscribers": 13,
      "views": 3690
+    },
+    {
+     "date": "2026-10-24",
+     "subscribers": 13,
+     "views": 3690
     }
    ]
   }
@@ -745,10 +765,10 @@
    "duration": 38.0,
    "youtube_id": "XdfdBNV_IAM",
    "url": "https://youtube.com/shorts/XdfdBNV_IAM",
-   "privacy": "private",
-   "publish_at": "2026-10-24T00:30:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-24T00:30:00.000Z",
+   "views": 106,
+   "likes": 2,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261023-095910_outbreak-files.jpg",
@@ -783,9 +803,9 @@
    "duration": 38.7,
    "youtube_id": "zg-CQpRks58",
    "url": "https://youtube.com/shorts/zg-CQpRks58",
-   "privacy": "private",
-   "publish_at": "2026-10-23T23:15:00Z",
-   "views": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-23T23:15:00.000Z",
+   "views": 48,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -821,9 +841,9 @@
    "url": "https://youtube.com/shorts/GsHQIkCo4u0",
    "privacy": "public",
    "publish_at": "2026-10-23T20:15:00.000Z",
-   "views": 374,
-   "likes": 3,
-   "comments": 0,
+   "views": 876,
+   "likes": 15,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261023-095105_money-facts.jpg",
    "score": 97,
@@ -856,10 +876,10 @@
    "duration": 36.5,
    "youtube_id": "UUktLQaNpfQ",
    "url": "https://youtube.com/shorts/UUktLQaNpfQ",
-   "privacy": "private",
-   "publish_at": "2026-10-23T21:30:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-23T21:30:00.000Z",
+   "views": 331,
+   "likes": 6,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261023-094655_deep-sea-files.jpg",
@@ -897,7 +917,7 @@
    "url": "https://youtube.com/shorts/FV7koeCZk8Y",
    "privacy": "public",
    "publish_at": "2026-10-23T00:30:00.000Z",
-   "views": 359,
+   "views": 378,
    "likes": 4,
    "comments": 1,
    "analytics": null,
@@ -977,7 +997,7 @@
    "url": "https://youtube.com/shorts/q2VMHnVtuwA",
    "privacy": "public",
    "publish_at": "2026-10-22T20:15:00.000Z",
-   "views": 195,
+   "views": 203,
    "likes": 0,
    "comments": 1,
    "analytics": null,
@@ -1013,7 +1033,7 @@
    "url": "https://youtube.com/shorts/uCODTjlf20o",
    "privacy": "public",
    "publish_at": "2026-10-22T21:30:00.000Z",
-   "views": 1135,
+   "views": 1146,
    "likes": 9,
    "comments": 1,
    "analytics": null,
@@ -1098,7 +1118,7 @@
    "url": "https://youtube.com/shorts/s5-OgOfe6VQ",
    "privacy": "public",
    "publish_at": "2026-10-21T20:15:00.000Z",
-   "views": 205,
+   "views": 213,
    "likes": 3,
    "comments": 2,
    "analytics": {
@@ -1144,7 +1164,7 @@
    "url": "https://youtube.com/shorts/cJxgc0Oa9-k",
    "privacy": "public",
    "publish_at": "2026-10-21T21:30:00.000Z",
-   "views": 48,
+   "views": 50,
    "likes": 0,
    "comments": 1,
    "analytics": {
@@ -1192,7 +1212,7 @@
    "url": "https://youtube.com/shorts/-5mZr6URP04",
    "privacy": "public",
    "publish_at": "2026-10-22T00:30:00.000Z",
-   "views": 136,
+   "views": 164,
    "likes": 3,
    "comments": 1,
    "analytics": {
@@ -1332,7 +1352,7 @@
    "url": "https://youtube.com/shorts/Azd1a_nxP2c",
    "privacy": "public",
    "publish_at": "2026-10-21T00:30:00.000Z",
-   "views": 463,
+   "views": 464,
    "likes": 10,
    "comments": 1,
    "analytics": {
@@ -1795,7 +1815,7 @@
    "url": "https://youtube.com/shorts/BcBogfVHAKs",
    "privacy": "public",
    "publish_at": "2026-10-16T23:15:00.000Z",
-   "views": 1099,
+   "views": 1102,
    "likes": 24,
    "comments": 3,
    "analytics": {
@@ -2394,7 +2414,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-23T21:25:14+00:00",
+  "updated": "2026-10-24T04:37:54+00:00",
   "videos_analysed": 29,
   "rules": [
    {
@@ -2405,7 +2425,7 @@
     "prefer": true,
     "level": "confirmed",
     "text": "Do MORE: speaking pace '135-150 wpm'",
-    "evidence": "12 videos vs 17, 52% better (agrees on 3 channel(s), disagrees on 0)"
+    "evidence": "12 videos vs 17, 51% better (agrees on 3 channel(s), disagrees on 0)"
    },
    {
     "id": "action:lots of acting/effects",
@@ -2415,7 +2435,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Use lots of acting and effects (2+ per scene)",
-    "evidence": "23 videos vs 6, 86% better (agrees on 3 channel(s), disagrees on 0)"
+    "evidence": "23 videos vs 6, 87% better (agrees on 3 channel(s), disagrees on 0)"
    },
    {
     "id": "length:over 50s",
@@ -2448,16 +2468,6 @@
     "evidence": "5 videos vs 24, 30% worse (agrees on 3 channel(s), disagrees on 0)"
    },
    {
-    "id": "title_style:question",
-    "kind": "feature",
-    "feature": "title_style",
-    "group": "question",
-    "prefer": true,
-    "level": "likely",
-    "text": "Do MORE: title style 'question'",
-    "evidence": "9 videos vs 20, 30% better (agrees on 3 channel(s), disagrees on 1)"
-   },
-   {
     "id": "title_style:POV",
     "kind": "feature",
     "feature": "title_style",
@@ -2466,6 +2476,16 @@
     "level": "likely",
     "text": "Do LESS: title style 'POV'",
     "evidence": "4 videos vs 25, 23% worse (agrees on 1 channel(s), disagrees on 0)"
+   },
+   {
+    "id": "title_style:question",
+    "kind": "feature",
+    "feature": "title_style",
+    "group": "question",
+    "prefer": true,
+    "level": "likely",
+    "text": "Do MORE: title style 'question'",
+    "evidence": "9 videos vs 20, 29% better (agrees on 3 channel(s), disagrees on 1)"
    },
    {
     "id": "scene:shots",
@@ -2519,8 +2539,8 @@
      "Do LESS: length 'over 50s'",
      "Do MORE: length '38-44s'",
      "Do LESS: speaking pace '150-165 wpm'",
-     "Do MORE: title style 'question'",
      "Do LESS: title style 'POV'",
+     "Do MORE: title style 'question'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
@@ -2559,8 +2579,8 @@
      "Do LESS: length 'over 50s'",
      "Do MORE: length '38-44s'",
      "Do LESS: speaking pace '150-165 wpm'",
-     "Do MORE: title style 'question'",
      "Do LESS: title style 'POV'",
+     "Do MORE: title style 'question'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
@@ -2583,7 +2603,7 @@
      },
      {
       "title": "How can an iPhone 15 cost $200 to make?",
-      "views": 205,
+      "views": 213,
       "watched": 50.81,
       "duration": 34.8,
       "hook": "Estimates say iPhone 15 costs $200 to make.",
@@ -2599,15 +2619,15 @@
      "Do LESS: length 'over 50s'",
      "Do MORE: length '38-44s'",
      "Do LESS: speaking pace '150-165 wpm'",
-     "Do MORE: title style 'question'",
      "Do LESS: title style 'POV'",
+     "Do MORE: title style 'question'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
     "top": [
      {
       "title": "Can You Read This 600-Year-Old Book? Nobody Can",
-      "views": 1099,
+      "views": 1102,
       "watched": 55.14,
       "duration": 42.6,
       "hook": "Can you read this 600-year-old book?",
@@ -2639,8 +2659,8 @@
      "Do LESS: length 'over 50s'",
      "Do MORE: length '38-44s'",
      "Do LESS: speaking pace '150-165 wpm'",
-     "Do MORE: title style 'question'",
      "Do LESS: title style 'POV'",
+     "Do MORE: title style 'question'",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
