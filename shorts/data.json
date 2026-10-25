@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-25T04:42:36+00:00",
+ "synced": "2026-10-25T10:26:53+00:00",
  "stats_updated": "2026-10-25T04:42:23+00:00",
  "channels": [
   {
@@ -802,6 +802,163 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261025-101225_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "Mall outbreak survival",
+   "title": "Locked Mall Nightmare: How Did I Escape? (Part 3)",
+   "status": "posted",
+   "created": "2026-10-25T10:26:34",
+   "scheduled_for": "2026-10-26T03:30:00+02:00",
+   "duration": 32.8,
+   "youtube_id": "fAAbJFqNMEY",
+   "url": "https://youtube.com/shorts/fAAbJFqNMEY",
+   "privacy": "private",
+   "publish_at": "2026-10-26T01:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261025-101225_outbreak-files.jpg",
+   "score": 94,
+   "video_score": 100,
+   "script_score": 88,
+   "verdict": "pass",
+   "fixes": [
+    "fewer_flashes",
+    "brighten"
+   ],
+   "rounds": 3,
+   "issues": [
+    "First line is 4-8 words (lands in ~1.5 s)",
+    "At least 2 open loops / escalations",
+    "Description lists sources"
+   ],
+   "metrics": {
+    "cuts": 17,
+    "avg_shot": 1.82,
+    "wpm": 157,
+    "brightness": 75,
+    "loudness_db": -15.3
+   },
+   "error": null
+  },
+  {
+   "item": "20261025-100051_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Beale Ciphers",
+   "title": "Could the Beale Treasure be a $30M hoax?",
+   "status": "posted",
+   "created": "2026-10-25T10:12:22",
+   "scheduled_for": "2026-10-26T02:15:00+02:00",
+   "duration": 41.7,
+   "youtube_id": "L-l82T9KTvo",
+   "url": "https://youtube.com/shorts/L-l82T9KTvo",
+   "privacy": "private",
+   "publish_at": "2026-10-26T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261025-100051_mystery-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "fewer_flashes"
+   ],
+   "rounds": 2,
+   "issues": [],
+   "metrics": {
+    "cuts": 26,
+    "avg_shot": 1.54,
+    "wpm": 132,
+    "brightness": 71,
+    "loudness_db": -15.7
+   },
+   "error": null
+  },
+  {
+   "item": "20261025-094919_money-facts",
+   "channel": "money-facts",
+   "topic": "How GTA\u202fV hit $1\u202fbillion in 3 days?",
+   "title": "How did GTA\u202fV make $1\u202fbillion in just 3 days?",
+   "status": "posted",
+   "created": "2026-10-25T10:00:50",
+   "scheduled_for": "2026-10-25T23:15:00+02:00",
+   "duration": 41.7,
+   "youtube_id": "3kf5VvfVUF4",
+   "url": "https://youtube.com/shorts/3kf5VvfVUF4",
+   "privacy": "private",
+   "publish_at": "2026-10-25T21:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261025-094919_money-facts.jpg",
+   "score": 95,
+   "video_score": 96,
+   "script_score": 94,
+   "verdict": "pass",
+   "fixes": [
+    "tighten"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Calm speaking speed 125-175 words per minute (with pauses)",
+    "Frame 1 shows the main subject big",
+    "Talks to the viewer ('you')"
+   ],
+   "metrics": {
+    "cuts": 23,
+    "avg_shot": 1.74,
+    "wpm": 121,
+    "brightness": 83,
+    "loudness_db": -14.9
+   },
+   "error": null
+  },
+  {
+   "item": "20261025-093939_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: you're a sperm whale hunting a giant squid",
+   "title": "What if you could hear louder than a jet?",
+   "status": "posted",
+   "created": "2026-10-25T09:49:15",
+   "scheduled_for": "2026-10-26T00:30:00+02:00",
+   "duration": 36.2,
+   "youtube_id": "9rJyjV7-gn4",
+   "url": "https://youtube.com/shorts/9rJyjV7-gn4",
+   "privacy": "private",
+   "publish_at": "2026-10-25T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261025-093939_deep-sea-files.jpg",
+   "score": 93,
+   "video_score": 95,
+   "script_score": 91,
+   "verdict": "pass",
+   "fixes": [
+    "brighten"
+   ],
+   "rounds": 2,
+   "issues": [
+    "No empty-looking shots",
+    "Length 70-95 words (about 30-40 s at a calm pace)",
+    "At least 2 open loops / escalations"
+   ],
+   "metrics": {
+    "cuts": 16,
+    "avg_shot": 2.13,
+    "wpm": 161,
+    "brightness": 67,
+    "loudness_db": -15.3
+   },
+   "error": null
+  },
   {
    "item": "20261024-094016_outbreak-files",
    "channel": "outbreak-files",
