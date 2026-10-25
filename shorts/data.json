@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-24T23:15:37+00:00",
- "stats_updated": "2026-10-24T23:15:26+00:00",
+ "synced": "2026-10-25T04:42:36+00:00",
+ "stats_updated": "2026-10-25T04:42:23+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -228,6 +228,11 @@
      "date": "2026-10-24",
      "subscribers": 7,
      "views": 7969
+    },
+    {
+     "date": "2026-10-25",
+     "subscribers": 7,
+     "views": 7969
     }
    ]
   },
@@ -239,7 +244,7 @@
    "post_times": [
     "23:15"
    ],
-   "subscribers": 7,
+   "subscribers": 6,
    "views": 2710,
    "uploads": 11,
    "analytics": true,
@@ -404,6 +409,11 @@
     {
      "date": "2026-10-24",
      "subscribers": 7,
+     "views": 2710
+    },
+    {
+     "date": "2026-10-25",
+     "subscribers": 6,
      "views": 2710
     }
    ]
@@ -609,6 +619,11 @@
      "date": "2026-10-24",
      "subscribers": 5,
      "views": 2981
+    },
+    {
+     "date": "2026-10-25",
+     "subscribers": 5,
+     "views": 2981
     }
    ]
   },
@@ -622,7 +637,7 @@
    ],
    "subscribers": 13,
    "views": 4363,
-   "uploads": 7,
+   "uploads": 8,
    "analytics": true,
    "daily": [
     {
@@ -777,6 +792,11 @@
      "date": "2026-10-24",
      "subscribers": 13,
      "views": 4363
+    },
+    {
+     "date": "2026-10-25",
+     "subscribers": 13,
+     "views": 4363
     }
    ]
   }
@@ -793,10 +813,10 @@
    "duration": 34.2,
    "youtube_id": "B-1CLJHPFqM",
    "url": "https://youtube.com/shorts/B-1CLJHPFqM",
-   "privacy": "private",
-   "publish_at": "2026-10-25T00:30:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-25T00:30:00.000Z",
+   "views": 247,
+   "likes": 5,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261024-094016_outbreak-files.jpg",
@@ -832,9 +852,9 @@
    "url": "https://youtube.com/shorts/6uaNdsAkzig",
    "privacy": "public",
    "publish_at": "2026-10-24T23:15:00.000Z",
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
+   "views": 236,
+   "likes": 6,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261024-093023_mystery-files.jpg",
    "score": 92,
@@ -873,8 +893,8 @@
    "url": "https://youtube.com/shorts/mk1l_UcEi4M",
    "privacy": "public",
    "publish_at": "2026-10-24T20:15:00.000Z",
-   "views": 258,
-   "likes": 6,
+   "views": 527,
+   "likes": 4,
    "comments": 2,
    "analytics": null,
    "thumb": "thumbs/20261024-092444_money-facts.jpg",
@@ -909,9 +929,9 @@
    "url": "https://youtube.com/shorts/cme0bOrKPzc",
    "privacy": "public",
    "publish_at": "2026-10-24T21:30:00.000Z",
-   "views": 236,
-   "likes": 6,
-   "comments": 0,
+   "views": 265,
+   "likes": 7,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261024-092017_deep-sea-files.jpg",
    "score": 98,
@@ -945,7 +965,7 @@
    "url": "https://youtube.com/shorts/XdfdBNV_IAM",
    "privacy": "public",
    "publish_at": "2026-10-24T00:30:00.000Z",
-   "views": 228,
+   "views": 233,
    "likes": 4,
    "comments": 1,
    "analytics": null,
@@ -983,7 +1003,7 @@
    "url": "https://youtube.com/shorts/zg-CQpRks58",
    "privacy": "public",
    "publish_at": "2026-10-23T23:15:00.000Z",
-   "views": 93,
+   "views": 102,
    "likes": 0,
    "comments": 1,
    "analytics": null,
@@ -1056,7 +1076,7 @@
    "url": "https://youtube.com/shorts/UUktLQaNpfQ",
    "privacy": "public",
    "publish_at": "2026-10-23T21:30:00.000Z",
-   "views": 410,
+   "views": 417,
    "likes": 8,
    "comments": 1,
    "analytics": null,
@@ -1095,7 +1115,7 @@
    "url": "https://youtube.com/shorts/FV7koeCZk8Y",
    "privacy": "public",
    "publish_at": "2026-10-23T00:30:00.000Z",
-   "views": 545,
+   "views": 567,
    "likes": 5,
    "comments": 1,
    "analytics": {
@@ -1284,7 +1304,7 @@
    "url": "https://youtube.com/shorts/rxPMvpp2U3E",
    "privacy": "public",
    "publish_at": "2026-10-21T23:15:00.000Z",
-   "views": 143,
+   "views": 144,
    "likes": 4,
    "comments": 1,
    "analytics": {
@@ -1426,7 +1446,7 @@
    "url": "https://youtube.com/shorts/-5mZr6URP04",
    "privacy": "public",
    "publish_at": "2026-10-22T00:30:00.000Z",
-   "views": 165,
+   "views": 166,
    "likes": 3,
    "comments": 1,
    "analytics": {
@@ -1477,10 +1497,10 @@
    "likes": 10,
    "comments": 1,
    "analytics": {
-    "views": 716,
-    "estimatedMinutesWatched": 60,
+    "views": 714,
+    "estimatedMinutesWatched": 61,
     "averageViewDuration": 14,
-    "averageViewPercentage": 43.77,
+    "averageViewPercentage": 44.17,
     "subscribersGained": 1,
     "likes": 10,
     "shares": 0,
@@ -1527,10 +1547,10 @@
    "likes": 5,
    "comments": 1,
    "analytics": {
-    "views": 342,
-    "estimatedMinutesWatched": 52,
+    "views": 336,
+    "estimatedMinutesWatched": 51,
     "averageViewDuration": 19,
-    "averageViewPercentage": 58.76,
+    "averageViewPercentage": 58.67,
     "subscribersGained": 0,
     "likes": 5,
     "shares": 0,
@@ -1570,7 +1590,7 @@
    "likes": 10,
    "comments": 1,
    "analytics": {
-    "views": 465,
+    "views": 458,
     "estimatedMinutesWatched": 39,
     "averageViewDuration": 12,
     "averageViewPercentage": 42.09,
@@ -1616,10 +1636,10 @@
    "likes": 1,
    "comments": 1,
    "analytics": {
-    "views": 36,
+    "views": 35,
     "estimatedMinutesWatched": 2,
     "averageViewDuration": 8,
-    "averageViewPercentage": 23.35,
+    "averageViewPercentage": 24.35,
     "subscribersGained": 1,
     "likes": 1,
     "shares": 0,
@@ -1659,10 +1679,10 @@
    "likes": 20,
    "comments": 2,
    "analytics": {
-    "views": 1457,
-    "estimatedMinutesWatched": 339,
+    "views": 1451,
+    "estimatedMinutesWatched": 338,
     "averageViewDuration": 28,
-    "averageViewPercentage": 70.6,
+    "averageViewPercentage": 70.54,
     "subscribersGained": 5,
     "likes": 20,
     "shares": 0,
@@ -1797,10 +1817,10 @@
    "likes": 4,
    "comments": 1,
    "analytics": {
-    "views": 570,
+    "views": 567,
     "estimatedMinutesWatched": 89,
     "averageViewDuration": 18,
-    "averageViewPercentage": 55.74,
+    "averageViewPercentage": 55.8,
     "subscribersGained": 0,
     "likes": 4,
     "shares": 0,
@@ -1844,10 +1864,10 @@
    "likes": 7,
    "comments": 1,
    "analytics": {
-    "views": 542,
+    "views": 541,
     "estimatedMinutesWatched": 81,
     "averageViewDuration": 19,
-    "averageViewPercentage": 48.09,
+    "averageViewPercentage": 47.99,
     "subscribersGained": 0,
     "likes": 7,
     "shares": 0,
@@ -1936,7 +1956,7 @@
    "url": "https://youtube.com/shorts/66hLUoCa31w",
    "privacy": "public",
    "publish_at": "2026-10-18T20:15:00.000Z",
-   "views": 268,
+   "views": 269,
    "likes": 5,
    "comments": 1,
    "analytics": {
@@ -1988,10 +2008,10 @@
    "likes": 8,
    "comments": 2,
    "analytics": {
-    "views": 1240,
-    "estimatedMinutesWatched": 186,
+    "views": 1233,
+    "estimatedMinutesWatched": 184,
     "averageViewDuration": 16,
-    "averageViewPercentage": 48.26,
+    "averageViewPercentage": 47.88,
     "subscribersGained": 0,
     "likes": 8,
     "shares": 0,
@@ -2172,7 +2192,7 @@
    "url": "https://youtube.com/shorts/YpXMdfydhT4",
    "privacy": "public",
    "publish_at": "2026-10-16T21:30:00.000Z",
-   "views": 1331,
+   "views": 1334,
    "likes": 30,
    "comments": 2,
    "analytics": {
@@ -2628,7 +2648,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-24T23:15:34+00:00",
+  "updated": "2026-10-25T04:42:32+00:00",
   "videos_analysed": 33,
   "rules": [
    {
@@ -2773,7 +2793,7 @@
     "top": [
      {
       "title": "POV: You're a Pufferfish and Something Wants You",
-      "views": 1331,
+      "views": 1334,
       "watched": 68.59,
       "duration": 30.6,
       "hook": "POV: you can blow up like a balloon.",
@@ -2790,7 +2810,7 @@
      {
       "title": "Only 1 in 1,000 Baby Sea Turtles Make It",
       "views": 1234,
-      "watched": 48.26,
+      "watched": 47.88,
       "duration": 33.3,
       "hook": "Only 1 in 1,000 of you survive.",
       "hook_style": "shocking number"
@@ -2815,14 +2835,14 @@
      {
       "title": "Only $0.003 per Spotify Stream? The Shocking Truth",
       "views": 336,
-      "watched": 58.76,
+      "watched": 58.67,
       "duration": 33.9,
       "hook": "Only $0.003 per Spotify stream?",
       "hook_style": "question"
      },
      {
       "title": "This 16-Year-Old Won $3 Million Playing a Game",
-      "views": 268,
+      "views": 269,
       "watched": 42.11,
       "duration": 38.1,
       "hook": "This 16-year-old won $3 million gaming.",
@@ -2897,7 +2917,7 @@
      {
       "title": "Who Is Waving From Your Window? (Part 3)",
       "views": 1515,
-      "watched": 70.6,
+      "watched": 70.54,
       "duration": 39.7,
       "hook": "Only one seat left for two of you.",
       "hook_style": "mystery / impossible claim"
@@ -2913,7 +2933,7 @@
      {
       "title": "One Seat Left. Two Survivors. (Part 2)",
       "views": 545,
-      "watched": 48.09,
+      "watched": 47.99,
       "duration": 40.3,
       "hook": "Floor 30.",
       "hook_style": "shocking number"
