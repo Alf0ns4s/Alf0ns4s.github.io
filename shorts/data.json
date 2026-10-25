@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-25T20:52:18+00:00",
- "stats_updated": "2026-10-25T20:51:57+00:00",
+ "synced": "2026-10-25T23:17:13+00:00",
+ "stats_updated": "2026-10-25T23:17:00+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -12,7 +12,7 @@
    ],
    "subscribers": 7,
    "views": 8311,
-   "uploads": 11,
+   "uploads": 12,
    "analytics": true,
    "daily": [
     {
@@ -66,7 +66,7 @@
     },
     {
      "day": "2026-10-20",
-     "views": 544,
+     "views": 540,
      "estimatedMinutesWatched": 71,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -253,7 +253,7 @@
    ],
    "subscribers": 7,
    "views": 3472,
-   "uploads": 11,
+   "uploads": 12,
    "analytics": true,
    "daily": [
     {
@@ -307,7 +307,7 @@
     },
     {
      "day": "2026-10-20",
-     "views": 498,
+     "views": 492,
      "estimatedMinutesWatched": 69,
      "subscribersGained": 1,
      "subscribersLost": 0
@@ -504,7 +504,7 @@
     },
     {
      "day": "2026-10-20",
-     "views": 158,
+     "views": 157,
      "estimatedMinutesWatched": 18,
      "subscribersGained": 3,
      "subscribersLost": 1
@@ -699,8 +699,8 @@
     },
     {
      "day": "2026-10-20",
-     "views": 788,
-     "estimatedMinutesWatched": 159,
+     "views": 777,
+     "estimatedMinutesWatched": 157,
      "subscribersGained": 2,
      "subscribersLost": 0
     },
@@ -931,8 +931,8 @@
    "duration": 41.7,
    "youtube_id": "3kf5VvfVUF4",
    "url": "https://youtube.com/shorts/3kf5VvfVUF4",
-   "privacy": "private",
-   "publish_at": "2026-10-25T21:15:00Z",
+   "privacy": "public",
+   "publish_at": "2026-10-25T21:15:00.000Z",
    "views": 0,
    "likes": 0,
    "comments": 0,
@@ -971,10 +971,10 @@
    "duration": 36.2,
    "youtube_id": "9rJyjV7-gn4",
    "url": "https://youtube.com/shorts/9rJyjV7-gn4",
-   "privacy": "private",
-   "publish_at": "2026-10-25T22:30:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-25T22:30:00.000Z",
+   "views": 168,
+   "likes": 1,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261025-093939_deep-sea-files.jpg",
@@ -1013,7 +1013,7 @@
    "url": "https://youtube.com/shorts/B-1CLJHPFqM",
    "privacy": "public",
    "publish_at": "2026-10-25T00:30:00.000Z",
-   "views": 424,
+   "views": 431,
    "likes": 5,
    "comments": 1,
    "analytics": null,
@@ -1050,7 +1050,7 @@
    "url": "https://youtube.com/shorts/6uaNdsAkzig",
    "privacy": "public",
    "publish_at": "2026-10-24T23:15:00.000Z",
-   "views": 284,
+   "views": 285,
    "likes": 7,
    "comments": 1,
    "analytics": null,
@@ -1091,7 +1091,7 @@
    "url": "https://youtube.com/shorts/mk1l_UcEi4M",
    "privacy": "public",
    "publish_at": "2026-10-24T20:15:00.000Z",
-   "views": 674,
+   "views": 693,
    "likes": 6,
    "comments": 2,
    "analytics": null,
@@ -1301,7 +1301,7 @@
    "url": "https://youtube.com/shorts/UUktLQaNpfQ",
    "privacy": "public",
    "publish_at": "2026-10-23T21:30:00.000Z",
-   "views": 431,
+   "views": 433,
    "likes": 8,
    "comments": 1,
    "analytics": {
@@ -1349,7 +1349,7 @@
    "url": "https://youtube.com/shorts/FV7koeCZk8Y",
    "privacy": "public",
    "publish_at": "2026-10-23T00:30:00.000Z",
-   "views": 584,
+   "views": 586,
    "likes": 5,
    "comments": 1,
    "analytics": {
@@ -2562,7 +2562,7 @@
    "url": "https://youtube.com/shorts/wx6TMERkpLQ",
    "privacy": "public",
    "publish_at": "2026-10-15T21:30:00.000Z",
-   "views": 1153,
+   "views": 1155,
    "likes": 16,
    "comments": 4,
    "analytics": {
@@ -2882,7 +2882,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-25T20:52:15+00:00",
+  "updated": "2026-10-25T23:17:09+00:00",
   "videos_analysed": 37,
   "rules": [
    {
@@ -2992,9 +2992,7 @@
     "evidence": "Viewers leave fastest in scene 2 (1.69x the average rate). (33 scenes)"
    }
   ],
-  "changes": [
-   "Dropped (no longer holds): Do LESS: speaking pace 'over 165 wpm'"
-  ],
+  "changes": [],
   "hints": [
    "Do MORE: hook style 'question'",
    "Do LESS: hook style 'statement'",
@@ -3007,7 +3005,7 @@
   ],
   "start_hold": 0.966,
   "experiments": {
-   "mystery-files": "first line 1-4 words"
+   "money-facts": "first line 1-4 words"
   },
   "targets": {
    "words": [
