@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-26T12:49:46+00:00",
- "stats_updated": "2026-10-26T12:49:30+00:00",
+ "synced": "2026-10-26T13:04:40+00:00",
+ "stats_updated": "2026-10-26T13:04:28+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -1267,7 +1267,7 @@
    "url": "https://youtube.com/shorts/mk1l_UcEi4M",
    "privacy": "public",
    "publish_at": "2026-10-24T20:15:00.000Z",
-   "views": 712,
+   "views": 711,
    "likes": 6,
    "comments": 2,
    "analytics": null,
@@ -3058,7 +3058,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-26T12:49:43+00:00",
+  "updated": "2026-10-26T13:04:37+00:00",
   "videos_analysed": 41,
   "rules": [
    {
@@ -3198,13 +3198,7 @@
     "evidence": "Viewers leave fastest in scene 2 (1.69x the average rate). (33 scenes)"
    }
   ],
-  "changes": [
-   "Now confirmed: Do MORE: average scene length 'scenes under 4s'",
-   "New rule (likely): Do MORE: length '32-38s'",
-   "New rule (likely): Do MORE: speaking pace 'under 135 wpm'",
-   "Now likely: Do LESS: hook style 'imagine / what if'",
-   "Targets changed: {'words': [70, 95], 'duration': [28, 42], 'max_scene_s': 5.5, 'hook_words_max': 8} -> {'words': [70, 95], 'duration': [28, 42], 'max_scene_s': 4.5, 'hook_words_max': 8}"
-  ],
+  "changes": [],
   "hints": [
    "Do MORE: hook style 'question'",
    "Do LESS: first line length 'first line 1-4 words'"
@@ -3304,7 +3298,7 @@
      },
      {
       "title": "How can a $30 console cost $500?",
-      "views": 712,
+      "views": 711,
       "watched": null,
       "duration": 40.9,
       "hook": "PS5 parts cost roughly $30 each.",
