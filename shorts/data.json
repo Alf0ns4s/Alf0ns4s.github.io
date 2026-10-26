@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-26T04:48:35+00:00",
+ "synced": "2026-10-26T11:16:18+00:00",
  "stats_updated": "2026-10-26T04:48:23+00:00",
  "channels": [
   {
@@ -675,7 +675,7 @@
    "id": "outbreak-files",
    "name": "Outbreak Files",
    "handle": "@outbreakfil3s",
-   "accent": "#9dff4a",
+   "accent": "#ffd23f",
    "post_times": [
     "03:30"
    ],
@@ -863,6 +863,162 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261026-110825_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Night Bus",
+   "title": "Why the last bus went silent (Part 1)",
+   "status": "posted",
+   "created": "2026-10-26T11:16:01",
+   "scheduled_for": "2026-10-27T03:30:00+02:00",
+   "duration": 32.4,
+   "youtube_id": "PYgCre_v4mA",
+   "url": "https://youtube.com/shorts/PYgCre_v4mA",
+   "privacy": "private",
+   "publish_at": "2026-10-27T01:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261026-110825_outbreak-files.jpg",
+   "score": 86,
+   "video_score": 100,
+   "script_score": 73,
+   "verdict": "pass",
+   "fixes": [
+    "fewer_flashes"
+   ],
+   "rounds": 2,
+   "issues": [
+    "First line is 4-8 words (lands in ~1.5 s)",
+    "Hook has a shock, number, question or contrast",
+    "Frame 1 shows the main subject big",
+    "At least 2 open loops / escalations",
+    "Numbers are made relatable",
+    "Description lists sources"
+   ],
+   "metrics": {
+    "cuts": 21,
+    "avg_shot": 1.48,
+    "wpm": 148,
+    "brightness": 47,
+    "loudness_db": -15.2
+   },
+   "error": null
+  },
+  {
+   "item": "20261026-110003_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The 1911 Mona Lisa theft",
+   "title": "Why did the Mona Lisa vanish on a closed Monday?",
+   "status": "posted",
+   "created": "2026-10-26T11:08:25",
+   "scheduled_for": "2026-10-27T02:15:00+02:00",
+   "duration": 35.5,
+   "youtube_id": "e-R6YGvrxCY",
+   "url": "https://youtube.com/shorts/e-R6YGvrxCY",
+   "privacy": "private",
+   "publish_at": "2026-10-27T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261026-110003_mystery-files.jpg",
+   "score": 94,
+   "video_score": 100,
+   "script_score": 87,
+   "verdict": "pass",
+   "fixes": [
+    "fewer_flashes",
+    "loudness"
+   ],
+   "rounds": 2,
+   "issues": [
+    "At least 2 open loops / escalations",
+    "Talks to the viewer ('you')",
+    "Numbers are made relatable"
+   ],
+   "metrics": {
+    "cuts": 17,
+    "avg_shot": 1.97,
+    "wpm": 130,
+    "brightness": 50,
+    "loudness_db": -14.7
+   },
+   "error": null
+  },
+  {
+   "item": "20261026-105546_money-facts",
+   "channel": "money-facts",
+   "topic": "How much did one episode of Stranger Things cost?",
+   "title": "Why does a single episode cost $30 million?",
+   "status": "posted",
+   "created": "2026-10-26T10:59:58",
+   "scheduled_for": "2026-10-26T23:15:00+02:00",
+   "duration": 37.5,
+   "youtube_id": "hG2LW8mgLgc",
+   "url": "https://youtube.com/shorts/hG2LW8mgLgc",
+   "privacy": "private",
+   "publish_at": "2026-10-26T21:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261026-105546_money-facts.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 23,
+    "avg_shot": 1.56,
+    "wpm": 136,
+    "brightness": 82,
+    "loudness_db": -15.7
+   },
+   "error": null
+  },
+  {
+   "item": "20261026-104624_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "Archerfish water\u2011jet hunting",
+   "title": "Can a fish shoot a bug two meters?",
+   "status": "posted",
+   "created": "2026-10-26T10:55:46",
+   "scheduled_for": "2026-10-27T00:30:00+02:00",
+   "duration": 28.8,
+   "youtube_id": "mBQldPa5VJM",
+   "url": "https://youtube.com/shorts/mBQldPa5VJM",
+   "privacy": "private",
+   "publish_at": "2026-10-26T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261026-104624_deep-sea-files.jpg",
+   "score": 98,
+   "video_score": 96,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "slower_voice"
+   ],
+   "rounds": 3,
+   "issues": [
+    "Calm speaking speed 125-175 words per minute (with pauses)"
+   ],
+   "metrics": {
+    "cuts": 18,
+    "avg_shot": 1.52,
+    "wpm": 179,
+    "brightness": 110,
+    "loudness_db": -15.7
+   },
+   "error": null
+  },
   {
    "item": "20261025-101225_outbreak-files",
    "channel": "outbreak-files",
