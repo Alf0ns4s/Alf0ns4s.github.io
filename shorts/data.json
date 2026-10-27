@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-27T17:38:15+00:00",
+ "synced": "2026-10-27T17:58:41+00:00",
  "stats_updated": "2026-10-27T15:35:09+00:00",
  "channels": [
   {
@@ -926,6 +926,44 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261027-174707_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Antikythera mechanism",
+   "title": "Who Built a Computer 2,000 Years Ago?",
+   "status": "posted",
+   "created": "2026-10-27T17:58:32",
+   "scheduled_for": "2026-10-28T02:15:00+02:00",
+   "duration": 40.8,
+   "youtube_id": "Sh3Ni4sv3nQ",
+   "url": "https://youtube.com/shorts/Sh3Ni4sv3nQ",
+   "privacy": "private",
+   "publish_at": "2026-10-28T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261027-174707_mystery-files.jpg",
+   "score": 99,
+   "video_score": 100,
+   "script_score": 98,
+   "verdict": "pass",
+   "fixes": [
+    "tighten"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Length 65-88 words"
+   ],
+   "metrics": {
+    "cuts": 23,
+    "avg_shot": 1.7,
+    "wpm": 138,
+    "brightness": 50,
+    "loudness_db": -14.4
+   },
+   "error": null
+  },
   {
    "item": "20261027-170943_mystery-files",
    "channel": "mystery-files",
@@ -3341,20 +3379,7 @@
    "error": null
   }
  ],
- "rework": [
-  {
-   "item": "20261027-170943_mystery-files",
-   "channel": "mystery-files",
-   "topic": "The Antikythera mechanism",
-   "score": 92,
-   "round": 1,
-   "reasons": [
-    "Script is 97 words. Aim for 70-95.",
-    "Speaking speed 127 wpm.",
-    "Video is 46s. Aim for 28-42 s."
-   ]
-  }
- ],
+ "rework": [],
  "inbox_waiting": [],
  "insights": {
   "updated": "2026-10-27T15:35:19+00:00",
