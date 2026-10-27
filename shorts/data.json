@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-27T13:24:44+00:00",
- "stats_updated": "2026-10-27T12:01:45+00:00",
+ "synced": "2026-10-27T15:35:23+00:00",
+ "stats_updated": "2026-10-27T15:35:09+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -982,7 +982,7 @@
    "url": "https://youtube.com/shorts/e-R6YGvrxCY",
    "privacy": "public",
    "publish_at": "2026-10-27T00:15:00.000Z",
-   "views": 198,
+   "views": 205,
    "likes": 4,
    "comments": 1,
    "analytics": null,
@@ -1057,7 +1057,7 @@
    "url": "https://youtube.com/shorts/mBQldPa5VJM",
    "privacy": "public",
    "publish_at": "2026-10-26T22:30:00.000Z",
-   "views": 576,
+   "views": 578,
    "likes": 11,
    "comments": 1,
    "analytics": null,
@@ -1136,7 +1136,7 @@
    "url": "https://youtube.com/shorts/L-l82T9KTvo",
    "privacy": "public",
    "publish_at": "2026-10-26T00:15:00.000Z",
-   "views": 2,
+   "views": 3,
    "likes": 0,
    "comments": 1,
    "analytics": null,
@@ -1172,7 +1172,7 @@
    "url": "https://youtube.com/shorts/3kf5VvfVUF4",
    "privacy": "public",
    "publish_at": "2026-10-25T21:15:00.000Z",
-   "views": 55,
+   "views": 58,
    "likes": 1,
    "comments": 1,
    "analytics": null,
@@ -3157,8 +3157,8 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-27T12:01:55+00:00",
-  "videos_analysed": 43,
+  "updated": "2026-10-27T15:35:19+00:00",
+  "videos_analysed": 45,
   "rules": [
    {
     "id": "action:lots of acting/effects",
@@ -3168,7 +3168,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Use lots of acting and effects (2+ per scene)",
-    "evidence": "37 videos vs 6, 63% better (agrees on 3 channel(s), disagrees on 0; chance it's luck 0%)"
+    "evidence": "39 videos vs 6, 58% better (agrees on 3 channel(s), disagrees on 0; chance it's luck 2%)"
    },
    {
     "id": "length:over 50s",
@@ -3178,7 +3178,7 @@
     "prefer": false,
     "level": "likely",
     "text": "Do LESS: length 'over 50s'",
-    "evidence": "4 videos vs 31, 35% worse (agrees on 2 channel(s), disagrees on 0; chance it's luck 3%)"
+    "evidence": "4 videos vs 32, 32% worse (agrees on 2 channel(s), disagrees on 0; chance it's luck 6%)"
    },
    {
     "id": "scene:shots",
@@ -3199,12 +3199,11 @@
   ],
   "changes": [],
   "hints": [
-   "Do MORE: speaking pace '135-150 wpm'",
+   "Do LESS: first line length 'first line 1-4 words'",
    "Do MORE: average scene length 'scenes under 4s'",
-   "Do LESS: speaking pace '150-165 wpm'",
-   "Do MORE: length '38-44s'",
    "Do MORE: length '32-38s'",
-   "Do LESS: hook style 'imagine / what if'"
+   "Do LESS: average scene length 'scenes 4-5s'",
+   "Keep each scene to one idea, 16 words or fewer."
   ],
   "leave": [
    "One-shot scenes longer than 3.5 seconds lose viewers 1.9x faster. Give any scene over 3.5 s a second shot (new angle or close-up).",
@@ -3213,7 +3212,7 @@
   ],
   "start_hold": 0.967,
   "experiments": {
-   "deep-sea-files": "first line 1-4 words"
+   "deep-sea-files": "why / how"
   },
   "targets": {
    "words": [
@@ -3299,7 +3298,7 @@
     ]
    },
    "mystery-files": {
-    "count": 11,
+    "count": 12,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
@@ -3334,7 +3333,7 @@
     ]
    },
    "outbreak-files": {
-    "count": 8,
+    "count": 9,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
