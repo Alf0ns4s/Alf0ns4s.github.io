@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-27T15:35:23+00:00",
+ "synced": "2026-10-27T16:51:36+00:00",
  "stats_updated": "2026-10-27T15:35:09+00:00",
  "channels": [
   {
@@ -926,6 +926,153 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261027-162531_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Night Bus (Part 2)",
+   "title": "Why Is the Bus Driver Smiling? (Part 2)",
+   "status": "posted",
+   "created": "2026-10-27T16:51:19",
+   "scheduled_for": "2026-10-28T03:30:00+02:00",
+   "duration": 80.2,
+   "youtube_id": "u3QhJDQ4rKc",
+   "url": "https://youtube.com/shorts/u3QhJDQ4rKc",
+   "privacy": "private",
+   "publish_at": "2026-10-28T01:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261027-162531_outbreak-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "brighten",
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [],
+   "metrics": {
+    "cuts": 38,
+    "avg_shot": 2.06,
+    "wpm": 147,
+    "brightness": 69,
+    "loudness_db": -15.2
+   },
+   "error": null
+  },
+  {
+   "item": "20261027-155702_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Antikythera mechanism",
+   "title": "Who Built a Computer 2,000 Years Ago?",
+   "status": "rejected",
+   "created": "2026-10-27T16:25:24",
+   "scheduled_for": null,
+   "duration": 46.3,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261027-155702_mystery-files.jpg",
+   "score": 92,
+   "video_score": 86,
+   "script_score": 98,
+   "verdict": "needs_rework",
+   "fixes": [
+    "tighten"
+   ],
+   "rounds": 4,
+   "issues": [
+    "Calm speaking speed 130-175 words per minute (with pauses)",
+    "Length 28-42 seconds",
+    "Length 70-95 words"
+   ],
+   "metrics": {
+    "cuts": 22,
+    "avg_shot": 2.01,
+    "wpm": 126,
+    "brightness": 50,
+    "loudness_db": -14.8
+   },
+   "error": null
+  },
+  {
+   "item": "20261027-155113_money-facts",
+   "channel": "money-facts",
+   "topic": "Why do Apple and Google take 30% of what you spend in apps?",
+   "title": "Why Apple Takes $30 of Every $100 You Spend",
+   "status": "posted",
+   "created": "2026-10-27T15:57:02",
+   "scheduled_for": "2026-10-27T23:15:00+02:00",
+   "duration": 41.1,
+   "youtube_id": "JMMIn_eR8zo",
+   "url": "https://youtube.com/shorts/JMMIn_eR8zo",
+   "privacy": "private",
+   "publish_at": "2026-10-27T21:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261027-155113_money-facts.jpg",
+   "score": 99,
+   "video_score": 100,
+   "script_score": 98,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Talks to the viewer ('you' 4+ times)"
+   ],
+   "metrics": {
+    "cuts": 25,
+    "avg_shot": 1.58,
+    "wpm": 141,
+    "brightness": 83,
+    "loudness_db": -15.9
+   },
+   "error": null
+  },
+  {
+   "item": "20261027-154526_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: you're a hagfish and a shark just bit you - slime time",
+   "title": "This Fish Chokes Sharks With Slime",
+   "status": "posted",
+   "created": "2026-10-27T15:51:13",
+   "scheduled_for": "2026-10-28T00:30:00+02:00",
+   "duration": 39.9,
+   "youtube_id": "GdPQZvVv6P8",
+   "url": "https://youtube.com/shorts/GdPQZvVv6P8",
+   "privacy": "private",
+   "publish_at": "2026-10-27T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261027-154526_deep-sea-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 21,
+    "avg_shot": 1.81,
+    "wpm": 143,
+    "brightness": 93,
+    "loudness_db": -15.2
+   },
+   "error": null
+  },
   {
    "item": "20261026-110825_outbreak-files",
    "channel": "outbreak-files",
@@ -3154,7 +3301,20 @@
    "error": null
   }
  ],
- "rework": [],
+ "rework": [
+  {
+   "item": "20261027-155702_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Antikythera mechanism",
+   "score": 92,
+   "round": 1,
+   "reasons": [
+    "Video is 46s. Aim for 28-42 s.",
+    "Script is 97 words. Aim for 70-95.",
+    "Speaking speed 126 wpm."
+   ]
+  }
+ ],
  "inbox_waiting": [],
  "insights": {
   "updated": "2026-10-27T15:35:19+00:00",
