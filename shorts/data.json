@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-26T20:30:06+00:00",
- "stats_updated": "2026-10-26T20:29:46+00:00",
+ "synced": "2026-10-27T00:26:30+00:00",
+ "stats_updated": "2026-10-27T00:26:16+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -10,9 +10,9 @@
    "post_times": [
     "00:30"
    ],
-   "subscribers": 7,
+   "subscribers": 8,
    "views": 8523,
-   "uploads": 12,
+   "uploads": 13,
    "analytics": true,
    "daily": [
     {
@@ -252,6 +252,11 @@
      "date": "2026-10-26",
      "subscribers": 7,
      "views": 8523
+    },
+    {
+     "date": "2026-10-27",
+     "subscribers": 8,
+     "views": 8523
     }
    ]
   },
@@ -476,6 +481,11 @@
      "date": "2026-10-26",
      "subscribers": 7,
      "views": 3628
+    },
+    {
+     "date": "2026-10-27",
+     "subscribers": 7,
+     "views": 3628
     }
    ]
   },
@@ -489,7 +499,7 @@
    ],
    "subscribers": 5,
    "views": 3317,
-   "uploads": 12,
+   "uploads": 13,
    "analytics": true,
    "daily": [
     {
@@ -704,6 +714,11 @@
      "date": "2026-10-26",
      "subscribers": 5,
      "views": 3317
+    },
+    {
+     "date": "2026-10-27",
+     "subscribers": 5,
+     "views": 3317
     }
    ]
   },
@@ -901,6 +916,11 @@
      "date": "2026-10-26",
      "subscribers": 13,
      "views": 5350
+    },
+    {
+     "date": "2026-10-27",
+     "subscribers": 13,
+     "views": 5350
     }
    ]
   }
@@ -960,9 +980,9 @@
    "duration": 35.5,
    "youtube_id": "e-R6YGvrxCY",
    "url": "https://youtube.com/shorts/e-R6YGvrxCY",
-   "privacy": "private",
-   "publish_at": "2026-10-27T00:15:00Z",
-   "views": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-27T00:15:00.000Z",
+   "views": 13,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -1001,10 +1021,10 @@
    "duration": 37.5,
    "youtube_id": "hG2LW8mgLgc",
    "url": "https://youtube.com/shorts/hG2LW8mgLgc",
-   "privacy": "private",
-   "publish_at": "2026-10-26T21:15:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-26T21:15:00.000Z",
+   "views": 205,
+   "likes": 5,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261026-105546_money-facts.jpg",
@@ -1035,10 +1055,10 @@
    "duration": 28.8,
    "youtube_id": "mBQldPa5VJM",
    "url": "https://youtube.com/shorts/mBQldPa5VJM",
-   "privacy": "private",
-   "publish_at": "2026-10-26T22:30:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-10-26T22:30:00.000Z",
+   "views": 250,
+   "likes": 6,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261026-104624_deep-sea-files.jpg",
@@ -1075,7 +1095,7 @@
    "url": "https://youtube.com/shorts/fAAbJFqNMEY",
    "privacy": "public",
    "publish_at": "2026-10-26T01:30:00.000Z",
-   "views": 288,
+   "views": 281,
    "likes": 0,
    "comments": 1,
    "analytics": null,
@@ -1232,7 +1252,7 @@
    "url": "https://youtube.com/shorts/B-1CLJHPFqM",
    "privacy": "public",
    "publish_at": "2026-10-25T00:30:00.000Z",
-   "views": 467,
+   "views": 470,
    "likes": 5,
    "comments": 1,
    "analytics": {
@@ -1278,7 +1298,7 @@
    "url": "https://youtube.com/shorts/6uaNdsAkzig",
    "privacy": "public",
    "publish_at": "2026-10-24T23:15:00.000Z",
-   "views": 292,
+   "views": 293,
    "likes": 7,
    "comments": 1,
    "analytics": {
@@ -1328,7 +1348,7 @@
    "url": "https://youtube.com/shorts/mk1l_UcEi4M",
    "privacy": "public",
    "publish_at": "2026-10-24T20:15:00.000Z",
-   "views": 731,
+   "views": 732,
    "likes": 6,
    "comments": 2,
    "analytics": {
@@ -1373,7 +1393,7 @@
    "url": "https://youtube.com/shorts/cme0bOrKPzc",
    "privacy": "public",
    "publish_at": "2026-10-24T21:30:00.000Z",
-   "views": 283,
+   "views": 286,
    "likes": 7,
    "comments": 1,
    "analytics": {
@@ -1418,7 +1438,7 @@
    "url": "https://youtube.com/shorts/XdfdBNV_IAM",
    "privacy": "public",
    "publish_at": "2026-10-24T00:30:00.000Z",
-   "views": 255,
+   "views": 253,
    "likes": 4,
    "comments": 1,
    "analytics": {
@@ -1747,7 +1767,7 @@
    "url": "https://youtube.com/shorts/uCODTjlf20o",
    "privacy": "public",
    "publish_at": "2026-10-22T21:30:00.000Z",
-   "views": 1371,
+   "views": 1372,
    "likes": 12,
    "comments": 1,
    "analytics": {
@@ -2121,7 +2141,7 @@
    "url": "https://youtube.com/shorts/uDUELAFjZ9Y",
    "privacy": "public",
    "publish_at": "2026-10-20T23:15:00.000Z",
-   "views": 37,
+   "views": 38,
    "likes": 1,
    "comments": 1,
    "analytics": {
@@ -3103,7 +3123,7 @@
    "url": "https://youtube.com/shorts/gf9JdoiVQ9o",
    "privacy": "public",
    "publish_at": "2026-10-13T21:30:00.000Z",
-   "views": 1175,
+   "views": 1176,
    "likes": 32,
    "comments": 2,
    "analytics": {
@@ -3137,7 +3157,7 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-26T20:30:02+00:00",
+  "updated": "2026-10-27T00:26:26+00:00",
   "videos_analysed": 41,
   "rules": [
    {
@@ -3297,10 +3317,7 @@
     "evidence": "Viewers leave fastest in scene 2 (1.68x the average rate). (37 scenes)"
    }
   ],
-  "changes": [
-   "Now likely: Do MORE: hook style 'question'",
-   "New rule (likely): Do LESS: average scene length 'scenes 5-6s'"
-  ],
+  "changes": [],
   "hints": [
    "Do LESS: first line length 'first line 1-4 words'"
   ],
@@ -3310,7 +3327,7 @@
   ],
   "start_hold": 0.967,
   "experiments": {
-   "money-facts": "first line 1-4 words"
+   "deep-sea-files": "first line 1-4 words"
   },
   "targets": {
    "words": [
@@ -3356,7 +3373,7 @@
      },
      {
       "title": "Why does a 10\u2011ft bobbit worm strike so fast?",
-      "views": 1371,
+      "views": 1372,
       "watched": 48.25,
       "duration": 29.5,
       "hook": "A 10\u2011ft bobbit worm hides beneath sand.",
@@ -3403,7 +3420,7 @@
      },
      {
       "title": "How can a $30 console cost $500?",
-      "views": 731,
+      "views": 732,
       "watched": 38.67,
       "duration": 40.9,
       "hook": "PS5 parts cost roughly $30 each.",
