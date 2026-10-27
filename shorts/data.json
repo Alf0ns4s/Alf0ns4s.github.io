@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-27T09:01:11+00:00",
- "stats_updated": "2026-10-27T09:00:47+00:00",
+ "synced": "2026-10-27T12:01:57+00:00",
+ "stats_updated": "2026-10-27T12:01:45+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -939,9 +939,9 @@
    "url": "https://youtube.com/shorts/PYgCre_v4mA",
    "privacy": "public",
    "publish_at": "2026-10-27T01:30:00.000Z",
-   "views": 159,
+   "views": 165,
    "likes": 2,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261026-110825_outbreak-files.jpg",
    "score": 86,
@@ -1023,7 +1023,7 @@
    "url": "https://youtube.com/shorts/hG2LW8mgLgc",
    "privacy": "public",
    "publish_at": "2026-10-26T21:15:00.000Z",
-   "views": 286,
+   "views": 289,
    "likes": 5,
    "comments": 1,
    "analytics": null,
@@ -1057,7 +1057,7 @@
    "url": "https://youtube.com/shorts/mBQldPa5VJM",
    "privacy": "public",
    "publish_at": "2026-10-26T22:30:00.000Z",
-   "views": 577,
+   "views": 576,
    "likes": 11,
    "comments": 1,
    "analytics": null,
@@ -1095,7 +1095,7 @@
    "url": "https://youtube.com/shorts/fAAbJFqNMEY",
    "privacy": "public",
    "publish_at": "2026-10-26T01:30:00.000Z",
-   "views": 289,
+   "views": 290,
    "likes": 0,
    "comments": 1,
    "analytics": null,
@@ -1767,7 +1767,7 @@
    "url": "https://youtube.com/shorts/uCODTjlf20o",
    "privacy": "public",
    "publish_at": "2026-10-22T21:30:00.000Z",
-   "views": 1372,
+   "views": 1371,
    "likes": 12,
    "comments": 1,
    "analytics": {
@@ -3157,8 +3157,8 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-27T09:01:07+00:00",
-  "videos_analysed": 41,
+  "updated": "2026-10-27T12:01:55+00:00",
+  "videos_analysed": 43,
   "rules": [
    {
     "id": "action:lots of acting/effects",
@@ -3168,7 +3168,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Use lots of acting and effects (2+ per scene)",
-    "evidence": "35 videos vs 6, 67% better (agrees on 3 channel(s), disagrees on 0; chance it's luck 0%)"
+    "evidence": "37 videos vs 6, 63% better (agrees on 3 channel(s), disagrees on 0; chance it's luck 0%)"
    },
    {
     "id": "length:over 50s",
@@ -3178,7 +3178,7 @@
     "prefer": false,
     "level": "likely",
     "text": "Do LESS: length 'over 50s'",
-    "evidence": "4 videos vs 29, 35% worse (agrees on 2 channel(s), disagrees on 0; chance it's luck 3%)"
+    "evidence": "4 videos vs 31, 35% worse (agrees on 2 channel(s), disagrees on 0; chance it's luck 3%)"
    },
    {
     "id": "scene:shots",
@@ -3197,19 +3197,14 @@
     "evidence": "Viewers leave fastest in scene 2 (1.68x the average rate). (37 scenes)"
    }
   ],
-  "changes": [
-   "Dropped (no longer holds): Do LESS: length '44-50s'",
-   "Dropped (no longer holds): Do MORE: speaking pace 'under 135 wpm'",
-   "Dropped (no longer holds): Do LESS: average scene length 'scenes 5-6s'",
-   "Targets changed: {'words': [70, 95], 'duration': [28, 42], 'max_scene_s': 4.5, 'hook_words_max': 8} -> {'words': [70, 95], 'duration': [28, 42], 'max_scene_s': 5.5, 'hook_words_max': 8}"
-  ],
+  "changes": [],
   "hints": [
-   "Do MORE: average scene length 'scenes under 4s'",
    "Do MORE: speaking pace '135-150 wpm'",
+   "Do MORE: average scene length 'scenes under 4s'",
    "Do LESS: speaking pace '150-165 wpm'",
    "Do MORE: length '38-44s'",
-   "Do MORE: title style 'question'",
-   "Do MORE: hook style 'question'"
+   "Do MORE: length '32-38s'",
+   "Do LESS: hook style 'imagine / what if'"
   ],
   "leave": [
    "One-shot scenes longer than 3.5 seconds lose viewers 1.9x faster. Give any scene over 3.5 s a second shot (new angle or close-up).",
@@ -3234,7 +3229,7 @@
   },
   "channels": {
    "deep-sea-files": {
-    "count": 11,
+    "count": 12,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
@@ -3252,7 +3247,7 @@
      },
      {
       "title": "Why does a 10\u2011ft bobbit worm strike so fast?",
-      "views": 1372,
+      "views": 1371,
       "watched": 48.25,
       "duration": 29.5,
       "hook": "A 10\u2011ft bobbit worm hides beneath sand.",
@@ -3269,7 +3264,7 @@
     ]
    },
    "money-facts": {
-    "count": 11,
+    "count": 12,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Do LESS: length 'over 50s'",
