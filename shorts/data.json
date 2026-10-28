@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-28T13:03:38+00:00",
+ "synced": "2026-10-28T13:30:43+00:00",
  "stats_updated": "2026-10-28T05:43:35+00:00",
  "channels": [
   {
@@ -974,6 +974,47 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261028-130649_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Night Bus (Part 3)",
+   "title": "The Back Door Opens, and It\u2019s Not Empty (Part 3)",
+   "status": "rejected",
+   "created": "2026-10-28T13:30:37",
+   "scheduled_for": null,
+   "duration": 70.9,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261028-130649_outbreak-files.jpg",
+   "score": 94,
+   "video_score": 100,
+   "script_score": 87,
+   "verdict": "needs_rework",
+   "fixes": [
+    "brighten",
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "First picture change within 3 seconds",
+    "Length 170-230 words",
+    "Stakes rise at least 4 times (turns, questions, 'but/then/until')"
+   ],
+   "metrics": {
+    "cuts": 34,
+    "avg_shot": 2.02,
+    "wpm": 141,
+    "brightness": 77,
+    "loudness_db": -15.1
+   },
+   "error": null
+  },
   {
    "item": "20261028-123750_outbreak-files",
    "channel": "outbreak-files",
@@ -3730,15 +3771,15 @@
  ],
  "rework": [
   {
-   "item": "20261028-123750_outbreak-files",
+   "item": "20261028-130649_outbreak-files",
    "channel": "outbreak-files",
    "topic": "The Night Bus (Part 3)",
    "score": 94,
-   "round": 2,
+   "round": 3,
    "reasons": [
-    "In the very first frame the main subject must already be big (w 0.45+), visible (no fade-in or pop) and mid-action. No establishing shot.",
-    "Only 1 turn(s). Every 2-3 scenes something must change for the worse or a new question must open ('Then the light dies.', 'But it's not alone.') - specific to this story, never generic filler.",
-    "Give the answer or twist plainly near the end ('That's why...', 'Turns out...', '...because...')."
+    "The first shot lasts about 4.8s. Give scene 1 2-3 shots so the picture changes within 1.5 seconds.",
+    "Script is 168 words. Aim for 170-230.",
+    "Only 0 turn(s). Every 2-3 scenes something must change for the worse or a new question must open ('Then the light dies.', 'But it's not alone.') - specific to this story, never generic filler."
    ]
   }
  ],
