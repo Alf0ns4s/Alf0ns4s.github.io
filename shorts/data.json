@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-28T12:05:42+00:00",
+ "synced": "2026-10-28T13:03:38+00:00",
  "stats_updated": "2026-10-28T05:43:35+00:00",
  "channels": [
   {
@@ -975,6 +975,123 @@
  ],
  "videos": [
   {
+   "item": "20261028-123750_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Night Bus (Part 3)",
+   "title": "Why Does the Bus Door Hide a Void? (Part 3)",
+   "status": "rejected",
+   "created": "2026-10-28T13:03:27",
+   "scheduled_for": null,
+   "duration": 80.6,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261028-123750_outbreak-files.jpg",
+   "score": 94,
+   "video_score": 100,
+   "script_score": 88,
+   "verdict": "needs_rework",
+   "fixes": [
+    "brighten",
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Frame 1 shows the main subject big",
+    "Stakes rise at least 5 times (turns, questions, 'but/then/until')",
+    "Clear payoff or twist in the second half"
+   ],
+   "metrics": {
+    "cuts": 41,
+    "avg_shot": 1.92,
+    "wpm": 136,
+    "brightness": 79,
+    "loudness_db": -15.0
+   },
+   "error": null
+  },
+  {
+   "item": "20261028-122626_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Wow! Signal",
+   "title": "72\u2011Second Mystery: Alien Call or Magnetar Flash?",
+   "status": "posted",
+   "created": "2026-10-28T12:37:50",
+   "scheduled_for": "2026-10-29T02:15:00+02:00",
+   "duration": 34.4,
+   "youtube_id": "UvR1iPSwHGQ",
+   "url": "https://youtube.com/shorts/UvR1iPSwHGQ",
+   "privacy": "private",
+   "publish_at": "2026-10-29T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261028-122626_mystery-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "tighten"
+   ],
+   "rounds": 2,
+   "issues": [],
+   "metrics": {
+    "cuts": 17,
+    "avg_shot": 1.91,
+    "wpm": 138,
+    "brightness": 52,
+    "loudness_db": -14.6
+   },
+   "error": null
+  },
+  {
+   "item": "20261028-121521_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: you're a sailfish hunting sardines",
+   "title": "Why Sailfish Beat a Bike at 36\u202fkm/h",
+   "status": "posted",
+   "created": "2026-10-28T12:26:23",
+   "scheduled_for": "2026-10-29T00:30:00+02:00",
+   "duration": 37.8,
+   "youtube_id": "g95c9QJtQE8",
+   "url": "https://youtube.com/shorts/g95c9QJtQE8",
+   "privacy": "private",
+   "publish_at": "2026-10-28T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261028-121521_deep-sea-files.jpg",
+   "score": 96,
+   "video_score": 93,
+   "script_score": 98,
+   "verdict": "pass",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "No shot longer than 5 seconds",
+    "Something new every 4 s (cut, effect, card, sound)",
+    "Stakes rise at least 3 times (turns, questions, 'but/then/until')"
+   ],
+   "metrics": {
+    "cuts": 14,
+    "avg_shot": 2.52,
+    "wpm": 130,
+    "brightness": 85,
+    "loudness_db": -14.8
+   },
+   "error": null
+  },
+  {
    "item": "20261028-114050_outbreak-files",
    "channel": "outbreak-files",
    "topic": "The Night Bus (Part 3)",
@@ -1020,7 +1137,7 @@
    "channel": "mystery-files",
    "topic": "The Wow! Signal",
    "title": "1977 Wow! Signal: 30\u00d7 Stronger Mystery",
-   "status": "rejected",
+   "status": "replaced",
    "created": "2026-10-28T11:40:49",
    "scheduled_for": null,
    "duration": 32.9,
@@ -1096,7 +1213,7 @@
    "channel": "deep-sea-files",
    "topic": "POV: you're a sailfish hunting sardines",
    "title": "Can a sailfish outrun a bike?",
-   "status": "rejected",
+   "status": "replaced",
    "created": "2026-10-28T11:13:07",
    "scheduled_for": null,
    "duration": 29.3,
@@ -3613,39 +3730,15 @@
  ],
  "rework": [
   {
-   "item": "20261028-110413_deep-sea-files",
-   "channel": "deep-sea-files",
-   "topic": "POV: you're a sailfish hunting sardines",
-   "score": 94,
-   "round": 1,
-   "reasons": [
-    "Longest shot is 5.2s. Split it.",
-    "5.2s go by with nothing new on screen. Add a cut, a UI card, a slam word or a sound on that beat.",
-    "Only 0 turn(s). Every 2-3 scenes something must change for the worse or a new question must open ('Then the light dies.', 'But it's not alone.') - specific to this story, never generic filler."
-   ]
-  },
-  {
-   "item": "20261028-111827_mystery-files",
-   "channel": "mystery-files",
-   "topic": "The Wow! Signal",
-   "score": 94,
-   "round": 1,
-   "reasons": [
-    "Only 1 turn(s). Every 2-3 scenes something must change for the worse or a new question must open ('Then the light dies.', 'But it's not alone.') - specific to this story, never generic filler.",
-    "Give the answer or twist plainly near the end ('That's why...', 'Turns out...', '...because...').",
-    "Speaking speed 130 wpm."
-   ]
-  },
-  {
-   "item": "20261028-114050_outbreak-files",
+   "item": "20261028-123750_outbreak-files",
    "channel": "outbreak-files",
    "topic": "The Night Bus (Part 3)",
    "score": 94,
-   "round": 1,
+   "round": 2,
    "reasons": [
-    "Open with the single most surprising fact, a number, a 'POV:' or a question - no context first.",
     "In the very first frame the main subject must already be big (w 0.45+), visible (no fade-in or pop) and mid-action. No establishing shot.",
-    "Script is 164 words. Aim for 170-230."
+    "Only 1 turn(s). Every 2-3 scenes something must change for the worse or a new question must open ('Then the light dies.', 'But it's not alone.') - specific to this story, never generic filler.",
+    "Give the answer or twist plainly near the end ('That's why...', 'Turns out...', '...because...')."
    ]
   }
  ],
