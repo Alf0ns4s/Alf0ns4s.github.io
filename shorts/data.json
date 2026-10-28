@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-28T16:26:15+00:00",
+ "synced": "2026-10-28T16:59:26+00:00",
  "stats_updated": "2026-10-28T05:43:35+00:00",
  "channels": [
   {
@@ -975,11 +975,50 @@
  ],
  "videos": [
   {
+   "item": "20261028-163039_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Night Bus (Part 3)",
+   "title": "POV: 3 Hands Slam the Bus Door! (Part 3)",
+   "status": "posted",
+   "created": "2026-10-28T16:59:13",
+   "scheduled_for": "2026-10-29T03:30:00+02:00",
+   "duration": 81.0,
+   "youtube_id": "uAaKFfEMVnw",
+   "url": "https://youtube.com/shorts/uAaKFfEMVnw",
+   "privacy": "private",
+   "publish_at": "2026-10-29T01:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261028-163039_outbreak-files.jpg",
+   "score": 96,
+   "video_score": 100,
+   "script_score": 92,
+   "verdict": "pass",
+   "fixes": [
+    "brighten"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Stakes rise at least 5 times (turns, questions, 'but/then/until')",
+    "Clear payoff or twist in the second half"
+   ],
+   "metrics": {
+    "cuts": 28,
+    "avg_shot": 2.79,
+    "wpm": 144,
+    "brightness": 71,
+    "loudness_db": -15.2
+   },
+   "error": null
+  },
+  {
    "item": "20261028-160455_outbreak-files",
    "channel": "outbreak-files",
    "topic": "The Night Bus (Part 3)",
    "title": "Where Does the Silent Night Lead? (Part 3)",
-   "status": "posted",
+   "status": "replaced",
    "created": "2026-10-28T16:26:03",
    "scheduled_for": "2026-10-29T03:30:00+02:00",
    "duration": 72.8,
@@ -3852,20 +3891,7 @@
    "error": null
   }
  ],
- "rework": [
-  {
-   "item": "20261028-160455_outbreak-files",
-   "channel": "outbreak-files",
-   "topic": "The Night Bus (Part 3)",
-   "score": 94,
-   "round": 1,
-   "reasons": [
-    "Open with the single most surprising fact, a number, a 'POV:' or a question - no context first.",
-    "In the very first frame the main subject must already be big (w 0.45+), visible (no fade-in or pop) and mid-action. No establishing shot.",
-    "Script is 164 words. Aim for 170-230."
-   ]
-  }
- ],
+ "rework": [],
  "inbox_waiting": [],
  "insights": {
   "updated": "2026-10-28T05:43:53+00:00",
