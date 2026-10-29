@@ -1,6 +1,6 @@
 {
- "synced": "2026-10-29T12:21:20+00:00",
- "stats_updated": "2026-10-29T09:59:00+00:00",
+ "synced": "2026-10-29T12:52:27+00:00",
+ "stats_updated": "2026-10-29T12:52:09+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -1037,7 +1037,7 @@
    "publish_at": "2026-10-29T01:30:00.000Z",
    "views": 88,
    "likes": 0,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261028-163039_outbreak-files.jpg",
    "score": 96,
@@ -1259,7 +1259,7 @@
    "url": "https://youtube.com/shorts/UvR1iPSwHGQ",
    "privacy": "public",
    "publish_at": "2026-10-29T00:15:00.000Z",
-   "views": 38,
+   "views": 41,
    "likes": 2,
    "comments": 1,
    "analytics": null,
@@ -1299,7 +1299,7 @@
    "url": "https://youtube.com/shorts/g95c9QJtQE8",
    "privacy": "public",
    "publish_at": "2026-10-28T22:30:00.000Z",
-   "views": 178,
+   "views": 179,
    "likes": 1,
    "comments": 1,
    "analytics": null,
@@ -1516,7 +1516,7 @@
    "url": "https://youtube.com/shorts/Sh3Ni4sv3nQ",
    "privacy": "public",
    "publish_at": "2026-10-28T00:15:00.000Z",
-   "views": 1209,
+   "views": 1214,
    "likes": 42,
    "comments": 2,
    "analytics": null,
@@ -1602,7 +1602,7 @@
    "url": "https://youtube.com/shorts/u3QhJDQ4rKc",
    "privacy": "public",
    "publish_at": "2026-10-28T01:30:00.000Z",
-   "views": 373,
+   "views": 374,
    "likes": 8,
    "comments": 1,
    "analytics": null,
@@ -1922,7 +1922,7 @@
    "url": "https://youtube.com/shorts/mBQldPa5VJM",
    "privacy": "public",
    "publish_at": "2026-10-26T22:30:00.000Z",
-   "views": 684,
+   "views": 685,
    "likes": 12,
    "comments": 1,
    "analytics": {
@@ -2342,7 +2342,7 @@
     "views": 286,
     "estimatedMinutesWatched": 49,
     "averageViewDuration": 17,
-    "averageViewPercentage": 52.98,
+    "averageViewPercentage": 53.12,
     "subscribersGained": 0,
     "likes": 7,
     "shares": 0,
@@ -2692,7 +2692,7 @@
    "url": "https://youtube.com/shorts/q2VMHnVtuwA",
    "privacy": "public",
    "publish_at": "2026-10-22T20:15:00.000Z",
-   "views": 221,
+   "views": 222,
    "likes": 0,
    "comments": 1,
    "analytics": {
@@ -4251,8 +4251,8 @@
  "rework": [],
  "inbox_waiting": [],
  "insights": {
-  "updated": "2026-10-29T09:59:15+00:00",
-  "videos_analysed": 50,
+  "updated": "2026-10-29T12:52:22+00:00",
+  "videos_analysed": 52,
   "rules": [
    {
     "id": "action:lots of acting/effects",
@@ -4262,7 +4262,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Use lots of acting and effects (2+ per scene)",
-    "evidence": "44 videos vs 6, 58% better (agrees on 3 channel(s), disagrees on 0; chance it's luck 1%)"
+    "evidence": "46 videos vs 6, 62% better (agrees on 3 channel(s), disagrees on 0; chance it's luck 1%)"
    },
    {
     "id": "scene:shots",
@@ -4285,7 +4285,10 @@
   "hints": [
    "Do LESS: first line length 'first line 1-4 words'",
    "Do MORE: hook style 'mystery / impossible claim'",
-   "Keep each scene to one idea, 16 words or fewer."
+   "Do MORE: speaking pace '135-150 wpm'",
+   "Do MORE: status bar 'status bar on screen'",
+   "Do MORE: VFX / motion graphics '3+ VFX/motion graphics'",
+   "Do MORE: voice 'blended voice'"
   ],
   "leave": [
    "One-shot scenes longer than 3.5 seconds lose viewers 1.9x faster. Give any scene over 3.5 s a second shot (new angle or close-up).",
@@ -4310,7 +4313,7 @@
   },
   "channels": {
    "deep-sea-files": {
-    "count": 13,
+    "count": 14,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
@@ -4326,19 +4329,19 @@
       "hook_style": "POV / you"
      },
      {
+      "title": "This Fish Chokes Sharks With Slime",
+      "views": 1245,
+      "watched": null,
+      "duration": 39.9,
+      "hook": "Why did this shark let you go?",
+      "hook_style": "question"
+     },
+     {
       "title": "Why does a 10\u2011ft bobbit worm strike so fast?",
       "views": 1372,
       "watched": 48.5,
       "duration": 29.5,
       "hook": "A 10\u2011ft bobbit worm hides beneath sand.",
-      "hook_style": "shocking number"
-     },
-     {
-      "title": "Only 1 in 1,000 Baby Sea Turtles Make It",
-      "views": 1234,
-      "watched": 47.84,
-      "duration": 33.3,
-      "hook": "Only 1 in 1,000 of you survive.",
       "hook_style": "shocking number"
      }
     ]
@@ -4378,13 +4381,21 @@
     ]
    },
    "mystery-files": {
-    "count": 13,
+    "count": 14,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Give any scene over 3.5 s a second shot (new angle or close-up).",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
     "top": [
+     {
+      "title": "Who Built a Computer 2,000 Years Ago?",
+      "views": 1214,
+      "watched": null,
+      "duration": 40.8,
+      "hook": "Divers found a 2,000-year-old computer.",
+      "hook_style": "shocking number"
+     },
      {
       "title": "Can You Read This 600-Year-Old Book? Nobody Can",
       "views": 1103,
@@ -4400,14 +4411,6 @@
       "duration": 47.7,
       "hook": "This sandwich solved a $100 million heist.",
       "hook_style": "shocking number"
-     },
-     {
-      "title": "What if DNA could finally identify a 78\u2011year\u2011old killer?",
-      "views": 297,
-      "watched": 53.239999999999995,
-      "duration": 43.3,
-      "hook": "What if DNA could finally identify a 78\u2011year\u2011old killer?",
-      "hook_style": "question"
      }
     ]
    },
