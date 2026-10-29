@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-29T14:47:11+00:00",
+ "synced": "2026-10-29T16:47:52+00:00",
  "stats_updated": "2026-10-29T12:52:09+00:00",
  "channels": [
   {
@@ -1022,6 +1022,139 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261029-163800_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Ski Lift (Part 1)",
+   "title": "The Chairlift Is Stuck\u2014What Do You Do? (Part 1)",
+   "status": "rejected",
+   "created": "2026-10-29T16:47:43",
+   "scheduled_for": null,
+   "duration": 46.4,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261029-163800_outbreak-files.jpg",
+   "score": 84,
+   "video_score": 79,
+   "script_score": 89,
+   "verdict": "needs_rework",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Picture changes within 3 seconds",
+    "Length 70-100 seconds",
+    "Hook has a shock, number, question or contrast",
+    "Length 170-230 words"
+   ],
+   "metrics": {
+    "cuts": 16,
+    "avg_shot": 2.73,
+    "wpm": 137,
+    "brightness": 90,
+    "loudness_db": -15.5
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261029-163800_outbreak-files.jpg"
+  },
+  {
+   "item": "20261029-163220_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Flannan Isles lighthouse keepers",
+   "title": "Did a Lighthouse Keeper Vanish Into the Sea?",
+   "status": "rejected",
+   "created": "2026-10-29T16:37:59",
+   "scheduled_for": null,
+   "duration": 27.8,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261029-163220_mystery-files.jpg",
+   "score": 94,
+   "video_score": 91,
+   "script_score": 97,
+   "verdict": "needs_rework",
+   "fixes": [
+    "brighten"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Length 28-42 seconds",
+    "Title creates curiosity (and is not line 1)"
+   ],
+   "metrics": {
+    "cuts": 15,
+    "avg_shot": 1.74,
+    "wpm": 142,
+    "brightness": 80,
+    "loudness_db": -14.0
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261029-163220_mystery-files.jpg"
+  },
+  {
+   "item": "20261029-162038_money-facts",
+   "channel": "money-facts",
+   "topic": "Money Facts",
+   "title": "How much does Cristiano Ronaldo earn each day?",
+   "status": "rejected",
+   "created": "2026-10-29T16:32:19",
+   "scheduled_for": null,
+   "duration": 29.9,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261029-162038_money-facts.jpg",
+   "score": 90,
+   "video_score": 92,
+   "script_score": 87,
+   "verdict": "needs_rework",
+   "fixes": [
+    "tighten"
+   ],
+   "rounds": 4,
+   "issues": [
+    "Calm speaking speed 130-175 words per minute (with pauses)",
+    "Frame 1 shows the main subject big",
+    "Length 65-88 words",
+    "Title creates curiosity (and is not line 1)"
+   ],
+   "metrics": {
+    "cuts": 15,
+    "avg_shot": 1.86,
+    "wpm": 111,
+    "brightness": 80,
+    "loudness_db": -15.9
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261029-162038_money-facts.jpg"
+  },
   {
    "item": "20261028-163039_outbreak-files",
    "channel": "outbreak-files",
@@ -4248,8 +4381,48 @@
    "scene_review": null
   }
  ],
- "rework": [],
- "inbox_waiting": [],
+ "rework": [
+  {
+   "item": "20261029-162038_money-facts",
+   "channel": "money-facts",
+   "topic": "Money Facts",
+   "score": 90,
+   "round": 1,
+   "reasons": [
+    "In the very first frame the main subject must already be big (w 0.45+), visible (no fade-in or pop) and mid-action. No establishing shot.",
+    "Script is 56 words. Aim for 65-88.",
+    "Make the title a curiosity gap of its own (a number, why/how, a question or a surprising claim) - not a copy of the first line.",
+    "Speaking speed 111 wpm."
+   ]
+  },
+  {
+   "item": "20261029-163220_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Flannan Isles lighthouse keepers",
+   "score": 94,
+   "round": 1,
+   "reasons": [
+    "Video is 28s. Aim for 28-42 s.",
+    "Make the title a curiosity gap of its own (a number, why/how, a question or a surprising claim) - not a copy of the first line."
+   ]
+  },
+  {
+   "item": "20261029-163800_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Ski Lift (Part 1)",
+   "score": 84,
+   "round": 1,
+   "reasons": [
+    "First cut at 3.2s. The first shot should last 1-1.5 s.",
+    "Video is 46s. Aim for 70-100 s.",
+    "Open with the single most surprising fact, a number, a 'POV:' or a question - no context first.",
+    "Script is 108 words. Aim for 170-230."
+   ]
+  }
+ ],
+ "inbox_waiting": [
+  "2026-10-29_deep-sea-files_1.json"
+ ],
  "insights": {
   "updated": "2026-10-29T12:52:22+00:00",
   "videos_analysed": 52,
