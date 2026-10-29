@@ -126,6 +126,22 @@ textarea{width:100%;min-height:64px;border:1px solid var(--line);border-radius:8
   h1{font-size:25px}
 }
 @media (prefers-reduced-motion:no-preference){.vid,.mon{transition:border-color .2s}}
+
+/* Studio workspace: actions and evidence before long analytics. */
+body{margin:0} .wrap{max-width:1320px;gap:32px;padding-top:30px}
+header{padding-bottom:22px;border-bottom:1px solid var(--line)}
+h1{font-size:27px;letter-spacing:-.035em}.section-head h2{font-size:23px;letter-spacing:-.025em}
+.studio-intro{display:flex;align-items:end;justify-content:space-between;gap:24px}.studio-intro h2{font-size:clamp(30px,5vw,48px);max-width:700px;line-height:1.08;letter-spacing:-.045em}.studio-intro p{max-width:460px;color:var(--muted);margin:12px 0 0}
+.workspace-nav{display:flex;gap:8px;flex-wrap:wrap}.workspace-nav a{padding:8px 13px;border:1px solid var(--line);border-radius:9px;text-decoration:none;color:var(--fg);background:var(--panel)}
+.studio-summary{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.studio-stat{padding:20px 22px;background:var(--panel);border:1px solid var(--line);border-radius:14px}.studio-stat b{display:block;font:600 32px var(--display);letter-spacing:-.04em}.studio-stat span{font-size:13px;color:var(--muted)}
+.studio-focus{display:flex;justify-content:space-between;align-items:center;gap:20px;background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--info);border-radius:12px;padding:18px 22px}.studio-focus p{margin:4px 0 0;color:var(--muted);font-size:13px}
+.reference-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}.reference-card{border:1px solid var(--line);background:var(--panel);border-radius:16px;overflow:hidden}.reference-card video{width:100%;aspect-ratio:9/12;object-fit:contain;background:#090d14;display:block}.reference-copy{padding:16px}.reference-copy h3{font:600 17px var(--display);margin:0 0 8px}.reference-copy p{font-size:13px;color:var(--muted);min-height:58px;margin:8px 0}.reference-copy a{font-size:13px}.reference-tag{font:500 10px var(--mono);text-transform:uppercase;letter-spacing:.09em;color:var(--info)}
+.library-tools{display:flex;gap:10px;flex-wrap:wrap;margin:16px 0}.library-tools input{flex:1;min-width:180px}.library-tools input,.library-tools select{border:1px solid var(--line);background:var(--panel);color:var(--fg);padding:11px 13px;border-radius:9px;font:inherit}.library-tools label{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted)}
+.mon{border-radius:16px}.vid{border-radius:14px}.vid-title{font-weight:600}.score{font-size:17px!important}.studio-explainer{font-size:12px;color:var(--muted);padding:10px 0}.chips{position:sticky;top:0;z-index:8;background:var(--bg);padding:10px 0}.mon-head .av{object-fit:cover}.channel-monogram{display:grid;place-items:center;width:48px;height:48px;background:var(--panel-2);border:1px solid var(--line);border-radius:50%;font-weight:700;color:var(--ch-out)}
+section{scroll-margin-top:70px} .detail .label{letter-spacing:.07em}.detail img.review-sheet{width:100%;max-width:540px;border-radius:8px}.library-empty{text-align:left;padding:28px;border:1px dashed var(--line);border-radius:12px;color:var(--muted)}
+@media(min-width:1050px){.monitors{grid-template-columns:repeat(4,minmax(0,1fr))}.mon{padding:18px}.mon-name{font-size:15px}.kpi b{font-size:24px}}
+@media(max-width:760px){.studio-summary{grid-template-columns:repeat(2,1fr)}.reference-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.studio-intro{display:block}.workspace-nav{margin-top:20px}.studio-focus{align-items:start}.wrap{padding-inline:16px}.reference-copy p{min-height:0}.reference-card video{aspect-ratio:9/13}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
@@ -156,7 +172,7 @@ textarea{width:100%;min-height:64px;border:1px solid var(--line);border-radius:8
 </svg></span>
       <div>
         <div class="label">Control room</div>
-        <h1>MS SHORTS HUB</h1>
+        <h1>MS Shorts Hub</h1>
       </div>
     </div>
     <div class="sync" id="sync"><span class="dot stale" id="syncDot"></span><span id="syncText">Loading...</span></div>
@@ -165,15 +181,15 @@ textarea{width:100%;min-height:64px;border:1px solid var(--line);border-radius:8
   <div class="chips" role="group" aria-label="Show channel" id="chips"></div>
   <div class="banner" id="banner" hidden></div>
 
+<section class="studio-intro"><div><div class="label">Your production workspace</div><h2>A clearer view of<br>your next video.</h2><p>Review the work, compare it with the reference films, and see what viewers actually watch.</p></div><nav class="workspace-nav" aria-label="Workspace"><a href="#h-ref">Reference films</a><a href="#h-v">Video library</a><a href="#h-an">Audience results</a></nav></section>
+<div class="studio-summary" id="studioSummary" aria-live="polite"></div><div id="studioFocus"></div>
+<section aria-labelledby="h-ref"><div class="section-head"><h2 id="h-ref">The reference shelf</h2><span class="note">Four reviewed examples • previews, not published uploads</span></div><div id="references" class="reference-grid"></div><p class="studio-explainer">Technical QA checks the file. Frame review checks what is shown. Audience results measure what people watched. None substitutes for the others.</p></section>
   <section aria-labelledby="h-ch">
     <div class="section-head"><h2 id="h-ch">Channels</h2><span class="note" id="statsNote"></span></div>
     <div class="monitors" id="monitors"><div class="empty">Channel numbers appear here after the first sync.</div></div>
   </section>
 
-  <section aria-labelledby="h-an">
-    <div class="section-head"><h2 id="h-an">Analytics</h2><span class="note">Hover a chart for exact numbers</span></div>
-    <div class="charts" id="charts"></div>
-  </section>
+
 
   <section aria-labelledby="h-air">
     <div class="section-head"><h2 id="h-air">On air next</h2><span class="note">Times in your time zone</span></div>
@@ -187,21 +203,26 @@ textarea{width:100%;min-height:64px;border:1px solid var(--line);border-radius:8
 
   <section aria-labelledby="h-v">
     <div class="section-head"><h2 id="h-v">Videos</h2><span class="note" id="vidCount"></span></div>
-    <div class="list" id="videos"><div class="empty">Every video the hub makes shows up here with its engagement score and YouTube numbers.</div></div>
+    <div class="library-tools"><input id="librarySearch" type="search" aria-label="Search videos" placeholder="Search a title or topic…"><label>Status <select id="libraryStatus" aria-label="Video status"><option value="all">All videos</option><option value="public">Public</option><option value="scheduled">Scheduled</option><option value="attention">Needs attention</option><option value="current">Current scene rules</option><option value="legacy">Earlier version</option></select></label><label>Sort <select id="librarySort" aria-label="Video sort"><option value="newest">Newest first</option><option value="views">Most views</option><option value="score">Technical QA</option></select></label></div><div class="list" id="videos"><div class="empty">Your videos, review status and audience results.</div></div>
   </section>
 
   <section aria-labelledby="h-rw">
-    <div class="section-head"><h2 id="h-rw">Waiting for a rewrite</h2><span class="note">Rewritten in the 07:50 batch</span></div>
-    <div class="list" id="rework"><div class="empty">Nothing waiting. Videos that fail the engagement test because of the script land here.</div></div>
+    <div class="section-head"><h2 id="h-rw">Waiting for a rewrite</h2><span class="note">Handled by the next writer run</span></div>
+    <div class="list" id="rework"><div class="empty">No scripts are waiting for a rewrite.</div></div>
+  </section>
+  <section aria-labelledby="h-an">
+    <div class="section-head"><h2 id="h-an">Analytics</h2><span class="note">Hover a chart for exact numbers</span></div>
+    <div class="charts" id="charts"></div>
   </section>
 </div>
 
 <script>
 const AV = {"deep-sea-files":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBAUEBAYFBQUGBgYHCQ4JCQgICRINDQoOFRIWFhUSFBQXGiEcFxgfGRQUHScdHyIjJSUlFhwpLCgkKyEkJST/2wBDAQYGBgkICREJCREkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCT/wAARCABwAHADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5tAqRRSKKeBXckcLYoFPC0KKeBVJENiAU4LTgtOC1aRDYzbRtqTFGKdhXIitNIqYrSbCxwBk0rDuQFaYRV4afcOMiM1BNbSw/fQipcRqafUqsKjIqYimMKzaNUxVFSKKatSLVIljgKkUUgI2gbRkHO7ufanqK0SM2xQKeFoUU8CrSIbE20baeFoK07E3IitdDoOifaCGZck1Q03S2vN08sq29pEQJJnHAP91R/E3tXofhqTS02JBaySD/AJ6TSYJ/AcCtKUU5HJjarp07oda+E98QIj/SsfXPDCxRtlcH0xX018NbDw/daLLJLb2j3G4iRZiDtXHGM9uvNeVfESHT4tTvEsCpthIwjIORj/Ctk4ylKFtjyr1acYVnJNS6HzvqNobScrjjtVFhXQ+KAon49awGrz5qzsfS0J80E2C1ItRipFpI0ZKtSLUS1KtWjJki1Ioot4JLhtsaFj39BWpBo4AzNLz6J/jV3SJ5W9jPAqW3tnu7iK3iGXlcIv1NaqadaoP9WW+rGpYYIbeVZYUMci/dZSQRR7RB7Jmbrd2jzLZ2xxaWmY4h/eP8Tn3J/StPw/rIh2gtgiqkukW7/cZ0P1yKz59OubU74/nUd06/lTjUs9DOtQ9pG0j1S08V+XFgSdvWsXXvEglRsvmuAXVrlFwGqrcXs0/33OK2liHax51PK4xlcXVLv7XcFs8Cs9qkaozXFJ3PahFRVkItSKaiU1IDSRTJsFWwwwR2q3Y2rXcmM4Qcs3pU9xa/aLdJUH7wID/vDFXLJBb26L3Iy31qri5NS7EscCBI1CqOwp+/NVvNpVnKMGU4IOQaVy7FgSAMNwJGeRQZBk46VWaYsxYnJJyTR5tFwsWDIAMk8CvSLf4N3K6Xpk+q+I9M0rUtXjaWw02ZHaSRVXeSxX7gC8k4IUdTXlxk3Ag9CMV6h4g8feBvH+i6NJ4w0rXhrejQG3RtMnWKK8QgAq7HlVbHOBkZODzUSb6FxS6nmOvaDLbXlzaTxfZ762kaKVD/AHlOCD/jXMyKyMVYEEHBB7V2WtazLrmsXuqTokct3M0zJH91MnhR7AYH4VzmsooZJRgFuD7+9WmZSj1MtjUbU9j7YqNjSYIapqQGoQaepqUymjWmvdllDEh+dkG4+gp9he5UQueRwp9fasoGnBqsm9joPMp0kyM2UUouBwTmsmG+ZRh/mHr3qytwj/dYGky00y4GBVjuUY7HqfpSeZVbzKPNpXKsTy3Cwxl3OFHU10Ok+DdT1geHXhm0+KPxHNJb6e81yBvdMhgwGSvOF5HUj1rkroGe3eNSMsOM1ZtZNPg8OiC5k1FdWgvFmtJopwsNvD/y0UDqHZsHcBwVX3qW30GkupuCDQdPsLDUb7VTef8AE6bT7yxs1+YW8ZG+ZJCc4YMNvy8nPpXK61LayanePZJJHbPO7QxyOXaOPcdiknqQuM+5rW1PxbAl1rK+HdKt9G0/V444prXifYqYICOy5XLANxg5rmiacU92RKSeiEJqNjSsaYTQ2JIYpp4NQg08NUpltE6HJAJwPU9qdmoQacGqkyGiYNS7qiDUu6quTYnEzr0Yj8aX7RJ/fNQbqN1Aakpnc9Xb86YWzTN1IWouOw4mmFqUSlVZQF+YYORnH09KjJqWxpATTGNBamE1LZaQwNTwaipQ1QW0TBqcGqENTgapMlomBpd1QhqXdTuKxLuo3VHuo3U7isSbqQmo91IWpXHYeWppamk00tSuNIcTTC1IWpKkpI//2Q==","mystery-files":"data:image/jpeg;base64,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","money-facts":"data:image/jpeg;base64,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"};
-const CVAR = {"deep-sea-files":"var(--deep)","mystery-files":"var(--myst)","money-facts":"var(--money)"};
+const CVAR = {"outbreak-files":"var(--ch-out)","deep-sea-files":"var(--deep)","mystery-files":"var(--myst)","money-facts":"var(--money)"};
 const FIX = {punch_open:"stronger opening",boost_motion:"camera movement",brighten:"brighter picture",fewer_flashes:"fewer flashes",
   loudness:"loudness levelled",tighten:"shorter pauses",faster_voice:"faster voice",slower_voice:"slower voice",jump_cuts:"jump cuts"};
 let S = null, filter = "all", open = new Set();
+const rewriteDrafts = new Map();
 try { filter = localStorage.getItem("sh_filter") || "all"; } catch (e) {}
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -211,19 +232,22 @@ function when(iso){ if(!iso) return ""; const d=new Date(iso); if(isNaN(d)) retu
   return day+" "+d.toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"}); }
 function ago(iso){ if(!iso) return "never"; const m=(Date.now()-new Date(iso))/6e4; if(m<2) return "just now"; if(m<60) return Math.round(m)+" min ago"; if(m<48*60) return Math.round(m/60)+" h ago"; return Math.round(m/1440)+" days ago"; }
 function state(v){
+  if (v.status === "replaced") return ["Replaced", "p-info"];
+  if (v.status === "failed") return ["Needs attention", "p-bad"];
+  if (!v.youtube_id && v.status === "pending") return ["Awaiting review", "p-warn"];
   const live = v.youtube_id && v.publish_at && new Date(v.publish_at) > new Date();
   if (v.status === "rejected" && v.verdict === "needs_rework") return ["Sent back for rewrite","p-warn"];
   if (v.status === "rejected") return ["Not posted","p-bad"];
-  if (v.error) return ["Upload failed","p-bad"];
+  if (v.error) return ["Needs attention","p-bad"];
   if (!v.youtube_id) return ["Waiting to upload","p-info"];
   if (v.privacy === "public") return ["Public","p-good"];
   if (live) return ["Scheduled","p-info"];
   return ["Private","p-warn"];
 }
-function scoreColor(s){ return s == null ? "var(--muted)" : s >= 85 ? "var(--good)" : s >= 70 ? "var(--warn)" : "var(--bad)"; }
+function scoreColor(s){ return s == null ? "var(--muted)" : s >= 95 ? "var(--good)" : s >= 90 ? "var(--warn)" : "var(--bad)"; }
 const pct = v => v == null ? "–" : Math.round(v) + "%";
 const secs = v => v == null ? "–" : Math.round(v) + " s";
-const isPublic = v => v.youtube_id && (v.privacy === "public" || (v.publish_at && new Date(v.publish_at) <= new Date() && v.privacy !== "private"));
+const isPublic = v => !!v.youtube_id && v.privacy === "public";
 function bars(daily, color){
   const pts = (daily||[]).filter(d => d.views != null);
   if (pts.length < 2) return "";
@@ -314,7 +338,7 @@ function learnCard(chs){
   const L = S.insights || {}, ins = L.channels || {};
   const lvl = r => `<span style="font-size:11px;font-weight:700;letter-spacing:.04em;padding:2px 6px;border-radius:5px;margin-right:6px;background:${r.level==="confirmed"?"var(--ok-bg,#dcfce7)":"var(--warn-bg,#fef3c7)"};color:${r.level==="confirmed"?"var(--ok,#166534)":"var(--warn,#92400e)"}">${r.level.toUpperCase()}</span>`;
   let h = "";
-  if ((L.rules||[]).length) h += `<div class="aud-h">Rules applied to every channel</div>` + L.rules.map(r=>`<div style="font-size:13px;margin:3px 0">${lvl(r)}${esc(r.text)}<div class="note" style="margin-left:2px">${esc(r.evidence||"")}</div></div>`).join("");
+  if ((L.rules||[]).length) h += `<div class="aud-h">Patterns to test across channels</div>` + L.rules.map(r=>`<div style="font-size:13px;margin:3px 0">${lvl(r)}${esc(r.text)}<div class="note" style="margin-left:2px">${esc(r.evidence||"")}</div></div>`).join("");
   if ((L.leave||[]).length) h += `<div class="aud-h">Where viewers leave</div>` + L.leave.map(t=>`<div style="font-size:13px;margin:3px 0">${esc(t)}</div>`).join("");
   if (L.start_hold!=null) h += `<div class="note">First 3 seconds: ${Math.round(L.start_hold*100)}% of viewers stay.</div>`;
   const ex = Object.entries(L.experiments||{});
@@ -323,7 +347,7 @@ function learnCard(chs){
   const per = chs.map(c => { const i = ins[c.id]; if (!i) return ""; const best=(i.top||[])[0];
     return best ? `<div class="note"><i style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${chOf(c.id).c};margin-right:6px"></i>${esc(c.name)} best: ${esc(best.title||"")} (${best.views} views)</div>` : ""; }).join("");
   if (per) h += `<div class="aud-h">Best so far</div>` + per;
-  return `<div class="chart"><h3>What the numbers are teaching us${L.videos_analysed?` <span class="note">(${L.videos_analysed} videos, all channels)</span>`:""}</h3>` + (h || `<div class="empty">After videos have been public for 36 hours, the hub compares them here and every new script follows what wins.</div>`) + `</div>`;
+  return `<div class="chart"><h3>Patterns in audience results${L.videos_analysed?` <span class="note">(${L.videos_analysed} videos, all channels)</span>`:""}</h3>` + (h || `<div class="empty">After videos have been public for 36 hours, the hub compares them here and every new script follows what wins.</div>`) + `</div>`;
 }
 function spark(hist, color){
   const pts = (hist||[]).filter(h => h.views != null);
@@ -337,6 +361,19 @@ function spark(hist, color){
     <path d="${area}" fill="${color}" fill-opacity=".12"/><path d="${line}" fill="none" stroke="${color}" stroke-width="2" vector-effect="non-scaling-stroke"/>
     <circle cx="${x(L)}" cy="${y(pts[L].views)}" r="3.5" fill="${color}"/></svg>`;
 }
+
+function needsAttention(v){return !v.youtube_id && v.status!=='replaced' && v.status!=='rejected' && (v.error || v.status==='pending' || v.technical_pass===false);}
+function renderStudio(){
+ const vs=S.videos.filter(v=>filter==='all'||v.channel===filter),rw=(S.rework||[]).filter(v=>filter==='all'||v.channel===filter),next=vs.filter(v=>v.youtube_id&&new Date(v.publish_at)>new Date());
+ $("studioSummary").innerHTML=[[vs.filter(isPublic).length,'public videos'],[next.length,'scheduled on YouTube'],[vs.filter(needsAttention).length,'need review'],[rw.length,'waiting for rewrite']].map(([n,l])=>`<div class="studio-stat"><b>${n}</b><span>${l}</span></div>`).join('');
+ const attention=vs.filter(needsAttention).length;
+ $("studioFocus").innerHTML=`<div class="studio-focus"><div><b>${attention?attention+' video'+(attention===1?'':'s')+' to check':'Your review queue is clear'}</b><p>${attention?'Inspect the picture and narration together before approving.':'Compare the next draft with the reference film for its channel.'}</p></div><a class="btn" href="#h-v">Open library</a></div>`;
+ const refs=(S.references||[]).filter(r=>filter==='all'||r.channel===filter);
+ $("references").innerHTML=refs.length?refs.map(r=>`<article class="reference-card"><video controls playsinline preload="none" poster="${esc(r.poster)}" src="${esc(r.video)}" aria-label="${esc(r.name)} reference preview"></video><div class="reference-copy"><span class="reference-tag">Reference ${esc(r.version)} • ${esc(r.channel_name)}</span><h3>${esc(r.name)}</h3><p>${esc(r.lesson)}</p><div class="small">Technical QA ${r.score??'–'}/100 · Forecast ${esc(r.forecast)}</div><p class="small">${esc(r.limitation)}</p><a href="${esc(r.frames)}" target="_blank" rel="noopener">Inspect scene frames ↗</a></div></article>`).join(''):'<div class="library-empty">Reference films are being prepared. They will appear here after the verified previews are published.</div>';
+}
+document.addEventListener('input',e=>{if(e.target.id==='librarySearch')render();if(e.target.id.startsWith('note-'))rewriteDrafts.set(e.target.id.slice(5),e.target.value);});
+document.addEventListener('change',e=>{if(['libraryStatus','librarySort'].includes(e.target.id))render();});
+
 function renderChips(){
   const cs = S ? S.channels : [];
   $("chips").innerHTML = [["all","All channels"], ...cs.map(c=>[c.id,c.name])].map(([id,n]) =>
@@ -344,7 +381,7 @@ function renderChips(){
 }
 function render(){
   if (!S) return;
-  renderChips();
+  renderChips(); renderStudio();
   const stale = S.synced && (Date.now()-new Date(S.synced)) > 8*36e5;
   $("syncDot").className = "dot"+(stale?" stale":"");
   $("syncText").textContent = "Updated "+ago(S.synced);
@@ -356,20 +393,23 @@ function render(){
     dotChart("c-watch", "How much of each video people watch", S.videos, chs) + learnCard(chs) + audienceCards(chs);
   const noA = S.channels.filter(c => !c.analytics).map(c => c.name);
   $("banner").hidden = !noA.length;
-  if (noA.length) $("banner").textContent = "Watch time and % viewed need one more YouTube connection for: " + noA.join(", ") + ". Until then you see views, likes and comments.";
+  if (noA.length) $("banner").textContent = "Watch-time analytics are unavailable for " + noA.join(", ") + ". Views, likes and comments are shown where available; missing watch time is not zero.";
   const cs = S.channels.filter(c => filter==="all" || c.id===filter);
-  const vids = S.videos.filter(v => filter==="all" || v.channel===filter);
+  let vids = S.videos.filter(v => filter==="all" || v.channel===filter);
+  const query=$("librarySearch").value.toLowerCase().trim(), status=$("libraryStatus").value;
+  vids=vids.filter(v=>(!query || ((v.title||'')+' '+(v.topic||'')).toLowerCase().includes(query)) && (status==='all' || (status==='public'&&isPublic(v)) || (status==='scheduled'&&v.youtube_id&&new Date(v.publish_at)>new Date()) || (status==='attention'&&needsAttention(v)) || (status==='current'&&v.direction_version===2) || (status==='legacy'&&v.direction_version!==2)));
+  const sort=$("librarySort").value;vids.sort((a,b)=>sort==='views'?(b.views??-1)-(a.views??-1):sort==='score'?(b.score??-1)-(a.score??-1):String(b.created||'').localeCompare(String(a.created||'')));
   $("monitors").innerHTML = cs.length ? cs.map(c => {
     const mine = S.videos.filter(v => v.channel===c.id && v.youtube_id);
     const sc = S.videos.filter(v => v.channel===c.id && v.score!=null);
     const avg = sc.length ? Math.round(sc.reduce((a,v)=>a+v.score,0)/sc.length) : null;
     return `<article class="mon" style="--c:${CVAR[c.id]||"var(--info)"}">
-      <div class="mon-head"><img class="av" src="${AV[c.id]||""}" alt=""><div style="min-width:0"><div class="mon-name">${esc(c.name)}</div><div class="mon-handle">${esc(c.handle||"")}</div></div></div>
+      <div class="mon-head">${AV[c.id]?`<img class="av" src="${AV[c.id]}" alt="">`:`<span class="channel-monogram" aria-hidden="true">OF</span>`}<div style="min-width:0"><div class="mon-name">${esc(c.name)}</div><div class="mon-handle">${esc(c.handle||"")}</div></div></div>
       <div class="kpis"><div class="kpi"><b>${fmtN(c.subscribers)}</b><span>subscribers</span></div>
         <div class="kpi"><b>${fmtN(c.views)}</b><span>total views</span></div>
         <div class="kpi"><b>${mine.length}</b><span>uploads</span></div></div>
       ${(c.daily||[]).length>1 ? `<div><div class="label">Daily views, last ${c.daily.length} days</div>${bars(c.daily, CVAR[c.id]||"var(--info)")}</div>` : spark(c.history, CVAR[c.id]||"var(--info)")}
-      <div class="small muted">Average engagement score <span class="num" style="color:${scoreColor(avg)}">${avg ?? "–"}</span> &middot; posts at ${esc((c.post_times||[]).join(", "))} Vilnius</div>
+      <div class="small muted">Average technical QA <span class="num" style="color:${scoreColor(avg)}">${avg ?? "–"}</span> &middot; posts at ${esc((c.post_times||[]).join(", "))} Vilnius</div>
     </article>`; }).join("") : `<div class="empty">No channels yet.</div>`;
   const now = new Date();
   const next = vids.filter(v => v.youtube_id && v.publish_at && new Date(v.publish_at) > now && v.status!=="rejected")
@@ -377,7 +417,7 @@ function render(){
   $("onair").innerHTML = next.length ? next.map(v => `<div class="slot" style="--c:${CVAR[v.channel]||"var(--info)"}">
       <span class="when">${esc(when(v.publish_at))}</span><span class="t">${esc(v.title)}</span>
       <span class="small muted">${esc((S.channels.find(c=>c.id===v.channel)||{}).name||v.channel)}</span></div>`).join("")
-    : `<div class="empty">Nothing scheduled right now. The next batch is written at 07:50 and posted in the evening.</div>`;
+    : `<div class="empty">No uploaded videos have a future publish time. Check Upcoming scripts or the next channel slot.</div>`;
   const top = S.videos.filter(v => (filter==="all" || v.channel===filter) && (v.views||0) > 0).sort((a,b)=>(b.views||0)-(a.views||0)).slice(0,4);
   $("top").innerHTML = top.length ? top.map(v => `<div class="top-card"><button class="thumb" data-play="${esc(v.item)}" aria-label="Play ${esc(v.title)}" style="background-image:url('${esc(v.thumb||"")}')"></button>
       <div style="min-width:0"><div class="t">${esc(v.title)}</div><div class="small muted" style="margin-top:4px"><span class="num">${fmtN(v.views)}</span> views &middot; <span class="num">${pct((v.analytics||{}).averageViewPercentage)}</span> watched</div></div></div>`).join("")
@@ -394,7 +434,7 @@ function render(){
           <div class="vid-sub"><span class="pill ${stCls}">${stLabel}</span><span>${esc(t)}</span>${v.duration?`<span class="num">${Math.round(v.duration)}s</span>`:""}</div></div>
         <div class="vid-side">
           <div class="stats"><div><b>${fmtN(v.views)}</b><span class="muted">views</span></div><div><b>${fmtN(v.likes)}</b><span class="muted">likes</span></div><div><b>${pct((v.analytics||{}).averageViewPercentage)}</b><span class="muted">watched</span></div></div>
-          <div class="score" style="--sc:${scoreColor(v.score)}" title="Engagement score">${v.score ?? "–"}</div>
+          <div class="score" style="--sc:${scoreColor(v.score)}" title="Technical QA, not audience performance">${v.score ?? "–"}</div>
           <button class="toggle" data-open="${esc(v.item)}" aria-expanded="${isOpen}">${isOpen?"Hide":"Details"}</button>
         </div>
       </div>
@@ -404,25 +444,25 @@ function render(){
         <div><div class="label">Audience</div>
           ${v.analytics ? `<div class="metrics"><span class="metric"><b>${pct(v.analytics.averageViewPercentage)}</b>of the video watched on average</span><span class="metric"><b>${secs(v.analytics.averageViewDuration)}</b>average watch time</span><span class="metric"><b>${fmtN(v.analytics.subscribersGained)}</b>subscribers gained</span><span class="metric"><b>${fmtN(v.analytics.shares)}</b>shares</span><span class="metric"><b>${fmtN(v.comments)}</b>comments</span></div>`
             : `<div class="small muted" style="margin-top:6px">${fmtN(v.views)} views &middot; ${fmtN(v.likes)} likes &middot; ${fmtN(v.comments)} comments. Watch-time numbers appear 1-2 days after the video goes public.</div>`}</div>
-        <div><div class="label">Engagement test</div>
+        <div><div class="label">Technical QA</div>
           <div class="small" style="margin-top:6px">Video <span class="num">${v.video_score ?? "–"}</span> &middot; Script <span class="num">${v.script_score ?? "–"}</span> &middot; ${v.rounds||1} render${(v.rounds||1)>1?"s":""}</div>
-          ${fixes.length?`<div class="small" style="margin-top:6px">Fixed automatically: ${esc(fixes.join(", "))}</div>`:`<div class="small muted" style="margin-top:6px">Passed on the first render.</div>`}
+          ${fixes.length?`<div class="small" style="margin-top:6px">Fixed automatically: ${esc(fixes.join(", "))}</div>`:`<div class="small muted" style="margin-top:6px">${v.technical_pass===true ? "Technical checks passed." : v.technical_pass===false ? "Technical checks need attention." : "No saved technical verdict."}</div>`}
           ${(v.issues||[]).length?`<ul class="small">${v.issues.map(i=>`<li>${esc(i)}</li>`).join("")}</ul>`:""}
           <div class="metrics">${[["cuts","picture changes"],["avg_shot","s per shot"],["wpm","words/min"],["loudness_db","dB"]].map(([k,l])=> (v.metrics||{})[k]!=null?`<span class="metric"><b>${esc(v.metrics[k])}</b>${l}</span>`:"").join("")}</div></div>
-        <div><div class="label">Topic</div><div class="small" style="margin-top:6px">${esc(v.topic)}</div>
+        <div><div class="label">Scene review</div><p class="small">${v.direction_version===2?'Current scene-logic rules':'Earlier render • created before current scene rules'}</p>${v.scene_review?`<a class="btn" href="${esc(v.scene_review)}" target="_blank" rel="noopener">Open before / action / result frames</a>`:'<p class="small muted">No rendered frame sheet saved for this version.</p>'}<p class="small muted">A saved sheet is evidence to inspect, not automatic visual approval.</p></div><div><div class="label">Topic</div><div class="small" style="margin-top:6px">${esc(v.topic)}</div>
           <div class="links">${v.url?`<a class="btn" href="${esc(v.url)}" target="_blank" rel="noopener">Watch on YouTube</a><a class="btn" href="https://studio.youtube.com/video/${esc(v.youtube_id)}/edit" target="_blank" rel="noopener">Open in Studio</a>`:""}</div></div>
         <div><div class="label">Not happy with it?</div>
-          <label class="small muted" for="note-${esc(v.item)}" style="display:block;margin:6px 0">Tell Claude what to change. The button opens a pre-filled request on GitHub; submit it and the script is rewritten in the next morning batch.</label>
-          <textarea id="note-${esc(v.item)}" placeholder="e.g. make the hook scarier, slower voice"></textarea>
-          <div class="links"><button class="btn primary" data-rework="${esc(v.item)}" >Ask Claude to rewrite</button></div>
+          <label class="small muted" for="note-${esc(v.item)}" style="display:block;margin:6px 0">Tell the writer what to change. The button opens a pre-filled request on GitHub; submit it and the script is rewritten in the next writer run.</label>
+          <textarea id="note-${esc(v.item)}" placeholder="e.g. make the hook scarier, slower voice">${esc(rewriteDrafts.get(v.item)||"")}</textarea>
+          <div class="links"><button class="btn primary" data-rework="${esc(v.item)}" >Request a rewrite</button></div>
           <div id="msg-${esc(v.item)}" class="small"></div></div>
       </div>` : ""}
-    </article>`; }).join("") : `<div class="empty">No videos for this channel yet.</div>`;
+    </article>`; }).join("") : `<div class="empty">No videos match these filters. Clear the search or select All videos.</div>`;
   const rw = (S.rework||[]).filter(r => filter==="all" || r.channel===filter);
   $("rework").innerHTML = rw.length ? rw.map(r => `<div class="rework" style="border-left:4px solid ${CVAR[r.channel]||"var(--info)"}">
-      <div class="vid-title">${esc(r.topic)}</div><div class="small muted">Score ${r.score ?? "–"} &middot; rewrite ${r.round} of 2</div>
+      <div class="vid-title">${esc(r.topic)}</div><div class="small muted">Score ${r.score ?? "–"} &middot; rewrite ${r.round}</div>
       ${(r.reasons||[]).length?`<ul class="small" style="margin:4px 0 0;padding-left:18px">${r.reasons.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:""}</div>`).join("")
-    : `<div class="empty">Nothing waiting. Videos that fail the engagement test because of the script land here.</div>`;
+    : `<div class="empty">No scripts are waiting for a rewrite.</div>`;
 }
 document.addEventListener("pointermove", e => {
   const t = e.target;
@@ -453,18 +493,18 @@ document.addEventListener("click", async e => {
     const url = "https://github.com/Alf0ns4s/shorts-hub/issues/new?title=" + encodeURIComponent("Rewrite: " + k) +
                 "&body=" + encodeURIComponent(note || "Make it better: stronger hook, tighter pacing.");
     const a = document.createElement("a"); a.href = url; a.target = "_blank"; a.rel = "noopener"; document.body.appendChild(a); a.click(); a.remove();
-    const m = $("msg-"+k); if (m) { m.className = "ok-msg"; m.textContent = "GitHub opened with your request. Click Submit there and it is queued for the morning batch."; }
+    const m = $("msg-"+k); if (m) { m.className = "ok-msg"; m.textContent = "GitHub opened with your request. Click Submit there and it is queued for the next writer run."; }
   }
 });
 async function load(){
   try {
     const r = await fetch("data.json?t=" + Date.now(), {cache: "no-store"});
     if (!r.ok) throw new Error(r.status);
-    S = await r.json(); render();
-  } catch (e) { $("syncText").textContent = "Couldn't load the data. Refresh in a minute."; }
+    S = await r.json(); if(!document.activeElement.matches("textarea"))render();
+  } catch (e) { $("syncDot").className="dot stale"; $("syncText").textContent = "Data unavailable — showing the last loaded snapshot."; }
 }
 renderChips(); load();
-setInterval(() => S && render(), 60000);
+setInterval(() => S && !document.activeElement.matches("textarea") && render(), 60000);
 setInterval(load, 10 * 60000);
 </script>
 

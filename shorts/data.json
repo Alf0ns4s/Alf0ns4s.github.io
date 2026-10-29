@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-29T09:59:20+00:00",
+ "synced": "2026-10-29T12:21:20+00:00",
  "stats_updated": "2026-10-29T09:59:00+00:00",
  "channels": [
   {
@@ -1059,7 +1059,11 @@
     "brightness": 71,
     "loudness_db": -15.2
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261028-160455_outbreak-files",
@@ -1100,7 +1104,11 @@
     "brightness": 78,
     "loudness_db": -15.2
    },
-   "error": null
+   "error": null,
+   "technical_pass": false,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261028-133415_outbreak-files",
@@ -1142,7 +1150,11 @@
     "brightness": 80,
     "loudness_db": -15.0
    },
-   "error": null
+   "error": null,
+   "technical_pass": false,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261028-130649_outbreak-files",
@@ -1183,7 +1195,11 @@
     "brightness": 77,
     "loudness_db": -15.1
    },
-   "error": null
+   "error": null,
+   "technical_pass": false,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261028-123750_outbreak-files",
@@ -1224,7 +1240,11 @@
     "brightness": 79,
     "loudness_db": -15.0
    },
-   "error": null
+   "error": null,
+   "technical_pass": false,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261028-122626_mystery-files",
@@ -1260,7 +1280,11 @@
     "brightness": 52,
     "loudness_db": -14.6
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261028-121521_deep-sea-files",
@@ -1300,7 +1324,11 @@
     "brightness": 85,
     "loudness_db": -14.8
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261028-114050_outbreak-files",
@@ -1341,7 +1369,11 @@
     "brightness": 77,
     "loudness_db": -15.1
    },
-   "error": null
+   "error": null,
+   "technical_pass": false,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261028-111827_mystery-files",
@@ -1381,7 +1413,11 @@
     "brightness": 51,
     "loudness_db": -15.0
    },
-   "error": null
+   "error": null,
+   "technical_pass": false,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261028-111307_money-facts",
@@ -1417,7 +1453,11 @@
     "brightness": 68,
     "loudness_db": -15.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261028-110413_deep-sea-files",
@@ -1457,7 +1497,11 @@
     "brightness": 85,
     "loudness_db": -15.3
    },
-   "error": null
+   "error": null,
+   "technical_pass": false,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261027-174707_mystery-files",
@@ -1495,7 +1539,11 @@
     "brightness": 50,
     "loudness_db": -14.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261027-170943_mystery-files",
@@ -1535,7 +1583,11 @@
     "brightness": 50,
     "loudness_db": -14.8
    },
-   "error": null
+   "error": null,
+   "technical_pass": false,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261027-162531_outbreak-files",
@@ -1572,7 +1624,11 @@
     "brightness": 69,
     "loudness_db": -15.2
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261027-155702_mystery-files",
@@ -1612,7 +1668,11 @@
     "brightness": 50,
     "loudness_db": -14.8
    },
-   "error": null
+   "error": null,
+   "technical_pass": false,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261027-155113_money-facts",
@@ -1648,7 +1708,11 @@
     "brightness": 83,
     "loudness_db": -15.9
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261027-154526_deep-sea-files",
@@ -1682,7 +1746,11 @@
     "brightness": 93,
     "loudness_db": -15.2
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261026-110825_outbreak-files",
@@ -1734,7 +1802,11 @@
     "brightness": 47,
     "loudness_db": -15.2
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261026-110003_mystery-files",
@@ -1784,7 +1856,11 @@
     "brightness": 50,
     "loudness_db": -14.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261026-105546_money-facts",
@@ -1827,7 +1903,11 @@
     "brightness": 82,
     "loudness_db": -15.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261026-104624_deep-sea-files",
@@ -1874,7 +1954,11 @@
     "brightness": 110,
     "loudness_db": -15.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261025-101225_outbreak-files",
@@ -1924,7 +2008,11 @@
     "brightness": 75,
     "loudness_db": -15.3
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261025-100051_mystery-files",
@@ -1969,7 +2057,11 @@
     "brightness": 71,
     "loudness_db": -15.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261025-094919_money-facts",
@@ -2018,7 +2110,11 @@
     "brightness": 83,
     "loudness_db": -14.9
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261025-093939_deep-sea-files",
@@ -2067,7 +2163,11 @@
     "brightness": 67,
     "loudness_db": -15.3
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261024-094016_outbreak-files",
@@ -2113,7 +2213,11 @@
     "brightness": 54,
     "loudness_db": -15.2
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261024-093023_mystery-files",
@@ -2163,7 +2267,11 @@
     "brightness": 52,
     "loudness_db": -15.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261024-092444_money-facts",
@@ -2208,7 +2316,11 @@
     "brightness": 89,
     "loudness_db": -15.3
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261024-092017_deep-sea-files",
@@ -2253,7 +2365,11 @@
     "brightness": 111,
     "loudness_db": -15.3
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261023-095910_outbreak-files",
@@ -2300,7 +2416,11 @@
     "brightness": 49,
     "loudness_db": -15.3
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261023-095447_mystery-files",
@@ -2345,7 +2465,11 @@
     "brightness": 64,
     "loudness_db": -15.8
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261023-095105_money-facts",
@@ -2391,7 +2515,11 @@
     "brightness": 81,
     "loudness_db": -15.0
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261023-094655_deep-sea-files",
@@ -2439,7 +2567,11 @@
     "brightness": 131,
     "loudness_db": -15.6
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261022-101827_outbreak-files",
@@ -2485,7 +2617,11 @@
     "brightness": 64,
     "loudness_db": -15.1
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261022-100010_mystery-files",
@@ -2537,7 +2673,11 @@
     "brightness": 60,
     "loudness_db": -15.9
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261022-095456_money-facts",
@@ -2582,7 +2722,11 @@
     "brightness": 71,
     "loudness_db": -15.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261022-095039_deep-sea-files",
@@ -2628,7 +2772,11 @@
     "brightness": 128,
     "loudness_db": -15.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261021-133004_mystery-files",
@@ -2676,7 +2824,11 @@
     "brightness": 51,
     "loudness_db": -15.8
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261021-132506_money-facts",
@@ -2722,7 +2874,11 @@
     "brightness": 84,
     "loudness_db": -15.9
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261021-131649_deep-sea-files",
@@ -2770,7 +2926,11 @@
     "brightness": 61,
     "loudness_db": -15.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261021-094222_outbreak-files",
@@ -2817,7 +2977,11 @@
     "brightness": 70,
     "loudness_db": -15.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261020-123437_deep-sea-files",
@@ -2867,7 +3031,11 @@
     "brightness": 64,
     "loudness_db": -15.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261020-121112_money-facts",
@@ -2910,7 +3078,11 @@
     "brightness": 79,
     "loudness_db": -14.8
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261020-115747_outbreak-files",
@@ -2956,7 +3128,11 @@
     "brightness": 67,
     "loudness_db": -15.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261020-115356_mystery-files",
@@ -2999,7 +3175,11 @@
     "brightness": 89,
     "loudness_db": -15.8
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261019-052633_outbreak-files",
@@ -3044,7 +3224,11 @@
     "brightness": 60,
     "loudness_db": -15.2
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261019-051702_mystery-files",
@@ -3092,7 +3276,11 @@
     "brightness": 61,
     "loudness_db": -14.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261019-051040_money-facts",
@@ -3137,7 +3325,11 @@
     "brightness": 84,
     "loudness_db": -15.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261019-050501_deep-sea-files",
@@ -3184,7 +3376,11 @@
     "brightness": 113,
     "loudness_db": -15.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261018-052951_outbreak-files",
@@ -3232,7 +3428,11 @@
     "brightness": 56,
     "loudness_db": -15.4
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261018-052126_mystery-files",
@@ -3280,7 +3480,11 @@
     "brightness": 64,
     "loudness_db": -15.8
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261018-051506_money-facts",
@@ -3328,7 +3532,11 @@
     "brightness": 67,
     "loudness_db": -15.5
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261018-050915_deep-sea-files",
@@ -3373,7 +3581,11 @@
     "brightness": 88,
     "loudness_db": -15.3
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261016-165929_mystery-files",
@@ -3422,7 +3634,11 @@
     "brightness": 75,
     "loudness_db": -14.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261016-053106_outbreak-files",
@@ -3470,7 +3686,11 @@
     "brightness": 46,
     "loudness_db": -15.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261016-051105_money-facts",
@@ -3516,7 +3736,11 @@
     "brightness": 89,
     "loudness_db": -15.6
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261016-050610_deep-sea-files",
@@ -3559,7 +3783,11 @@
     "brightness": 111,
     "loudness_db": -15.6
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261015-052658_mystery-files",
@@ -3606,7 +3834,11 @@
     "brightness": 65,
     "loudness_db": -15.9
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261015-051049_money-facts",
@@ -3652,7 +3884,11 @@
     "brightness": 81,
     "loudness_db": -15.3
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261015-050614_deep-sea-files",
@@ -3697,7 +3933,11 @@
     "brightness": 109,
     "loudness_db": -15.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261014-053323_mystery-files",
@@ -3748,7 +3988,11 @@
     "brightness": 49,
     "loudness_db": -14.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261014-051944_money-facts",
@@ -3791,7 +4035,11 @@
     "brightness": 83,
     "loudness_db": -15.6
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261014-050136_deep-sea-files",
@@ -3840,7 +4088,11 @@
     "brightness": 97,
     "loudness_db": -15.5
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261013-153040_mystery-files",
@@ -3890,7 +4142,11 @@
     "brightness": 84,
     "loudness_db": -15.0
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261013-152218_money-facts",
@@ -3938,7 +4194,11 @@
     "brightness": 58,
     "loudness_db": -15.7
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   },
   {
    "item": "20261013-151756_deep-sea-files",
@@ -3981,7 +4241,11 @@
     "brightness": 145,
     "loudness_db": -15.8
    },
-   "error": null
+   "error": null,
+   "technical_pass": true,
+   "direction_version": null,
+   "scene_style": null,
+   "scene_review": null
   }
  ],
  "rework": [],
@@ -4182,5 +4446,75 @@
     ]
    }
   }
- }
+ },
+ "references": [
+  {
+   "channel": "deep-sea-files",
+   "channel_name": "Deep Sea Files",
+   "name": "How a sailfish actually hunts",
+   "lesson": "Show insertion, contact and capture as separate events. Keep the bill rigid and prey at the mouth.",
+   "limitation": "Instructional close-ups still need anatomical review.",
+   "forecast": "AVERAGE",
+   "version": 1,
+   "score": 96,
+   "storyboard": "tools\\examples\\reference_deep-sea-files.json",
+   "render_run_id": 40869151466,
+   "review_status": "Frames reviewed; technical QA passed",
+   "speech_audit_note": "ASR: it/its substitution at the end.",
+   "video": "https://alf0ns4s.github.io/shorts/references/deep-sea-files/video.mp4",
+   "poster": "https://alf0ns4s.github.io/shorts/references/deep-sea-files/thumb.jpg",
+   "frames": "https://alf0ns4s.github.io/shorts/references/deep-sea-files/scene-review.jpg"
+  },
+  {
+   "channel": "money-facts",
+   "channel_name": "Money Facts",
+   "name": "The story behind the $2.2M pair",
+   "lesson": "Get to Jordan and the human gift early. Keep both shoes and the factual price consistent.",
+   "limitation": "Illustrations cannot replace documentary footage.",
+   "forecast": "AVERAGE",
+   "version": 1,
+   "score": 100,
+   "storyboard": "tools\\examples\\reference_money-facts.json",
+   "render_run_id": 40870458322,
+   "review_status": "Frames reviewed; technical QA passed",
+   "speech_audit_note": "ASR: spelling/number variants; final dollars not transcribed. Currency is explicit on screen.",
+   "video": "https://alf0ns4s.github.io/shorts/references/money-facts/video.mp4",
+   "poster": "https://alf0ns4s.github.io/shorts/references/money-facts/thumb.jpg",
+   "frames": "https://alf0ns4s.github.io/shorts/references/money-facts/scene-review.jpg"
+  },
+  {
+   "channel": "mystery-files",
+   "channel_name": "Mystery Files",
+   "name": "What six characters really mean",
+   "lesson": "Let the viewer read the clue. Explain the measurement and distinguish it from speculation.",
+   "limitation": "An unresolved source limits the dramatic payoff.",
+   "forecast": "AVERAGE",
+   "version": 1,
+   "score": 98,
+   "storyboard": "tools\\examples\\reference_mystery-files.json",
+   "render_run_id": 40870839737,
+   "review_status": "Frames reviewed; technical QA passed",
+   "speech_audit_note": "ASR: 72 versus seventy two only.",
+   "video": "https://alf0ns4s.github.io/shorts/references/mystery-files/video.mp4",
+   "poster": "https://alf0ns4s.github.io/shorts/references/mystery-files/thumb.jpg",
+   "frames": "https://alf0ns4s.github.io/shorts/references/mystery-files/scene-review.jpg"
+  },
+  {
+   "channel": "outbreak-files",
+   "channel_name": "Outbreak Files",
+   "name": "The last bus",
+   "lesson": "Preserve the bus layout, character identity and real escape routes. Let each threat change the situation.",
+   "limitation": "The middle still relies on repeated bus and phone views.",
+   "forecast": "AVERAGE",
+   "version": 1,
+   "score": 100,
+   "storyboard": "tools\\examples\\reference_outbreak-files.json",
+   "render_run_id": 40869151466,
+   "review_status": "Frames reviewed; technical QA passed",
+   "speech_audit_note": "ASR matched the script.",
+   "video": "https://alf0ns4s.github.io/shorts/references/outbreak-files/video.mp4",
+   "poster": "https://alf0ns4s.github.io/shorts/references/outbreak-files/thumb.jpg",
+   "frames": "https://alf0ns4s.github.io/shorts/references/outbreak-files/scene-review.jpg"
+  }
+ ]
 }

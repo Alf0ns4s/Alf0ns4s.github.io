@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "render_run_id": 40869151466,
+  "reviewed_on": "2026-10-29",
+  "films": [
+    {
+      "channel": "deep-sea-files",
+      "channel_name": "Deep Sea Files",
+      "name": "How a sailfish actually hunts",
+      "lesson": "Show insertion, contact and capture as separate events. Keep the bill rigid and prey at the mouth.",
+      "limitation": "Instructional close-ups still need anatomical review.",
+      "forecast": "AVERAGE",
+      "version": 1,
+      "score": 96,
+      "storyboard": "tools\\examples\\reference_deep-sea-files.json",
+      "render_run_id": 40869151466,
+      "review_status": "Frames reviewed; technical QA passed",
+      "speech_audit_note": "ASR: it/its substitution at the end."
+    },
+    {
+      "channel": "money-facts",
+      "channel_name": "Money Facts",
+      "name": "The story behind the $2.2M pair",
+      "lesson": "Get to Jordan and the human gift early. Keep both shoes and the factual price consistent.",
+      "limitation": "Illustrations cannot replace documentary footage.",
+      "forecast": "AVERAGE",
+      "version": 1,
+      "score": 100,
+      "storyboard": "tools\\examples\\reference_money-facts.json",
+      "render_run_id": 40870458322,
+      "review_status": "Frames reviewed; technical QA passed",
+      "speech_audit_note": "ASR: spelling/number variants; final dollars not transcribed. Currency is explicit on screen."
+    },
+    {
+      "channel": "mystery-files",
+      "channel_name": "Mystery Files",
+      "name": "What six characters really mean",
+      "lesson": "Let the viewer read the clue. Explain the measurement and distinguish it from speculation.",
+      "limitation": "An unresolved source limits the dramatic payoff.",
+      "forecast": "AVERAGE",
+      "version": 1,
+      "score": 98,
+      "storyboard": "tools\\examples\\reference_mystery-files.json",
+      "render_run_id": 40870839737,
+      "review_status": "Frames reviewed; technical QA passed",
+      "speech_audit_note": "ASR: 72 versus seventy two only."
+    },
+    {
+      "channel": "outbreak-files",
+      "channel_name": "Outbreak Files",
+      "name": "The last bus",
+      "lesson": "Preserve the bus layout, character identity and real escape routes. Let each threat change the situation.",
+      "limitation": "The middle still relies on repeated bus and phone views.",
+      "forecast": "AVERAGE",
+      "version": 1,
+      "score": 100,
+      "storyboard": "tools\\examples\\reference_outbreak-files.json",
+      "render_run_id": 40869151466,
+      "review_status": "Frames reviewed; technical QA passed",
+      "speech_audit_note": "ASR matched the script."
+    }
+  ]
+}
