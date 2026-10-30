@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-30T22:14:54+00:00",
+ "synced": "2026-10-30T22:39:21+00:00",
  "stats_updated": "2026-10-29T12:52:09+00:00",
  "channels": [
   {
@@ -1023,11 +1023,51 @@
  ],
  "videos": [
   {
+   "item": "20261030-222924_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Ski Lift (Part 1)",
+   "title": "Who Is Holding Your Ski Pole? (Part 1)",
+   "status": "posted",
+   "created": "2026-10-30T22:39:16",
+   "scheduled_for": "2026-10-31T03:30:00+02:00",
+   "duration": 69.8,
+   "youtube_id": "G7ZMlfxsayE",
+   "url": "https://youtube.com/shorts/G7ZMlfxsayE",
+   "privacy": "private",
+   "publish_at": "2026-10-31T01:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261030-222924_outbreak-files.jpg",
+   "score": 96,
+   "video_score": 91,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Length 70-100 seconds"
+   ],
+   "metrics": {
+    "cuts": 32,
+    "avg_shot": 2.12,
+    "wpm": 149,
+    "brightness": 89,
+    "loudness_db": -16.0
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261030-222924_outbreak-files.jpg"
+  },
+  {
    "item": "20261030-220341_outbreak-files",
    "channel": "outbreak-files",
    "topic": "The Ski Lift (Part 1)",
    "title": "Who Is Holding Your Ski Pole? (Part 1)",
-   "status": "rejected",
+   "status": "replaced",
    "created": "2026-10-30T22:14:47",
    "scheduled_for": null,
    "duration": 65.3,
@@ -1113,12 +1153,12 @@
    "title": "Why This Octopus Carries Coconut Shells",
    "status": "posted",
    "created": "2026-10-30T21:57:46",
-   "scheduled_for": "2026-11-01T00:30:00+02:00",
+   "scheduled_for": "2026-10-31T01:00:00+02:00",
    "duration": 33.6,
    "youtube_id": "nXbnbHBt5C0",
    "url": "https://youtube.com/shorts/nXbnbHBt5C0",
    "privacy": "private",
-   "publish_at": "2026-10-31T22:30:00.000Z",
+   "publish_at": "2026-10-30T23:00:00Z",
    "views": null,
    "likes": null,
    "comments": null,
@@ -4850,16 +4890,16 @@
  "rework": [],
  "inbox_waiting": [],
  "production": {
-  "updated": "2026-10-30T21:51:55.288878+00:00",
+  "updated": "2026-10-30T22:28:56.904676+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
     "scheduled": 1,
-    "next_upload": "2026-10-31T22:30:00+00:00",
+    "next_upload": "2026-10-30T23:00:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "ready_to_render",
+    "status": "awaiting_worker",
     "reason": null,
     "retry_at": null
    },
@@ -4870,7 +4910,7 @@
     "next_upload": "2026-10-31T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "ready_to_render",
+    "status": "awaiting_worker",
     "reason": null,
     "retry_at": null
    },
@@ -4888,22 +4928,22 @@
    {
     "channel": "outbreak-files",
     "name": "Outbreak Files",
-    "scheduled": 0,
-    "next_upload": null,
+    "scheduled": 1,
+    "next_upload": "2026-10-31T01:30:00+00:00",
     "pending_scripts": 0,
     "target": 1,
-    "status": "ready_to_render",
+    "status": "buffer_ready",
     "reason": null,
     "retry_at": null
    }
   ],
   "worker": {
-   "updated": "2026-10-30T21:51:55.306839+00:00",
-   "stage": "writing",
+   "updated": "2026-10-30T22:39:19.464826+00:00",
+   "stage": "rendering outbreak-files",
    "failures": []
   },
   "schedule": "Hourly; GitHub may delay a run",
-  "snapshot_at": "2026-10-30T22:14:54.249901+00:00"
+  "snapshot_at": "2026-10-30T22:39:21.764451+00:00"
  },
  "insights": {
   "updated": "2026-10-29T12:52:22+00:00",
