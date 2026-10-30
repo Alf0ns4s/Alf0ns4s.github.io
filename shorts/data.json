@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-29T16:47:52+00:00",
+ "synced": "2026-10-30T21:24:35+00:00",
  "stats_updated": "2026-10-29T12:52:09+00:00",
  "channels": [
   {
@@ -1023,6 +1023,346 @@
  ],
  "videos": [
   {
+   "item": "20261030-193041_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Oak Island money pit",
+   "title": "Is Oak Island Hiding a Million\u2011Pound Treasure?",
+   "status": "posted",
+   "created": "2026-10-30T19:34:52",
+   "scheduled_for": "2026-10-31T02:15:00+02:00",
+   "duration": 36.6,
+   "youtube_id": "SDoQkjnmqKY",
+   "url": "https://youtube.com/shorts/SDoQkjnmqKY",
+   "privacy": "private",
+   "publish_at": "2026-10-31T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261030-193041_mystery-files.jpg",
+   "score": 98,
+   "video_score": 100,
+   "script_score": 95,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "First line is 4-8 words (lands in ~1.5 s)"
+   ],
+   "metrics": {
+    "cuts": 18,
+    "avg_shot": 1.92,
+    "wpm": 135,
+    "brightness": 49,
+    "loudness_db": -15.3
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261030-193041_mystery-files.jpg"
+  },
+  {
+   "item": "20261030-133053_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Ski Lift (Part 1)",
+   "title": "Stuck on a Ski Lift: Who\u2019s Watching Below? (Part 1)",
+   "status": "rejected",
+   "created": "2026-10-30T13:38:32",
+   "scheduled_for": null,
+   "duration": 56.4,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261030-133053_outbreak-files.jpg",
+   "score": 90,
+   "video_score": 85,
+   "script_score": 95,
+   "verdict": "needs_rework",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Length 70-100 seconds",
+    "Length 170-230 words"
+   ],
+   "metrics": {
+    "cuts": 14,
+    "avg_shot": 3.76,
+    "wpm": 127,
+    "brightness": 95,
+    "loudness_db": -15.4
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261030-133053_outbreak-files.jpg"
+  },
+  {
+   "item": "20261030-131218_money-facts",
+   "channel": "money-facts",
+   "topic": "Money Facts",
+   "title": "How does Ronaldo turn $300\u202fM into $822k a day?",
+   "status": "rejected",
+   "created": "2026-10-30T13:30:53",
+   "scheduled_for": null,
+   "duration": 35.1,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261030-131218_money-facts.jpg",
+   "score": 89,
+   "video_score": 88,
+   "script_score": 90,
+   "verdict": "needs_rework",
+   "fixes": [
+    "loudness",
+    "tighten"
+   ],
+   "rounds": 4,
+   "issues": [
+    "No clipping",
+    "Calm speaking speed 130-175 words per minute (with pauses)",
+    "First line is 4-8 words (lands in ~1.5 s)",
+    "Frame 1 shows the main subject big"
+   ],
+   "metrics": {
+    "cuts": 17,
+    "avg_shot": 1.95,
+    "wpm": 118,
+    "brightness": 69,
+    "loudness_db": -14.5
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261030-131218_money-facts.jpg"
+  },
+  {
+   "item": "20261029-232928_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Ski Lift (Part 1)",
+   "title": "Ski Lift Shudder (Part 1)",
+   "status": "rejected",
+   "created": "2026-10-29T23:47:59",
+   "scheduled_for": null,
+   "duration": 68.9,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261029-232928_outbreak-files.jpg",
+   "score": 94,
+   "video_score": 91,
+   "script_score": 97,
+   "verdict": "needs_rework",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Length 70-100 seconds",
+    "Length 170-230 words"
+   ],
+   "metrics": {
+    "cuts": 29,
+    "avg_shot": 2.29,
+    "wpm": 147,
+    "brightness": 93,
+    "loudness_db": -15.2
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261029-232928_outbreak-files.jpg"
+  },
+  {
+   "item": "20261029-232235_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Ski Lift (Part 2)",
+   "title": "Red Light on the Lift? (Part 2)",
+   "status": "rejected",
+   "created": "2026-10-29T23:29:27",
+   "scheduled_for": null,
+   "duration": 49.4,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261029-232235_outbreak-files.jpg",
+   "score": 85,
+   "video_score": 85,
+   "script_score": 85,
+   "verdict": "needs_rework",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Length 70-100 seconds",
+    "Hook has a shock, number, question or contrast",
+    "Frame 1 shows the main subject big",
+    "Length 170-230 words"
+   ],
+   "metrics": {
+    "cuts": 15,
+    "avg_shot": 3.08,
+    "wpm": 136,
+    "brightness": 76,
+    "loudness_db": -15.4
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261029-232235_outbreak-files.jpg"
+  },
+  {
+   "item": "20261029-230928_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Oak Island money pit",
+   "title": "Is a million\u2011pound treasure really buried on Oak Island?",
+   "status": "replaced",
+   "created": "2026-10-29T23:22:34",
+   "scheduled_for": null,
+   "duration": 29.7,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261029-230928_mystery-files.jpg",
+   "score": 90,
+   "video_score": 94,
+   "script_score": 86,
+   "verdict": "needs_rework",
+   "fixes": [
+    "tighten",
+    "jump_cuts"
+   ],
+   "rounds": 3,
+   "issues": [
+    "Picture changes within 1.6 seconds",
+    "Scene 2 keeps the hook going (no background)",
+    "Title under 55 characters",
+    "[likely] Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
+   ],
+   "metrics": {
+    "cuts": 14,
+    "avg_shot": 1.98,
+    "wpm": 138,
+    "brightness": 60,
+    "loudness_db": -13.7
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261029-230928_mystery-files.jpg"
+  },
+  {
+   "item": "20261029-191520_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Flannan Isles lighthouse keepers",
+   "title": "Why did the Flannan light vanish?",
+   "status": "posted",
+   "created": "2026-10-29T19:23:31",
+   "scheduled_for": "2026-10-30T02:15:00+02:00",
+   "duration": 30.9,
+   "youtube_id": "Xvja2yBl_OM",
+   "url": "https://youtube.com/shorts/Xvja2yBl_OM",
+   "privacy": "private",
+   "publish_at": "2026-10-30T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261029-191520_mystery-files.jpg",
+   "score": 96,
+   "video_score": 100,
+   "script_score": 93,
+   "verdict": "pass",
+   "fixes": [
+    "brighten"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Short sentences (average 10 words or less)",
+    "Title creates curiosity (and is not line 1)"
+   ],
+   "metrics": {
+    "cuts": 14,
+    "avg_shot": 2.06,
+    "wpm": 138,
+    "brightness": 76,
+    "loudness_db": -14.4
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261029-191520_mystery-files.jpg"
+  },
+  {
+   "item": "20261029-173853_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: you're the immortal jellyfish that turns young again",
+   "title": "How This Jellyfish Rewinds Its Life",
+   "status": "posted",
+   "created": "2026-10-29T17:43:31",
+   "scheduled_for": "2026-10-30T00:30:00+02:00",
+   "duration": 31.4,
+   "youtube_id": "R-yUAhQZfT0",
+   "url": "https://youtube.com/shorts/R-yUAhQZfT0",
+   "privacy": "private",
+   "publish_at": "2026-10-29T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261029-173853_deep-sea-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 17,
+    "avg_shot": 1.74,
+    "wpm": 147,
+    "brightness": 105,
+    "loudness_db": -15.1
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261029-173853_deep-sea-files.jpg"
+  },
+  {
    "item": "20261029-163800_outbreak-files",
    "channel": "outbreak-files",
    "topic": "The Ski Lift (Part 1)",
@@ -1072,7 +1412,7 @@
    "channel": "mystery-files",
    "topic": "The Flannan Isles lighthouse keepers",
    "title": "Did a Lighthouse Keeper Vanish Into the Sea?",
-   "status": "rejected",
+   "status": "replaced",
    "created": "2026-10-29T16:37:59",
    "scheduled_for": null,
    "duration": 27.8,
@@ -4383,46 +4723,100 @@
  ],
  "rework": [
   {
-   "item": "20261029-162038_money-facts",
+   "item": "20261029-232235_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Ski Lift (Part 2)",
+   "score": 85,
+   "round": 1,
+   "reasons": [
+    "Video is 49s. Aim for 70-100 s.",
+    "Open with the single most surprising fact, a number, a 'POV:' or a question - no context first.",
+    "In the very first frame the main subject must already be big (w 0.45+), visible (no fade-in or pop) and mid-action. No establishing shot.",
+    "Script is 110 words. Aim for 170-230."
+   ]
+  },
+  {
+   "item": "20261030-131218_money-facts",
    "channel": "money-facts",
    "topic": "Money Facts",
-   "score": 90,
-   "round": 1,
+   "score": 89,
+   "round": 2,
    "reasons": [
+    "First sentence has 9 words. Cut it to one punchy line of 4-8 words.",
     "In the very first frame the main subject must already be big (w 0.45+), visible (no fade-in or pop) and mid-action. No establishing shot.",
-    "Script is 56 words. Aim for 65-88.",
-    "Make the title a curiosity gap of its own (a number, why/how, a question or a surprising claim) - not a copy of the first line.",
-    "Speaking speed 111 wpm."
+    "Audio clips at the loudest moments.",
+    "Speaking speed 118 wpm."
    ]
   },
   {
-   "item": "20261029-163220_mystery-files",
-   "channel": "mystery-files",
-   "topic": "The Flannan Isles lighthouse keepers",
-   "score": 94,
-   "round": 1,
-   "reasons": [
-    "Video is 28s. Aim for 28-42 s.",
-    "Make the title a curiosity gap of its own (a number, why/how, a question or a surprising claim) - not a copy of the first line."
-   ]
-  },
-  {
-   "item": "20261029-163800_outbreak-files",
+   "item": "20261030-133053_outbreak-files",
    "channel": "outbreak-files",
    "topic": "The Ski Lift (Part 1)",
-   "score": 84,
-   "round": 1,
+   "score": 90,
+   "round": 3,
    "reasons": [
-    "First cut at 3.2s. The first shot should last 1-1.5 s.",
-    "Video is 46s. Aim for 70-100 s.",
-    "Open with the single most surprising fact, a number, a 'POV:' or a question - no context first.",
-    "Script is 108 words. Aim for 170-230."
+    "Video is 56s. Aim for 70-100 s.",
+    "Script is 118 words. Aim for 170-230."
    ]
   }
  ],
- "inbox_waiting": [
-  "2026-10-29_deep-sea-files_1.json"
- ],
+ "inbox_waiting": [],
+ "production": {
+  "updated": "2026-10-30T21:24:32.657632+00:00",
+  "channels": [
+   {
+    "channel": "deep-sea-files",
+    "name": "Deep Sea Files",
+    "scheduled": 0,
+    "next_upload": null,
+    "pending_scripts": 0,
+    "target": 2,
+    "status": "quota_paused",
+    "reason": "Writing call budget reached; saved draft resumes next run",
+    "retry_at": "2026-10-30T22:22:20.263397+00:00"
+   },
+   {
+    "channel": "money-facts",
+    "name": "Money Facts",
+    "scheduled": 0,
+    "next_upload": null,
+    "pending_scripts": 0,
+    "target": 2,
+    "status": "quota_paused",
+    "reason": "Groq daily allowance exhausted; waiting for provider reset",
+    "retry_at": "2026-10-30T21:34:05.757708+00:00"
+   },
+   {
+    "channel": "mystery-files",
+    "name": "Myst3ry Files",
+    "scheduled": 1,
+    "next_upload": "2026-10-31T00:15:00+00:00",
+    "pending_scripts": 0,
+    "target": 2,
+    "status": "awaiting_worker",
+    "reason": null,
+    "retry_at": null
+   },
+   {
+    "channel": "outbreak-files",
+    "name": "Outbreak Files",
+    "scheduled": 0,
+    "next_upload": null,
+    "pending_scripts": 0,
+    "target": 1,
+    "status": "awaiting_worker",
+    "reason": null,
+    "retry_at": null
+   }
+  ],
+  "worker": {
+   "updated": "2026-10-30T21:24:32.682565+00:00",
+   "stage": "writing",
+   "failures": []
+  },
+  "schedule": "Hourly; GitHub may delay a run",
+  "snapshot_at": "2026-10-30T21:24:35.274929+00:00"
+ },
  "insights": {
   "updated": "2026-10-29T12:52:22+00:00",
   "videos_analysed": 52,
