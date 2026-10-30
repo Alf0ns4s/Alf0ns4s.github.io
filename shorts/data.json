@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-30T21:24:35+00:00",
+ "synced": "2026-10-30T22:14:54+00:00",
  "stats_updated": "2026-10-29T12:52:09+00:00",
  "channels": [
   {
@@ -1023,6 +1023,132 @@
  ],
  "videos": [
   {
+   "item": "20261030-220341_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Ski Lift (Part 1)",
+   "title": "Who Is Holding Your Ski Pole? (Part 1)",
+   "status": "rejected",
+   "created": "2026-10-30T22:14:47",
+   "scheduled_for": null,
+   "duration": 65.3,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261030-220341_outbreak-files.jpg",
+   "score": 92,
+   "video_score": 85,
+   "script_score": 100,
+   "verdict": "needs_rework",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Length 70-100 seconds"
+   ],
+   "metrics": {
+    "cuts": 30,
+    "avg_shot": 2.11,
+    "wpm": 160,
+    "brightness": 89,
+    "loudness_db": -16.0
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261030-220341_outbreak-files.jpg"
+  },
+  {
+   "item": "20261030-215746_money-facts",
+   "channel": "money-facts",
+   "topic": "How much does Cristiano Ronaldo earn per day?",
+   "title": "How Ronaldo's $822,000 Day Adds Up",
+   "status": "posted",
+   "created": "2026-10-30T22:03:41",
+   "scheduled_for": "2026-10-31T23:15:00+02:00",
+   "duration": 35.9,
+   "youtube_id": "nX4mL7LE0HY",
+   "url": "https://youtube.com/shorts/nX4mL7LE0HY",
+   "privacy": "private",
+   "publish_at": "2026-10-31T21:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261030-215746_money-facts.jpg",
+   "score": 98,
+   "video_score": 96,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "boost_motion"
+   ],
+   "rounds": 2,
+   "issues": [
+    "No frozen moments (over 1 s with no movement)"
+   ],
+   "metrics": {
+    "cuts": 17,
+    "avg_shot": 2.0,
+    "wpm": 158,
+    "brightness": 87,
+    "loudness_db": -16.6
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261030-215746_money-facts.jpg"
+  },
+  {
+   "item": "20261030-215214_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "How a coconut octopus carries a shelter",
+   "title": "Why This Octopus Carries Coconut Shells",
+   "status": "posted",
+   "created": "2026-10-30T21:57:46",
+   "scheduled_for": "2026-11-01T00:30:00+02:00",
+   "duration": 33.6,
+   "youtube_id": "nXbnbHBt5C0",
+   "url": "https://youtube.com/shorts/nXbnbHBt5C0",
+   "privacy": "private",
+   "publish_at": "2026-10-31T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261030-215214_deep-sea-files.jpg",
+   "score": 95,
+   "video_score": 90,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Picture changes within 1.6 seconds"
+   ],
+   "metrics": {
+    "cuts": 15,
+    "avg_shot": 2.1,
+    "wpm": 148,
+    "brightness": 80,
+    "loudness_db": -15.6
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261030-215214_deep-sea-files.jpg"
+  },
+  {
    "item": "20261030-193041_mystery-files",
    "channel": "mystery-files",
    "topic": "The Oak Island money pit",
@@ -1108,7 +1234,7 @@
    "channel": "money-facts",
    "topic": "Money Facts",
    "title": "How does Ronaldo turn $300\u202fM into $822k a day?",
-   "status": "rejected",
+   "status": "replaced",
    "created": "2026-10-30T13:30:53",
    "scheduled_for": null,
    "duration": 35.1,
@@ -4721,70 +4847,32 @@
    "scene_review": null
   }
  ],
- "rework": [
-  {
-   "item": "20261029-232235_outbreak-files",
-   "channel": "outbreak-files",
-   "topic": "The Ski Lift (Part 2)",
-   "score": 85,
-   "round": 1,
-   "reasons": [
-    "Video is 49s. Aim for 70-100 s.",
-    "Open with the single most surprising fact, a number, a 'POV:' or a question - no context first.",
-    "In the very first frame the main subject must already be big (w 0.45+), visible (no fade-in or pop) and mid-action. No establishing shot.",
-    "Script is 110 words. Aim for 170-230."
-   ]
-  },
-  {
-   "item": "20261030-131218_money-facts",
-   "channel": "money-facts",
-   "topic": "Money Facts",
-   "score": 89,
-   "round": 2,
-   "reasons": [
-    "First sentence has 9 words. Cut it to one punchy line of 4-8 words.",
-    "In the very first frame the main subject must already be big (w 0.45+), visible (no fade-in or pop) and mid-action. No establishing shot.",
-    "Audio clips at the loudest moments.",
-    "Speaking speed 118 wpm."
-   ]
-  },
-  {
-   "item": "20261030-133053_outbreak-files",
-   "channel": "outbreak-files",
-   "topic": "The Ski Lift (Part 1)",
-   "score": 90,
-   "round": 3,
-   "reasons": [
-    "Video is 56s. Aim for 70-100 s.",
-    "Script is 118 words. Aim for 170-230."
-   ]
-  }
- ],
+ "rework": [],
  "inbox_waiting": [],
  "production": {
-  "updated": "2026-10-30T21:24:32.657632+00:00",
+  "updated": "2026-10-30T21:51:55.288878+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
-    "scheduled": 0,
-    "next_upload": null,
+    "scheduled": 1,
+    "next_upload": "2026-10-31T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "quota_paused",
-    "reason": "Writing call budget reached; saved draft resumes next run",
-    "retry_at": "2026-10-30T22:22:20.263397+00:00"
+    "status": "ready_to_render",
+    "reason": null,
+    "retry_at": null
    },
    {
     "channel": "money-facts",
     "name": "Money Facts",
-    "scheduled": 0,
-    "next_upload": null,
+    "scheduled": 1,
+    "next_upload": "2026-10-31T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "quota_paused",
-    "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-10-30T21:34:05.757708+00:00"
+    "status": "ready_to_render",
+    "reason": null,
+    "retry_at": null
    },
    {
     "channel": "mystery-files",
@@ -4804,18 +4892,18 @@
     "next_upload": null,
     "pending_scripts": 0,
     "target": 1,
-    "status": "awaiting_worker",
+    "status": "ready_to_render",
     "reason": null,
     "retry_at": null
    }
   ],
   "worker": {
-   "updated": "2026-10-30T21:24:32.682565+00:00",
+   "updated": "2026-10-30T21:51:55.306839+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly; GitHub may delay a run",
-  "snapshot_at": "2026-10-30T21:24:35.274929+00:00"
+  "snapshot_at": "2026-10-30T22:14:54.249901+00:00"
  },
  "insights": {
   "updated": "2026-10-29T12:52:22+00:00",
