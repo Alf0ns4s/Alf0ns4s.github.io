@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-31T14:53:34+00:00",
+ "synced": "2026-10-31T15:24:27+00:00",
  "stats_updated": "2026-10-29T12:52:09+00:00",
  "channels": [
   {
@@ -4981,7 +4981,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-10-31T14:53:32.747277+00:00",
+  "updated": "2026-10-31T15:24:26.026031+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -4990,9 +4990,9 @@
     "next_upload": "2026-10-31T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "quota_paused",
+    "status": "draft_paused",
     "reason": "Writing call budget reached; saved draft resumes next run",
-    "retry_at": "2026-10-31T15:53:32.746730+00:00"
+    "retry_at": "2026-10-31T15:39:26.025479+00:00"
    },
    {
     "channel": "money-facts",
@@ -5001,9 +5001,9 @@
     "next_upload": "2026-10-31T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "quota_paused",
+    "status": "draft_paused",
     "reason": "Writing call budget reached; saved draft resumes next run",
-    "retry_at": "2026-10-31T15:47:43.040393+00:00"
+    "retry_at": "2026-10-31T15:30:02.660155+00:00"
    },
    {
     "channel": "mystery-files",
@@ -5013,8 +5013,8 @@
     "pending_scripts": 0,
     "target": 2,
     "status": "quota_paused",
-    "reason": "Writing call budget reached; saved draft resumes next run",
-    "retry_at": "2026-10-31T15:50:52.055582+00:00"
+    "reason": "Groq daily allowance exhausted; waiting for provider reset",
+    "retry_at": "2026-10-31T15:26:38.903389+00:00"
    },
    {
     "channel": "outbreak-files",
@@ -5023,18 +5023,18 @@
     "next_upload": null,
     "pending_scripts": 0,
     "target": 1,
-    "status": "quota_paused",
+    "status": "draft_paused",
     "reason": "Writing call budget reached; saved draft resumes next run",
-    "retry_at": "2026-10-31T15:45:28.025332+00:00"
+    "retry_at": "2026-10-31T15:28:33.613186+00:00"
    }
   ],
   "worker": {
-   "updated": "2026-10-31T14:53:32.770317+00:00",
+   "updated": "2026-10-31T15:24:26.076873+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-10-31T14:53:34.638981+00:00"
+  "snapshot_at": "2026-10-31T15:24:27.967893+00:00"
  },
  "insights": {
   "updated": "2026-10-29T12:52:22+00:00",
