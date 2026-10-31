@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-31T12:32:32+00:00",
+ "synced": "2026-10-31T13:49:20+00:00",
  "stats_updated": "2026-10-29T12:52:09+00:00",
  "channels": [
   {
@@ -4974,7 +4974,14 @@
  "rework": [],
  "inbox_waiting": [],
  "production": {
-  "updated": "2026-10-31T12:24:00.863464+00:00",
+  "health": {
+   "missing_uploads": [
+    "outbreak-files"
+   ],
+   "blocked_channels": [],
+   "all_channels_scheduled": false
+  },
+  "updated": "2026-10-31T13:49:19.131555+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -4983,9 +4990,9 @@
     "next_upload": "2026-10-31T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
-    "reason": null,
-    "retry_at": null
+    "status": "quota_paused",
+    "reason": "Writing call budget reached; saved draft resumes next run",
+    "retry_at": "2026-10-31T14:49:19.131403+00:00"
    },
    {
     "channel": "money-facts",
@@ -4994,9 +5001,9 @@
     "next_upload": "2026-10-31T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
-    "reason": null,
-    "retry_at": null
+    "status": "quota_paused",
+    "reason": "Writing call budget reached; saved draft resumes next run",
+    "retry_at": "2026-10-31T14:44:04.117792+00:00"
    },
    {
     "channel": "mystery-files",
@@ -5005,9 +5012,9 @@
     "next_upload": "2026-11-01T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
-    "reason": null,
-    "retry_at": null
+    "status": "quota_paused",
+    "reason": "Writing call budget reached; saved draft resumes next run",
+    "retry_at": "2026-10-31T14:47:21.828776+00:00"
    },
    {
     "channel": "outbreak-files",
@@ -5016,18 +5023,18 @@
     "next_upload": null,
     "pending_scripts": 0,
     "target": 1,
-    "status": "waiting_for_audience",
-    "reason": "Allow the previous episode to publish and collect audience choices before continuing.",
-    "retry_at": "2026-10-31T13:30:00+00:00"
+    "status": "quota_paused",
+    "reason": "Writing call budget reached; saved draft resumes next run",
+    "retry_at": "2026-10-31T14:41:35.985020+00:00"
    }
   ],
   "worker": {
-   "updated": "2026-10-31T12:32:30.074311+00:00",
-   "stage": "rendering deep-sea-files",
+   "updated": "2026-10-31T13:49:19.164173+00:00",
+   "stage": "writing",
    "failures": []
   },
-  "schedule": "Hourly; GitHub may delay a run",
-  "snapshot_at": "2026-10-31T12:32:32.244227+00:00"
+  "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
+  "snapshot_at": "2026-10-31T13:49:20.830725+00:00"
  },
  "insights": {
   "updated": "2026-10-29T12:52:22+00:00",
