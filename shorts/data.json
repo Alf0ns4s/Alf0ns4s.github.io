@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-30T23:46:08+00:00",
+ "synced": "2026-10-31T05:43:11+00:00",
  "stats_updated": "2026-10-29T12:52:09+00:00",
  "channels": [
   {
@@ -1022,6 +1022,46 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261031-053924_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Phaistos Disc",
+   "title": "Is the 3,700\u2011year\u2011old Phaistos Disc a genuine ancient print?",
+   "status": "posted",
+   "created": "2026-10-31T05:43:05",
+   "scheduled_for": "2026-11-01T02:15:00+02:00",
+   "duration": 33.0,
+   "youtube_id": "wySMhf877vA",
+   "url": "https://youtube.com/shorts/wySMhf877vA",
+   "privacy": "private",
+   "publish_at": "2026-11-01T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261031-053924_mystery-files.jpg",
+   "score": 98,
+   "video_score": 100,
+   "script_score": 95,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Title under 55 characters"
+   ],
+   "metrics": {
+    "cuts": 15,
+    "avg_shot": 2.06,
+    "wpm": 135,
+    "brightness": 92,
+    "loudness_db": -15.7
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261031-053924_mystery-files.jpg"
+  },
   {
    "item": "20261030-222924_outbreak-files",
    "channel": "outbreak-files",
@@ -4890,7 +4930,7 @@
  "rework": [],
  "inbox_waiting": [],
  "production": {
-  "updated": "2026-10-30T23:46:06.398967+00:00",
+  "updated": "2026-10-31T05:39:03.672740+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -4899,9 +4939,9 @@
     "next_upload": null,
     "pending_scripts": 0,
     "target": 2,
-    "status": "quota_paused",
+    "status": "awaiting_worker",
     "reason": "Writing call budget reached; saved draft resumes next run",
-    "retry_at": "2026-10-31T00:46:06.398309+00:00"
+    "retry_at": null
    },
    {
     "channel": "money-facts",
@@ -4918,7 +4958,7 @@
     "channel": "mystery-files",
     "name": "Myst3ry Files",
     "scheduled": 1,
-    "next_upload": "2026-10-31T00:15:00+00:00",
+    "next_upload": "2026-11-01T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
     "status": "awaiting_worker",
@@ -4928,22 +4968,22 @@
    {
     "channel": "outbreak-files",
     "name": "Outbreak Files",
-    "scheduled": 1,
-    "next_upload": "2026-10-31T01:30:00+00:00",
+    "scheduled": 0,
+    "next_upload": null,
     "pending_scripts": 0,
     "target": 1,
-    "status": "buffer_ready",
-    "reason": null,
-    "retry_at": null
+    "status": "waiting_for_audience",
+    "reason": "Allow the previous episode to publish and collect audience choices before continuing.",
+    "retry_at": "2026-10-31T13:30:00+00:00"
    }
   ],
   "worker": {
-   "updated": "2026-10-30T23:46:06.441677+00:00",
-   "stage": "writing",
+   "updated": "2026-10-31T05:43:09.648168+00:00",
+   "stage": "rendering mystery-files",
    "failures": []
   },
   "schedule": "Hourly; GitHub may delay a run",
-  "snapshot_at": "2026-10-30T23:46:08.878347+00:00"
+  "snapshot_at": "2026-10-31T05:43:11.795398+00:00"
  },
  "insights": {
   "updated": "2026-10-29T12:52:22+00:00",
