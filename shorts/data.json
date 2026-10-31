@@ -1,5 +1,5 @@
 {
- "synced": "2026-10-31T22:28:54+00:00",
+ "synced": "2026-10-31T22:43:48+00:00",
  "stats_updated": "2026-10-29T12:52:09+00:00",
  "channels": [
   {
@@ -4976,24 +4976,27 @@
  "production": {
   "health": {
    "missing_uploads": [
+    "deep-sea-files",
     "money-facts",
     "outbreak-files"
    ],
-   "blocked_channels": [],
+   "blocked_channels": [
+    "deep-sea-files"
+   ],
    "all_channels_scheduled": false
   },
-  "updated": "2026-10-31T22:28:52.232188+00:00",
+  "updated": "2026-10-31T22:43:45.782006+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
-    "scheduled": 1,
-    "next_upload": "2026-10-31T22:30:00+00:00",
+    "scheduled": 0,
+    "next_upload": null,
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
-    "reason": "Writing call budget reached; saved draft resumes next run",
-    "retry_at": null
+    "status": "draft_blocked",
+    "reason": "best script outside channel target: 52 words, 7 scenes",
+    "retry_at": "2026-11-01T04:43:34.784967+00:00"
    },
    {
     "channel": "money-facts",
@@ -5004,7 +5007,7 @@
     "target": 2,
     "status": "quota_paused",
     "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-10-31T22:32:52.585192+00:00"
+    "retry_at": "2026-10-31T22:44:41.083350+00:00"
    },
    {
     "channel": "mystery-files",
@@ -5026,16 +5029,16 @@
     "target": 1,
     "status": "quota_paused",
     "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-10-31T22:32:52.585192+00:00"
+    "retry_at": "2026-10-31T22:44:41.083350+00:00"
    }
   ],
   "worker": {
-   "updated": "2026-10-31T22:28:52.248823+00:00",
+   "updated": "2026-10-31T22:43:45.825170+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-10-31T22:28:54.753037+00:00"
+  "snapshot_at": "2026-10-31T22:43:48.039207+00:00"
  },
  "insights": {
   "updated": "2026-10-29T12:52:22+00:00",
