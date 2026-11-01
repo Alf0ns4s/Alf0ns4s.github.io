@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-01T07:13:38+00:00",
+ "synced": "2026-11-01T07:29:03+00:00",
  "stats_updated": "2026-11-01T06:06:10+00:00",
  "channels": [
   {
@@ -5232,7 +5232,7 @@
    ],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-01T07:13:36.537797+00:00",
+  "updated": "2026-11-01T07:29:00.766104+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5254,7 +5254,7 @@
     "target": 2,
     "status": "quota_paused",
     "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-11-01T07:14:13.222607+00:00"
+    "retry_at": "2026-11-01T07:32:53.452982+00:00"
    },
    {
     "channel": "mystery-files",
@@ -5276,16 +5276,16 @@
     "target": 1,
     "status": "quota_paused",
     "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-11-01T07:14:13.222607+00:00"
+    "retry_at": "2026-11-01T07:32:53.452982+00:00"
    }
   ],
   "worker": {
-   "updated": "2026-11-01T07:13:36.557196+00:00",
+   "updated": "2026-11-01T07:29:00.788080+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-01T07:13:38.929200+00:00"
+  "snapshot_at": "2026-11-01T07:29:03.171864+00:00"
  },
  "insights": {
   "updated": "2026-11-01T06:06:19+00:00",
