@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-01T17:26:23+00:00",
+ "synced": "2026-11-01T17:30:43+00:00",
  "stats_updated": "2026-11-01T13:25:21+00:00",
  "channels": [
   {
@@ -1139,6 +1139,46 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261101-172712_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: you're a ghost crab taking water from damp sand",
+   "title": "Why a Ghost Crab Presses Down on Damp Sand",
+   "status": "posted",
+   "created": "2026-11-01T17:30:36",
+   "scheduled_for": "2026-11-03T00:30:00+02:00",
+   "duration": 27.0,
+   "youtube_id": "LSij0PQBqZA",
+   "url": "https://youtube.com/shorts/LSij0PQBqZA",
+   "privacy": "private",
+   "publish_at": "2026-11-02T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261101-172712_deep-sea-files.jpg",
+   "score": 96,
+   "video_score": 91,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Length 28-42 seconds"
+   ],
+   "metrics": {
+    "cuts": 12,
+    "avg_shot": 2.08,
+    "wpm": 162,
+    "brightness": 92,
+    "loudness_db": -15.4
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261101-172712_deep-sea-files.jpg"
+  },
   {
    "item": "20261101-170517_outbreak-files",
    "channel": "outbreak-files",
@@ -5426,16 +5466,16 @@
    "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-01T16:43:42.607568+00:00",
+  "updated": "2026-11-01T17:27:06.863280+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-01T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
+    "status": "buffer_ready",
     "reason": null,
     "retry_at": null
    },
@@ -5474,12 +5514,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-01T17:26:20.533928+00:00",
-   "stage": "rendering outbreak-files",
+   "updated": "2026-11-01T17:30:40.667740+00:00",
+   "stage": "rendering deep-sea-files",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-01T17:26:23.519193+00:00"
+  "snapshot_at": "2026-11-01T17:30:43.140588+00:00"
  },
  "insights": {
   "updated": "2026-11-01T13:25:32+00:00",
