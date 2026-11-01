@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-01T19:38:39+00:00",
- "stats_updated": "2026-11-01T13:25:21+00:00",
+ "synced": "2026-11-01T19:41:51+00:00",
+ "stats_updated": "2026-11-01T19:41:37+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 14,
-   "views": 13276,
+   "views": 13416,
    "uploads": 18,
    "analytics": true,
    "daily": [
@@ -315,7 +315,7 @@
     {
      "date": "2026-11-01",
      "subscribers": 14,
-     "views": 13276
+     "views": 13416
     }
    ]
   },
@@ -328,7 +328,7 @@
     "23:15"
    ],
    "subscribers": 7,
-   "views": 4110,
+   "views": 4149,
    "uploads": 16,
    "analytics": true,
    "daily": [
@@ -594,7 +594,7 @@
     {
      "date": "2026-11-01",
      "subscribers": 7,
-     "views": 4110
+     "views": 4149
     }
    ]
   },
@@ -894,7 +894,7 @@
     "03:30"
    ],
    "subscribers": 17,
-   "views": 6832,
+   "views": 6835,
    "uploads": 13,
    "analytics": true,
    "daily": [
@@ -1133,7 +1133,7 @@
     {
      "date": "2026-11-01",
      "subscribers": 17,
-     "views": 6832
+     "views": 6835
     }
    ]
   }
@@ -1151,10 +1151,10 @@
    "youtube_id": "LSij0PQBqZA",
    "url": "https://youtube.com/shorts/LSij0PQBqZA",
    "privacy": "private",
-   "publish_at": "2026-11-02T22:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-11-02T22:30:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261101-172712_deep-sea-files.jpg",
    "score": 96,
@@ -1191,10 +1191,10 @@
    "youtube_id": "Qtk2v2IiL7U",
    "url": "https://youtube.com/shorts/Qtk2v2IiL7U",
    "privacy": "private",
-   "publish_at": "2026-11-02T01:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-11-02T01:30:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261101-170517_outbreak-files.jpg",
    "score": 100,
@@ -1231,10 +1231,10 @@
    "youtube_id": "oPnRq7gc4gI",
    "url": "https://youtube.com/shorts/oPnRq7gc4gI",
    "privacy": "private",
-   "publish_at": "2026-11-03T00:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-11-03T00:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261101-165556_mystery-files.jpg",
    "score": 100,
@@ -1271,10 +1271,10 @@
    "youtube_id": "NMKJLVkJNKs",
    "url": "https://youtube.com/shorts/NMKJLVkJNKs",
    "privacy": "private",
-   "publish_at": "2026-11-02T21:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-11-02T21:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261101-165146_money-facts.jpg",
    "score": 100,
@@ -1309,10 +1309,10 @@
    "youtube_id": "QtuFS5DANBU",
    "url": "https://youtube.com/shorts/QtuFS5DANBU",
    "privacy": "private",
-   "publish_at": "2026-11-01T22:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-11-01T22:30:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261101-164348_deep-sea-files.jpg",
    "score": 95,
@@ -1351,10 +1351,10 @@
    "youtube_id": "uh0EZ8yqNxA",
    "url": "https://youtube.com/shorts/uh0EZ8yqNxA",
    "privacy": "private",
-   "publish_at": "2026-11-01T21:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-11-01T21:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261101-151342_money-facts.jpg",
    "score": 100,
@@ -1432,7 +1432,7 @@
    "url": "https://youtube.com/shorts/qat4DYoLUWQ",
    "privacy": "public",
    "publish_at": "2026-10-31T22:30:00.000Z",
-   "views": 119,
+   "views": 132,
    "likes": 1,
    "comments": 0,
    "analytics": null,
@@ -1476,7 +1476,7 @@
    "url": "https://youtube.com/shorts/wySMhf877vA",
    "privacy": "public",
    "publish_at": "2026-11-01T00:15:00.000Z",
-   "views": 166,
+   "views": 167,
    "likes": 5,
    "comments": 0,
    "analytics": null,
@@ -1516,7 +1516,7 @@
    "url": "https://youtube.com/shorts/G7ZMlfxsayE",
    "privacy": "public",
    "publish_at": "2026-10-31T01:30:00.000Z",
-   "views": 753,
+   "views": 757,
    "likes": 12,
    "comments": 1,
    "analytics": null,
@@ -1598,7 +1598,7 @@
    "url": "https://youtube.com/shorts/nX4mL7LE0HY",
    "privacy": "public",
    "publish_at": "2026-10-31T21:15:00.000Z",
-   "views": 39,
+   "views": 42,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -1640,7 +1640,7 @@
    "url": "https://youtube.com/shorts/nXbnbHBt5C0",
    "privacy": "public",
    "publish_at": "2026-10-30T23:00:00Z",
-   "views": 1107,
+   "views": 1109,
    "likes": 18,
    "comments": 2,
    "analytics": null,
@@ -1682,7 +1682,7 @@
    "url": "https://youtube.com/shorts/SDoQkjnmqKY",
    "privacy": "public",
    "publish_at": "2026-10-31T00:15:00.000Z",
-   "views": 254,
+   "views": 258,
    "likes": 3,
    "comments": 0,
    "analytics": null,
@@ -1993,7 +1993,7 @@
    "url": "https://youtube.com/shorts/R-yUAhQZfT0",
    "privacy": "public",
    "publish_at": "2026-10-29T22:30:00.000Z",
-   "views": 1179,
+   "views": 1181,
    "likes": 19,
    "comments": 0,
    "analytics": {
@@ -2928,7 +2928,7 @@
    "url": "https://youtube.com/shorts/GdPQZvVv6P8",
    "privacy": "public",
    "publish_at": "2026-10-27T22:30:00.000Z",
-   "views": 1590,
+   "views": 1589,
    "likes": 36,
    "comments": 1,
    "analytics": {
@@ -3594,7 +3594,7 @@
    "url": "https://youtube.com/shorts/XdfdBNV_IAM",
    "privacy": "public",
    "publish_at": "2026-10-24T00:30:00.000Z",
-   "views": 254,
+   "views": 255,
    "likes": 4,
    "comments": 1,
    "analytics": {
@@ -3951,7 +3951,7 @@
    "url": "https://youtube.com/shorts/uCODTjlf20o",
    "privacy": "public",
    "publish_at": "2026-10-22T21:30:00.000Z",
-   "views": 1374,
+   "views": 1375,
    "likes": 12,
    "comments": 1,
    "analytics": {
@@ -5514,16 +5514,16 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-01T19:38:36.924870+00:00",
-   "stage": "writing",
+   "updated": "2026-11-01T19:38:49.983736+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-01T19:38:39.053953+00:00"
+  "snapshot_at": "2026-11-01T19:41:51.475113+00:00"
  },
  "insights": {
-  "updated": "2026-11-01T13:25:32+00:00",
-  "videos_analysed": 61,
+  "updated": "2026-11-01T19:41:47+00:00",
+  "videos_analysed": 62,
   "rules": [
    {
     "id": "action:lots of acting/effects",
@@ -5533,7 +5533,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Use lots of acting and effects (2+ per scene)",
-    "evidence": "50 videos vs 11, 38% better (agrees on 3 channel(s), disagrees on 1; chance it's luck 5%)"
+    "evidence": "50 videos vs 12, 32% better (agrees on 3 channel(s), disagrees on 1; chance it's luck 8%)"
    },
    {
     "id": "scene:pos_scene_2",
@@ -5589,7 +5589,7 @@
      },
      {
       "title": "This Fish Chokes Sharks With Slime",
-      "views": 1590,
+      "views": 1589,
       "watched": 48.27,
       "duration": 39.9,
       "hook": "Why did this shark let you go?",
@@ -5597,7 +5597,7 @@
      },
      {
       "title": "Why does a 10\u2011ft bobbit worm strike so fast?",
-      "views": 1374,
+      "views": 1375,
       "watched": 48.5,
       "duration": 29.5,
       "hook": "A 10\u2011ft bobbit worm hides beneath sand.",
@@ -5672,7 +5672,7 @@
     ]
    },
    "outbreak-files": {
-    "count": 12,
+    "count": 13,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
@@ -5695,12 +5695,12 @@
       "hook_style": "POV / you"
      },
      {
-      "title": "One Seat Left. Two Survivors. (Part 2)",
-      "views": 549,
-      "watched": 47.84,
-      "duration": 40.3,
-      "hook": "Floor 30.",
-      "hook_style": "shocking number"
+      "title": "Who Is Holding Your Ski Pole? (Part 1)",
+      "views": 757,
+      "watched": null,
+      "duration": 69.8,
+      "hook": "POV: your lift stops above zombies.",
+      "hook_style": "POV / you"
      }
     ]
    }
