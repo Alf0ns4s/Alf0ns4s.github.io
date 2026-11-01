@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-01T05:58:48+00:00",
- "stats_updated": "2026-11-01T00:08:46+00:00",
+ "synced": "2026-11-01T06:06:24+00:00",
+ "stats_updated": "2026-11-01T06:06:10+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -608,7 +608,7 @@
    ],
    "subscribers": 8,
    "views": 5095,
-   "uploads": 17,
+   "uploads": 18,
    "analytics": true,
    "daily": [
     {
@@ -894,7 +894,7 @@
     "03:30"
    ],
    "subscribers": 17,
-   "views": 6076,
+   "views": 6084,
    "uploads": 13,
    "analytics": true,
    "daily": [
@@ -1133,7 +1133,7 @@
     {
      "date": "2026-11-01",
      "subscribers": 17,
-     "views": 6076
+     "views": 6084
     }
    ]
   }
@@ -1151,10 +1151,10 @@
    "youtube_id": "Z54TZARTSGs",
    "url": "https://youtube.com/shorts/Z54TZARTSGs",
    "privacy": "private",
-   "publish_at": "2026-11-02T00:15:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-11-02T00:15:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261101-045846_mystery-files.jpg",
    "score": 98,
@@ -1192,7 +1192,7 @@
    "url": "https://youtube.com/shorts/qat4DYoLUWQ",
    "privacy": "public",
    "publish_at": "2026-10-31T22:30:00.000Z",
-   "views": 68,
+   "views": 103,
    "likes": 1,
    "comments": 0,
    "analytics": null,
@@ -1234,10 +1234,10 @@
    "duration": 33.0,
    "youtube_id": "wySMhf877vA",
    "url": "https://youtube.com/shorts/wySMhf877vA",
-   "privacy": "private",
-   "publish_at": "2026-11-01T00:15:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-11-01T00:15:00.000Z",
+   "views": 142,
+   "likes": 5,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261031-053924_mystery-files.jpg",
@@ -1276,9 +1276,9 @@
    "url": "https://youtube.com/shorts/G7ZMlfxsayE",
    "privacy": "public",
    "publish_at": "2026-10-31T01:30:00.000Z",
-   "views": 753,
+   "views": 749,
    "likes": 11,
-   "comments": 0,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261030-222924_outbreak-files.jpg",
    "score": 96,
@@ -1358,7 +1358,7 @@
    "url": "https://youtube.com/shorts/nX4mL7LE0HY",
    "privacy": "public",
    "publish_at": "2026-10-31T21:15:00.000Z",
-   "views": 19,
+   "views": 37,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -1400,7 +1400,7 @@
    "url": "https://youtube.com/shorts/nXbnbHBt5C0",
    "privacy": "public",
    "publish_at": "2026-10-30T23:00:00Z",
-   "views": 1092,
+   "views": 1100,
    "likes": 18,
    "comments": 2,
    "analytics": null,
@@ -1442,7 +1442,7 @@
    "url": "https://youtube.com/shorts/SDoQkjnmqKY",
    "privacy": "public",
    "publish_at": "2026-10-31T00:15:00.000Z",
-   "views": 233,
+   "views": 241,
    "likes": 2,
    "comments": 0,
    "analytics": null,
@@ -2166,7 +2166,7 @@
    "url": "https://youtube.com/shorts/UvR1iPSwHGQ",
    "privacy": "public",
    "publish_at": "2026-10-29T00:15:00.000Z",
-   "views": 48,
+   "views": 49,
    "likes": 2,
    "comments": 1,
    "analytics": {
@@ -2454,10 +2454,10 @@
    "likes": 43,
    "comments": 2,
    "analytics": {
-    "views": 1260,
+    "views": 1259,
     "estimatedMinutesWatched": 309,
     "averageViewDuration": 21,
-    "averageViewPercentage": 53.48,
+    "averageViewPercentage": 53.52,
     "subscribersGained": 1,
     "likes": 43,
     "shares": 0,
@@ -2549,10 +2549,10 @@
    "likes": 9,
    "comments": 1,
    "analytics": {
-    "views": 381,
+    "views": 380,
     "estimatedMinutesWatched": 145,
     "averageViewDuration": 31,
-    "averageViewPercentage": 38.48,
+    "averageViewPercentage": 38.59,
     "subscribersGained": 1,
     "likes": 9,
     "shares": 1,
@@ -2688,7 +2688,7 @@
    "url": "https://youtube.com/shorts/GdPQZvVv6P8",
    "privacy": "public",
    "publish_at": "2026-10-27T22:30:00.000Z",
-   "views": 1576,
+   "views": 1590,
    "likes": 36,
    "comments": 1,
    "analytics": {
@@ -5254,7 +5254,7 @@
     "target": 2,
     "status": "quota_paused",
     "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-11-01T06:00:51.968227+00:00"
+    "retry_at": null
    },
    {
     "channel": "mystery-files",
@@ -5276,19 +5276,19 @@
     "target": 1,
     "status": "quota_paused",
     "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-11-01T06:00:51.968227+00:00"
+    "retry_at": null
    }
   ],
   "worker": {
-   "updated": "2026-11-01T05:58:46.663016+00:00",
-   "stage": "writing",
+   "updated": "2026-11-01T05:58:58.561845+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-01T05:58:48.483936+00:00"
+  "snapshot_at": "2026-11-01T06:06:24.580069+00:00"
  },
  "insights": {
-  "updated": "2026-11-01T00:09:18+00:00",
+  "updated": "2026-11-01T06:06:19+00:00",
   "videos_analysed": 59,
   "rules": [
    {
@@ -5310,9 +5310,7 @@
     "evidence": "Viewers leave fastest in scene 2 (1.62x the average rate). (53 scenes)"
    }
   ],
-  "changes": [
-   "Dropped (no longer holds): Give any scene over 3.5 s a second shot (new angle or close-up)."
-  ],
+  "changes": [],
   "hints": [
    "Do LESS: first line length 'first line 1-4 words'",
    "Do MORE: hook style 'mystery / impossible claim'",
@@ -5357,7 +5355,7 @@
      },
      {
       "title": "This Fish Chokes Sharks With Slime",
-      "views": 1576,
+      "views": 1590,
       "watched": 48.27,
       "duration": 39.9,
       "hook": "Why did this shark let you go?",
@@ -5416,7 +5414,7 @@
      {
       "title": "Who Built a Computer 2,000 Years Ago?",
       "views": 1263,
-      "watched": 53.48,
+      "watched": 53.52,
       "duration": 40.8,
       "hook": "Divers found a 2,000-year-old computer.",
       "hook_style": "shocking number"
