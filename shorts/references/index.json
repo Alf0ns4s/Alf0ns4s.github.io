@@ -59,5 +59,15 @@
       "review_status": "Frames reviewed; technical QA passed",
       "speech_audit_note": "ASR matched the script."
     }
+  ],
+  "external_studies": [
+    {
+      "id": "animated-short-workflow-20261102",
+      "url": "https://www.youtube.com/watch?v=OtbLL6OBNE4",
+      "notes": "references/animated-short-study.md",
+      "review_scope": "Full auto transcript and selected playback/frame samples; not a 30fps full-video audit",
+      "engagement_status": "Unverified creator claims; no channel engagement evidence",
+      "implementation": "Optional cached 2D grade and eased camera motion; existing production limits retained"
+    }
   ]
 }
