@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-01T16:28:58+00:00",
+ "synced": "2026-11-01T17:26:23+00:00",
  "stats_updated": "2026-11-01T13:25:21+00:00",
  "channels": [
   {
@@ -1139,6 +1139,166 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261101-170517_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Ski Lift (Part 2)",
+   "title": "Why the Restarted Lift Isn't Rescue (Part 2)",
+   "status": "posted",
+   "created": "2026-11-01T17:26:17",
+   "scheduled_for": "2026-11-02T03:30:00+02:00",
+   "duration": 78.9,
+   "youtube_id": "Qtk2v2IiL7U",
+   "url": "https://youtube.com/shorts/Qtk2v2IiL7U",
+   "privacy": "private",
+   "publish_at": "2026-11-02T01:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261101-170517_outbreak-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [],
+   "metrics": {
+    "cuts": 33,
+    "avg_shot": 2.32,
+    "wpm": 150,
+    "brightness": 77,
+    "loudness_db": -16.0
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261101-170517_outbreak-files.jpg"
+  },
+  {
+   "item": "20261101-165556_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Transylvania library heist and the real callback number",
+   "title": "How a Phone Number Broke a Rare-Book Heist",
+   "status": "posted",
+   "created": "2026-11-01T17:05:09",
+   "scheduled_for": "2026-11-03T02:15:00+02:00",
+   "duration": 33.0,
+   "youtube_id": "oPnRq7gc4gI",
+   "url": "https://youtube.com/shorts/oPnRq7gc4gI",
+   "privacy": "private",
+   "publish_at": "2026-11-03T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261101-165556_mystery-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "brighten"
+   ],
+   "rounds": 2,
+   "issues": [],
+   "metrics": {
+    "cuts": 16,
+    "avg_shot": 1.94,
+    "wpm": 140,
+    "brightness": 74,
+    "loudness_db": -15.4
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261101-165556_mystery-files.jpg"
+  },
+  {
+   "item": "20261101-165146_money-facts",
+   "channel": "money-facts",
+   "topic": "Why airlines pay volunteers after overselling a flight",
+   "title": "Why Airlines Sometimes Buy Your Seat Back",
+   "status": "posted",
+   "created": "2026-11-01T16:55:48",
+   "scheduled_for": "2026-11-02T23:15:00+02:00",
+   "duration": 31.2,
+   "youtube_id": "NMKJLVkJNKs",
+   "url": "https://youtube.com/shorts/NMKJLVkJNKs",
+   "privacy": "private",
+   "publish_at": "2026-11-02T21:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261101-165146_money-facts.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 18,
+    "avg_shot": 1.64,
+    "wpm": 146,
+    "brightness": 124,
+    "loudness_db": -16.3
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261101-165146_money-facts.jpg"
+  },
+  {
+   "item": "20261101-164348_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: you're a grouper hunting with a moray partner",
+   "title": "Why Reef Rivals Make Better Hunting Partners",
+   "status": "posted",
+   "created": "2026-11-01T16:51:34",
+   "scheduled_for": "2026-11-02T00:30:00+02:00",
+   "duration": 29.1,
+   "youtube_id": "QtuFS5DANBU",
+   "url": "https://youtube.com/shorts/QtuFS5DANBU",
+   "privacy": "private",
+   "publish_at": "2026-11-01T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261101-164348_deep-sea-files.jpg",
+   "score": 95,
+   "video_score": 90,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Picture changes within 1.6 seconds"
+   ],
+   "metrics": {
+    "cuts": 14,
+    "avg_shot": 1.93,
+    "wpm": 155,
+    "brightness": 105,
+    "loudness_db": -15.7
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261101-164348_deep-sea-files.jpg"
+  },
   {
    "item": "20261101-151342_money-facts",
    "channel": "money-facts",
@@ -5262,69 +5422,64 @@
  "inbox_waiting": [],
  "production": {
   "health": {
-   "missing_uploads": [
-    "deep-sea-files",
-    "outbreak-files"
-   ],
-   "blocked_channels": [
-    "deep-sea-files"
-   ],
-   "all_channels_scheduled": false
+   "missing_uploads": [],
+   "blocked_channels": [],
+   "all_channels_scheduled": true
   },
-  "updated": "2026-11-01T16:28:55.977399+00:00",
+  "updated": "2026-11-01T16:43:42.607568+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
-    "scheduled": 0,
-    "next_upload": null,
+    "scheduled": 1,
+    "next_upload": "2026-11-01T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "draft_blocked",
-    "reason": "best script outside channel target: 52 words, 7 scenes",
-    "retry_at": "2026-11-01T16:43:40.426109+00:00"
+    "status": "awaiting_worker",
+    "reason": null,
+    "retry_at": null
    },
    {
     "channel": "money-facts",
     "name": "Money Facts",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-01T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
+    "status": "buffer_ready",
     "reason": null,
     "retry_at": null
    },
    {
     "channel": "mystery-files",
     "name": "Myst3ry Files",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-02T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
+    "status": "buffer_ready",
     "reason": null,
     "retry_at": null
    },
    {
     "channel": "outbreak-files",
     "name": "Outbreak Files",
-    "scheduled": 0,
-    "next_upload": null,
+    "scheduled": 1,
+    "next_upload": "2026-11-02T01:30:00+00:00",
     "pending_scripts": 0,
     "target": 1,
-    "status": "quota_paused",
-    "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-11-01T16:35:39.611626+00:00"
+    "status": "buffer_ready",
+    "reason": null,
+    "retry_at": null
    }
   ],
   "worker": {
-   "updated": "2026-11-01T16:28:56.037878+00:00",
-   "stage": "writing",
+   "updated": "2026-11-01T17:26:20.533928+00:00",
+   "stage": "rendering outbreak-files",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-01T16:28:58.494693+00:00"
+  "snapshot_at": "2026-11-01T17:26:23.519193+00:00"
  },
  "insights": {
   "updated": "2026-11-01T13:25:32+00:00",
