@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-01T22:58:47+00:00",
+ "synced": "2026-11-01T23:17:53+00:00",
  "stats_updated": "2026-11-01T19:41:37+00:00",
  "channels": [
   {
@@ -1139,6 +1139,44 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261101-231348_money-facts",
+   "channel": "money-facts",
+   "topic": "Pikachu Illustrator: winning bid versus buyer-premium-inclusive auction total",
+   "title": "Pikachu's $3.2 Million Auction Fee",
+   "status": "posted",
+   "created": "2026-11-01T23:17:48",
+   "scheduled_for": "2026-11-03T23:15:00+02:00",
+   "duration": 32.0,
+   "youtube_id": "Gu9n8aOzqpo",
+   "url": "https://youtube.com/shorts/Gu9n8aOzqpo",
+   "privacy": "private",
+   "publish_at": "2026-11-03T21:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261101-231348_money-facts.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 16,
+    "avg_shot": 1.88,
+    "wpm": 142,
+    "brightness": 155,
+    "loudness_db": -16.6
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261101-231348_money-facts.jpg"
+  },
   {
    "item": "20261101-172712_deep-sea-files",
    "channel": "deep-sea-files",
@@ -5466,7 +5504,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-01T22:58:44.799450+00:00",
+  "updated": "2026-11-01T23:13:40.963282+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5475,19 +5513,19 @@
     "next_upload": "2026-11-02T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_cloud_writer",
+    "status": "awaiting_worker",
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "retry_at": null
    },
    {
     "channel": "money-facts",
     "name": "Money Facts",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-02T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_cloud_writer",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "status": "buffer_ready",
+    "reason": null,
     "retry_at": null
    },
    {
@@ -5514,12 +5552,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-01T22:58:44.846573+00:00",
-   "stage": "writing",
+   "updated": "2026-11-01T23:17:51.153922+00:00",
+   "stage": "rendering money-facts",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-01T22:58:47.284917+00:00"
+  "snapshot_at": "2026-11-01T23:17:53.434497+00:00"
  },
  "insights": {
   "updated": "2026-11-01T19:41:47+00:00",
