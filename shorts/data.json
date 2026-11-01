@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-01T04:45:27+00:00",
+ "synced": "2026-11-01T05:03:34+00:00",
  "stats_updated": "2026-11-01T00:08:46+00:00",
  "channels": [
   {
@@ -1139,6 +1139,46 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261101-045846_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The Dancing Plague of 1518",
+   "title": "Why did a woman dance nonstop?",
+   "status": "posted",
+   "created": "2026-11-01T05:02:49",
+   "scheduled_for": "2026-11-02T02:15:00+02:00",
+   "duration": 29.3,
+   "youtube_id": "Z54TZARTSGs",
+   "url": "https://youtube.com/shorts/Z54TZARTSGs",
+   "privacy": "private",
+   "publish_at": "2026-11-02T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261101-045846_mystery-files.jpg",
+   "score": 98,
+   "video_score": 100,
+   "script_score": 97,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Title creates curiosity (and is not line 1)"
+   ],
+   "metrics": {
+    "cuts": 16,
+    "avg_shot": 1.72,
+    "wpm": 136,
+    "brightness": 95,
+    "loudness_db": -15.6
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261101-045846_mystery-files.jpg"
+  },
   {
    "item": "20261031-122429_deep-sea-files",
    "channel": "deep-sea-files",
@@ -5185,7 +5225,6 @@
    "missing_uploads": [
     "deep-sea-files",
     "money-facts",
-    "mystery-files",
     "outbreak-files"
    ],
    "blocked_channels": [
@@ -5193,7 +5232,7 @@
    ],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-01T04:45:25.257073+00:00",
+  "updated": "2026-11-01T05:03:32.115133+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5215,18 +5254,18 @@
     "target": 2,
     "status": "quota_paused",
     "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-11-01T04:47:23.093138+00:00"
+    "retry_at": "2026-11-01T05:07:35.359817+00:00"
    },
    {
     "channel": "mystery-files",
     "name": "Myst3ry Files",
-    "scheduled": 0,
-    "next_upload": null,
+    "scheduled": 1,
+    "next_upload": "2026-11-02T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "quota_paused",
-    "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-11-01T04:47:23.093138+00:00"
+    "status": "awaiting_worker",
+    "reason": null,
+    "retry_at": null
    },
    {
     "channel": "outbreak-files",
@@ -5237,16 +5276,16 @@
     "target": 1,
     "status": "quota_paused",
     "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-11-01T04:47:23.093138+00:00"
+    "retry_at": "2026-11-01T05:07:35.359817+00:00"
    }
   ],
   "worker": {
-   "updated": "2026-11-01T04:45:25.311312+00:00",
+   "updated": "2026-11-01T05:03:32.159411+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-01T04:45:27.176447+00:00"
+  "snapshot_at": "2026-11-01T05:03:34.402021+00:00"
  },
  "insights": {
   "updated": "2026-11-01T00:09:18+00:00",
