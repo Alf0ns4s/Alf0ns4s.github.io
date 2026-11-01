@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-01T10:28:47+00:00",
+ "synced": "2026-11-01T10:44:17+00:00",
  "stats_updated": "2026-11-01T06:06:10+00:00",
  "channels": [
   {
@@ -5232,7 +5232,7 @@
    ],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-01T10:28:45.443912+00:00",
+  "updated": "2026-11-01T10:44:15.525308+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5243,7 +5243,7 @@
     "target": 2,
     "status": "draft_blocked",
     "reason": "best script outside channel target: 52 words, 7 scenes",
-    "retry_at": "2026-11-01T10:43:37.075249+00:00"
+    "retry_at": "2026-11-01T16:43:40.426109+00:00"
    },
    {
     "channel": "money-facts",
@@ -5254,7 +5254,7 @@
     "target": 2,
     "status": "quota_paused",
     "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-11-01T10:29:05.298885+00:00"
+    "retry_at": "2026-11-01T10:45:21.051202+00:00"
    },
    {
     "channel": "mystery-files",
@@ -5276,16 +5276,16 @@
     "target": 1,
     "status": "quota_paused",
     "reason": "Groq daily allowance exhausted; waiting for provider reset",
-    "retry_at": "2026-11-01T10:29:05.298885+00:00"
+    "retry_at": "2026-11-01T10:45:21.051202+00:00"
    }
   ],
   "worker": {
-   "updated": "2026-11-01T10:28:45.461191+00:00",
+   "updated": "2026-11-01T10:44:15.585241+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-01T10:28:47.233769+00:00"
+  "snapshot_at": "2026-11-01T10:44:17.555369+00:00"
  },
  "insights": {
   "updated": "2026-11-01T06:06:19+00:00",
