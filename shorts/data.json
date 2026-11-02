@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-02T23:52:24+00:00",
+ "synced": "2026-11-02T23:53:17+00:00",
  "stats_updated": "2026-11-02T21:42:51+00:00",
  "channels": [
   {
@@ -5842,7 +5842,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-02T23:29:44.184520+00:00",
+  "updated": "2026-11-02T23:53:14.778767+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5851,8 +5851,8 @@
     "next_upload": "2026-11-03T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
-    "reason": null,
+    "status": "awaiting_cloud_writer",
+    "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "retry_at": null
    },
    {
@@ -5890,12 +5890,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-02T23:52:21.685023+00:00",
-   "stage": "rendering outbreak-files",
+   "updated": "2026-11-02T23:53:14.818234+00:00",
+   "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-02T23:52:24.513521+00:00"
+  "snapshot_at": "2026-11-02T23:53:17.463810+00:00"
  },
  "insights": {
   "updated": "2026-11-02T21:43:22+00:00",
