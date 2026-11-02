@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-02T21:13:42+00:00",
+ "synced": "2026-11-02T21:28:45+00:00",
  "stats_updated": "2026-11-02T11:08:47+00:00",
  "channels": [
   {
@@ -5709,7 +5709,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-02T21:13:39.703016+00:00",
+  "updated": "2026-11-02T21:28:42.247682+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5725,11 +5725,11 @@
    {
     "channel": "money-facts",
     "name": "Money Facts",
-    "scheduled": 2,
-    "next_upload": "2026-11-02T21:15:00+00:00",
+    "scheduled": 1,
+    "next_upload": "2026-11-03T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "buffer_ready",
+    "status": "awaiting_worker",
     "reason": null,
     "retry_at": null
    },
@@ -5757,12 +5757,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-02T21:13:39.854898+00:00",
+   "updated": "2026-11-02T21:28:42.300781+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-02T21:13:42.505666+00:00"
+  "snapshot_at": "2026-11-02T21:28:45.182007+00:00"
  },
  "insights": {
   "updated": "2026-11-02T11:09:00+00:00",
