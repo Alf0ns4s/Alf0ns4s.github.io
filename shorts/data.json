@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-02T22:58:48+00:00",
+ "synced": "2026-11-02T23:17:42+00:00",
  "stats_updated": "2026-11-02T21:42:51+00:00",
  "channels": [
   {
@@ -1215,6 +1215,46 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261102-231348_money-facts",
+   "channel": "money-facts",
+   "topic": "Steam sale price drops: eligible full refund followed by repurchase, not a price adjustment",
+   "title": "How Steam Lets You Refund, Then Rebuy for Less",
+   "status": "posted",
+   "created": "2026-11-02T23:17:38",
+   "scheduled_for": "2026-11-04T23:15:00+02:00",
+   "duration": 27.5,
+   "youtube_id": "mGe76XcAsNk",
+   "url": "https://youtube.com/shorts/mGe76XcAsNk",
+   "privacy": "private",
+   "publish_at": "2026-11-04T21:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261102-231348_money-facts.jpg",
+   "score": 96,
+   "video_score": 91,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Length 28-42 seconds"
+   ],
+   "metrics": {
+    "cuts": 16,
+    "avg_shot": 1.62,
+    "wpm": 159,
+    "brightness": 64,
+    "loudness_db": -16.5
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261102-231348_money-facts.jpg"
+  },
   {
    "item": "20261102-023337_mystery-files",
    "channel": "mystery-files",
@@ -5764,7 +5804,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-02T22:58:45.845170+00:00",
+  "updated": "2026-11-02T23:13:41.853914+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5780,11 +5820,11 @@
    {
     "channel": "money-facts",
     "name": "Money Facts",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-03T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
+    "status": "buffer_ready",
     "reason": null,
     "retry_at": null
    },
@@ -5806,18 +5846,18 @@
     "next_upload": null,
     "pending_scripts": 0,
     "target": 1,
-    "status": "awaiting_cloud_writer",
+    "status": "awaiting_worker",
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "retry_at": null
    }
   ],
   "worker": {
-   "updated": "2026-11-02T22:58:45.887503+00:00",
-   "stage": "writing",
+   "updated": "2026-11-02T23:17:40.622307+00:00",
+   "stage": "rendering money-facts",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-02T22:58:48.553704+00:00"
+  "snapshot_at": "2026-11-02T23:17:42.881081+00:00"
  },
  "insights": {
   "updated": "2026-11-02T21:43:22+00:00",
