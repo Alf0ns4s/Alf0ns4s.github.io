@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-02T02:13:42+00:00",
+ "synced": "2026-11-02T02:39:46+00:00",
  "stats_updated": "2026-11-02T00:45:23+00:00",
  "channels": [
   {
@@ -1188,11 +1188,96 @@
  ],
  "videos": [
   {
+   "item": "20261102-023337_mystery-files",
+   "channel": "mystery-files",
+   "topic": "Darwin's missing notebooks: the anonymous 2022 return and the unnamed sender's Easter greeting",
+   "title": "How Darwin's Missing Notebooks Came Back",
+   "status": "posted",
+   "created": "2026-11-02T02:39:40",
+   "scheduled_for": "2026-11-04T02:15:00+02:00",
+   "duration": 31.9,
+   "youtube_id": "EseupOzmhlc",
+   "url": "https://youtube.com/shorts/EseupOzmhlc",
+   "privacy": "private",
+   "publish_at": "2026-11-04T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261102-023337_mystery-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "brighten",
+    "jump_cuts",
+    "tighten"
+   ],
+   "rounds": 2,
+   "issues": [],
+   "metrics": {
+    "cuts": 15,
+    "avg_shot": 1.99,
+    "wpm": 141,
+    "brightness": 73,
+    "loudness_db": -15.4
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261102-023337_mystery-files.jpg"
+  },
+  {
+   "item": "20261102-022845_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: a fish-eating orca locates prey with outgoing clicks and returning echoes",
+   "title": "How an Orca Hears a Fish's Position",
+   "status": "posted",
+   "created": "2026-11-02T02:33:30",
+   "scheduled_for": "2026-11-04T00:30:00+02:00",
+   "duration": 28.0,
+   "youtube_id": "qq-nWdLaJSo",
+   "url": "https://youtube.com/shorts/qq-nWdLaJSo",
+   "privacy": "private",
+   "publish_at": "2026-11-03T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261102-022845_deep-sea-files.jpg",
+   "score": 96,
+   "video_score": 93,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "No shot longer than 5 seconds",
+    "Something new every 4 s (cut, effect, card, sound)"
+   ],
+   "metrics": {
+    "cuts": 10,
+    "avg_shot": 2.55,
+    "wpm": 159,
+    "brightness": 95,
+    "loudness_db": -15.8
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261102-022845_deep-sea-files.jpg"
+  },
+  {
    "item": "20261102-011351_deep-sea-files",
    "channel": "deep-sea-files",
    "topic": "POV: a fish-eating orca locates prey with outgoing clicks and returning echoes",
    "title": "How an Orca Hears a Fish's Position",
-   "status": "rejected",
+   "status": "replaced",
    "created": "2026-11-02T01:21:34",
    "scheduled_for": null,
    "duration": 29.6,
@@ -5614,19 +5699,7 @@
    "scene_review": null
   }
  ],
- "rework": [
-  {
-   "item": "20261102-011351_deep-sea-files",
-   "channel": "deep-sea-files",
-   "topic": "POV: a fish-eating orca locates prey with outgoing clicks and returning echoes",
-   "score": 94,
-   "round": 1,
-   "reasons": [
-    "First cut at 2.8s. The first shot should last 1-1.5 s.",
-    "Longest shot is 5.3s. Split it."
-   ]
-  }
- ],
+ "rework": [],
  "inbox_waiting": [],
  "production": {
   "health": {
@@ -5634,17 +5707,17 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-02T02:13:40.072626+00:00",
+  "updated": "2026-11-02T02:28:39.127324+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-02T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_cloud_writer",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "status": "buffer_ready",
+    "reason": null,
     "retry_at": null
    },
    {
@@ -5661,12 +5734,12 @@
    {
     "channel": "mystery-files",
     "name": "Myst3ry Files",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-03T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_cloud_writer",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "status": "buffer_ready",
+    "reason": null,
     "retry_at": null
    },
    {
@@ -5682,12 +5755,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-02T02:13:40.116960+00:00",
-   "stage": "writing",
+   "updated": "2026-11-02T02:39:44.367833+00:00",
+   "stage": "rendering mystery-files",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-02T02:13:42.788414+00:00"
+  "snapshot_at": "2026-11-02T02:39:46.498909+00:00"
  },
  "insights": {
   "updated": "2026-11-02T00:45:59+00:00",
