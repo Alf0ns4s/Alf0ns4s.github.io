@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-02T15:38:13+00:00",
- "stats_updated": "2026-11-02T15:37:43+00:00",
+ "synced": "2026-11-02T15:43:45+00:00",
+ "stats_updated": "2026-11-02T11:08:47+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 15,
-   "views": 13444,
+   "views": 13416,
    "uploads": 19,
    "analytics": true,
    "daily": [
@@ -327,7 +327,7 @@
     {
      "date": "2026-11-02",
      "subscribers": 15,
-     "views": 13444
+     "views": 13416
     }
    ]
   },
@@ -763,7 +763,38 @@
     }
    ],
    "audience": {
-    "countries": [],
+    "countries": [
+     {
+      "country": "US",
+      "views": 3610,
+      "pct": 91.8
+     },
+     {
+      "country": "PH",
+      "views": 172,
+      "pct": 4.4
+     },
+     {
+      "country": "IN",
+      "views": 49,
+      "pct": 1.2
+     },
+     {
+      "country": "ID",
+      "views": 46,
+      "pct": 1.2
+     },
+     {
+      "country": "CA",
+      "views": 34,
+      "pct": 0.9
+     },
+     {
+      "country": "GB",
+      "views": 22,
+      "pct": 0.6
+     }
+    ],
     "ages": [
      {
       "age": "13-17",
@@ -790,8 +821,7 @@
       "pct": 2.2
      }
     ],
-    "since": "2026-10-13",
-    "countries_error": "HttpError: <HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-10-13&endDate=2026-11-02&metrics=views&di"
+    "since": "2026-10-13"
    },
    "history": [
     {
@@ -1378,7 +1408,7 @@
    "publish_at": "2026-11-02T01:30:00.000Z",
    "views": 2,
    "likes": 0,
-   "comments": 1,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261101-170517_outbreak-files.jpg",
    "score": 100,
@@ -1536,7 +1566,7 @@
    "url": "https://youtube.com/shorts/uh0EZ8yqNxA",
    "privacy": "public",
    "publish_at": "2026-11-01T21:15:00.000Z",
-   "views": 676,
+   "views": 671,
    "likes": 7,
    "comments": 0,
    "analytics": null,
@@ -1576,7 +1606,7 @@
    "url": "https://youtube.com/shorts/Z54TZARTSGs",
    "privacy": "public",
    "publish_at": "2026-11-02T00:15:00.000Z",
-   "views": 943,
+   "views": 942,
    "likes": 9,
    "comments": 0,
    "analytics": null,
@@ -1616,7 +1646,7 @@
    "url": "https://youtube.com/shorts/qat4DYoLUWQ",
    "privacy": "public",
    "publish_at": "2026-10-31T22:30:00.000Z",
-   "views": 163,
+   "views": 162,
    "likes": 2,
    "comments": 0,
    "analytics": null,
@@ -1660,7 +1690,7 @@
    "url": "https://youtube.com/shorts/wySMhf877vA",
    "privacy": "public",
    "publish_at": "2026-11-01T00:15:00.000Z",
-   "views": 176,
+   "views": 175,
    "likes": 5,
    "comments": 0,
    "analytics": null,
@@ -1791,7 +1821,7 @@
    "url": "https://youtube.com/shorts/nX4mL7LE0HY",
    "privacy": "public",
    "publish_at": "2026-10-31T21:15:00.000Z",
-   "views": 49,
+   "views": 48,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -1833,8 +1863,8 @@
    "url": "https://youtube.com/shorts/nXbnbHBt5C0",
    "privacy": "public",
    "publish_at": "2026-10-30T23:00:00Z",
-   "views": 1114,
-   "likes": 19,
+   "views": 1113,
+   "likes": 18,
    "comments": 2,
    "analytics": {
     "views": 1071,
@@ -1884,7 +1914,7 @@
    "url": "https://youtube.com/shorts/SDoQkjnmqKY",
    "privacy": "public",
    "publish_at": "2026-10-31T00:15:00.000Z",
-   "views": 268,
+   "views": 267,
    "likes": 3,
    "comments": 0,
    "analytics": {
@@ -5679,7 +5709,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-02T15:28:50.162597+00:00",
+  "updated": "2026-11-02T15:43:41.866258+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5727,16 +5757,16 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-02T15:29:04.925264+00:00",
-   "stage": "dashboard",
+   "updated": "2026-11-02T15:43:41.922523+00:00",
+   "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-02T15:38:13.198612+00:00"
+  "snapshot_at": "2026-11-02T15:43:45.609106+00:00"
  },
  "insights": {
-  "updated": "2026-11-02T15:37:56+00:00",
-  "videos_analysed": 65,
+  "updated": "2026-11-02T11:09:00+00:00",
+  "videos_analysed": 64,
   "rules": [
    {
     "id": "action:lots of acting/effects",
@@ -5746,7 +5776,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Use lots of acting and effects (2+ per scene)",
-    "evidence": "50 videos vs 15, 32% better (agrees on 3 channel(s), disagrees on 1; chance it's luck 6%)"
+    "evidence": "50 videos vs 14, 36% better (agrees on 3 channel(s), disagrees on 1; chance it's luck 4%)"
    },
    {
     "id": "scene:pos_scene_2",
@@ -5853,7 +5883,7 @@
     ]
    },
    "mystery-files": {
-    "count": 18,
+    "count": 17,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
