@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-02T23:28:59+00:00",
+ "synced": "2026-11-02T23:52:24+00:00",
  "stats_updated": "2026-11-02T21:42:51+00:00",
  "channels": [
   {
@@ -1215,6 +1215,46 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261102-232951_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Ski Lift (Part 3)",
+   "title": "The Ski Lift Voice Wasn't Rescue (Part 3)",
+   "status": "posted",
+   "created": "2026-11-02T23:52:16",
+   "scheduled_for": "2026-11-03T03:30:00+02:00",
+   "duration": 82.5,
+   "youtube_id": "rEXCihMLSUQ",
+   "url": "https://youtube.com/shorts/rEXCihMLSUQ",
+   "privacy": "private",
+   "publish_at": "2026-11-03T01:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261102-232951_outbreak-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [],
+   "metrics": {
+    "cuts": 37,
+    "avg_shot": 2.17,
+    "wpm": 153,
+    "brightness": 73,
+    "loudness_db": -15.9
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261102-232951_outbreak-files.jpg"
+  },
   {
    "item": "20261102-231348_money-facts",
    "channel": "money-facts",
@@ -5798,13 +5838,11 @@
  "inbox_waiting": [],
  "production": {
   "health": {
-   "missing_uploads": [
-    "outbreak-files"
-   ],
+   "missing_uploads": [],
    "blocked_channels": [],
-   "all_channels_scheduled": false
+   "all_channels_scheduled": true
   },
-  "updated": "2026-11-02T23:28:57.068238+00:00",
+  "updated": "2026-11-02T23:29:44.184520+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5842,22 +5880,22 @@
    {
     "channel": "outbreak-files",
     "name": "Outbreak Files",
-    "scheduled": 0,
-    "next_upload": null,
+    "scheduled": 1,
+    "next_upload": "2026-11-03T01:30:00+00:00",
     "pending_scripts": 0,
     "target": 1,
-    "status": "awaiting_cloud_writer",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "status": "buffer_ready",
+    "reason": null,
     "retry_at": null
    }
   ],
   "worker": {
-   "updated": "2026-11-02T23:28:57.125065+00:00",
-   "stage": "writing",
+   "updated": "2026-11-02T23:52:21.685023+00:00",
+   "stage": "rendering outbreak-files",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-02T23:28:59.477372+00:00"
+  "snapshot_at": "2026-11-02T23:52:24.513521+00:00"
  },
  "insights": {
   "updated": "2026-11-02T21:43:22+00:00",
