@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-02T01:21:37+00:00",
+ "synced": "2026-11-02T01:28:50+00:00",
  "stats_updated": "2026-11-02T00:45:23+00:00",
  "channels": [
   {
@@ -5634,7 +5634,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-02T01:13:43.217576+00:00",
+  "updated": "2026-11-02T01:28:47.944925+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5643,8 +5643,8 @@
     "next_upload": "2026-11-02T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
-    "reason": null,
+    "status": "awaiting_cloud_writer",
+    "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "retry_at": null
    },
    {
@@ -5665,7 +5665,7 @@
     "next_upload": "2026-11-03T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
+    "status": "awaiting_cloud_writer",
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "retry_at": null
    },
@@ -5682,12 +5682,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-02T01:21:34.798850+00:00",
-   "stage": "rendering deep-sea-files",
+   "updated": "2026-11-02T01:28:47.984868+00:00",
+   "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-02T01:21:37.094422+00:00"
+  "snapshot_at": "2026-11-02T01:28:50.463809+00:00"
  },
  "insights": {
   "updated": "2026-11-02T00:45:59+00:00",
