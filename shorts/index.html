@@ -194,7 +194,7 @@ section{scroll-margin-top:70px} .detail .label{letter-spacing:.07em}.detail img.
 
 
   <section aria-labelledby="h-air">
-    <div class="section-head"><h2 id="h-air">On air next</h2><span class="note">Times in your time zone</span></div>
+    <div class="section-head"><h2 id="h-air">On air next</h2><span class="note">All times: Lithuania</span></div>
     <div class="onair" id="onair"><div class="empty">Scheduled videos appear here.</div></div>
   </section>
 
@@ -229,9 +229,7 @@ try { filter = localStorage.getItem("sh_filter") || "all"; } catch (e) {}
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmtN = n => n == null ? "–" : n >= 1e6 ? (n/1e6).toFixed(1).replace(/\.0$/,"")+"M" : n >= 1e4 ? Math.round(n/1e3)+"K" : n >= 1e3 ? (n/1e3).toFixed(1).replace(/\.0$/,"")+"K" : String(n);
-function when(iso){ if(!iso) return ""; const d=new Date(iso); if(isNaN(d)) return ""; const now=new Date();
-  const day = d.toDateString()===now.toDateString() ? "Today" : (new Date(now.getTime()+864e5)).toDateString()===d.toDateString() ? "Tomorrow" : (new Date(now.getTime()-864e5)).toDateString()===d.toDateString() ? "Yesterday" : d.toLocaleDateString([], {month:"short", day:"numeric"});
-  return day+" "+d.toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"}); }
+function when(iso){if(!iso)return '';const value=/T.*(?:Z|[+-]\d\d:\d\d)$/.test(iso)?iso:iso+'Z';return isNaN(new Date(value))?'':vilniusTime(value);}
 function ago(iso){ if(!iso) return "never"; const m=(Date.now()-new Date(iso))/6e4; if(m<2) return "just now"; if(m<60) return Math.round(m)+" min ago"; if(m<48*60) return Math.round(m/60)+" h ago"; return Math.round(m/1440)+" days ago"; }
 function state(v){
   if (v.status === "replaced") return ["Replaced", "p-info"];
@@ -368,6 +366,7 @@ function needsAttention(v){return !v.youtube_id && v.status!=='replaced' && v.st
 function scheduledVideos(videos){
  return [...new Map(videos.filter(v=>v.status!=='replaced'&&v.youtube_id&&v.privacy!=='public'&&new Date(v.publish_at)>new Date()).map(v=>[v.youtube_id,v])).values()].sort((a,b)=>new Date(a.publish_at)-new Date(b.publish_at));
 }
+function channelSchedule(videos,selected){return scheduledVideos(videos.filter(v=>selected==='all'||v.channel===selected));}
 function vilniusTime(value){
  if(!value)return 'Not confirmed';
  return new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/Vilnius',day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}).format(new Date(value));
@@ -415,7 +414,7 @@ function render(){
   const cs = S.channels.filter(c => filter==="all" || c.id===filter);
   let vids = S.videos.filter(v => filter==="all" || v.channel===filter);
   const query=$("librarySearch").value.toLowerCase().trim(), status=$("libraryStatus").value;
-  vids=vids.filter(v=>(!query || ((v.title||'')+' '+(v.topic||'')).toLowerCase().includes(query)) && (status==='all' || (status==='public'&&isPublic(v)) || (status==='scheduled'&&v.youtube_id&&new Date(v.publish_at)>new Date()) || (status==='attention'&&needsAttention(v)) || (status==='current'&&v.direction_version===2) || (status==='legacy'&&v.direction_version!==2)));
+  vids=vids.filter(v=>(!query || ((v.title||'')+' '+(v.topic||'')).toLowerCase().includes(query)) && (status==='all' || (status==='public'&&isPublic(v)) || (status==='scheduled'&&v.status!=='replaced'&&v.privacy!=='public'&&v.youtube_id&&new Date(v.publish_at)>new Date()) || (status==='attention'&&needsAttention(v)) || (status==='current'&&v.direction_version===2) || (status==='legacy'&&v.direction_version!==2)));
   const sort=$("librarySort").value;vids.sort((a,b)=>sort==='views'?(b.views??-1)-(a.views??-1):sort==='score'?(b.score??-1)-(a.score??-1):String(b.created||'').localeCompare(String(a.created||'')));
   $("monitors").innerHTML = cs.length ? cs.map(c => {
     const mine = S.videos.filter(v => v.channel===c.id && v.youtube_id);
@@ -430,12 +429,11 @@ function render(){
       <div class="small muted">Average technical QA <span class="num" style="color:${scoreColor(avg)}">${avg ?? "–"}</span> &middot; posts at ${esc((c.post_times||[]).join(", "))} Vilnius</div>
     </article>`; }).join("") : `<div class="empty">No channels yet.</div>`;
   const now = new Date();
-  const next = vids.filter(v => v.youtube_id && v.publish_at && new Date(v.publish_at) > now && v.status!=="rejected")
-                   .sort((a,b)=>new Date(a.publish_at)-new Date(b.publish_at)).slice(0,6);
+  const next = channelSchedule(S.videos,filter).slice(0,6);
   $("onair").innerHTML = next.length ? next.map(v => `<div class="slot" style="--c:${CVAR[v.channel]||"var(--info)"}">
       <span class="when">${esc(when(v.publish_at))}</span><span class="t">${esc(v.title)}</span>
       <span class="small muted">${esc((S.channels.find(c=>c.id===v.channel)||{}).name||v.channel)}</span></div>`).join("")
-    : `<div class="empty">No uploaded videos have a future publish time. Check Upcoming scripts or the next channel slot.</div>`;
+    : `<div class="empty">No upcoming YouTube upload is confirmed for this channel selection. See Automatic posting above for the cause and next step.</div>`;
   const top = S.videos.filter(v => (filter==="all" || v.channel===filter) && (v.views||0) > 0).sort((a,b)=>(b.views||0)-(a.views||0)).slice(0,4);
   $("top").innerHTML = top.length ? top.map(v => `<div class="top-card"><button class="thumb" data-play="${esc(v.item)}" aria-label="Play ${esc(v.title)}" style="background-image:url('${esc(v.thumb||"")}')"></button>
       <div style="min-width:0"><div class="t">${esc(v.title)}</div><div class="small muted" style="margin-top:4px"><span class="num">${fmtN(v.views)}</span> views &middot; <span class="num">${pct((v.analytics||{}).averageViewPercentage)}</span> watched</div></div></div>`).join("")
