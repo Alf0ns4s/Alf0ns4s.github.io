@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-03T16:14:27+00:00",
+ "synced": "2026-11-03T16:29:10+00:00",
  "stats_updated": "2026-11-03T14:02:18+00:00",
  "channels": [
   {
@@ -5961,10 +5961,12 @@
    "missing_uploads": [
     "outbreak-files"
    ],
-   "blocked_channels": [],
+   "blocked_channels": [
+    "outbreak-files"
+   ],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-03T16:14:22.042113+00:00",
+  "updated": "2026-11-03T16:29:05.911378+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6048,32 +6050,32 @@
     "next_upload": null,
     "pending_scripts": 0,
     "target": 1,
-    "status": "request_pending",
+    "status": "draft_blocked",
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "waiting_since": "2026-11-03T16:14:21.920493+00:00",
     "retry_at": null,
     "expected_slot": "2026-11-04T03:30:00+02:00",
     "series": "The School Trip",
     "part": 1,
-    "pending_requests": 1,
+    "pending_requests": 0,
     "last_writer_result": {
-     "status": "accepted",
-     "updated": "2026-11-02T23:29:43.081416+00:00",
-     "reason": null
+     "status": "rejected",
+     "updated": "2026-11-03T16:29:05.578168+00:00",
+     "reason": "Hook has a shock, number, question or contrast: Open with the single most surprising fact, a number, a 'POV:' or a question - no context first.\nScript score 94 is below 95"
     },
     "rework_count": 0,
-    "why": "A raw script request is waiting for validation; it is not an uploaded video.",
-    "automatic_step": "The next worker validates the request and records accepted, deferred or rejected feedback.",
+    "why": "The last script request failed validation. No replacement request is waiting.",
+    "automatic_step": "The scheduled writer must repair the saved draft with a new request ID.",
     "coverage": "missing"
    }
   ],
   "worker": {
-   "updated": "2026-11-03T16:14:22.092070+00:00",
+   "updated": "2026-11-03T16:29:05.944385+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-03T16:14:27.531658+00:00"
+  "snapshot_at": "2026-11-03T16:29:09.977158+00:00"
  },
  "insights": {
   "updated": "2026-11-03T14:02:30+00:00",
