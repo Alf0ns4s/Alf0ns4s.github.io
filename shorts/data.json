@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-03T16:01:02+00:00",
+ "synced": "2026-11-03T16:06:40+00:00",
  "stats_updated": "2026-11-03T14:02:18+00:00",
  "channels": [
   {
@@ -5975,6 +5975,7 @@
     "target": 2,
     "status": "buffer_ready",
     "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-04T00:30:00+02:00",
     "series": null,
@@ -5999,6 +6000,7 @@
     "target": 2,
     "status": "buffer_ready",
     "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-03T23:15:00+02:00",
     "series": null,
@@ -6023,6 +6025,7 @@
     "target": 2,
     "status": "buffer_ready",
     "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-04T02:15:00+02:00",
     "series": null,
@@ -6047,6 +6050,7 @@
     "target": 1,
     "status": "awaiting_cloud_writer",
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-04T03:30:00+02:00",
     "series": "The School Trip",
@@ -6069,7 +6073,7 @@
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-03T16:01:02.475981+00:00"
+  "snapshot_at": "2026-11-03T16:06:40.298505+00:00"
  },
  "insights": {
   "updated": "2026-11-03T14:02:30+00:00",
