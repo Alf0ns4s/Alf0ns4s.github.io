@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-03T02:58:38+00:00",
+ "synced": "2026-11-03T03:24:07+00:00",
  "stats_updated": "2026-11-02T21:42:51+00:00",
  "channels": [
   {
@@ -1216,11 +1216,51 @@
  ],
  "videos": [
   {
+   "item": "20261103-031342_mystery-files",
+   "channel": "mystery-files",
+   "topic": "Agatha Christie's 1926 disappearance: the Harrogate guest surname Neele and the unresolved reason for using it",
+   "title": "Why Agatha Christie's Hotel Surname Matters",
+   "status": "posted",
+   "created": "2026-11-03T03:24:01",
+   "scheduled_for": "2026-11-05T02:15:00+02:00",
+   "duration": 32.3,
+   "youtube_id": "jqgNYibBEyk",
+   "url": "https://youtube.com/shorts/jqgNYibBEyk",
+   "privacy": "private",
+   "publish_at": "2026-11-05T00:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261103-031342_mystery-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "brighten"
+   ],
+   "rounds": 2,
+   "issues": [],
+   "metrics": {
+    "cuts": 15,
+    "avg_shot": 2.02,
+    "wpm": 141,
+    "brightness": 63,
+    "loudness_db": -15.1
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261103-031342_mystery-files.jpg"
+  },
+  {
    "item": "20261103-011358_mystery-files",
    "channel": "mystery-files",
    "topic": "Agatha Christie's 1926 disappearance: the Harrogate guest surname Neele and the unresolved reason for using it",
    "title": "Why Agatha Christie's Hotel Surname Matters",
-   "status": "rejected",
+   "status": "replaced",
    "created": "2026-11-03T01:23:07",
    "scheduled_for": null,
    "duration": 31.5,
@@ -5918,20 +5958,7 @@
    "scene_review": null
   }
  ],
- "rework": [
-  {
-   "item": "20261103-011358_mystery-files",
-   "channel": "mystery-files",
-   "topic": "Agatha Christie's 1926 disappearance: the Harrogate guest surname Neele and the unresolved reason for using it",
-   "score": 90,
-   "round": 1,
-   "reasons": [
-    "First cut at 3.7s. The first shot should last 1-1.5 s.",
-    "The first shot lasts about 2.6s. Give scene 1 2-3 shots so the picture changes within 1.5 seconds.",
-    "The first 1.5 seconds barely move (motion 2.6). Half of viewers swipe in that time - open on action with a fast push-in."
-   ]
-  }
- ],
+ "rework": [],
  "inbox_waiting": [],
  "production": {
   "health": {
@@ -5941,7 +5968,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-03T02:58:36.419736+00:00",
+  "updated": "2026-11-03T03:13:36.629864+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5968,12 +5995,12 @@
    {
     "channel": "mystery-files",
     "name": "Myst3ry Files",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-04T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "status": "buffer_ready",
+    "reason": null,
     "retry_at": null
    },
    {
@@ -5989,12 +6016,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-03T02:58:36.457562+00:00",
-   "stage": "writing",
+   "updated": "2026-11-03T03:24:04.868131+00:00",
+   "stage": "rendering mystery-files",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-03T02:58:38.697192+00:00"
+  "snapshot_at": "2026-11-03T03:24:07.230499+00:00"
  },
  "insights": {
   "updated": "2026-11-02T21:43:22+00:00",
