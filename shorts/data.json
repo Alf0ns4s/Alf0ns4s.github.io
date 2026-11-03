@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-03T13:58:48+00:00",
- "stats_updated": "2026-11-03T06:48:19+00:00",
+ "synced": "2026-11-03T14:02:36+00:00",
+ "stats_updated": "2026-11-03T14:02:18+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -212,33 +212,9 @@
       "pct": 0.2
      }
     ],
-    "ages": [
-     {
-      "age": "13-17",
-      "pct": 19.1
-     },
-     {
-      "age": "18-24",
-      "pct": 5.7
-     },
-     {
-      "age": "25-34",
-      "pct": 35.5
-     },
-     {
-      "age": "35-44",
-      "pct": 31.9
-     },
-     {
-      "age": "45-54",
-      "pct": 7.3
-     },
-     {
-      "age": "55-64",
-      "pct": 0.6
-     }
-    ],
-    "since": "2026-10-13"
+    "ages": [],
+    "since": "2026-10-13",
+    "ages_error": "HttpError: <HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-10-13&endDate=2026-11-03&metrics=viewerPe"
    },
    "history": [
     {
@@ -352,7 +328,7 @@
     "23:15"
    ],
    "subscribers": 7,
-   "views": 4830,
+   "views": 4848,
    "uploads": 18,
    "analytics": true,
    "daily": [
@@ -642,7 +618,7 @@
     {
      "date": "2026-11-03",
      "subscribers": 7,
-     "views": 4830
+     "views": 4848
     }
    ]
   },
@@ -655,7 +631,7 @@
     "02:15"
    ],
    "subscribers": 9,
-   "views": 6262,
+   "views": 6269,
    "uploads": 20,
    "analytics": true,
    "daily": [
@@ -953,7 +929,7 @@
     {
      "date": "2026-11-03",
      "subscribers": 9,
-     "views": 6262
+     "views": 6269
     }
    ]
   },
@@ -1372,9 +1348,9 @@
    "url": "https://youtube.com/shorts/rEXCihMLSUQ",
    "privacy": "public",
    "publish_at": "2026-11-03T01:30:00.000Z",
-   "views": 469,
-   "likes": 15,
-   "comments": 0,
+   "views": 682,
+   "likes": 17,
+   "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261102-232951_outbreak-files.jpg",
    "score": 100,
@@ -1618,7 +1594,7 @@
    "url": "https://youtube.com/shorts/LSij0PQBqZA",
    "privacy": "public",
    "publish_at": "2026-11-02T22:30:00.000Z",
-   "views": 300,
+   "views": 318,
    "likes": 3,
    "comments": 0,
    "analytics": null,
@@ -1698,8 +1674,8 @@
    "url": "https://youtube.com/shorts/oPnRq7gc4gI",
    "privacy": "public",
    "publish_at": "2026-11-03T00:15:00.000Z",
-   "views": 959,
-   "likes": 17,
+   "views": 972,
+   "likes": 16,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261101-165556_mystery-files.jpg",
@@ -1776,7 +1752,7 @@
    "url": "https://youtube.com/shorts/QtuFS5DANBU",
    "privacy": "public",
    "publish_at": "2026-11-01T22:30:00.000Z",
-   "views": 88,
+   "views": 89,
    "likes": 3,
    "comments": 0,
    "analytics": null,
@@ -1818,7 +1794,7 @@
    "url": "https://youtube.com/shorts/uh0EZ8yqNxA",
    "privacy": "public",
    "publish_at": "2026-11-01T21:15:00.000Z",
-   "views": 694,
+   "views": 729,
    "likes": 7,
    "comments": 0,
    "analytics": null,
@@ -1858,8 +1834,8 @@
    "url": "https://youtube.com/shorts/Z54TZARTSGs",
    "privacy": "public",
    "publish_at": "2026-11-02T00:15:00.000Z",
-   "views": 937,
-   "likes": 9,
+   "views": 1039,
+   "likes": 11,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261101-045846_mystery-files.jpg",
@@ -3495,7 +3471,7 @@
    "url": "https://youtube.com/shorts/PYgCre_v4mA",
    "privacy": "public",
    "publish_at": "2026-10-27T01:30:00.000Z",
-   "views": 182,
+   "views": 183,
    "likes": 2,
    "comments": 1,
    "analytics": {
@@ -4827,7 +4803,7 @@
    "url": "https://youtube.com/shorts/Azd1a_nxP2c",
    "privacy": "public",
    "publish_at": "2026-10-21T00:30:00.000Z",
-   "views": 468,
+   "views": 469,
    "likes": 10,
    "comments": 1,
    "analytics": {
@@ -5383,7 +5359,7 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1094,
+   "views": 1095,
    "likes": 15,
    "comments": 2,
    "analytics": {
@@ -6036,16 +6012,16 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-03T13:58:45.477327+00:00",
-   "stage": "writing",
+   "updated": "2026-11-03T13:59:01.444861+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-03T13:58:48.254760+00:00"
+  "snapshot_at": "2026-11-03T14:02:36.232366+00:00"
  },
  "insights": {
-  "updated": "2026-11-03T06:48:30+00:00",
-  "videos_analysed": 65,
+  "updated": "2026-11-03T14:02:30+00:00",
+  "videos_analysed": 69,
   "rules": [
    {
     "id": "action:lots of acting/effects",
@@ -6055,7 +6031,7 @@
     "prefer": true,
     "level": "likely",
     "text": "Use lots of acting and effects (2+ per scene)",
-    "evidence": "50 videos vs 15, 32% better (agrees on 3 channel(s), disagrees on 1; chance it's luck 6%)"
+    "evidence": "50 videos vs 19, 29% better (agrees on 4 channel(s), disagrees on 0; chance it's luck 8%)"
    },
    {
     "id": "scene:pos_scene_2",
@@ -6070,9 +6046,10 @@
   "hints": [
    "Do LESS: first line length 'first line 1-4 words'",
    "Do MORE: hook style 'mystery / impossible claim'",
-   "Do LESS: title style 'POV'",
-   "Do MORE: title style 'why / how'",
-   "Keep each scene to one idea, 16 words or fewer."
+   "Do MORE: title style 'question'",
+   "Do LESS: title style 'number'",
+   "Do MORE: first line length 'first line 5-6 words'",
+   "Do LESS: title style 'POV'"
   ],
   "leave": [
    "Scenes with more than 16 words lose viewers 1.5x faster. Keep each scene to one idea, 16 words or fewer.",
@@ -6080,7 +6057,7 @@
   ],
   "start_hold": 0.961,
   "experiments": {
-   "money-facts": "why / how"
+   "money-facts": "under 32s"
   },
   "targets": {
    "words": [
@@ -6096,7 +6073,7 @@
   },
   "channels": {
    "deep-sea-files": {
-    "count": 18,
+    "count": 19,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
@@ -6129,7 +6106,7 @@
     ]
    },
    "money-facts": {
-    "count": 16,
+    "count": 17,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
@@ -6144,25 +6121,25 @@
       "hook_style": "question"
      },
      {
+      "title": "Where Did the Eras Tour's Billions Go?",
+      "views": 729,
+      "watched": null,
+      "duration": 29.7,
+      "hook": "Did Taylor Swift pocket two billion dollars?",
+      "hook_style": "question"
+     },
+     {
       "title": "How can a $30 console cost $500?",
       "views": 734,
       "watched": 40.6,
       "duration": 40.9,
       "hook": "PS5 parts cost roughly $30 each.",
       "hook_style": "shocking number"
-     },
-     {
-      "title": "Only $0.003 per Spotify Stream? The Shocking Truth",
-      "views": 338,
-      "watched": 58.95,
-      "duration": 33.9,
-      "hook": "Only $0.003 per Spotify stream?",
-      "hook_style": "question"
      }
     ]
    },
    "mystery-files": {
-    "count": 18,
+    "count": 19,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
@@ -6195,7 +6172,7 @@
     ]
    },
    "outbreak-files": {
-    "count": 13,
+    "count": 14,
     "notes": [
      "Use lots of acting and effects (2+ per scene)",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
@@ -6211,7 +6188,7 @@
      },
      {
       "title": "The Outbreak Starts on Floor 30 (Part 1)",
-      "views": 1094,
+      "views": 1095,
       "watched": 51.31,
       "duration": 41.8,
       "hook": "POV: the outbreak starts below your window.",
