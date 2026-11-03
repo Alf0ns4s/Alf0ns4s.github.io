@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-03T16:09:29+00:00",
+ "synced": "2026-11-03T16:14:27+00:00",
  "stats_updated": "2026-11-03T14:02:18+00:00",
  "channels": [
   {
@@ -5964,7 +5964,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-03T15:58:44.766033+00:00",
+  "updated": "2026-11-03T16:14:22.042113+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6048,32 +6048,32 @@
     "next_upload": null,
     "pending_scripts": 0,
     "target": 1,
-    "status": "awaiting_cloud_writer",
+    "status": "request_pending",
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": null,
+    "waiting_since": "2026-11-03T16:14:21.920493+00:00",
     "retry_at": null,
     "expected_slot": "2026-11-04T03:30:00+02:00",
     "series": "The School Trip",
     "part": 1,
-    "pending_requests": 0,
+    "pending_requests": 1,
     "last_writer_result": {
      "status": "accepted",
      "updated": "2026-11-02T23:29:43.081416+00:00",
      "reason": null
     },
     "rework_count": 0,
-    "why": "No script request or accepted script is waiting for this channel.",
-    "automatic_step": "The scheduled cloud writer must submit the next script; the worker then renders and uploads it.",
+    "why": "A raw script request is waiting for validation; it is not an uploaded video.",
+    "automatic_step": "The next worker validates the request and records accepted, deferred or rejected feedback.",
     "coverage": "missing"
    }
   ],
   "worker": {
-   "updated": "2026-11-03T15:59:00.041964+00:00",
-   "stage": "dashboard",
+   "updated": "2026-11-03T16:14:22.092070+00:00",
+   "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-03T16:09:29.487380+00:00"
+  "snapshot_at": "2026-11-03T16:14:27.531658+00:00"
  },
  "insights": {
   "updated": "2026-11-03T14:02:30+00:00",
