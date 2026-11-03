@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-02T23:58:47+00:00",
+ "synced": "2026-11-03T00:18:25+00:00",
  "stats_updated": "2026-11-02T21:42:51+00:00",
  "channels": [
   {
@@ -1215,6 +1215,44 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261103-001356_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: an Atlantic ghost crab uses its stomach teeth to rasp while its claw remains free for defence",
+   "title": "How Ghost Crabs Growl With Stomach Teeth",
+   "status": "posted",
+   "created": "2026-11-03T00:18:20",
+   "scheduled_for": "2026-11-05T00:30:00+02:00",
+   "duration": 29.7,
+   "youtube_id": "96bXaFxSHYI",
+   "url": "https://youtube.com/shorts/96bXaFxSHYI",
+   "privacy": "private",
+   "publish_at": "2026-11-04T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261103-001356_deep-sea-files.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 16,
+    "avg_shot": 1.75,
+    "wpm": 152,
+    "brightness": 89,
+    "loudness_db": -16.0
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261103-001356_deep-sea-files.jpg"
+  },
   {
    "item": "20261102-232951_outbreak-files",
    "channel": "outbreak-files",
@@ -5842,17 +5880,17 @@
    "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-02T23:58:45.935059+00:00",
+  "updated": "2026-11-03T00:13:50.553857+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-03T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_cloud_writer",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "status": "buffer_ready",
+    "reason": null,
     "retry_at": null
    },
    {
@@ -5869,8 +5907,8 @@
    {
     "channel": "mystery-files",
     "name": "Myst3ry Files",
-    "scheduled": 2,
-    "next_upload": "2026-11-03T00:15:00+00:00",
+    "scheduled": 1,
+    "next_upload": "2026-11-04T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
     "status": "buffer_ready",
@@ -5890,12 +5928,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-02T23:58:45.969499+00:00",
-   "stage": "writing",
+   "updated": "2026-11-03T00:18:23.236062+00:00",
+   "stage": "rendering deep-sea-files",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-02T23:58:47.870606+00:00"
+  "snapshot_at": "2026-11-03T00:18:25.407904+00:00"
  },
  "insights": {
   "updated": "2026-11-02T21:43:22+00:00",
