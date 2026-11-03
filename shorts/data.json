@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-03T14:02:36+00:00",
+ "synced": "2026-11-03T14:13:56+00:00",
  "stats_updated": "2026-11-03T14:02:18+00:00",
  "channels": [
   {
@@ -5964,7 +5964,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-03T13:58:45.445816+00:00",
+  "updated": "2026-11-03T14:13:54.254111+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6012,12 +6012,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-03T13:59:01.444861+00:00",
-   "stage": "dashboard",
+   "updated": "2026-11-03T14:13:54.296135+00:00",
+   "stage": "writing",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-03T14:02:36.232366+00:00"
+  "snapshot_at": "2026-11-03T14:13:56.721084+00:00"
  },
  "insights": {
   "updated": "2026-11-03T14:02:30+00:00",
