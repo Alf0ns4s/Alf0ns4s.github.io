@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-03T21:59:45+00:00",
+ "synced": "2026-11-03T22:22:07+00:00",
  "stats_updated": "2026-11-03T17:04:01+00:00",
  "channels": [
   {
@@ -1235,6 +1235,51 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261103-221442_money-facts",
+   "channel": "money-facts",
+   "topic": "The left-digit effect: why a one-cent price change can feel larger",
+   "title": "Why Shops Price Things at $2.99 Instead of $3",
+   "status": "rejected",
+   "created": "2026-11-03T22:22:01",
+   "scheduled_for": null,
+   "duration": 28.6,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261103-221442_money-facts.jpg",
+   "score": 90,
+   "video_score": 80,
+   "script_score": 100,
+   "verdict": "needs_rework",
+   "fixes": [
+    "jump_cuts",
+    "punch_open"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Strong motion in the first 1.5 seconds",
+    "Picture changes within 1.6 seconds",
+    "Something new every 4 s (cut, effect, card, sound)"
+   ],
+   "metrics": {
+    "cuts": 9,
+    "avg_shot": 2.85,
+    "wpm": 158,
+    "brightness": 85,
+    "loudness_db": -15.8
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261103-221442_money-facts.jpg"
+  },
   {
    "item": "20261103-171411_outbreak-files",
    "channel": "outbreak-files",
@@ -6018,7 +6063,20 @@
    "scene_review": null
   }
  ],
- "rework": [],
+ "rework": [
+  {
+   "item": "20261103-221442_money-facts",
+   "channel": "money-facts",
+   "topic": "The left-digit effect: why a one-cent price change can feel larger",
+   "score": 90,
+   "round": 1,
+   "reasons": [
+    "First cut at 2.7s. The first shot should last 1-1.5 s.",
+    "4.3s go by with nothing new on screen. Add a cut, a UI card, a slam word or a sound on that beat.",
+    "The first 1.5 seconds barely move (motion 3.0). Half of viewers swipe in that time - open on action with a fast push-in."
+   ]
+  }
+ ],
  "inbox_waiting": [],
  "production": {
   "health": {
@@ -6026,7 +6084,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-03T21:59:41.777975+00:00",
+  "updated": "2026-11-03T22:14:29.994258+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6060,9 +6118,9 @@
     "next_upload": "2026-11-04T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_cloud_writer",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-03T21:30:17.122398+00:00",
+    "status": "rendering",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-04T23:15:00+02:00",
     "series": null,
@@ -6070,12 +6128,12 @@
     "pending_requests": 0,
     "last_writer_result": {
      "status": "accepted",
-     "updated": "2026-11-02T23:13:41.389141+00:00",
+     "updated": "2026-11-03T22:14:29.669157+00:00",
      "reason": null
     },
-    "rework_count": 0,
-    "why": "No script request or accepted script is waiting for this channel.",
-    "automatic_step": "The scheduled cloud writer must submit the next script; the worker then renders and uploads it.",
+    "rework_count": 1,
+    "why": "The cloud worker is rendering this channel; upload is not confirmed yet.",
+    "automatic_step": "Finish rendering, pass video QA, then upload and schedule automatically.",
     "coverage": "low"
    },
    {
@@ -6130,12 +6188,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-03T21:59:41.795623+00:00",
-   "stage": "writing",
+   "updated": "2026-11-03T22:22:01.410824+00:00",
+   "stage": "rendering money-facts",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-03T21:59:45.535078+00:00"
+  "snapshot_at": "2026-11-03T22:22:07.591633+00:00"
  },
  "insights": {
   "updated": "2026-11-03T17:04:15+00:00",
