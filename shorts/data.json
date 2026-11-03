@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-03T21:14:47+00:00",
+ "synced": "2026-11-03T21:30:34+00:00",
  "stats_updated": "2026-11-03T17:04:01+00:00",
  "channels": [
   {
@@ -6026,7 +6026,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-03T21:14:34.676647+00:00",
+  "updated": "2026-11-03T21:30:17.261988+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6056,15 +6056,15 @@
    {
     "channel": "money-facts",
     "name": "Money Facts",
-    "scheduled": 2,
-    "next_upload": "2026-11-03T21:15:00+00:00",
+    "scheduled": 1,
+    "next_upload": "2026-11-04T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "buffer_ready",
-    "reason": null,
-    "waiting_since": null,
+    "status": "awaiting_cloud_writer",
+    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "waiting_since": "2026-11-03T21:30:17.122398+00:00",
     "retry_at": null,
-    "expected_slot": "2026-11-03T23:15:00+02:00",
+    "expected_slot": "2026-11-04T23:15:00+02:00",
     "series": null,
     "part": null,
     "pending_requests": 0,
@@ -6074,9 +6074,9 @@
      "reason": null
     },
     "rework_count": 0,
-    "why": "Uploaded to YouTube with future publication times.",
-    "automatic_step": "The next production pass tops up the reserve when a slot opens.",
-    "coverage": "covered"
+    "why": "No script request or accepted script is waiting for this channel.",
+    "automatic_step": "The scheduled cloud writer must submit the next script; the worker then renders and uploads it.",
+    "coverage": "low"
    },
    {
     "channel": "mystery-files",
@@ -6130,12 +6130,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-03T21:14:34.700501+00:00",
+   "updated": "2026-11-03T21:30:17.278234+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-03T21:14:47.442693+00:00"
+  "snapshot_at": "2026-11-03T21:30:34.353723+00:00"
  },
  "insights": {
   "updated": "2026-11-03T17:04:15+00:00",
