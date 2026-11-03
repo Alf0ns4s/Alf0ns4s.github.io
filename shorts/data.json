@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-03T16:59:15+00:00",
- "stats_updated": "2026-11-03T14:02:18+00:00",
+ "synced": "2026-11-03T17:04:22+00:00",
+ "stats_updated": "2026-11-03T17:04:01+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -212,9 +212,33 @@
       "pct": 0.2
      }
     ],
-    "ages": [],
-    "since": "2026-10-13",
-    "ages_error": "HttpError: <HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-10-13&endDate=2026-11-03&metrics=viewerPe"
+    "ages": [
+     {
+      "age": "13-17",
+      "pct": 19.1
+     },
+     {
+      "age": "18-24",
+      "pct": 5.7
+     },
+     {
+      "age": "25-34",
+      "pct": 35.5
+     },
+     {
+      "age": "35-44",
+      "pct": 31.9
+     },
+     {
+      "age": "45-54",
+      "pct": 7.3
+     },
+     {
+      "age": "55-64",
+      "pct": 0.6
+     }
+    ],
+    "since": "2026-10-13"
    },
    "history": [
     {
@@ -1310,7 +1334,7 @@
    "url": "https://youtube.com/shorts/96bXaFxSHYI",
    "privacy": "private",
    "publish_at": "2026-11-04T22:30:00Z",
-   "views": 2,
+   "views": 0,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -1348,8 +1372,8 @@
    "url": "https://youtube.com/shorts/rEXCihMLSUQ",
    "privacy": "public",
    "publish_at": "2026-11-03T01:30:00.000Z",
-   "views": 682,
-   "likes": 17,
+   "views": 753,
+   "likes": 18,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261102-232951_outbreak-files.jpg",
@@ -1594,7 +1618,7 @@
    "url": "https://youtube.com/shorts/LSij0PQBqZA",
    "privacy": "public",
    "publish_at": "2026-11-02T22:30:00.000Z",
-   "views": 318,
+   "views": 333,
    "likes": 3,
    "comments": 0,
    "analytics": null,
@@ -1794,7 +1818,7 @@
    "url": "https://youtube.com/shorts/uh0EZ8yqNxA",
    "privacy": "public",
    "publish_at": "2026-11-01T21:15:00.000Z",
-   "views": 729,
+   "views": 732,
    "likes": 7,
    "comments": 0,
    "analytics": null,
@@ -1834,7 +1858,7 @@
    "url": "https://youtube.com/shorts/Z54TZARTSGs",
    "privacy": "public",
    "publish_at": "2026-11-02T00:15:00.000Z",
-   "views": 1039,
+   "views": 1041,
    "likes": 11,
    "comments": 0,
    "analytics": null,
@@ -2118,7 +2142,7 @@
    "url": "https://youtube.com/shorts/nXbnbHBt5C0",
    "privacy": "public",
    "publish_at": "2026-10-30T23:00:00Z",
-   "views": 1114,
+   "views": 1115,
    "likes": 19,
    "comments": 2,
    "analytics": {
@@ -3281,7 +3305,7 @@
    "url": "https://youtube.com/shorts/u3QhJDQ4rKc",
    "privacy": "public",
    "publish_at": "2026-10-28T01:30:00.000Z",
-   "views": 384,
+   "views": 385,
    "likes": 9,
    "comments": 1,
    "analytics": {
@@ -6070,15 +6094,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-03T16:59:12.156575+00:00",
-   "stage": "writing",
+   "updated": "2026-11-03T16:59:35.726771+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-03T16:59:15.330860+00:00"
+  "snapshot_at": "2026-11-03T17:04:22.933076+00:00"
  },
  "insights": {
-  "updated": "2026-11-03T14:02:30+00:00",
+  "updated": "2026-11-03T17:04:15+00:00",
   "videos_analysed": 69,
   "rules": [
    {
@@ -6180,7 +6204,7 @@
      },
      {
       "title": "Where Did the Eras Tour's Billions Go?",
-      "views": 729,
+      "views": 732,
       "watched": null,
       "duration": 29.7,
       "hook": "Did Taylor Swift pocket two billion dollars?",
