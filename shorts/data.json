@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-03T00:58:42+00:00",
+ "synced": "2026-11-03T01:23:10+00:00",
  "stats_updated": "2026-11-02T21:42:51+00:00",
  "channels": [
   {
@@ -1215,6 +1215,52 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261103-011358_mystery-files",
+   "channel": "mystery-files",
+   "topic": "Agatha Christie's 1926 disappearance: the Harrogate guest surname Neele and the unresolved reason for using it",
+   "title": "Why Agatha Christie's Hotel Surname Matters",
+   "status": "rejected",
+   "created": "2026-11-03T01:23:07",
+   "scheduled_for": null,
+   "duration": 31.5,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261103-011358_mystery-files.jpg",
+   "score": 90,
+   "video_score": 84,
+   "script_score": 95,
+   "verdict": "needs_rework",
+   "fixes": [
+    "brighten",
+    "jump_cuts",
+    "punch_open"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Strong motion in the first 1.5 seconds",
+    "Picture changes within 1.6 seconds",
+    "First picture change within 1.8 seconds"
+   ],
+   "metrics": {
+    "cuts": 14,
+    "avg_shot": 2.1,
+    "wpm": 143,
+    "brightness": 63,
+    "loudness_db": -15.2
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261103-011358_mystery-files.jpg"
+  },
   {
    "item": "20261103-001356_deep-sea-files",
    "channel": "deep-sea-files",
@@ -5872,7 +5918,20 @@
    "scene_review": null
   }
  ],
- "rework": [],
+ "rework": [
+  {
+   "item": "20261103-011358_mystery-files",
+   "channel": "mystery-files",
+   "topic": "Agatha Christie's 1926 disappearance: the Harrogate guest surname Neele and the unresolved reason for using it",
+   "score": 90,
+   "round": 1,
+   "reasons": [
+    "First cut at 3.7s. The first shot should last 1-1.5 s.",
+    "The first shot lasts about 2.6s. Give scene 1 2-3 shots so the picture changes within 1.5 seconds.",
+    "The first 1.5 seconds barely move (motion 2.6). Half of viewers swipe in that time - open on action with a fast push-in."
+   ]
+  }
+ ],
  "inbox_waiting": [],
  "production": {
   "health": {
@@ -5880,7 +5939,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-03T00:58:39.917041+00:00",
+  "updated": "2026-11-03T01:13:51.565519+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -5911,8 +5970,8 @@
     "next_upload": "2026-11-04T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_cloud_writer",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "status": "awaiting_worker",
+    "reason": null,
     "retry_at": null
    },
    {
@@ -5928,12 +5987,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-03T00:58:39.948798+00:00",
-   "stage": "writing",
+   "updated": "2026-11-03T01:23:08.070700+00:00",
+   "stage": "rendering mystery-files",
    "failures": []
   },
   "schedule": "Hourly cloud checks; delayed runs catch up in bounded batches. GitHub may delay or drop a trigger.",
-  "snapshot_at": "2026-11-03T00:58:42.291234+00:00"
+  "snapshot_at": "2026-11-03T01:23:10.323903+00:00"
  },
  "insights": {
   "updated": "2026-11-02T21:43:22+00:00",
