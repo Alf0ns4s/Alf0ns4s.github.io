@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-04T13:58:49+00:00",
+ "synced": "2026-11-04T14:13:44+00:00",
  "stats_updated": "2026-11-04T06:23:29+00:00",
  "channels": [
   {
@@ -6366,10 +6366,12 @@
    "missing_uploads": [
     "outbreak-files"
    ],
-   "blocked_channels": [],
+   "blocked_channels": [
+    "outbreak-files"
+   ],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-04T13:58:46.852313+00:00",
+  "updated": "2026-11-04T14:13:40.205571+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6453,7 +6455,7 @@
     "next_upload": null,
     "pending_scripts": 0,
     "target": 1,
-    "status": "awaiting_cloud_writer",
+    "status": "draft_blocked",
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "waiting_since": "2026-11-04T13:43:44.858628+00:00",
     "retry_at": null,
@@ -6462,23 +6464,23 @@
     "part": 2,
     "pending_requests": 0,
     "last_writer_result": {
-     "status": "accepted",
-     "updated": "2026-11-03T17:14:02.154866+00:00",
-     "reason": null
+     "status": "rejected",
+     "updated": "2026-11-04T14:13:39.019694+00:00",
+     "reason": "scene 10: the receding/passing location must actually move in the rendered layers\nHook has a shock, number, question or contrast: Open with the single most surprising fact, a number, a 'POV:' or a question - no context first.\nNo known numeric or picture contradictions: scene 10: the receding/passing location must actually move in the rendered layers\nScript score 88 is below 95"
     },
     "rework_count": 0,
-    "why": "No script request or accepted script is waiting for this channel.",
-    "automatic_step": "The scheduled cloud writer must submit the next script; the worker then renders and uploads it.",
+    "why": "The last script request failed validation. No replacement request is waiting.",
+    "automatic_step": "The scheduled writer must repair the saved draft with a new request ID.",
     "coverage": "missing"
    }
   ],
   "worker": {
-   "updated": "2026-11-04T13:58:46.873519+00:00",
+   "updated": "2026-11-04T14:13:40.288195+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-04T13:58:49.210892+00:00"
+  "snapshot_at": "2026-11-04T14:13:44.282083+00:00"
  },
  "insights": {
   "updated": "2026-11-04T06:23:42+00:00",
