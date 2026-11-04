@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-04T14:58:47+00:00",
+ "synced": "2026-11-04T15:34:51+00:00",
  "stats_updated": "2026-11-04T14:22:19+00:00",
  "channels": [
   {
@@ -1253,6 +1253,49 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261104-151519_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The School Trip (Part 2)",
+   "title": "Can a Zombie Knock Help You Unlock the Exit? (Part 2)",
+   "status": "posted",
+   "created": "2026-11-04T15:34:44",
+   "scheduled_for": "2026-11-05T03:30:00+02:00",
+   "duration": 76.6,
+   "youtube_id": "qA052f9ARic",
+   "url": "https://youtube.com/shorts/qA052f9ARic",
+   "privacy": "private",
+   "publish_at": "2026-11-05T01:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261104-151519_outbreak-files.jpg",
+   "score": 97,
+   "video_score": 94,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "jump_cuts",
+    "punch_open"
+   ],
+   "rounds": 2,
+   "issues": [
+    "No empty-looking shots"
+   ],
+   "metrics": {
+    "cuts": 32,
+    "avg_shot": 2.32,
+    "wpm": 162,
+    "brightness": 51,
+    "loudness_db": -15.9
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261104-151519_outbreak-files.jpg"
+  },
   {
    "item": "20261104-021345_mystery-files",
    "channel": "mystery-files",
@@ -6333,15 +6376,11 @@
  "inbox_waiting": [],
  "production": {
   "health": {
-   "missing_uploads": [
-    "outbreak-files"
-   ],
-   "blocked_channels": [
-    "outbreak-files"
-   ],
-   "all_channels_scheduled": false
+   "missing_uploads": [],
+   "blocked_channels": [],
+   "all_channels_scheduled": true
   },
-  "updated": "2026-11-04T14:58:44.428213+00:00",
+  "updated": "2026-11-04T15:15:11.409319+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6421,36 +6460,36 @@
    {
     "channel": "outbreak-files",
     "name": "Outbreak Files",
-    "scheduled": 0,
-    "next_upload": null,
+    "scheduled": 1,
+    "next_upload": "2026-11-05T01:30:00+00:00",
     "pending_scripts": 0,
     "target": 1,
-    "status": "draft_blocked",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-04T13:43:44.858628+00:00",
+    "status": "buffer_ready",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-05T03:30:00+02:00",
     "series": "The School Trip",
-    "part": 2,
+    "part": 3,
     "pending_requests": 0,
     "last_writer_result": {
-     "status": "rejected",
-     "updated": "2026-11-04T14:13:39.019694+00:00",
-     "reason": "scene 10: the receding/passing location must actually move in the rendered layers\nHook has a shock, number, question or contrast: Open with the single most surprising fact, a number, a 'POV:' or a question - no context first.\nNo known numeric or picture contradictions: scene 10: the receding/passing location must actually move in the rendered layers\nScript score 88 is below 95"
+     "status": "accepted",
+     "updated": "2026-11-04T15:15:10.165240+00:00",
+     "reason": null
     },
     "rework_count": 0,
-    "why": "The last script request failed validation. No replacement request is waiting.",
-    "automatic_step": "The scheduled writer must repair the saved draft with a new request ID.",
-    "coverage": "missing"
+    "why": "Uploaded to YouTube with future publication times.",
+    "automatic_step": "The next production pass tops up the reserve when a slot opens.",
+    "coverage": "covered"
    }
   ],
   "worker": {
-   "updated": "2026-11-04T14:58:44.490927+00:00",
-   "stage": "writing",
+   "updated": "2026-11-04T15:34:47.392709+00:00",
+   "stage": "rendering outbreak-files",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-04T14:58:47.434554+00:00"
+  "snapshot_at": "2026-11-04T15:34:51.900120+00:00"
  },
  "insights": {
   "updated": "2026-11-04T14:22:32+00:00",
