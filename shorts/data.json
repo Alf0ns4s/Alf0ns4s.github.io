@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-05T23:13:47+00:00",
+ "synced": "2026-11-05T23:39:17+00:00",
  "stats_updated": "2026-11-05T17:25:12+00:00",
  "channels": [
   {
@@ -1335,6 +1335,92 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261105-233537_money-facts",
+   "channel": "money-facts",
+   "topic": "Successive half-price discounts on one pair of sneakers",
+   "title": "What Two Half-Price Deals Really Save You",
+   "status": "posted",
+   "created": "2026-11-05T23:39:12",
+   "scheduled_for": "2026-11-07T23:15:00+02:00",
+   "duration": 28.3,
+   "youtube_id": "gmm8j7v1L-4",
+   "url": "https://youtube.com/shorts/gmm8j7v1L-4",
+   "privacy": "private",
+   "publish_at": "2026-11-07T21:15:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261105-233537_money-facts.jpg",
+   "score": 100,
+   "video_score": 100,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [],
+   "metrics": {
+    "cuts": 13,
+    "avg_shot": 2.01,
+    "wpm": 164,
+    "brightness": 112,
+    "loudness_db": -15.4
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261105-233537_money-facts.jpg"
+  },
+  {
+   "item": "20261105-232852_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: a giant squid uses two long feeding tentacles before its shorter arms take over",
+   "title": "Why a Giant Squid Needs Two Extra-Long Tentacles",
+   "status": "rejected",
+   "created": "2026-11-05T23:35:34",
+   "scheduled_for": null,
+   "duration": 26.3,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261105-232852_deep-sea-files.jpg",
+   "score": 82,
+   "video_score": 63,
+   "script_score": 100,
+   "verdict": "needs_rework",
+   "fixes": [
+    "brighten",
+    "jump_cuts",
+    "slower_voice"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Picture changes within 1.6 seconds",
+    "A new shot every 1.2-3.2 seconds on average",
+    "No shot longer than 5 seconds",
+    "No empty-looking shots",
+    "Length 28-42 seconds"
+   ],
+   "metrics": {
+    "cuts": 3,
+    "avg_shot": 6.58,
+    "wpm": 173,
+    "brightness": 57,
+    "loudness_db": -15.8
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261105-232852_deep-sea-files.jpg"
+  },
   {
    "item": "20261105-151350_outbreak-files",
    "channel": "outbreak-files",
@@ -6675,15 +6761,32 @@
    "scene_review": null
   }
  ],
- "rework": [],
+ "rework": [
+  {
+   "item": "20261105-232852_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: a giant squid uses two long feeding tentacles before its shorter arms take over",
+   "score": 82,
+   "round": 1,
+   "reasons": [
+    "First cut at 2.8s. The first shot should last 1-1.5 s.",
+    "On average a new shot every 6.6s (3 cuts). Add more shots.",
+    "Longest shot is 10.2s. Split it.",
+    "For 4.0s the picture is almost empty (a plain background with one small effect). Fill those shots: show the creature or object big, in a real place, doing the thing.",
+    "Video is 26s. Aim for 28-42 s."
+   ]
+  }
+ ],
  "inbox_waiting": [],
  "production": {
   "health": {
    "missing_uploads": [],
-   "blocked_channels": [],
+   "blocked_channels": [
+    "deep-sea-files"
+   ],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-05T23:13:44.367289+00:00",
+  "updated": "2026-11-05T23:28:45.012508+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6692,48 +6795,48 @@
     "next_upload": "2026-11-06T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "request_pending",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-05T22:43:35.639735+00:00",
+    "status": "draft_blocked",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-07T00:30:00+02:00",
     "series": null,
     "part": null,
-    "pending_requests": 1,
+    "pending_requests": 0,
     "last_writer_result": {
      "status": "accepted",
-     "updated": "2026-11-05T03:13:38.340703+00:00",
+     "updated": "2026-11-05T23:28:44.511996+00:00",
      "reason": null
     },
-    "rework_count": 0,
-    "why": "A raw script request is waiting for validation; it is not an uploaded video.",
-    "automatic_step": "The next worker validates the request and records accepted, deferred or rejected feedback.",
+    "rework_count": 1,
+    "why": "The previous draft needs repair before this channel can continue.",
+    "automatic_step": "The scheduled writer repairs the existing draft, then the worker repeats QA.",
     "coverage": "low"
    },
    {
     "channel": "money-facts",
     "name": "Money Facts",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-06T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "request_pending",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-05T21:28:46.623418+00:00",
+    "status": "buffer_ready",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-06T23:15:00+02:00",
     "series": null,
     "part": null,
-    "pending_requests": 1,
+    "pending_requests": 0,
     "last_writer_result": {
-     "status": "rejected",
-     "updated": "2026-11-05T22:13:44.382519+00:00",
-     "reason": "scene 2: check the picture: the line mentions price_tag_100 while the storyboard selected person_cap_rig. Kept the explicit selection; change it in the storyboard if needed, rather than silently substituting a different object.\nscene 3: check the picture: the line mentions cash_stack while the storyboard selected sneaker. Kept the explicit selection; change it in the storyboard if needed, rather than silently substituting a different object.\nscene 4: check the picture: the line mentions cash_stack while the storyboard selected sneaker. Kept the explicit selection; change it in the storyboard if needed, rather than silently substituting a different object.\nscene 7: check the picture: the line mentions cash_stack while the storyboard selected person_cap_rig. Kept the explicit selection; change it in the storyboard if needed, rather than silently substituting a different object."
+     "status": "accepted",
+     "updated": "2026-11-05T23:28:44.511996+00:00",
+     "reason": null
     },
     "rework_count": 0,
-    "why": "A raw script request is waiting for validation; it is not an uploaded video.",
-    "automatic_step": "The next worker validates the request and records accepted, deferred or rejected feedback.",
-    "coverage": "low"
+    "why": "Uploaded to YouTube with future publication times.",
+    "automatic_step": "The next production pass tops up the reserve when a slot opens.",
+    "coverage": "covered"
    },
    {
     "channel": "mystery-files",
@@ -6787,12 +6890,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-05T23:13:44.384221+00:00",
-   "stage": "writing",
+   "updated": "2026-11-05T23:39:14.698587+00:00",
+   "stage": "rendering money-facts",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-05T23:13:47.231323+00:00"
+  "snapshot_at": "2026-11-05T23:39:17.169066+00:00"
  },
  "insights": {
   "updated": "2026-11-05T17:25:27+00:00",
