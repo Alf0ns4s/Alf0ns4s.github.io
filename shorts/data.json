@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-05T17:13:37+00:00",
- "stats_updated": "2026-11-05T14:31:47+00:00",
+ "synced": "2026-11-05T17:25:34+00:00",
+ "stats_updated": "2026-11-05T17:25:12+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -1347,10 +1347,10 @@
    "youtube_id": "tEsI98X6gVI",
    "url": "https://youtube.com/shorts/tEsI98X6gVI",
    "privacy": "private",
-   "publish_at": "2026-11-06T01:30:00.000Z",
-   "views": null,
-   "likes": null,
-   "comments": null,
+   "publish_at": "2026-11-06T01:30:00Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261105-151350_outbreak-files.jpg",
    "score": 97,
@@ -1515,8 +1515,8 @@
    "url": "https://youtube.com/shorts/qA052f9ARic",
    "privacy": "public",
    "publish_at": "2026-11-05T01:30:00.000Z",
-   "views": 424,
-   "likes": 4,
+   "views": 441,
+   "likes": 5,
    "comments": 1,
    "analytics": null,
    "thumb": "thumbs/20261104-151519_outbreak-files.jpg",
@@ -1815,8 +1815,8 @@
    "url": "https://youtube.com/shorts/xDJX08Op66o",
    "privacy": "public",
    "publish_at": "2026-11-04T01:30:00.000Z",
-   "views": 900,
-   "likes": 18,
+   "views": 983,
+   "likes": 19,
    "comments": 2,
    "analytics": null,
    "thumb": "thumbs/20261103-171411_outbreak-files.jpg",
@@ -1855,7 +1855,7 @@
    "url": "https://youtube.com/shorts/jqgNYibBEyk",
    "privacy": "public",
    "publish_at": "2026-11-05T00:15:00.000Z",
-   "views": 110,
+   "views": 113,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -1941,8 +1941,8 @@
    "url": "https://youtube.com/shorts/96bXaFxSHYI",
    "privacy": "public",
    "publish_at": "2026-11-04T22:30:00.000Z",
-   "views": 159,
-   "likes": 0,
+   "views": 163,
+   "likes": 1,
    "comments": 0,
    "analytics": {
     "views": 2,
@@ -1988,7 +1988,7 @@
    "url": "https://youtube.com/shorts/rEXCihMLSUQ",
    "privacy": "public",
    "publish_at": "2026-11-03T01:30:00.000Z",
-   "views": 1165,
+   "views": 1173,
    "likes": 19,
    "comments": 1,
    "analytics": {
@@ -2037,8 +2037,8 @@
    "url": "https://youtube.com/shorts/mGe76XcAsNk",
    "privacy": "public",
    "publish_at": "2026-11-04T21:15:00.000Z",
-   "views": 633,
-   "likes": 7,
+   "views": 788,
+   "likes": 9,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261102-231348_money-facts.jpg",
@@ -2077,7 +2077,7 @@
    "url": "https://youtube.com/shorts/EseupOzmhlc",
    "privacy": "public",
    "publish_at": "2026-11-04T00:15:00.000Z",
-   "views": 437,
+   "views": 438,
    "likes": 5,
    "comments": 0,
    "analytics": null,
@@ -2119,7 +2119,7 @@
    "url": "https://youtube.com/shorts/qq-nWdLaJSo",
    "privacy": "public",
    "publish_at": "2026-11-03T22:30:00.000Z",
-   "views": 372,
+   "views": 381,
    "likes": 5,
    "comments": 0,
    "analytics": {
@@ -2214,7 +2214,7 @@
    "url": "https://youtube.com/shorts/Gu9n8aOzqpo",
    "privacy": "public",
    "publish_at": "2026-11-03T21:15:00.000Z",
-   "views": 263,
+   "views": 265,
    "likes": 3,
    "comments": 0,
    "analytics": null,
@@ -2252,7 +2252,7 @@
    "url": "https://youtube.com/shorts/LSij0PQBqZA",
    "privacy": "public",
    "publish_at": "2026-11-02T22:30:00.000Z",
-   "views": 481,
+   "views": 480,
    "likes": 4,
    "comments": 0,
    "analytics": {
@@ -2350,7 +2350,7 @@
    "url": "https://youtube.com/shorts/oPnRq7gc4gI",
    "privacy": "public",
    "publish_at": "2026-11-03T00:15:00.000Z",
-   "views": 1007,
+   "views": 1009,
    "likes": 16,
    "comments": 0,
    "analytics": {
@@ -2399,7 +2399,7 @@
    "url": "https://youtube.com/shorts/NMKJLVkJNKs",
    "privacy": "public",
    "publish_at": "2026-11-02T21:15:00.000Z",
-   "views": 950,
+   "views": 951,
    "likes": 9,
    "comments": 0,
    "analytics": {
@@ -2497,7 +2497,7 @@
    "url": "https://youtube.com/shorts/uh0EZ8yqNxA",
    "privacy": "public",
    "publish_at": "2026-11-01T21:15:00.000Z",
-   "views": 748,
+   "views": 749,
    "likes": 8,
    "comments": 0,
    "analytics": {
@@ -2788,8 +2788,8 @@
    "url": "https://youtube.com/shorts/nX4mL7LE0HY",
    "privacy": "public",
    "publish_at": "2026-10-31T21:15:00.000Z",
-   "views": 50,
-   "likes": 0,
+   "views": 52,
+   "likes": 1,
    "comments": 0,
    "analytics": {
     "views": 50,
@@ -4002,7 +4002,7 @@
    "url": "https://youtube.com/shorts/u3QhJDQ4rKc",
    "privacy": "public",
    "publish_at": "2026-10-28T01:30:00.000Z",
-   "views": 389,
+   "views": 390,
    "likes": 9,
    "comments": 1,
    "analytics": {
@@ -4097,7 +4097,7 @@
    "privacy": "public",
    "publish_at": "2026-10-27T21:15:00.000Z",
    "views": 47,
-   "likes": 1,
+   "likes": 2,
    "comments": 2,
    "analytics": {
     "views": 47,
@@ -4192,7 +4192,7 @@
    "url": "https://youtube.com/shorts/PYgCre_v4mA",
    "privacy": "public",
    "publish_at": "2026-10-27T01:30:00.000Z",
-   "views": 190,
+   "views": 192,
    "likes": 2,
    "comments": 1,
    "analytics": {
@@ -4303,7 +4303,7 @@
    "privacy": "public",
    "publish_at": "2026-10-26T21:15:00.000Z",
    "views": 299,
-   "likes": 6,
+   "likes": 7,
    "comments": 1,
    "analytics": {
     "views": 299,
@@ -4400,7 +4400,7 @@
    "url": "https://youtube.com/shorts/fAAbJFqNMEY",
    "privacy": "public",
    "publish_at": "2026-10-26T01:30:00.000Z",
-   "views": 301,
+   "views": 303,
    "likes": 1,
    "comments": 1,
    "analytics": {
@@ -4503,8 +4503,8 @@
    "url": "https://youtube.com/shorts/3kf5VvfVUF4",
    "privacy": "public",
    "publish_at": "2026-10-25T21:15:00.000Z",
-   "views": 69,
-   "likes": 1,
+   "views": 70,
+   "likes": 2,
    "comments": 1,
    "analytics": {
     "views": 69,
@@ -4609,7 +4609,7 @@
    "url": "https://youtube.com/shorts/B-1CLJHPFqM",
    "privacy": "public",
    "publish_at": "2026-10-25T00:30:00.000Z",
-   "views": 478,
+   "views": 479,
    "likes": 5,
    "comments": 1,
    "analytics": {
@@ -4714,7 +4714,7 @@
    "privacy": "public",
    "publish_at": "2026-10-24T20:15:00.000Z",
    "views": 734,
-   "likes": 6,
+   "likes": 7,
    "comments": 2,
    "analytics": {
     "views": 734,
@@ -4811,7 +4811,7 @@
    "url": "https://youtube.com/shorts/XdfdBNV_IAM",
    "privacy": "public",
    "publish_at": "2026-10-24T00:30:00.000Z",
-   "views": 258,
+   "views": 260,
    "likes": 4,
    "comments": 1,
    "analytics": {
@@ -4911,8 +4911,8 @@
    "url": "https://youtube.com/shorts/GsHQIkCo4u0",
    "privacy": "public",
    "publish_at": "2026-10-23T20:15:00.000Z",
-   "views": 1056,
-   "likes": 15,
+   "views": 1057,
+   "likes": 16,
    "comments": 1,
    "analytics": {
     "views": 1056,
@@ -5013,7 +5013,7 @@
    "url": "https://youtube.com/shorts/FV7koeCZk8Y",
    "privacy": "public",
    "publish_at": "2026-10-23T00:30:00.000Z",
-   "views": 595,
+   "views": 597,
    "likes": 5,
    "comments": 1,
    "analytics": {
@@ -5120,7 +5120,7 @@
    "privacy": "public",
    "publish_at": "2026-10-22T20:15:00.000Z",
    "views": 224,
-   "likes": 0,
+   "likes": 1,
    "comments": 1,
    "analytics": {
     "views": 223,
@@ -5372,7 +5372,7 @@
    "url": "https://youtube.com/shorts/-5mZr6URP04",
    "privacy": "public",
    "publish_at": "2026-10-22T00:30:00.000Z",
-   "views": 178,
+   "views": 179,
    "likes": 3,
    "comments": 1,
    "analytics": {
@@ -5621,7 +5621,7 @@
    "url": "https://youtube.com/shorts/AZ8tNPMufEI",
    "privacy": "public",
    "publish_at": "2026-10-20T00:30:00.000Z",
-   "views": 1524,
+   "views": 1525,
    "likes": 20,
    "comments": 2,
    "analytics": {
@@ -6787,15 +6787,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-05T17:13:34.798973+00:00",
-   "stage": "writing",
+   "updated": "2026-11-05T17:13:48.878127+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-05T17:13:37.439432+00:00"
+  "snapshot_at": "2026-11-05T17:25:34.721434+00:00"
  },
  "insights": {
-  "updated": "2026-11-05T14:32:00+00:00",
+  "updated": "2026-11-05T17:25:27+00:00",
   "videos_analysed": 77,
   "rules": [
    {
@@ -6827,10 +6827,7 @@
     "evidence": "Viewers leave fastest in scene 2 (1.67x the average rate). (66 scenes)"
    }
   ],
-  "changes": [
-   "Now likely: Do LESS: first line length 'first line 1-4 words'",
-   "New rule (likely): Do LESS: speaking pace 'over 165 wpm'"
-  ],
+  "changes": [],
   "hints": [
    "Do LESS: title style 'why / how'",
    "Do MORE: closing question 'ends with a question'",
@@ -6904,7 +6901,7 @@
     "top": [
      {
       "title": "How a Roblox Horror Game Makes $30M From Plays",
-      "views": 1056,
+      "views": 1057,
       "watched": 48.78,
       "duration": 34.5,
       "hook": "What if a Roblox game earns $30 million?",
@@ -6912,7 +6909,7 @@
      },
      {
       "title": "Why Airlines Sometimes Buy Your Seat Back",
-      "views": 950,
+      "views": 951,
       "watched": 68.93,
       "duration": 31.2,
       "hook": "Why pay you to surrender your ticket?",
@@ -6920,7 +6917,7 @@
      },
      {
       "title": "Where Did the Eras Tour's Billions Go?",
-      "views": 748,
+      "views": 749,
       "watched": 55.779999999999994,
       "duration": 29.7,
       "hook": "Did Taylor Swift pocket two billion dollars?",
@@ -6954,7 +6951,7 @@
      },
      {
       "title": "How a Phone Number Broke a Rare-Book Heist",
-      "views": 1007,
+      "views": 1009,
       "watched": 51.67,
       "duration": 33.0,
       "hook": "Why did book thieves leave this clue?",
@@ -6972,7 +6969,7 @@
     "top": [
      {
       "title": "Who Is Waving From Your Window? (Part 3)",
-      "views": 1524,
+      "views": 1525,
       "watched": 69.85,
       "duration": 39.7,
       "hook": "Only one seat left for two of you.",
@@ -6980,7 +6977,7 @@
      },
      {
       "title": "The Ski Lift Voice Wasn't Rescue (Part 3)",
-      "views": 1165,
+      "views": 1173,
       "watched": 51.89,
       "duration": 82.5,
       "hook": "Why is the rescue voice repeating?",
