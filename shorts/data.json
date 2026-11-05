@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-05T02:58:39+00:00",
+ "synced": "2026-11-05T03:16:49+00:00",
  "stats_updated": "2026-11-04T23:40:08+00:00",
  "channels": [
   {
@@ -1315,6 +1315,46 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261105-031344_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "Sea turtle hatchling beach orientation: the bright low horizon, not a requirement for a full moon",
+   "title": "How Baby Turtles Find the Sea Without a Full Moon",
+   "status": "posted",
+   "created": "2026-11-05T03:16:44",
+   "scheduled_for": "2026-11-07T00:30:00+02:00",
+   "duration": 27.3,
+   "youtube_id": "aM6kSq9qt9s",
+   "url": "https://youtube.com/shorts/aM6kSq9qt9s",
+   "privacy": "private",
+   "publish_at": "2026-11-06T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261105-031344_deep-sea-files.jpg",
+   "score": 96,
+   "video_score": 91,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [],
+   "rounds": 1,
+   "issues": [
+    "Length 28-42 seconds"
+   ],
+   "metrics": {
+    "cuts": 15,
+    "avg_shot": 1.71,
+    "wpm": 165,
+    "brightness": 85,
+    "loudness_db": -15.8
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261105-031344_deep-sea-files.jpg"
+  },
   {
    "item": "20261105-011344_mystery-files",
    "channel": "mystery-files",
@@ -6582,18 +6622,18 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-05T02:58:37.335292+00:00",
+  "updated": "2026-11-05T03:13:38.654163+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-05T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "writer_delayed",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-04T22:37:29.883647+00:00",
+    "status": "buffer_ready",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-06T00:30:00+02:00",
     "series": null,
@@ -6601,13 +6641,13 @@
     "pending_requests": 0,
     "last_writer_result": {
      "status": "accepted",
-     "updated": "2026-11-04T00:13:47.415129+00:00",
+     "updated": "2026-11-05T03:13:38.340703+00:00",
      "reason": null
     },
     "rework_count": 0,
-    "why": "The channel has been ready for at least two hours, but no script request has arrived.",
-    "automatic_step": "The next scheduled writing pass should submit a draft. If this persists, check the ChatGPT production task for a paused run, account limit or access failure; rerunning the renderer alone cannot write it.",
-    "coverage": "low"
+    "why": "Uploaded to YouTube with future publication times.",
+    "automatic_step": "The next production pass tops up the reserve when a slot opens.",
+    "coverage": "covered"
    },
    {
     "channel": "money-facts",
@@ -6686,12 +6726,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-05T02:58:37.369196+00:00",
-   "stage": "writing",
+   "updated": "2026-11-05T03:16:47.130563+00:00",
+   "stage": "rendering deep-sea-files",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-05T02:58:39.357934+00:00"
+  "snapshot_at": "2026-11-05T03:16:49.249733+00:00"
  },
  "insights": {
   "updated": "2026-11-04T23:40:40+00:00",
