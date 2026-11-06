@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-06T22:58:52+00:00",
+ "synced": "2026-11-06T23:06:20+00:00",
  "stats_updated": "2026-11-06T16:46:35+00:00",
  "channels": [
   {
@@ -7169,12 +7169,10 @@
  "production": {
   "health": {
    "missing_uploads": [],
-   "blocked_channels": [
-    "money-facts"
-   ],
+   "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-06T22:58:49.218682+00:00",
+  "updated": "2026-11-06T23:06:17.517352+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -7208,22 +7206,22 @@
     "next_upload": "2026-11-07T21:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "draft_blocked",
+    "status": "request_pending",
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "waiting_since": "2026-11-06T21:28:52.002740+00:00",
     "retry_at": null,
     "expected_slot": "2026-11-07T23:15:00+02:00",
     "series": null,
     "part": null,
-    "pending_requests": 0,
+    "pending_requests": 1,
     "last_writer_result": {
      "status": "rejected",
      "updated": "2026-11-06T22:13:50.998080+00:00",
      "reason": "scene 5: check the picture: the line mentions cash_stack while the storyboard selected soda_cup. Kept the explicit selection; change it in the storyboard if needed, rather than silently substituting a different object.\nscene 4: remove internal labels or generic filler"
     },
     "rework_count": 0,
-    "why": "The last script request failed validation. No replacement request is waiting.",
-    "automatic_step": "The scheduled writer must repair the saved draft with a new request ID.",
+    "why": "A raw script request is waiting for validation; it is not an uploaded video.",
+    "automatic_step": "The next worker validates the request and records accepted, deferred or rejected feedback.",
     "coverage": "low"
    },
    {
@@ -7278,12 +7276,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-06T22:58:49.237067+00:00",
+   "updated": "2026-11-06T23:06:17.535650+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-06T22:58:52.682570+00:00"
+  "snapshot_at": "2026-11-06T23:06:20.191015+00:00"
  },
  "insights": {
   "updated": "2026-11-06T16:46:50+00:00",
