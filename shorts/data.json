@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-06T00:20:52+00:00",
+ "synced": "2026-11-06T00:28:41+00:00",
  "stats_updated": "2026-11-05T23:38:55+00:00",
  "channels": [
   {
@@ -6900,10 +6900,12 @@
  "production": {
   "health": {
    "missing_uploads": [],
-   "blocked_channels": [],
+   "blocked_channels": [
+    "deep-sea-files"
+   ],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-06T00:13:39.696513+00:00",
+  "updated": "2026-11-06T00:28:39.093801+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6912,9 +6914,9 @@
     "next_upload": "2026-11-06T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "rendering",
-    "reason": null,
-    "waiting_since": null,
+    "status": "draft_blocked",
+    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "waiting_since": "2026-11-06T00:28:38.986132+00:00",
     "retry_at": null,
     "expected_slot": "2026-11-07T00:30:00+02:00",
     "series": null,
@@ -6926,8 +6928,8 @@
      "reason": null
     },
     "rework_count": 1,
-    "why": "The cloud worker is rendering this channel; upload is not confirmed yet.",
-    "automatic_step": "Finish rendering, pass video QA, then upload and schedule automatically.",
+    "why": "The previous draft needs repair before this channel can continue.",
+    "automatic_step": "The scheduled writer repairs the existing draft, then the worker repeats QA.",
     "coverage": "low"
    },
    {
@@ -6962,9 +6964,9 @@
     "next_upload": "2026-11-07T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "buffer_ready",
-    "reason": null,
-    "waiting_since": null,
+    "status": "awaiting_cloud_writer",
+    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "waiting_since": "2026-11-06T00:28:38.986132+00:00",
     "retry_at": null,
     "expected_slot": "2026-11-07T02:15:00+02:00",
     "series": null,
@@ -7007,12 +7009,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-06T00:20:49.995379+00:00",
-   "stage": "rendering deep-sea-files",
+   "updated": "2026-11-06T00:28:39.121747+00:00",
+   "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-06T00:20:52.134935+00:00"
+  "snapshot_at": "2026-11-06T00:28:41.628578+00:00"
  },
  "insights": {
   "updated": "2026-11-05T23:39:31+00:00",
