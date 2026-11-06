@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-06T01:24:01+00:00",
+ "synced": "2026-11-06T01:28:57+00:00",
  "stats_updated": "2026-11-05T23:38:55+00:00",
  "channels": [
   {
@@ -7008,11 +7008,12 @@
   "health": {
    "missing_uploads": [],
    "blocked_channels": [
-    "deep-sea-files"
+    "deep-sea-files",
+    "mystery-files"
    ],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-06T01:13:37.287617+00:00",
+  "updated": "2026-11-06T01:28:55.745013+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -7022,8 +7023,8 @@
     "pending_scripts": 0,
     "target": 2,
     "status": "draft_blocked",
-    "reason": null,
-    "waiting_since": null,
+    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "waiting_since": "2026-11-06T01:28:55.597255+00:00",
     "retry_at": null,
     "expected_slot": "2026-11-07T00:30:00+02:00",
     "series": null,
@@ -7071,9 +7072,9 @@
     "next_upload": "2026-11-07T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "rendering",
-    "reason": null,
-    "waiting_since": null,
+    "status": "draft_blocked",
+    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "waiting_since": "2026-11-06T01:28:55.597255+00:00",
     "retry_at": null,
     "expected_slot": "2026-11-07T02:15:00+02:00",
     "series": null,
@@ -7085,8 +7086,8 @@
      "reason": null
     },
     "rework_count": 1,
-    "why": "The cloud worker is rendering this channel; upload is not confirmed yet.",
-    "automatic_step": "Finish rendering, pass video QA, then upload and schedule automatically.",
+    "why": "The previous draft needs repair before this channel can continue.",
+    "automatic_step": "The scheduled writer repairs the existing draft, then the worker repeats QA.",
     "coverage": "low"
    },
    {
@@ -7116,12 +7117,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-06T01:23:59.161330+00:00",
-   "stage": "rendering mystery-files",
+   "updated": "2026-11-06T01:28:55.761151+00:00",
+   "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-06T01:24:01.250593+00:00"
+  "snapshot_at": "2026-11-06T01:28:57.845798+00:00"
  },
  "insights": {
   "updated": "2026-11-05T23:39:31+00:00",
