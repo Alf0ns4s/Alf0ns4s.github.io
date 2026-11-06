@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-05T23:58:49+00:00",
+ "synced": "2026-11-06T00:20:52+00:00",
  "stats_updated": "2026-11-05T23:38:55+00:00",
  "channels": [
   {
@@ -1378,6 +1378,55 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261106-001347_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: a giant squid uses two long feeding tentacles before its shorter arms take over",
+   "title": "Why a Giant Squid Needs Two Extra-Long Tentacles",
+   "status": "rejected",
+   "created": "2026-11-06T00:20:49",
+   "scheduled_for": null,
+   "duration": 30.2,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261106-001347_deep-sea-files.jpg",
+   "score": 85,
+   "video_score": 75,
+   "script_score": 95,
+   "verdict": "needs_rework",
+   "fixes": [
+    "brighten",
+    "jump_cuts",
+    "punch_open"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Strong motion in the first 1.5 seconds",
+    "Picture changes within 1.6 seconds",
+    "A new shot every 1.2-3.2 seconds on average",
+    "No shot longer than 5 seconds",
+    "No empty-looking shots",
+    "First picture change within 1.8 seconds"
+   ],
+   "metrics": {
+    "cuts": 8,
+    "avg_shot": 3.35,
+    "wpm": 161,
+    "brightness": 61,
+    "loudness_db": -15.9
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261106-001347_deep-sea-files.jpg"
+  },
   {
    "item": "20261105-233537_money-facts",
    "channel": "money-facts",
@@ -6833,17 +6882,17 @@
  ],
  "rework": [
   {
-   "item": "20261105-232852_deep-sea-files",
+   "item": "20261106-001347_deep-sea-files",
    "channel": "deep-sea-files",
    "topic": "POV: a giant squid uses two long feeding tentacles before its shorter arms take over",
-   "score": 82,
-   "round": 1,
+   "score": 85,
+   "round": 2,
    "reasons": [
-    "First cut at 2.8s. The first shot should last 1-1.5 s.",
-    "On average a new shot every 6.6s (3 cuts). Add more shots.",
-    "Longest shot is 10.2s. Split it.",
-    "For 4.0s the picture is almost empty (a plain background with one small effect). Fill those shots: show the creature or object big, in a real place, doing the thing.",
-    "Video is 26s. Aim for 28-42 s."
+    "First cut at 2.0s. The first shot should last 1-1.5 s.",
+    "On average a new shot every 3.4s (8 cuts). Add more shots.",
+    "Longest shot is 7.3s. Split it.",
+    "For 1.7s the picture is almost empty (a plain background with one small effect). Fill those shots: show the creature or object big, in a real place, doing the thing.",
+    "The first shot lasts about 1.9s. Give scene 1 2-3 shots so the picture changes within 1.5 seconds."
    ]
   }
  ],
@@ -6851,12 +6900,10 @@
  "production": {
   "health": {
    "missing_uploads": [],
-   "blocked_channels": [
-    "deep-sea-files"
-   ],
+   "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-05T23:58:46.529036+00:00",
+  "updated": "2026-11-06T00:13:39.696513+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6865,9 +6912,9 @@
     "next_upload": "2026-11-06T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "draft_blocked",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-05T23:43:42.212872+00:00",
+    "status": "rendering",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-07T00:30:00+02:00",
     "series": null,
@@ -6875,12 +6922,12 @@
     "pending_requests": 0,
     "last_writer_result": {
      "status": "accepted",
-     "updated": "2026-11-05T23:28:44.511996+00:00",
+     "updated": "2026-11-06T00:13:39.435975+00:00",
      "reason": null
     },
     "rework_count": 1,
-    "why": "The previous draft needs repair before this channel can continue.",
-    "automatic_step": "The scheduled writer repairs the existing draft, then the worker repeats QA.",
+    "why": "The cloud worker is rendering this channel; upload is not confirmed yet.",
+    "automatic_step": "Finish rendering, pass video QA, then upload and schedule automatically.",
     "coverage": "low"
    },
    {
@@ -6911,15 +6958,15 @@
    {
     "channel": "mystery-files",
     "name": "Myst3ry Files",
-    "scheduled": 2,
-    "next_upload": "2026-11-06T00:15:00+00:00",
+    "scheduled": 1,
+    "next_upload": "2026-11-07T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
     "status": "buffer_ready",
     "reason": null,
     "waiting_since": null,
     "retry_at": null,
-    "expected_slot": "2026-11-06T02:15:00+02:00",
+    "expected_slot": "2026-11-07T02:15:00+02:00",
     "series": null,
     "part": null,
     "pending_requests": 0,
@@ -6929,9 +6976,9 @@
      "reason": null
     },
     "rework_count": 0,
-    "why": "Uploaded to YouTube with future publication times.",
-    "automatic_step": "The next production pass tops up the reserve when a slot opens.",
-    "coverage": "covered"
+    "why": "No script request or accepted script is waiting for this channel.",
+    "automatic_step": "The scheduled cloud writer must submit the next script; the worker then renders and uploads it.",
+    "coverage": "low"
    },
    {
     "channel": "outbreak-files",
@@ -6960,12 +7007,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-05T23:58:46.584835+00:00",
-   "stage": "writing",
+   "updated": "2026-11-06T00:20:49.995379+00:00",
+   "stage": "rendering deep-sea-files",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-05T23:58:49.665911+00:00"
+  "snapshot_at": "2026-11-06T00:20:52.134935+00:00"
  },
  "insights": {
   "updated": "2026-11-05T23:39:31+00:00",
