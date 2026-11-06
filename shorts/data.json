@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-06T02:58:45+00:00",
+ "synced": "2026-11-06T03:20:19+00:00",
  "stats_updated": "2026-11-05T23:38:55+00:00",
  "channels": [
   {
@@ -1378,6 +1378,48 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261106-031357_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: an orca reveals its real eye and the white patch researchers use to recognize it",
+   "title": "What the White Patch on an Orca Can Tell You",
+   "status": "posted",
+   "created": "2026-11-06T03:20:14",
+   "scheduled_for": "2026-11-08T00:30:00+02:00",
+   "duration": 28.1,
+   "youtube_id": "tUtHQNOaJUc",
+   "url": "https://youtube.com/shorts/tUtHQNOaJUc",
+   "privacy": "private",
+   "publish_at": "2026-11-07T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261106-031357_deep-sea-files.jpg",
+   "score": 98,
+   "video_score": 97,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "No shot longer than 5 seconds"
+   ],
+   "metrics": {
+    "cuts": 11,
+    "avg_shot": 2.35,
+    "wpm": 162,
+    "brightness": 92,
+    "loudness_db": -16.1
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261106-031357_deep-sea-files.jpg"
+  },
   {
    "item": "20261106-022142_mystery-files",
    "channel": "mystery-files",
@@ -7068,16 +7110,16 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-06T02:58:43.081304+00:00",
+  "updated": "2026-11-06T03:13:50.662264+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-06T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_worker",
+    "status": "buffer_ready",
     "reason": null,
     "waiting_since": null,
     "retry_at": null,
@@ -7087,13 +7129,13 @@
     "pending_requests": 0,
     "last_writer_result": {
      "status": "accepted",
-     "updated": "2026-11-06T02:13:39.618299+00:00",
+     "updated": "2026-11-06T03:13:50.339993+00:00",
      "reason": null
     },
     "rework_count": 0,
-    "why": "No script request or accepted script is waiting for this channel.",
-    "automatic_step": "The scheduled cloud writer must submit the next script; the worker then renders and uploads it.",
-    "coverage": "low"
+    "why": "Uploaded to YouTube with future publication times.",
+    "automatic_step": "The next production pass tops up the reserve when a slot opens.",
+    "coverage": "covered"
    },
    {
     "channel": "money-facts",
@@ -7172,12 +7214,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-06T02:58:43.141081+00:00",
-   "stage": "writing",
+   "updated": "2026-11-06T03:20:17.108447+00:00",
+   "stage": "rendering deep-sea-files",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-06T02:58:45.914943+00:00"
+  "snapshot_at": "2026-11-06T03:20:19.403164+00:00"
  },
  "insights": {
   "updated": "2026-11-05T23:39:31+00:00",
