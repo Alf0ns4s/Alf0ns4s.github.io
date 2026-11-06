@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-06T00:58:44+00:00",
+ "synced": "2026-11-06T01:24:01+00:00",
  "stats_updated": "2026-11-05T23:38:55+00:00",
  "channels": [
   {
@@ -1378,6 +1378,99 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261106-011849_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The 1994 theft of The Scream: the undercover Getty buyer who helped recover it",
+   "title": "The Fake Buyer Who Got The Scream Back",
+   "status": "rejected",
+   "created": "2026-11-06T01:23:58",
+   "scheduled_for": null,
+   "duration": 31.2,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261106-011849_mystery-files.jpg",
+   "score": 86,
+   "video_score": 77,
+   "script_score": 95,
+   "verdict": "needs_rework",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Picture changes within 1.6 seconds",
+    "No shot longer than 5 seconds",
+    "Something new every 4 s (cut, effect, card, sound)",
+    "No empty-looking shots",
+    "Title creates curiosity (and is not line 1)"
+   ],
+   "metrics": {
+    "cuts": 11,
+    "avg_shot": 2.6,
+    "wpm": 146,
+    "brightness": 55,
+    "loudness_db": -15.2
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261106-011849_mystery-files.jpg"
+  },
+  {
+   "item": "20261106-011344_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: a giant squid uses two long feeding tentacles before its shorter arms take over",
+   "title": "Why a Giant Squid Needs Two Extra-Long Tentacles",
+   "status": "rejected",
+   "created": "2026-11-06T01:18:45",
+   "scheduled_for": null,
+   "duration": 30.6,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261106-011344_deep-sea-files.jpg",
+   "score": 88,
+   "video_score": 81,
+   "script_score": 96,
+   "verdict": "needs_rework",
+   "fixes": [
+    "brighten",
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Picture changes within 1.6 seconds",
+    "A new shot every 1.2-3.2 seconds on average",
+    "No shot longer than 5 seconds",
+    "No empty-looking shots",
+    "[likely] Do LESS: first line length 'first line 1-4 words'"
+   ],
+   "metrics": {
+    "cuts": 7,
+    "avg_shot": 3.83,
+    "wpm": 157,
+    "brightness": 59,
+    "loudness_db": -15.6
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261106-011344_deep-sea-files.jpg"
+  },
   {
    "item": "20261106-001347_deep-sea-files",
    "channel": "deep-sea-files",
@@ -6882,17 +6975,31 @@
  ],
  "rework": [
   {
-   "item": "20261106-001347_deep-sea-files",
+   "item": "20261106-011344_deep-sea-files",
    "channel": "deep-sea-files",
    "topic": "POV: a giant squid uses two long feeding tentacles before its shorter arms take over",
-   "score": 85,
-   "round": 2,
+   "score": 88,
+   "round": 3,
    "reasons": [
-    "First cut at 2.0s. The first shot should last 1-1.5 s.",
-    "On average a new shot every 3.4s (8 cuts). Add more shots.",
-    "Longest shot is 7.3s. Split it.",
-    "For 1.7s the picture is almost empty (a plain background with one small effect). Fill those shots: show the creature or object big, in a real place, doing the thing.",
-    "The first shot lasts about 1.9s. Give scene 1 2-3 shots so the picture changes within 1.5 seconds."
+    "First cut at 1.8s. The first shot should last 1-1.5 s.",
+    "On average a new shot every 3.8s (7 cuts). Add more shots.",
+    "Longest shot is 6.0s. Split it.",
+    "For 1.8s the picture is almost empty (a plain background with one small effect). Fill those shots: show the creature or object big, in a real place, doing the thing.",
+    "From our channels' real numbers: 4 videos vs 73, 32% worse (agrees on 2 channel(s), disagrees on 1; chance it's luck 4%). (Only break it on purpose: set plan.experiment.)"
+   ]
+  },
+  {
+   "item": "20261106-011849_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The 1994 theft of The Scream: the undercover Getty buyer who helped recover it",
+   "score": 86,
+   "round": 1,
+   "reasons": [
+    "First cut at 2.8s. The first shot should last 1-1.5 s.",
+    "Longest shot is 5.5s. Split it.",
+    "5.4s go by with nothing new on screen. Add a cut, a UI card, a slam word or a sound on that beat.",
+    "For 4.8s the picture is almost empty (a plain background with one small effect). Fill those shots: show the creature or object big, in a real place, doing the thing.",
+    "Make the title a curiosity gap of its own (a number, why/how, a question or a surprising claim) - not a copy of the first line."
    ]
   }
  ],
@@ -6905,7 +7012,7 @@
    ],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-06T00:58:42.374254+00:00",
+  "updated": "2026-11-06T01:13:37.287617+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -6915,8 +7022,8 @@
     "pending_scripts": 0,
     "target": 2,
     "status": "draft_blocked",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-06T00:28:38.986132+00:00",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-07T00:30:00+02:00",
     "series": null,
@@ -6924,7 +7031,7 @@
     "pending_requests": 0,
     "last_writer_result": {
      "status": "accepted",
-     "updated": "2026-11-06T00:13:39.435975+00:00",
+     "updated": "2026-11-06T01:13:37.019250+00:00",
      "reason": null
     },
     "rework_count": 1,
@@ -6964,9 +7071,9 @@
     "next_upload": "2026-11-07T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_cloud_writer",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-06T00:28:38.986132+00:00",
+    "status": "rendering",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-07T02:15:00+02:00",
     "series": null,
@@ -6974,12 +7081,12 @@
     "pending_requests": 0,
     "last_writer_result": {
      "status": "accepted",
-     "updated": "2026-11-05T01:13:37.997088+00:00",
+     "updated": "2026-11-06T01:13:37.019250+00:00",
      "reason": null
     },
-    "rework_count": 0,
-    "why": "No script request or accepted script is waiting for this channel.",
-    "automatic_step": "The scheduled cloud writer must submit the next script; the worker then renders and uploads it.",
+    "rework_count": 1,
+    "why": "The cloud worker is rendering this channel; upload is not confirmed yet.",
+    "automatic_step": "Finish rendering, pass video QA, then upload and schedule automatically.",
     "coverage": "low"
    },
    {
@@ -7009,12 +7116,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-06T00:58:42.398338+00:00",
-   "stage": "writing",
+   "updated": "2026-11-06T01:23:59.161330+00:00",
+   "stage": "rendering mystery-files",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-06T00:58:44.779974+00:00"
+  "snapshot_at": "2026-11-06T01:24:01.250593+00:00"
  },
  "insights": {
   "updated": "2026-11-05T23:39:31+00:00",
