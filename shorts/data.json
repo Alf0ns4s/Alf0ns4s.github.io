@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-06T14:09:45+00:00",
+ "synced": "2026-11-06T14:30:31+00:00",
  "stats_updated": "2026-11-06T14:09:28+00:00",
  "channels": [
   {
@@ -1398,6 +1398,50 @@
   }
  ],
  "videos": [
+  {
+   "item": "20261106-141346_outbreak-files",
+   "channel": "outbreak-files",
+   "topic": "The Loading Bay (Part 1)",
+   "title": "Can You Get Out Through the Loading Bay? (Part 1)",
+   "status": "posted",
+   "created": "2026-11-06T14:30:24",
+   "scheduled_for": "2026-11-07T03:30:00+02:00",
+   "duration": 77.6,
+   "youtube_id": "5EN6t23FiIk",
+   "url": "https://youtube.com/shorts/5EN6t23FiIk",
+   "privacy": "private",
+   "publish_at": "2026-11-07T01:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261106-141346_outbreak-files.jpg",
+   "score": 98,
+   "video_score": 97,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "brighten",
+    "jump_cuts",
+    "punch_open"
+   ],
+   "rounds": 2,
+   "issues": [
+    "No shot longer than 7 seconds"
+   ],
+   "metrics": {
+    "cuts": 29,
+    "avg_shot": 2.58,
+    "wpm": 156,
+    "brightness": 63,
+    "loudness_db": -15.9
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261106-141346_outbreak-files.jpg"
+  },
   {
    "item": "20261106-031357_deep-sea-files",
    "channel": "deep-sea-files",
@@ -7124,13 +7168,11 @@
  "inbox_waiting": [],
  "production": {
   "health": {
-   "missing_uploads": [
-    "outbreak-files"
-   ],
+   "missing_uploads": [],
    "blocked_channels": [],
-   "all_channels_scheduled": false
+   "all_channels_scheduled": true
   },
-  "updated": "2026-11-06T13:58:40.899877+00:00",
+  "updated": "2026-11-06T14:13:38.575232+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -7210,36 +7252,36 @@
    {
     "channel": "outbreak-files",
     "name": "Outbreak Files",
-    "scheduled": 0,
-    "next_upload": null,
+    "scheduled": 1,
+    "next_upload": "2026-11-07T01:30:00+00:00",
     "pending_scripts": 0,
     "target": 1,
-    "status": "request_pending",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-06T01:32:12.806643+00:00",
+    "status": "buffer_ready",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-07T03:30:00+02:00",
     "series": "The Loading Bay",
-    "part": 1,
-    "pending_requests": 1,
+    "part": 2,
+    "pending_requests": 0,
     "last_writer_result": {
      "status": "accepted",
-     "updated": "2026-11-05T15:13:37.055005+00:00",
+     "updated": "2026-11-06T14:13:38.280999+00:00",
      "reason": null
     },
     "rework_count": 0,
-    "why": "A raw script request is waiting for validation; it is not an uploaded video.",
-    "automatic_step": "The next worker validates the request and records accepted, deferred or rejected feedback.",
-    "coverage": "missing"
+    "why": "Uploaded to YouTube with future publication times.",
+    "automatic_step": "The next production pass tops up the reserve when a slot opens.",
+    "coverage": "covered"
    }
   ],
   "worker": {
-   "updated": "2026-11-06T13:58:58.774361+00:00",
-   "stage": "dashboard",
+   "updated": "2026-11-06T14:30:29.147006+00:00",
+   "stage": "rendering outbreak-files",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-06T14:09:45.816893+00:00"
+  "snapshot_at": "2026-11-06T14:30:31.678106+00:00"
  },
  "insights": {
   "updated": "2026-11-06T14:09:42+00:00",
