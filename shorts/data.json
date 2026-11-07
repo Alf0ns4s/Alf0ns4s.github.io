@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-07T01:23:28+00:00",
+ "synced": "2026-11-07T01:28:55+00:00",
  "stats_updated": "2026-11-06T23:09:38+00:00",
  "channels": [
   {
@@ -7417,10 +7417,12 @@
  "production": {
   "health": {
    "missing_uploads": [],
-   "blocked_channels": [],
+   "blocked_channels": [
+    "mystery-files"
+   ],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-07T01:13:33.627080+00:00",
+  "updated": "2026-11-07T01:28:53.417665+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -7479,9 +7481,9 @@
     "next_upload": "2026-11-08T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "rendering",
-    "reason": null,
-    "waiting_since": null,
+    "status": "draft_blocked",
+    "reason": "Waiting for the scheduled ChatGPT cloud writer",
+    "waiting_since": "2026-11-07T01:28:53.259488+00:00",
     "retry_at": null,
     "expected_slot": "2026-11-08T02:15:00+02:00",
     "series": null,
@@ -7493,8 +7495,8 @@
      "reason": null
     },
     "rework_count": 1,
-    "why": "The cloud worker is rendering this channel; upload is not confirmed yet.",
-    "automatic_step": "Finish rendering, pass video QA, then upload and schedule automatically.",
+    "why": "The previous draft needs repair before this channel can continue.",
+    "automatic_step": "The scheduled writer repairs the existing draft, then the worker repeats QA.",
     "coverage": "low"
    },
    {
@@ -7524,12 +7526,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-07T01:23:26.045772+00:00",
-   "stage": "rendering mystery-files",
+   "updated": "2026-11-07T01:28:53.470206+00:00",
+   "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-07T01:23:27.983831+00:00"
+  "snapshot_at": "2026-11-07T01:28:55.834119+00:00"
  },
  "insights": {
   "updated": "2026-11-06T23:10:13+00:00",
