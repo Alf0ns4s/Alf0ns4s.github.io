@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-07T22:28:39+00:00",
+ "synced": "2026-11-07T22:43:42+00:00",
  "stats_updated": "2026-11-07T19:26:06+00:00",
  "channels": [
   {
@@ -7472,20 +7472,20 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-07T22:28:36.982454+00:00",
+  "updated": "2026-11-07T22:43:39.905198+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
-    "scheduled": 2,
-    "next_upload": "2026-11-07T22:30:00+00:00",
+    "scheduled": 1,
+    "next_upload": "2026-11-08T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "buffer_ready",
+    "status": "awaiting_worker",
     "reason": null,
     "waiting_since": null,
     "retry_at": null,
-    "expected_slot": "2026-11-08T00:30:00+02:00",
+    "expected_slot": "2026-11-09T00:30:00+02:00",
     "series": null,
     "part": null,
     "pending_requests": 0,
@@ -7495,9 +7495,9 @@
      "reason": null
     },
     "rework_count": 0,
-    "why": "Uploaded to YouTube with future publication times.",
-    "automatic_step": "The next production pass tops up the reserve when a slot opens.",
-    "coverage": "covered"
+    "why": "No script request or accepted script is waiting for this channel.",
+    "automatic_step": "The scheduled cloud writer must submit the next script; the worker then renders and uploads it.",
+    "coverage": "low"
    },
    {
     "channel": "money-facts",
@@ -7576,12 +7576,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-07T22:28:37.018500+00:00",
+   "updated": "2026-11-07T22:43:39.936460+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-07T22:28:38.974674+00:00"
+  "snapshot_at": "2026-11-07T22:43:42.392578+00:00"
  },
  "insights": {
   "updated": "2026-11-07T19:26:44+00:00",
