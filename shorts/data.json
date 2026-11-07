@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-06T23:58:53+00:00",
+ "synced": "2026-11-07T00:13:37+00:00",
  "stats_updated": "2026-11-06T23:09:38+00:00",
  "channels": [
   {
@@ -7335,7 +7335,7 @@
    ],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-06T23:58:50.930696+00:00",
+  "updated": "2026-11-07T00:13:34.893701+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -7353,9 +7353,9 @@
     "part": null,
     "pending_requests": 0,
     "last_writer_result": {
-     "status": "accepted",
-     "updated": "2026-11-06T23:13:48.620045+00:00",
-     "reason": null
+     "status": "rejected",
+     "updated": "2026-11-07T00:13:34.695062+00:00",
+     "reason": "scene 4: sentence exceeds 14 words\nscene 5: sentence exceeds 14 words"
     },
     "rework_count": 1,
     "why": "The previous draft needs repair before this channel can continue.",
@@ -7439,12 +7439,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-06T23:58:50.984006+00:00",
+   "updated": "2026-11-07T00:13:34.946544+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-06T23:58:53.534569+00:00"
+  "snapshot_at": "2026-11-07T00:13:37.463709+00:00"
  },
  "insights": {
   "updated": "2026-11-06T23:10:13+00:00",
