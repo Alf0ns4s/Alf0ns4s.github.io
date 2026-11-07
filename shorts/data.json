@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-07T19:13:39+00:00",
- "stats_updated": "2026-11-07T13:01:54+00:00",
+ "synced": "2026-11-07T19:26:49+00:00",
+ "stats_updated": "2026-11-07T19:26:06+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 22,
-   "views": 15864,
+   "views": 15879,
    "uploads": 24,
    "analytics": true,
    "daily": [
@@ -387,7 +387,7 @@
     {
      "date": "2026-11-07",
      "subscribers": 22,
-     "views": 15864
+     "views": 15879
     }
    ]
   },
@@ -400,7 +400,7 @@
     "23:15"
    ],
    "subscribers": 8,
-   "views": 7184,
+   "views": 7190,
    "uploads": 22,
    "analytics": true,
    "daily": [
@@ -742,7 +742,7 @@
     {
      "date": "2026-11-07",
      "subscribers": 8,
-     "views": 7184
+     "views": 7190
     }
    ]
   },
@@ -1114,7 +1114,7 @@
     "03:30"
    ],
    "subscribers": 20,
-   "views": 9826,
+   "views": 10029,
    "uploads": 19,
    "analytics": true,
    "daily": [
@@ -1440,7 +1440,7 @@
     {
      "date": "2026-11-07",
      "subscribers": 20,
-     "views": 9826
+     "views": 10029
     }
    ]
   }
@@ -1673,9 +1673,9 @@
    "url": "https://youtube.com/shorts/5EN6t23FiIk",
    "privacy": "public",
    "publish_at": "2026-11-07T01:30:00.000Z",
-   "views": 86,
-   "likes": 3,
-   "comments": 1,
+   "views": 163,
+   "likes": 4,
+   "comments": 2,
    "analytics": null,
    "thumb": "thumbs/20261106-141346_outbreak-files.jpg",
    "score": 98,
@@ -2072,7 +2072,7 @@
    "url": "https://youtube.com/shorts/tEsI98X6gVI",
    "privacy": "public",
    "publish_at": "2026-11-06T01:30:00.000Z",
-   "views": 188,
+   "views": 213,
    "likes": 4,
    "comments": 1,
    "analytics": null,
@@ -2115,8 +2115,8 @@
    "url": "https://youtube.com/shorts/aM6kSq9qt9s",
    "privacy": "public",
    "publish_at": "2026-11-06T22:30:00.000Z",
-   "views": 1315,
-   "likes": 39,
+   "views": 1356,
+   "likes": 41,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261105-031344_deep-sea-files.jpg",
@@ -2197,7 +2197,7 @@
    "url": "https://youtube.com/shorts/Bat3H1tZ-7A",
    "privacy": "public",
    "publish_at": "2026-11-06T21:15:00.000Z",
-   "views": 13,
+   "views": 16,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -2239,7 +2239,7 @@
    "url": "https://youtube.com/shorts/qA052f9ARic",
    "privacy": "public",
    "publish_at": "2026-11-05T01:30:00.000Z",
-   "views": 700,
+   "views": 702,
    "likes": 6,
    "comments": 1,
    "analytics": {
@@ -2379,7 +2379,7 @@
    "url": "https://youtube.com/shorts/4_tpBlNQeNg",
    "privacy": "public",
    "publish_at": "2026-11-05T21:15:00.000Z",
-   "views": 11,
+   "views": 13,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -2421,7 +2421,7 @@
    "url": "https://youtube.com/shorts/5SmYbSElyM8",
    "privacy": "public",
    "publish_at": "2026-11-05T22:30:00.000Z",
-   "views": 1198,
+   "views": 1202,
    "likes": 20,
    "comments": 0,
    "analytics": {
@@ -3233,7 +3233,7 @@
    "url": "https://youtube.com/shorts/QtuFS5DANBU",
    "privacy": "public",
    "publish_at": "2026-11-01T22:30:00.000Z",
-   "views": 95,
+   "views": 98,
    "likes": 3,
    "comments": 0,
    "analytics": {
@@ -3435,7 +3435,7 @@
    "url": "https://youtube.com/shorts/wySMhf877vA",
    "privacy": "public",
    "publish_at": "2026-11-01T00:15:00.000Z",
-   "views": 183,
+   "views": 185,
    "likes": 5,
    "comments": 0,
    "analytics": {
@@ -4932,7 +4932,7 @@
    "url": "https://youtube.com/shorts/GdPQZvVv6P8",
    "privacy": "public",
    "publish_at": "2026-10-27T22:30:00.000Z",
-   "views": 1592,
+   "views": 1593,
    "likes": 36,
    "comments": 1,
    "analytics": {
@@ -5598,7 +5598,7 @@
    "url": "https://youtube.com/shorts/XdfdBNV_IAM",
    "privacy": "public",
    "publish_at": "2026-10-24T00:30:00.000Z",
-   "views": 261,
+   "views": 263,
    "likes": 4,
    "comments": 1,
    "analytics": {
@@ -7576,16 +7576,16 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-07T19:13:37.270053+00:00",
-   "stage": "writing",
+   "updated": "2026-11-07T19:13:52.081987+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-07T19:13:39.289342+00:00"
+  "snapshot_at": "2026-11-07T19:26:49.312358+00:00"
  },
  "insights": {
-  "updated": "2026-11-07T13:02:05+00:00",
-  "videos_analysed": 84,
+  "updated": "2026-11-07T19:26:44+00:00",
+  "videos_analysed": 85,
   "rules": [
    {
     "id": "title_style:number",
@@ -7595,7 +7595,7 @@
     "prefer": false,
     "level": "likely",
     "text": "Do LESS: title style 'number'",
-    "evidence": "26 videos vs 58, 21% worse (agrees on 3 channel(s), disagrees on 1; chance it's luck 7%)"
+    "evidence": "26 videos vs 59, 21% worse (agrees on 3 channel(s), disagrees on 1; chance it's luck 8%)"
    },
    {
     "id": "scene:pos_scene_2",
@@ -7612,8 +7612,8 @@
    "Do MORE: title style 'why / how'",
    "Do MORE: hook style 'mystery / impossible claim'",
    "Do LESS: title style 'POV'",
-   "Do LESS: hook style 'imagine / what if'",
-   "Do LESS: closing question 'ends with a question'"
+   "Do LESS: closing question 'ends with a question'",
+   "Do LESS: hook style 'imagine / what if'"
   ],
   "leave": [
    "Scenes with more than 16 words lose viewers 1.5x faster. Keep each scene to one idea, 16 words or fewer.",
@@ -7653,7 +7653,7 @@
      },
      {
       "title": "Why Does a Pistol Shrimp Keep Touching Its Goby?",
-      "views": 1198,
+      "views": 1202,
       "watched": 64.3,
       "duration": 29.5,
       "hook": "Why touch this fish?",
@@ -7661,7 +7661,7 @@
      },
      {
       "title": "This Fish Chokes Sharks With Slime",
-      "views": 1592,
+      "views": 1593,
       "watched": 48.31,
       "duration": 39.9,
       "hook": "Why did this shark let you go?",
@@ -7736,7 +7736,7 @@
     ]
    },
    "outbreak-files": {
-    "count": 17,
+    "count": 18,
     "notes": [
      "Do LESS: title style 'number'",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
