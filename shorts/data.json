@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-07T00:58:56+00:00",
+ "synced": "2026-11-07T01:23:28+00:00",
  "stats_updated": "2026-11-06T23:09:38+00:00",
  "channels": [
   {
@@ -1427,6 +1427,92 @@
  ],
  "videos": [
   {
+   "item": "20261107-011814_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The 1961 theft of Goya's Duke of Wellington and the different verdicts for the painting and its missing frame",
+   "title": "Why Did the Goya Theft End in a Frame Conviction?",
+   "status": "rejected",
+   "created": "2026-11-07T01:23:25",
+   "scheduled_for": null,
+   "duration": 32.4,
+   "youtube_id": null,
+   "url": null,
+   "privacy": null,
+   "publish_at": null,
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261107-011814_mystery-files.jpg",
+   "score": 92,
+   "video_score": 85,
+   "script_score": 100,
+   "verdict": "needs_rework",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "No shot longer than 5 seconds",
+    "Something new every 4 s (cut, effect, card, sound)",
+    "No empty-looking shots"
+   ],
+   "metrics": {
+    "cuts": 10,
+    "avg_shot": 2.94,
+    "wpm": 150,
+    "brightness": 59,
+    "loudness_db": -15.2
+   },
+   "error": null,
+   "technical_pass": false,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261107-011814_mystery-files.jpg"
+  },
+  {
+   "item": "20261107-011339_deep-sea-files",
+   "channel": "deep-sea-files",
+   "topic": "POV: a moray eel swims backward into a rocky reef shelter without turning around",
+   "title": "What Lets a Moray Back Into Its Hideout?",
+   "status": "posted",
+   "created": "2026-11-07T01:18:08",
+   "scheduled_for": "2026-11-09T00:30:00+02:00",
+   "duration": 28.7,
+   "youtube_id": "VUnUCejzQLU",
+   "url": "https://youtube.com/shorts/VUnUCejzQLU",
+   "privacy": "private",
+   "publish_at": "2026-11-08T22:30:00.000Z",
+   "views": null,
+   "likes": null,
+   "comments": null,
+   "analytics": null,
+   "thumb": "thumbs/20261107-011339_deep-sea-files.jpg",
+   "score": 97,
+   "video_score": 94,
+   "script_score": 100,
+   "verdict": "pass",
+   "fixes": [
+    "jump_cuts"
+   ],
+   "rounds": 2,
+   "issues": [
+    "Picture changes within 1.6 seconds"
+   ],
+   "metrics": {
+    "cuts": 13,
+    "avg_shot": 2.05,
+    "wpm": 159,
+    "brightness": 98,
+    "loudness_db": -15.6
+   },
+   "error": null,
+   "technical_pass": true,
+   "direction_version": 2,
+   "scene_style": "directed",
+   "scene_review": "reviews/20261107-011339_deep-sea-files.jpg"
+  },
+  {
    "item": "20261106-232106_money-facts",
    "channel": "money-facts",
    "topic": "How nearest-nickel cash rounding turns a one-cent bill difference into five cents paid",
@@ -1473,7 +1559,7 @@
    "channel": "deep-sea-files",
    "topic": "POV: a moray eel swims backward into a rocky reef shelter without turning around",
    "title": "What Lets a Moray Back Into Its Hideout?",
-   "status": "rejected",
+   "status": "replaced",
    "created": "2026-11-06T23:21:02",
    "scheduled_for": null,
    "duration": 27.2,
@@ -7315,14 +7401,15 @@
  ],
  "rework": [
   {
-   "item": "20261106-231355_deep-sea-files",
-   "channel": "deep-sea-files",
-   "topic": "POV: a moray eel swims backward into a rocky reef shelter without turning around",
+   "item": "20261107-011814_mystery-files",
+   "channel": "mystery-files",
+   "topic": "The 1961 theft of Goya's Duke of Wellington and the different verdicts for the painting and its missing frame",
    "score": 92,
    "round": 1,
    "reasons": [
-    "First cut at 1.7s. The first shot should last 1-1.5 s.",
-    "Video is 27s. Aim for 28-42 s."
+    "Longest shot is 6.0s. Split it.",
+    "6.0s go by with nothing new on screen. Add a cut, a UI card, a slam word or a sound on that beat.",
+    "For 6.0s the picture is almost empty (a plain background with one small effect). Fill those shots: show the creature or object big, in a real place, doing the thing."
    ]
   }
  ],
@@ -7330,37 +7417,35 @@
  "production": {
   "health": {
    "missing_uploads": [],
-   "blocked_channels": [
-    "deep-sea-files"
-   ],
+   "blocked_channels": [],
    "all_channels_scheduled": true
   },
-  "updated": "2026-11-07T00:58:53.934043+00:00",
+  "updated": "2026-11-07T01:13:33.627080+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
     "name": "Deep Sea Files",
-    "scheduled": 1,
+    "scheduled": 2,
     "next_upload": "2026-11-07T22:30:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "draft_blocked",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-06T23:29:23.905977+00:00",
+    "status": "buffer_ready",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-08T00:30:00+02:00",
     "series": null,
     "part": null,
     "pending_requests": 0,
     "last_writer_result": {
-     "status": "rejected",
-     "updated": "2026-11-07T00:13:34.695062+00:00",
-     "reason": "scene 4: sentence exceeds 14 words\nscene 5: sentence exceeds 14 words"
+     "status": "accepted",
+     "updated": "2026-11-07T01:13:33.373786+00:00",
+     "reason": null
     },
-    "rework_count": 1,
-    "why": "The previous draft needs repair before this channel can continue.",
-    "automatic_step": "The scheduled writer repairs the existing draft, then the worker repeats QA.",
-    "coverage": "low"
+    "rework_count": 0,
+    "why": "Uploaded to YouTube with future publication times.",
+    "automatic_step": "The next production pass tops up the reserve when a slot opens.",
+    "coverage": "covered"
    },
    {
     "channel": "money-facts",
@@ -7394,9 +7479,9 @@
     "next_upload": "2026-11-08T00:15:00+00:00",
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_cloud_writer",
-    "reason": "Waiting for the scheduled ChatGPT cloud writer",
-    "waiting_since": "2026-11-07T00:28:44.858095+00:00",
+    "status": "rendering",
+    "reason": null,
+    "waiting_since": null,
     "retry_at": null,
     "expected_slot": "2026-11-08T02:15:00+02:00",
     "series": null,
@@ -7404,12 +7489,12 @@
     "pending_requests": 0,
     "last_writer_result": {
      "status": "accepted",
-     "updated": "2026-11-06T02:13:39.618299+00:00",
+     "updated": "2026-11-07T01:13:33.373786+00:00",
      "reason": null
     },
-    "rework_count": 0,
-    "why": "No script request or accepted script is waiting for this channel.",
-    "automatic_step": "The scheduled cloud writer must submit the next script; the worker then renders and uploads it.",
+    "rework_count": 1,
+    "why": "The cloud worker is rendering this channel; upload is not confirmed yet.",
+    "automatic_step": "Finish rendering, pass video QA, then upload and schedule automatically.",
     "coverage": "low"
    },
    {
@@ -7439,12 +7524,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-07T00:58:53.976754+00:00",
-   "stage": "writing",
+   "updated": "2026-11-07T01:23:26.045772+00:00",
+   "stage": "rendering mystery-files",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-07T00:58:56.624084+00:00"
+  "snapshot_at": "2026-11-07T01:23:27.983831+00:00"
  },
  "insights": {
   "updated": "2026-11-06T23:10:13+00:00",
