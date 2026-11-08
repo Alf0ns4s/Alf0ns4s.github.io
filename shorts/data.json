@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-08T13:13:42+00:00",
- "stats_updated": "2026-11-08T10:24:13+00:00",
+ "synced": "2026-11-08T13:14:41+00:00",
+ "stats_updated": "2026-11-08T13:14:27+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -1741,7 +1741,7 @@
    "url": "https://youtube.com/shorts/5EN6t23FiIk",
    "privacy": "public",
    "publish_at": "2026-11-07T01:30:00.000Z",
-   "views": 205,
+   "views": 213,
    "likes": 3,
    "comments": 2,
    "analytics": null,
@@ -1785,7 +1785,7 @@
    "url": "https://youtube.com/shorts/tUtHQNOaJUc",
    "privacy": "public",
    "publish_at": "2026-11-07T22:30:00.000Z",
-   "views": 15,
+   "views": 16,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -2054,7 +2054,7 @@
    "url": "https://youtube.com/shorts/gmm8j7v1L-4",
    "privacy": "public",
    "publish_at": "2026-11-07T21:15:00.000Z",
-   "views": 712,
+   "views": 714,
    "likes": 4,
    "comments": 0,
    "analytics": null,
@@ -2192,7 +2192,7 @@
    "url": "https://youtube.com/shorts/aM6kSq9qt9s",
    "privacy": "public",
    "publish_at": "2026-11-06T22:30:00.000Z",
-   "views": 1464,
+   "views": 1470,
    "likes": 42,
    "comments": 0,
    "analytics": null,
@@ -2274,7 +2274,7 @@
    "url": "https://youtube.com/shorts/Bat3H1tZ-7A",
    "privacy": "public",
    "publish_at": "2026-11-06T21:15:00.000Z",
-   "views": 31,
+   "views": 33,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -2516,7 +2516,7 @@
    "url": "https://youtube.com/shorts/5SmYbSElyM8",
    "privacy": "public",
    "publish_at": "2026-11-05T22:30:00.000Z",
-   "views": 1207,
+   "views": 1209,
    "likes": 20,
    "comments": 0,
    "analytics": {
@@ -2796,7 +2796,7 @@
    "url": "https://youtube.com/shorts/96bXaFxSHYI",
    "privacy": "public",
    "publish_at": "2026-11-04T22:30:00.000Z",
-   "views": 227,
+   "views": 228,
    "likes": 4,
    "comments": 0,
    "analytics": {
@@ -2892,7 +2892,7 @@
    "url": "https://youtube.com/shorts/mGe76XcAsNk",
    "privacy": "public",
    "publish_at": "2026-11-04T21:15:00.000Z",
-   "views": 1035,
+   "views": 1039,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -6050,7 +6050,7 @@
    "url": "https://youtube.com/shorts/uCODTjlf20o",
    "privacy": "public",
    "publish_at": "2026-10-22T21:30:00.000Z",
-   "views": 1376,
+   "views": 1377,
    "likes": 12,
    "comments": 1,
    "analytics": {
@@ -6962,7 +6962,7 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1098,
+   "views": 1099,
    "likes": 15,
    "comments": 2,
    "analytics": {
@@ -7671,27 +7671,17 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-08T13:13:39.596377+00:00",
-   "stage": "writing",
+   "updated": "2026-11-08T13:13:57.967363+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-08T13:13:42.393978+00:00"
+  "snapshot_at": "2026-11-08T13:14:41.160372+00:00"
  },
  "insights": {
-  "updated": "2026-11-08T10:24:23+00:00",
-  "videos_analysed": 86,
+  "updated": "2026-11-08T13:14:37+00:00",
+  "videos_analysed": 88,
   "rules": [
-   {
-    "id": "title_style:number",
-    "kind": "feature",
-    "feature": "title_style",
-    "group": "number",
-    "prefer": false,
-    "level": "likely",
-    "text": "Do LESS: title style 'number'",
-    "evidence": "26 videos vs 60, 20% worse (agrees on 3 channel(s), disagrees on 1; chance it's luck 9%)"
-   },
    {
     "id": "scene:pos_scene_2",
     "kind": "scene",
@@ -7704,6 +7694,7 @@
   "changes": [],
   "hints": [
    "Do LESS: first line length 'first line 1-4 words'",
+   "Do LESS: title style 'number'",
    "Do MORE: hook style 'mystery / impossible claim'",
    "Do LESS: title style 'POV'",
    "Keep each scene to one idea, 16 words or fewer."
@@ -7730,12 +7721,19 @@
   },
   "channels": {
    "deep-sea-files": {
-    "count": 23,
+    "count": 24,
     "notes": [
-     "Do LESS: title style 'number'",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
     "top": [
+     {
+      "title": "How Baby Turtles Find the Sea Without a Full Moon",
+      "views": 1470,
+      "watched": null,
+      "duration": 27.3,
+      "hook": "Do baby turtles need a full moon?",
+      "hook_style": "question"
+     },
      {
       "title": "POV: You're a Pufferfish and Something Wants You",
       "views": 1334,
@@ -7751,27 +7749,18 @@
       "duration": 39.9,
       "hook": "Why did this shark let you go?",
       "hook_style": "question"
-     },
-     {
-      "title": "How This Jellyfish Rewinds Its Life",
-      "views": 1183,
-      "watched": 71.42,
-      "duration": 31.4,
-      "hook": "POV: you can grow young again.",
-      "hook_style": "POV / you"
      }
     ]
    },
    "money-facts": {
     "count": 22,
     "notes": [
-     "Do LESS: title style 'number'",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
     "top": [
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
-      "views": 1035,
+      "views": 1039,
       "watched": 69.1,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
@@ -7796,9 +7785,8 @@
     ]
    },
    "mystery-files": {
-    "count": 23,
+    "count": 24,
     "notes": [
-     "Do LESS: title style 'number'",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
     "top": [
@@ -7831,7 +7819,6 @@
    "outbreak-files": {
     "count": 18,
     "notes": [
-     "Do LESS: title style 'number'",
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
     "top": [
