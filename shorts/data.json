@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-09T15:58:49+00:00",
- "stats_updated": "2026-11-09T06:30:15+00:00",
+ "synced": "2026-11-09T16:03:07+00:00",
+ "stats_updated": "2026-11-09T16:02:33+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 22,
-   "views": 17410,
+   "views": 17449,
    "uploads": 26,
    "analytics": true,
    "daily": [
@@ -411,7 +411,7 @@
     {
      "date": "2026-11-09",
      "subscribers": 22,
-     "views": 17410
+     "views": 17449
     }
    ]
   },
@@ -1575,7 +1575,7 @@
    "url": "https://youtube.com/shorts/RaqpSdtvhZ4",
    "privacy": "public",
    "publish_at": "2026-11-09T00:15:00.000Z",
-   "views": 3,
+   "views": 4,
    "likes": 0,
    "comments": 0,
    "analytics": null,
@@ -1662,7 +1662,7 @@
    "url": "https://youtube.com/shorts/VUnUCejzQLU",
    "privacy": "public",
    "publish_at": "2026-11-08T22:30:00.000Z",
-   "views": 708,
+   "views": 973,
    "likes": 4,
    "comments": 0,
    "analytics": null,
@@ -1704,7 +1704,7 @@
    "url": "https://youtube.com/shorts/RDXBqQLqvro",
    "privacy": "public",
    "publish_at": "2026-11-08T21:15:00.000Z",
-   "views": 940,
+   "views": 949,
    "likes": 9,
    "comments": 0,
    "analytics": null,
@@ -1789,7 +1789,7 @@
    "url": "https://youtube.com/shorts/5EN6t23FiIk",
    "privacy": "public",
    "publish_at": "2026-11-07T01:30:00.000Z",
-   "views": 236,
+   "views": 237,
    "likes": 3,
    "comments": 2,
    "analytics": {
@@ -1842,8 +1842,8 @@
    "url": "https://youtube.com/shorts/tUtHQNOaJUc",
    "privacy": "public",
    "publish_at": "2026-11-07T22:30:00.000Z",
-   "views": 266,
-   "likes": 7,
+   "views": 633,
+   "likes": 10,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261106-031357_deep-sea-files.jpg",
@@ -2111,7 +2111,7 @@
    "url": "https://youtube.com/shorts/gmm8j7v1L-4",
    "privacy": "public",
    "publish_at": "2026-11-07T21:15:00.000Z",
-   "views": 736,
+   "views": 744,
    "likes": 4,
    "comments": 0,
    "analytics": null,
@@ -2249,8 +2249,8 @@
    "url": "https://youtube.com/shorts/aM6kSq9qt9s",
    "privacy": "public",
    "publish_at": "2026-11-06T22:30:00.000Z",
-   "views": 1501,
-   "likes": 45,
+   "views": 1535,
+   "likes": 46,
    "comments": 0,
    "analytics": {
     "views": 1285,
@@ -2298,7 +2298,7 @@
    "url": "https://youtube.com/shorts/KH8VUl5lsa4",
    "privacy": "public",
    "publish_at": "2026-11-07T00:15:00.000Z",
-   "views": 19,
+   "views": 20,
    "likes": 0,
    "comments": 0,
    "analytics": {
@@ -2600,7 +2600,7 @@
    "url": "https://youtube.com/shorts/5SmYbSElyM8",
    "privacy": "public",
    "publish_at": "2026-11-05T22:30:00.000Z",
-   "views": 1211,
+   "views": 1216,
    "likes": 20,
    "comments": 0,
    "analytics": {
@@ -2880,7 +2880,7 @@
    "url": "https://youtube.com/shorts/96bXaFxSHYI",
    "privacy": "public",
    "publish_at": "2026-11-04T22:30:00.000Z",
-   "views": 229,
+   "views": 233,
    "likes": 4,
    "comments": 0,
    "analytics": {
@@ -2976,7 +2976,7 @@
    "url": "https://youtube.com/shorts/mGe76XcAsNk",
    "privacy": "public",
    "publish_at": "2026-11-04T21:15:00.000Z",
-   "views": 1040,
+   "views": 1041,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -3463,7 +3463,7 @@
    "url": "https://youtube.com/shorts/uh0EZ8yqNxA",
    "privacy": "public",
    "publish_at": "2026-11-01T21:15:00.000Z",
-   "views": 751,
+   "views": 752,
    "likes": 8,
    "comments": 0,
    "analytics": {
@@ -3614,7 +3614,7 @@
    "url": "https://youtube.com/shorts/wySMhf877vA",
    "privacy": "public",
    "publish_at": "2026-11-01T00:15:00.000Z",
-   "views": 185,
+   "views": 186,
    "likes": 5,
    "comments": 0,
    "analytics": {
@@ -3805,7 +3805,7 @@
    "url": "https://youtube.com/shorts/nXbnbHBt5C0",
    "privacy": "public",
    "publish_at": "2026-10-30T23:00:00Z",
-   "views": 1122,
+   "views": 1123,
    "likes": 19,
    "comments": 2,
    "analytics": {
@@ -7758,16 +7758,16 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-09T15:58:45.655078+00:00",
-   "stage": "writing",
+   "updated": "2026-11-09T15:59:04.276554+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-09T15:58:49.616917+00:00"
+  "snapshot_at": "2026-11-09T16:03:07.542459+00:00"
  },
  "insights": {
-  "updated": "2026-11-09T06:30:26+00:00",
-  "videos_analysed": 89,
+  "updated": "2026-11-09T16:03:04+00:00",
+  "videos_analysed": 92,
   "rules": [
    {
     "id": "scene:pos_scene_2",
@@ -7781,9 +7781,10 @@
   "changes": [],
   "hints": [
    "Do LESS: first line length 'first line 1-4 words'",
-   "Do LESS: title style 'number'",
+   "Do LESS: title style 'POV'",
    "Do MORE: hook style 'mystery / impossible claim'",
-   "Do LESS: title style 'POV'"
+   "Do LESS: title style 'number'",
+   "Do MORE: title style 'why / how'"
   ],
   "leave": [
    "Viewers leave fastest in scene 2 (1.7x the average rate). Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
@@ -7806,7 +7807,7 @@
   },
   "channels": {
    "deep-sea-files": {
-    "count": 24,
+    "count": 25,
     "notes": [
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
@@ -7821,7 +7822,7 @@
      },
      {
       "title": "How Baby Turtles Find the Sea Without a Full Moon",
-      "views": 1501,
+      "views": 1535,
       "watched": 50.05,
       "duration": 27.3,
       "hook": "Do baby turtles need a full moon?",
@@ -7838,14 +7839,14 @@
     ]
    },
    "money-facts": {
-    "count": 22,
+    "count": 23,
     "notes": [
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
     "top": [
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
-      "views": 1040,
+      "views": 1041,
       "watched": 69.2,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
@@ -7870,7 +7871,7 @@
     ]
    },
    "mystery-files": {
-    "count": 24,
+    "count": 25,
     "notes": [
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
