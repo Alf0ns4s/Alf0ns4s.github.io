@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-09T02:28:45+00:00",
+ "synced": "2026-11-09T02:43:46+00:00",
  "stats_updated": "2026-11-08T22:06:06+00:00",
  "channels": [
   {
@@ -7634,7 +7634,7 @@
    "blocked_channels": [],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-09T02:28:43.227100+00:00",
+  "updated": "2026-11-09T02:43:43.576447+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -7693,7 +7693,7 @@
     "next_upload": null,
     "pending_scripts": 0,
     "target": 2,
-    "status": "awaiting_cloud_writer",
+    "status": "writer_delayed",
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "waiting_since": "2026-11-09T00:28:46.011089+00:00",
     "retry_at": null,
@@ -7707,8 +7707,8 @@
      "reason": null
     },
     "rework_count": 0,
-    "why": "No script request or accepted script is waiting for this channel.",
-    "automatic_step": "The scheduled cloud writer must submit the next script; the worker then renders and uploads it.",
+    "why": "The channel has been ready for at least two hours, but no script request has arrived.",
+    "automatic_step": "The next scheduled writing pass should submit a draft. If this persists, check the ChatGPT production task for a paused run, account limit or access failure; rerunning the renderer alone cannot write it.",
     "coverage": "missing"
    },
    {
@@ -7738,12 +7738,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-09T02:28:43.244032+00:00",
+   "updated": "2026-11-09T02:43:43.630615+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-09T02:28:45.863761+00:00"
+  "snapshot_at": "2026-11-09T02:43:46.056226+00:00"
  },
  "insights": {
   "updated": "2026-11-08T22:06:17+00:00",
