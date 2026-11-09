@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-09T19:43:42+00:00",
- "stats_updated": "2026-11-09T16:02:33+00:00",
+ "synced": "2026-11-09T19:50:36+00:00",
+ "stats_updated": "2026-11-09T19:50:19+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 22,
-   "views": 17449,
+   "views": 19073,
    "uploads": 26,
    "analytics": true,
    "daily": [
@@ -411,7 +411,7 @@
     {
      "date": "2026-11-09",
      "subscribers": 22,
-     "views": 17449
+     "views": 19073
     }
    ]
   },
@@ -424,7 +424,7 @@
     "23:15"
    ],
    "subscribers": 8,
-   "views": 7976,
+   "views": 8939,
    "uploads": 24,
    "analytics": true,
    "daily": [
@@ -810,7 +810,7 @@
     {
      "date": "2026-11-09",
      "subscribers": 8,
-     "views": 7976
+     "views": 8939
     }
    ]
   },
@@ -1662,7 +1662,7 @@
    "url": "https://youtube.com/shorts/VUnUCejzQLU",
    "privacy": "public",
    "publish_at": "2026-11-08T22:30:00.000Z",
-   "views": 973,
+   "views": 970,
    "likes": 4,
    "comments": 0,
    "analytics": null,
@@ -1704,7 +1704,7 @@
    "url": "https://youtube.com/shorts/RDXBqQLqvro",
    "privacy": "public",
    "publish_at": "2026-11-08T21:15:00.000Z",
-   "views": 949,
+   "views": 943,
    "likes": 9,
    "comments": 0,
    "analytics": null,
@@ -1789,7 +1789,7 @@
    "url": "https://youtube.com/shorts/5EN6t23FiIk",
    "privacy": "public",
    "publish_at": "2026-11-07T01:30:00.000Z",
-   "views": 237,
+   "views": 236,
    "likes": 3,
    "comments": 2,
    "analytics": {
@@ -1842,7 +1842,7 @@
    "url": "https://youtube.com/shorts/tUtHQNOaJUc",
    "privacy": "public",
    "publish_at": "2026-11-07T22:30:00.000Z",
-   "views": 633,
+   "views": 631,
    "likes": 10,
    "comments": 0,
    "analytics": null,
@@ -2249,8 +2249,8 @@
    "url": "https://youtube.com/shorts/aM6kSq9qt9s",
    "privacy": "public",
    "publish_at": "2026-11-06T22:30:00.000Z",
-   "views": 1535,
-   "likes": 46,
+   "views": 1542,
+   "likes": 45,
    "comments": 0,
    "analytics": {
     "views": 1285,
@@ -2976,7 +2976,7 @@
    "url": "https://youtube.com/shorts/mGe76XcAsNk",
    "privacy": "public",
    "publish_at": "2026-11-04T21:15:00.000Z",
-   "views": 1041,
+   "views": 1043,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -7758,15 +7758,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-09T19:43:39.840156+00:00",
-   "stage": "writing",
+   "updated": "2026-11-09T19:43:58.711289+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-09T19:43:42.733730+00:00"
+  "snapshot_at": "2026-11-09T19:50:36.818016+00:00"
  },
  "insights": {
-  "updated": "2026-11-09T16:03:04+00:00",
+  "updated": "2026-11-09T19:50:31+00:00",
   "videos_analysed": 92,
   "rules": [
    {
@@ -7822,7 +7822,7 @@
      },
      {
       "title": "How Baby Turtles Find the Sea Without a Full Moon",
-      "views": 1535,
+      "views": 1542,
       "watched": 50.05,
       "duration": 27.3,
       "hook": "Do baby turtles need a full moon?",
@@ -7846,7 +7846,7 @@
     "top": [
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
-      "views": 1041,
+      "views": 1043,
       "watched": 69.2,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
