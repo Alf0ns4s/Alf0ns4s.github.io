@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-10T15:58:45+00:00",
+ "synced": "2026-11-10T16:13:56+00:00",
  "stats_updated": "2026-11-10T14:53:43+00:00",
  "channels": [
   {
@@ -7705,10 +7705,12 @@
     "mystery-files",
     "outbreak-files"
    ],
-   "blocked_channels": [],
+   "blocked_channels": [
+    "outbreak-files"
+   ],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-10T15:58:41.725275+00:00",
+  "updated": "2026-11-10T16:13:53.928727+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -7792,7 +7794,7 @@
     "next_upload": null,
     "pending_scripts": 0,
     "target": 1,
-    "status": "writer_delayed",
+    "status": "draft_blocked",
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "waiting_since": "2026-11-07T13:43:31.049080+00:00",
     "retry_at": null,
@@ -7801,23 +7803,23 @@
     "part": 2,
     "pending_requests": 0,
     "last_writer_result": {
-     "status": "accepted",
-     "updated": "2026-11-06T14:13:38.280999+00:00",
-     "reason": null
+     "status": "rejected",
+     "updated": "2026-11-10T16:13:52.448946+00:00",
+     "reason": "Hook has a shock, number, question or contrast: Open with the single most surprising fact, a number, a 'POV:' or a question - no context first.\nFrame 1 shows the main subject big: In the very first frame the main subject must already be big (w 0.45+), visible (no fade-in or pop) and mid-action. No establishing shot.\nScript score 89 is below 95"
     },
     "rework_count": 0,
-    "why": "The channel has been ready for at least two hours, but no script request has arrived.",
-    "automatic_step": "The next scheduled writing pass should submit a draft. If this persists, check the ChatGPT production task for a paused run, account limit or access failure; rerunning the renderer alone cannot write it.",
+    "why": "The last script request failed validation. No replacement request is waiting.",
+    "automatic_step": "The scheduled writer must repair the saved draft with a new request ID.",
     "coverage": "missing"
    }
   ],
   "worker": {
-   "updated": "2026-11-10T15:58:41.750750+00:00",
+   "updated": "2026-11-10T16:13:53.984077+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-10T15:58:44.980703+00:00"
+  "snapshot_at": "2026-11-10T16:13:56.728108+00:00"
  },
  "insights": {
   "updated": "2026-11-10T14:54:00+00:00",
