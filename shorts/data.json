@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-11T06:13:41+00:00",
- "stats_updated": "2026-11-10T21:18:27+00:00",
+ "synced": "2026-11-11T06:22:14+00:00",
+ "stats_updated": "2026-11-11T06:21:55+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,17 +11,10 @@
     "00:30"
    ],
    "subscribers": 22,
-   "views": 19111,
+   "views": 19217,
    "uploads": 26,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-14",
-     "views": 46,
-     "estimatedMinutesWatched": 10,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-15",
      "views": 349,
@@ -449,6 +442,11 @@
      "date": "2026-11-10",
      "subscribers": 22,
      "views": 19111
+    },
+    {
+     "date": "2026-11-11",
+     "subscribers": 22,
+     "views": 19217
     }
    ]
   },
@@ -461,17 +459,10 @@
     "23:15"
    ],
    "subscribers": 8,
-   "views": 8935,
+   "views": 9021,
    "uploads": 25,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-14",
-     "views": 202,
-     "estimatedMinutesWatched": 20,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-15",
      "views": 224,
@@ -860,6 +851,11 @@
      "date": "2026-11-10",
      "subscribers": 8,
      "views": 8935
+    },
+    {
+     "date": "2026-11-11",
+     "subscribers": 8,
+     "views": 9021
     }
    ]
   },
@@ -871,18 +867,11 @@
    "post_times": [
     "02:15"
    ],
-   "subscribers": 9,
+   "subscribers": 10,
    "views": 8996,
-   "uploads": 26,
+   "uploads": 27,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-14",
-     "views": 27,
-     "estimatedMinutesWatched": 3,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-15",
      "views": 21,
@@ -1255,6 +1244,11 @@
      "date": "2026-11-10",
      "subscribers": 9,
      "views": 8996
+    },
+    {
+     "date": "2026-11-11",
+     "subscribers": 10,
+     "views": 8996
     }
    ]
   },
@@ -1266,9 +1260,9 @@
    "post_times": [
     "03:30"
    ],
-   "subscribers": 19,
+   "subscribers": 20,
    "views": 10314,
-   "uploads": 19,
+   "uploads": 20,
    "analytics": true,
    "daily": [
     {
@@ -1637,6 +1631,11 @@
      "date": "2026-11-10",
      "subscribers": 19,
      "views": 10314
+    },
+    {
+     "date": "2026-11-11",
+     "subscribers": 20,
+     "views": 10314
     }
    ]
   }
@@ -1653,10 +1652,10 @@
    "duration": 70.1,
    "youtube_id": "C6WGwdUEvxQ",
    "url": "https://youtube.com/shorts/C6WGwdUEvxQ",
-   "privacy": "private",
-   "publish_at": "2026-11-11T01:30:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-11-11T01:30:00.000Z",
+   "views": 259,
+   "likes": 5,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261110-173219_outbreak-files.jpg",
@@ -1694,10 +1693,10 @@
    "duration": 31.3,
    "youtube_id": "J-xpfeH_-mM",
    "url": "https://youtube.com/shorts/J-xpfeH_-mM",
-   "privacy": "private",
-   "publish_at": "2026-11-11T00:15:00Z",
-   "views": 0,
-   "likes": 0,
+   "privacy": "public",
+   "publish_at": "2026-11-11T00:15:00.000Z",
+   "views": 580,
+   "likes": 11,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261110-172429_mystery-files.jpg",
@@ -1738,8 +1737,8 @@
    "url": "https://youtube.com/shorts/rtX5lzMFCzI",
    "privacy": "public",
    "publish_at": "2026-11-10T21:15:00.000Z",
-   "views": 0,
-   "likes": 0,
+   "views": 823,
+   "likes": 8,
    "comments": 0,
    "analytics": null,
    "thumb": "thumbs/20261110-172107_money-facts.jpg",
@@ -1869,7 +1868,7 @@
    "url": "https://youtube.com/shorts/RaqpSdtvhZ4",
    "privacy": "public",
    "publish_at": "2026-11-09T00:15:00.000Z",
-   "views": 7,
+   "views": 8,
    "likes": 0,
    "comments": 0,
    "analytics": {
@@ -2111,7 +2110,7 @@
    "privacy": "public",
    "publish_at": "2026-11-07T01:30:00.000Z",
    "views": 237,
-   "likes": 3,
+   "likes": 4,
    "comments": 2,
    "analytics": {
     "views": 242,
@@ -2602,9 +2601,9 @@
    "comments": 0,
    "analytics": {
     "views": 1521,
-    "estimatedMinutesWatched": 216,
+    "estimatedMinutesWatched": 217,
     "averageViewDuration": 13,
-    "averageViewPercentage": 48.85,
+    "averageViewPercentage": 48.82,
     "subscribersGained": 4,
     "likes": 45,
     "shares": 0,
@@ -3324,7 +3323,7 @@
    "url": "https://youtube.com/shorts/mGe76XcAsNk",
    "privacy": "public",
    "publish_at": "2026-11-04T21:15:00.000Z",
-   "views": 1046,
+   "views": 1047,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -4012,7 +4011,7 @@
    "privacy": "public",
    "publish_at": "2026-10-31T01:30:00.000Z",
    "views": 773,
-   "likes": 13,
+   "likes": 14,
    "comments": 1,
    "analytics": {
     "views": 773,
@@ -4705,7 +4704,7 @@
    "privacy": "public",
    "publish_at": "2026-10-29T01:30:00.000Z",
    "views": 114,
-   "likes": 1,
+   "likes": 2,
    "comments": 1,
    "analytics": {
     "views": 114,
@@ -5317,7 +5316,7 @@
    "privacy": "public",
    "publish_at": "2026-10-28T01:30:00.000Z",
    "views": 392,
-   "likes": 9,
+   "likes": 10,
    "comments": 1,
    "analytics": {
     "views": 392,
@@ -5507,7 +5506,7 @@
    "privacy": "public",
    "publish_at": "2026-10-27T01:30:00.000Z",
    "views": 194,
-   "likes": 2,
+   "likes": 3,
    "comments": 1,
    "analytics": {
     "views": 194,
@@ -7395,7 +7394,7 @@
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
    "views": 1099,
-   "likes": 15,
+   "likes": 16,
    "comments": 2,
    "analytics": {
     "views": 1099,
@@ -8122,15 +8121,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-11T06:13:38.810042+00:00",
-   "stage": "writing",
+   "updated": "2026-11-11T06:13:56.528298+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-11T06:13:41.278069+00:00"
+  "snapshot_at": "2026-11-11T06:22:14.684228+00:00"
  },
  "insights": {
-  "updated": "2026-11-10T21:18:38+00:00",
+  "updated": "2026-11-11T06:22:07+00:00",
   "videos_analysed": 95,
   "rules": [
    {
@@ -8139,7 +8138,7 @@
     "feature": "pos_scene_2",
     "level": "likely",
     "text": "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'.",
-    "evidence": "Viewers leave fastest in scene 2 (1.71x the average rate). (85 scenes)"
+    "evidence": "Viewers leave fastest in scene 2 (1.72x the average rate). (85 scenes)"
    }
   ],
   "changes": [],
@@ -8151,11 +8150,11 @@
    "Do LESS: hook style 'imagine / what if'"
   ],
   "leave": [
-   "Viewers leave fastest in scene 2 (1.71x the average rate). Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
+   "Viewers leave fastest in scene 2 (1.72x the average rate). Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
   ],
   "start_hold": 0.944,
   "experiments": {
-   "mystery-files": "under 32s"
+   "money-facts": "under 32s"
   },
   "targets": {
    "words": [
@@ -8187,7 +8186,7 @@
      {
       "title": "How Baby Turtles Find the Sea Without a Full Moon",
       "views": 1592,
-      "watched": 48.85,
+      "watched": 48.82,
       "duration": 27.3,
       "hook": "Do baby turtles need a full moon?",
       "hook_style": "question"
@@ -8210,7 +8209,7 @@
     "top": [
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
-      "views": 1046,
+      "views": 1047,
       "watched": 69.01,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
