@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-12T14:58:47+00:00",
- "stats_updated": "2026-11-12T11:11:43+00:00",
+ "synced": "2026-11-12T15:03:38+00:00",
+ "stats_updated": "2026-11-12T15:03:07+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -17,8 +17,8 @@
    "daily": [
     {
      "day": "2026-10-16",
-     "views": 1652,
-     "estimatedMinutesWatched": 308,
+     "views": 1678,
+     "estimatedMinutesWatched": 310,
      "subscribersGained": 5,
      "subscribersLost": 0
     },
@@ -38,8 +38,8 @@
     },
     {
      "day": "2026-10-19",
-     "views": 751,
-     "estimatedMinutesWatched": 113,
+     "views": 759,
+     "estimatedMinutesWatched": 115,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -73,8 +73,8 @@
     },
     {
      "day": "2026-10-24",
-     "views": 354,
-     "estimatedMinutesWatched": 57,
+     "views": 359,
+     "estimatedMinutesWatched": 58,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -470,7 +470,7 @@
    "daily": [
     {
      "day": "2026-10-16",
-     "views": 20,
+     "views": 19,
      "estimatedMinutesWatched": 4,
      "subscribersGained": 1,
      "subscribersLost": 0
@@ -526,7 +526,7 @@
     },
     {
      "day": "2026-10-24",
-     "views": 742,
+     "views": 747,
      "estimatedMinutesWatched": 100,
      "subscribersGained": 2,
      "subscribersLost": 1
@@ -884,7 +884,7 @@
    "daily": [
     {
      "day": "2026-10-16",
-     "views": 812,
+     "views": 814,
      "estimatedMinutesWatched": 145,
      "subscribersGained": 1,
      "subscribersLost": 0
@@ -940,8 +940,8 @@
     },
     {
      "day": "2026-10-24",
-     "views": 324,
-     "estimatedMinutesWatched": 35,
+     "views": 330,
+     "estimatedMinutesWatched": 36,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -1282,8 +1282,8 @@
    "daily": [
     {
      "day": "2026-10-16",
-     "views": 897,
-     "estimatedMinutesWatched": 145,
+     "views": 918,
+     "estimatedMinutesWatched": 146,
      "subscribersGained": 3,
      "subscribersLost": 0
     },
@@ -1303,7 +1303,7 @@
     },
     {
      "day": "2026-10-19",
-     "views": 1103,
+     "views": 1106,
      "estimatedMinutesWatched": 212,
      "subscribersGained": 5,
      "subscribersLost": 0
@@ -1338,7 +1338,7 @@
     },
     {
      "day": "2026-10-24",
-     "views": 599,
+     "views": 610,
      "estimatedMinutesWatched": 66,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -1722,7 +1722,7 @@
    "url": "https://youtube.com/shorts/J-xpfeH_-mM",
    "privacy": "public",
    "publish_at": "2026-11-11T00:15:00.000Z",
-   "views": 693,
+   "views": 697,
    "likes": 13,
    "comments": 0,
    "analytics": null,
@@ -3254,7 +3254,7 @@
    "url": "https://youtube.com/shorts/96bXaFxSHYI",
    "privacy": "public",
    "publish_at": "2026-11-04T22:30:00.000Z",
-   "views": 237,
+   "views": 238,
    "likes": 4,
    "comments": 0,
    "analytics": {
@@ -3301,7 +3301,7 @@
    "url": "https://youtube.com/shorts/rEXCihMLSUQ",
    "privacy": "public",
    "publish_at": "2026-11-03T01:30:00.000Z",
-   "views": 1178,
+   "views": 1179,
    "likes": 19,
    "comments": 1,
    "analytics": {
@@ -3350,7 +3350,7 @@
    "url": "https://youtube.com/shorts/mGe76XcAsNk",
    "privacy": "public",
    "publish_at": "2026-11-04T21:15:00.000Z",
-   "views": 1053,
+   "views": 1054,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -6508,7 +6508,7 @@
    "url": "https://youtube.com/shorts/uCODTjlf20o",
    "privacy": "public",
    "publish_at": "2026-10-22T21:30:00.000Z",
-   "views": 1383,
+   "views": 1386,
    "likes": 12,
    "comments": 1,
    "analytics": {
@@ -6914,7 +6914,7 @@
    "url": "https://youtube.com/shorts/uDUELAFjZ9Y",
    "privacy": "public",
    "publish_at": "2026-10-20T23:15:00.000Z",
-   "views": 41,
+   "views": 42,
    "likes": 1,
    "comments": 1,
    "analytics": {
@@ -7420,7 +7420,7 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1100,
+   "views": 1101,
    "likes": 15,
    "comments": 2,
    "analytics": {
@@ -8148,16 +8148,16 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-12T14:58:44.234272+00:00",
-   "stage": "writing",
+   "updated": "2026-11-12T14:59:03.539319+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-12T14:58:47.316872+00:00"
+  "snapshot_at": "2026-11-12T15:03:38.955880+00:00"
  },
  "insights": {
-  "updated": "2026-11-12T11:11:53+00:00",
-  "videos_analysed": 96,
+  "updated": "2026-11-12T15:03:34+00:00",
+  "videos_analysed": 98,
   "rules": [
    {
     "id": "scene:pos_scene_2",
@@ -8237,7 +8237,7 @@
     "top": [
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
-      "views": 1053,
+      "views": 1054,
       "watched": 69.01,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
@@ -8262,7 +8262,7 @@
     ]
    },
    "mystery-files": {
-    "count": 26,
+    "count": 27,
     "notes": [
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
@@ -8294,7 +8294,7 @@
     ]
    },
    "outbreak-files": {
-    "count": 19,
+    "count": 20,
     "notes": [
      "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
     ],
@@ -8309,7 +8309,7 @@
      },
      {
       "title": "The Ski Lift Voice Wasn't Rescue (Part 3)",
-      "views": 1178,
+      "views": 1179,
       "watched": 50.9,
       "duration": 82.5,
       "hook": "Why is the rescue voice repeating?",
