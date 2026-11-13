@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-13T01:43:38+00:00",
- "stats_updated": "2026-11-12T19:54:47+00:00",
+ "synced": "2026-11-13T01:50:37+00:00",
+ "stats_updated": "2026-11-13T01:50:20+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -15,13 +15,6 @@
    "uploads": 26,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-16",
-     "views": 1652,
-     "estimatedMinutesWatched": 308,
-     "subscribersGained": 5,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-17",
      "views": 475,
@@ -189,6 +182,13 @@
      "estimatedMinutesWatched": 22,
      "subscribersGained": 0,
      "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-10",
+     "views": 77,
+     "estimatedMinutesWatched": 11,
+     "subscribersGained": 0,
+     "subscribersLost": 0
     }
    ],
    "audience": {
@@ -196,12 +196,12 @@
      {
       "country": "US",
       "views": 11353,
-      "pct": 76.1
+      "pct": 75.9
      },
      {
       "country": "PH",
-      "views": 1667,
-      "pct": 11.2
+      "views": 1700,
+      "pct": 11.4
      },
      {
       "country": "ID",
@@ -226,7 +226,7 @@
      {
       "country": "BR",
       "views": 97,
-      "pct": 0.7
+      "pct": 0.6
      },
      {
       "country": "TH",
@@ -452,6 +452,11 @@
      "date": "2026-11-12",
      "subscribers": 23,
      "views": 19229
+    },
+    {
+     "date": "2026-11-13",
+     "subscribers": 23,
+     "views": 19229
     }
    ]
   },
@@ -468,13 +473,6 @@
    "uploads": 25,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-16",
-     "views": 20,
-     "estimatedMinutesWatched": 4,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-17",
      "views": 8,
@@ -642,34 +640,46 @@
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-10",
+     "views": 916,
+     "estimatedMinutesWatched": 110,
+     "subscribersGained": 1,
+     "subscribersLost": 1
     }
    ],
    "audience": {
     "countries": [
      {
       "country": "US",
-      "views": 6173,
-      "pct": 92.4
+      "views": 6816,
+      "pct": 92.2
+     },
+     {
+      "country": "PH",
+      "views": 182,
+      "pct": 2.5
      },
      {
       "country": "ID",
       "views": 165,
-      "pct": 2.5
-     },
-     {
-      "country": "PH",
-      "views": 140,
-      "pct": 2.1
+      "pct": 2.2
      },
      {
       "country": "IN",
       "views": 73,
-      "pct": 1.1
+      "pct": 1.0
      },
      {
       "country": "MY",
       "views": 50,
       "pct": 0.7
+     },
+     {
+      "country": "CA",
+      "views": 31,
+      "pct": 0.4
      },
      {
       "country": "DE",
@@ -684,7 +694,7 @@
      {
       "country": "TR",
       "views": 18,
-      "pct": 0.3
+      "pct": 0.2
      },
      {
       "country": "GB",
@@ -700,23 +710,23 @@
     "ages": [
      {
       "age": "13-17",
-      "pct": 44.0
+      "pct": 42.6
      },
      {
       "age": "18-24",
-      "pct": 8.2
+      "pct": 7.2
      },
      {
       "age": "25-34",
-      "pct": 25.0
+      "pct": 25.9
      },
      {
       "age": "35-44",
-      "pct": 18.7
+      "pct": 20.8
      },
      {
       "age": "45-54",
-      "pct": 4.0
+      "pct": 3.6
      }
     ],
     "since": "2026-10-13"
@@ -866,6 +876,11 @@
      "date": "2026-11-12",
      "subscribers": 8,
      "views": 9863
+    },
+    {
+     "date": "2026-11-13",
+     "subscribers": 8,
+     "views": 9863
     }
    ]
   },
@@ -878,17 +893,10 @@
     "02:15"
    ],
    "subscribers": 10,
-   "views": 9659,
+   "views": 9695,
    "uploads": 27,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-16",
-     "views": 812,
-     "estimatedMinutesWatched": 145,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-17",
      "views": 113,
@@ -1056,24 +1064,31 @@
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-10",
+     "views": 634,
+     "estimatedMinutesWatched": 104,
+     "subscribersGained": 1,
+     "subscribersLost": 0
     }
    ],
    "audience": {
     "countries": [
      {
       "country": "US",
-      "views": 6936,
-      "pct": 94.8
+      "views": 7546,
+      "pct": 95.2
      },
      {
       "country": "PH",
       "views": 228,
-      "pct": 3.1
+      "pct": 2.9
      },
      {
       "country": "IN",
       "views": 49,
-      "pct": 0.7
+      "pct": 0.6
      },
      {
       "country": "ID",
@@ -1083,7 +1098,7 @@
      {
       "country": "CA",
       "views": 34,
-      "pct": 0.5
+      "pct": 0.4
      },
      {
       "country": "GB",
@@ -1094,27 +1109,27 @@
     "ages": [
      {
       "age": "13-17",
-      "pct": 33.2
+      "pct": 35.0
      },
      {
       "age": "18-24",
-      "pct": 10.6
+      "pct": 9.9
      },
      {
       "age": "25-34",
-      "pct": 29.6
+      "pct": 30.1
      },
      {
       "age": "35-44",
-      "pct": 22.0
+      "pct": 20.7
      },
      {
       "age": "45-54",
-      "pct": 3.4
+      "pct": 3.2
      },
      {
       "age": "55-64",
-      "pct": 1.2
+      "pct": 1.1
      }
     ],
     "since": "2026-10-13"
@@ -1264,6 +1279,11 @@
      "date": "2026-11-12",
      "subscribers": 10,
      "views": 9659
+    },
+    {
+     "date": "2026-11-13",
+     "subscribers": 10,
+     "views": 9695
     }
    ]
   },
@@ -1280,13 +1300,6 @@
    "uploads": 20,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-16",
-     "views": 897,
-     "estimatedMinutesWatched": 145,
-     "subscribersGained": 3,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-17",
      "views": 117,
@@ -1454,39 +1467,46 @@
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-10",
+     "views": 365,
+     "estimatedMinutesWatched": 135,
+     "subscribersGained": 1,
+     "subscribersLost": 1
     }
    ],
    "audience": {
     "countries": [
      {
       "country": "US",
-      "views": 5857,
-      "pct": 81.5
+      "views": 6193,
+      "pct": 82.3
      },
      {
       "country": "PH",
       "views": 705,
-      "pct": 9.8
+      "pct": 9.4
      },
      {
       "country": "ID",
       "views": 201,
-      "pct": 2.8
+      "pct": 2.7
      },
      {
       "country": "GB",
       "views": 165,
-      "pct": 2.3
+      "pct": 2.2
      },
      {
       "country": "CA",
       "views": 93,
-      "pct": 1.3
+      "pct": 1.2
      },
      {
       "country": "AU",
       "views": 90,
-      "pct": 1.3
+      "pct": 1.2
      },
      {
       "country": "IN",
@@ -1512,23 +1532,23 @@
     "ages": [
      {
       "age": "13-17",
-      "pct": 30.7
+      "pct": 31.8
      },
      {
       "age": "18-24",
-      "pct": 4.6
+      "pct": 4.5
      },
      {
       "age": "25-34",
-      "pct": 34.5
+      "pct": 33.9
      },
      {
       "age": "35-44",
-      "pct": 25.9
+      "pct": 25.4
      },
      {
       "age": "45-54",
-      "pct": 4.5
+      "pct": 4.4
      }
     ],
     "since": "2026-10-16"
@@ -1663,6 +1683,11 @@
      "date": "2026-11-12",
      "subscribers": 19,
      "views": 10690
+    },
+    {
+     "date": "2026-11-13",
+     "subscribers": 19,
+     "views": 10690
     }
    ]
   }
@@ -1681,10 +1706,19 @@
    "url": "https://youtube.com/shorts/C6WGwdUEvxQ",
    "privacy": "public",
    "publish_at": "2026-11-11T01:30:00.000Z",
-   "views": 349,
+   "views": 350,
    "likes": 3,
    "comments": 1,
-   "analytics": null,
+   "analytics": {
+    "views": 340,
+    "estimatedMinutesWatched": 127,
+    "averageViewDuration": 35,
+    "averageViewPercentage": 49.33,
+    "subscribersGained": 1,
+    "likes": 4,
+    "shares": 0,
+    "comments": 0
+   },
    "thumb": "thumbs/20261110-173219_outbreak-files.jpg",
    "score": 100,
    "video_score": 100,
@@ -1722,10 +1756,19 @@
    "url": "https://youtube.com/shorts/J-xpfeH_-mM",
    "privacy": "public",
    "publish_at": "2026-11-11T00:15:00.000Z",
-   "views": 700,
+   "views": 702,
    "likes": 13,
    "comments": 0,
-   "analytics": null,
+   "analytics": {
+    "views": 633,
+    "estimatedMinutesWatched": 104,
+    "averageViewDuration": 25,
+    "averageViewPercentage": 79.43,
+    "subscribersGained": 1,
+    "likes": 11,
+    "shares": 0,
+    "comments": 0
+   },
    "thumb": "thumbs/20261110-172429_mystery-files.jpg",
    "score": 98,
    "video_score": 96,
@@ -1767,7 +1810,16 @@
    "views": 850,
    "likes": 8,
    "comments": 0,
-   "analytics": null,
+   "analytics": {
+    "views": 828,
+    "estimatedMinutesWatched": 93,
+    "averageViewDuration": 16,
+    "averageViewPercentage": 54.40999999999999,
+    "subscribersGained": 1,
+    "likes": 8,
+    "shares": 0,
+    "comments": 0
+   },
    "thumb": "thumbs/20261110-172107_money-facts.jpg",
    "score": 98,
    "video_score": 100,
@@ -1899,7 +1951,7 @@
    "likes": 0,
    "comments": 0,
    "analytics": {
-    "views": 7,
+    "views": 8,
     "estimatedMinutesWatched": 0,
     "averageViewDuration": 11,
     "averageViewPercentage": 34.12,
@@ -1995,10 +2047,10 @@
    "likes": 4,
    "comments": 0,
    "analytics": {
-    "views": 982,
-    "estimatedMinutesWatched": 137,
+    "views": 1053,
+    "estimatedMinutesWatched": 148,
     "averageViewDuration": 15,
-    "averageViewPercentage": 54.09,
+    "averageViewPercentage": 54.39000000000001,
     "subscribersGained": 0,
     "likes": 4,
     "shares": 0,
@@ -2046,12 +2098,12 @@
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 951,
-    "estimatedMinutesWatched": 114,
-    "averageViewDuration": 19,
-    "averageViewPercentage": 67.8,
+    "views": 1035,
+    "estimatedMinutesWatched": 131,
+    "averageViewDuration": 21,
+    "averageViewPercentage": 72.49,
     "subscribersGained": 0,
-    "likes": 9,
+    "likes": 10,
     "shares": 0,
     "comments": 0
    },
@@ -2140,10 +2192,10 @@
    "likes": 3,
    "comments": 2,
    "analytics": {
-    "views": 243,
-    "estimatedMinutesWatched": 72,
-    "averageViewDuration": 30,
-    "averageViewPercentage": 39.56,
+    "views": 244,
+    "estimatedMinutesWatched": 73,
+    "averageViewDuration": 31,
+    "averageViewPercentage": 39.96,
     "subscribersGained": 1,
     "likes": 3,
     "shares": 0,
@@ -2193,7 +2245,7 @@
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 638,
+    "views": 643,
     "estimatedMinutesWatched": 90,
     "averageViewDuration": 16,
     "averageViewPercentage": 56.00999999999999,
@@ -2575,7 +2627,7 @@
    "likes": 5,
    "comments": 1,
    "analytics": {
-    "views": 223,
+    "views": 224,
     "estimatedMinutesWatched": 55,
     "averageViewDuration": 30,
     "averageViewPercentage": 42.91,
@@ -2778,7 +2830,7 @@
    "likes": 6,
    "comments": 1,
    "analytics": {
-    "views": 701,
+    "views": 702,
     "estimatedMinutesWatched": 239,
     "averageViewDuration": 30,
     "averageViewPercentage": 39.63,
@@ -3114,10 +3166,10 @@
    "likes": 19,
    "comments": 2,
    "analytics": {
-    "views": 1007,
+    "views": 1008,
     "estimatedMinutesWatched": 472,
     "averageViewDuration": 42,
-    "averageViewPercentage": 51.73,
+    "averageViewPercentage": 51.66,
     "subscribersGained": 0,
     "likes": 19,
     "shares": 0,
@@ -3305,10 +3357,10 @@
    "likes": 19,
    "comments": 1,
    "analytics": {
-    "views": 1177,
-    "estimatedMinutesWatched": 532,
+    "views": 1178,
+    "estimatedMinutesWatched": 533,
     "averageViewDuration": 42,
-    "averageViewPercentage": 50.9,
+    "averageViewPercentage": 50.96000000000001,
     "subscribersGained": 0,
     "likes": 19,
     "shares": 0,
@@ -3350,12 +3402,12 @@
    "url": "https://youtube.com/shorts/mGe76XcAsNk",
    "privacy": "public",
    "publish_at": "2026-11-04T21:15:00.000Z",
-   "views": 1054,
+   "views": 1055,
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 1045,
-    "estimatedMinutesWatched": 158,
+    "views": 1049,
+    "estimatedMinutesWatched": 159,
     "averageViewDuration": 19,
     "averageViewPercentage": 69.01,
     "subscribersGained": 0,
@@ -3645,10 +3697,10 @@
    "likes": 1,
    "comments": 1,
    "analytics": {
-    "views": 22,
-    "estimatedMinutesWatched": 5,
-    "averageViewDuration": 27,
-    "averageViewPercentage": 35.26,
+    "views": 23,
+    "estimatedMinutesWatched": 7,
+    "averageViewDuration": 31,
+    "averageViewPercentage": 39.56,
     "subscribersGained": 0,
     "likes": 1,
     "shares": 0,
@@ -4041,10 +4093,10 @@
    "likes": 13,
    "comments": 1,
    "analytics": {
-    "views": 773,
-    "estimatedMinutesWatched": 263,
-    "averageViewDuration": 32,
-    "averageViewPercentage": 47.12,
+    "views": 775,
+    "estimatedMinutesWatched": 265,
+    "averageViewDuration": 33,
+    "averageViewPercentage": 47.22,
     "subscribersGained": 2,
     "likes": 13,
     "shares": 0,
@@ -4734,10 +4786,10 @@
    "likes": 1,
    "comments": 1,
    "analytics": {
-    "views": 114,
-    "estimatedMinutesWatched": 32,
+    "views": 117,
+    "estimatedMinutesWatched": 33,
     "averageViewDuration": 29,
-    "averageViewPercentage": 35.61,
+    "averageViewPercentage": 36.31,
     "subscribersGained": 2,
     "likes": 1,
     "shares": 0,
@@ -5346,10 +5398,10 @@
    "likes": 9,
    "comments": 1,
    "analytics": {
-    "views": 392,
-    "estimatedMinutesWatched": 153,
-    "averageViewDuration": 32,
-    "averageViewPercentage": 39.53,
+    "views": 396,
+    "estimatedMinutesWatched": 154,
+    "averageViewDuration": 31,
+    "averageViewPercentage": 39.5,
     "subscribersGained": 1,
     "likes": 9,
     "shares": 1,
@@ -5536,10 +5588,10 @@
    "likes": 2,
    "comments": 1,
    "analytics": {
-    "views": 194,
+    "views": 197,
     "estimatedMinutesWatched": 25,
     "averageViewDuration": 15,
-    "averageViewPercentage": 45.82,
+    "averageViewPercentage": 46.13,
     "subscribersGained": 0,
     "likes": 2,
     "shares": 0,
@@ -5744,7 +5796,7 @@
    "likes": 1,
    "comments": 1,
    "analytics": {
-    "views": 304,
+    "views": 305,
     "estimatedMinutesWatched": 39,
     "averageViewDuration": 19,
     "averageViewPercentage": 59.089999999999996,
@@ -5953,7 +6005,7 @@
    "likes": 5,
    "comments": 1,
    "analytics": {
-    "views": 480,
+    "views": 481,
     "estimatedMinutesWatched": 55,
     "averageViewDuration": 15,
     "averageViewPercentage": 43.41,
@@ -6155,7 +6207,7 @@
    "likes": 4,
    "comments": 1,
    "analytics": {
-    "views": 263,
+    "views": 264,
     "estimatedMinutesWatched": 26,
     "averageViewDuration": 17,
     "averageViewPercentage": 44.21,
@@ -6357,7 +6409,7 @@
    "likes": 5,
    "comments": 1,
    "analytics": {
-    "views": 598,
+    "views": 599,
     "estimatedMinutesWatched": 53,
     "averageViewDuration": 15,
     "averageViewPercentage": 43.42,
@@ -6512,10 +6564,10 @@
    "likes": 12,
    "comments": 1,
    "analytics": {
-    "views": 1378,
+    "views": 1379,
     "estimatedMinutesWatched": 139,
     "averageViewDuration": 14,
-    "averageViewPercentage": 48.5,
+    "averageViewPercentage": 48.57,
     "subscribersGained": 0,
     "likes": 12,
     "shares": 0,
@@ -6965,7 +7017,7 @@
    "likes": 20,
    "comments": 2,
    "analytics": {
-    "views": 1525,
+    "views": 1526,
     "estimatedMinutesWatched": 354,
     "averageViewDuration": 27,
     "averageViewPercentage": 69.84,
@@ -7166,7 +7218,7 @@
    "likes": 7,
    "comments": 1,
    "analytics": {
-    "views": 552,
+    "views": 553,
     "estimatedMinutesWatched": 84,
     "averageViewDuration": 19,
     "averageViewPercentage": 48.23,
@@ -7424,10 +7476,10 @@
    "likes": 15,
    "comments": 2,
    "analytics": {
-    "views": 1099,
+    "views": 1100,
     "estimatedMinutesWatched": 174,
     "averageViewDuration": 21,
-    "averageViewPercentage": 51.32,
+    "averageViewPercentage": 51.23,
     "subscribersGained": 5,
     "likes": 15,
     "shares": 0,
@@ -8148,15 +8200,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-13T01:43:35.412778+00:00",
-   "stage": "writing",
+   "updated": "2026-11-13T01:43:50.157888+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-13T01:43:38.235275+00:00"
+  "snapshot_at": "2026-11-13T01:50:37.909158+00:00"
  },
  "insights": {
-  "updated": "2026-11-12T19:54:58+00:00",
+  "updated": "2026-11-13T01:50:32+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8165,7 +8217,7 @@
     "feature": "pos_scene_2",
     "level": "likely",
     "text": "Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'.",
-    "evidence": "Viewers leave fastest in scene 2 (1.72x the average rate). (85 scenes)"
+    "evidence": "Viewers leave fastest in scene 2 (1.73x the average rate). (88 scenes)"
    }
   ],
   "changes": [],
@@ -8178,11 +8230,11 @@
    "Do LESS: hook style 'imagine / what if'"
   ],
   "leave": [
-   "Viewers leave fastest in scene 2 (1.72x the average rate). Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
+   "Viewers leave fastest in scene 2 (1.73x the average rate). Scene 2 must keep the hook going (a second surprise or the danger getting closer) - never background like dates, places or 'it all started when'."
   ],
-  "start_hold": 0.944,
+  "start_hold": 0.943,
   "experiments": {
-   "deep-sea-files": "under 32s"
+   "outbreak-files": "under 32s"
   },
   "targets": {
    "words": [
@@ -8236,8 +8288,16 @@
     ],
     "top": [
      {
+      "title": "Can Cash Rounding Change Your Soda Bill?",
+      "views": 1027,
+      "watched": 72.49,
+      "duration": 28.9,
+      "hook": "Can one cent turn into five?",
+      "hook_style": "question"
+     },
+     {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
-      "views": 1054,
+      "views": 1055,
       "watched": 69.01,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
@@ -8249,14 +8309,6 @@
       "watched": 48.87,
       "duration": 34.5,
       "hook": "What if a Roblox game earns $30 million?",
-      "hook_style": "question"
-     },
-     {
-      "title": "Can Cash Rounding Change Your Soda Bill?",
-      "views": 1027,
-      "watched": 67.8,
-      "duration": 28.9,
-      "hook": "Can one cent turn into five?",
       "hook_style": "question"
      }
     ]
@@ -8310,7 +8362,7 @@
      {
       "title": "The Ski Lift Voice Wasn't Rescue (Part 3)",
       "views": 1179,
-      "watched": 50.9,
+      "watched": 50.96000000000001,
       "duration": 82.5,
       "hook": "Why is the rescue voice repeating?",
       "hook_style": "question"
@@ -8318,7 +8370,7 @@
      {
       "title": "Can You Open the Rear Exit Quietly? (Part 1)",
       "views": 1008,
-      "watched": 51.73,
+      "watched": 51.66,
       "duration": 82.3,
       "hook": "Can your bus window keep zombies outside?",
       "hook_style": "question"
