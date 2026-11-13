@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-13T21:13:47+00:00",
+ "synced": "2026-11-13T21:30:45+00:00",
  "stats_updated": "2026-11-13T19:42:25+00:00",
  "channels": [
   {
@@ -8096,7 +8096,7 @@
    ],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-13T21:13:44.404582+00:00",
+  "updated": "2026-11-13T21:30:41.910440+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -8134,7 +8134,7 @@
     "reason": "Waiting for the scheduled ChatGPT cloud writer",
     "waiting_since": "2026-11-10T21:28:53.155089+00:00",
     "retry_at": null,
-    "expected_slot": "2026-11-13T23:15:00+02:00",
+    "expected_slot": "2026-11-14T23:15:00+02:00",
     "series": null,
     "part": null,
     "pending_requests": 0,
@@ -8200,12 +8200,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-13T21:13:44.448860+00:00",
+   "updated": "2026-11-13T21:30:41.929683+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-13T21:13:47.604490+00:00"
+  "snapshot_at": "2026-11-13T21:30:45.122401+00:00"
  },
  "insights": {
   "updated": "2026-11-13T19:42:34+00:00",
