@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-13T14:28:42+00:00",
- "stats_updated": "2026-11-13T10:59:19+00:00",
+ "synced": "2026-11-13T14:29:15+00:00",
+ "stats_updated": "2026-11-13T14:28:42+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -31,8 +31,8 @@
     },
     {
      "day": "2026-10-19",
-     "views": 751,
-     "estimatedMinutesWatched": 113,
+     "views": 759,
+     "estimatedMinutesWatched": 115,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -66,8 +66,8 @@
     },
     {
      "day": "2026-10-24",
-     "views": 354,
-     "estimatedMinutesWatched": 57,
+     "views": 359,
+     "estimatedMinutesWatched": 58,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -524,7 +524,7 @@
     },
     {
      "day": "2026-10-24",
-     "views": 742,
+     "views": 747,
      "estimatedMinutesWatched": 100,
      "subscribersGained": 2,
      "subscribersLost": 1
@@ -948,8 +948,8 @@
     },
     {
      "day": "2026-10-24",
-     "views": 324,
-     "estimatedMinutesWatched": 35,
+     "views": 330,
+     "estimatedMinutesWatched": 36,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -1316,7 +1316,7 @@
     },
     {
      "day": "2026-10-19",
-     "views": 1103,
+     "views": 1106,
      "estimatedMinutesWatched": 212,
      "subscribersGained": 5,
      "subscribersLost": 0
@@ -1351,7 +1351,7 @@
     },
     {
      "day": "2026-10-24",
-     "views": 599,
+     "views": 610,
      "estimatedMinutesWatched": 66,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -1756,7 +1756,7 @@
    "url": "https://youtube.com/shorts/J-xpfeH_-mM",
    "privacy": "public",
    "publish_at": "2026-11-11T00:15:00.000Z",
-   "views": 714,
+   "views": 716,
    "likes": 13,
    "comments": 0,
    "analytics": {
@@ -8200,15 +8200,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-13T14:28:40.280202+00:00",
-   "stage": "writing",
+   "updated": "2026-11-13T14:28:56.730835+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-13T14:28:42.488130+00:00"
+  "snapshot_at": "2026-11-13T14:29:14.926938+00:00"
  },
  "insights": {
-  "updated": "2026-11-13T10:59:28+00:00",
+  "updated": "2026-11-13T14:29:09+00:00",
   "videos_analysed": 98,
   "rules": [
    {
