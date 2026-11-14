@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-14T10:20:28+00:00",
- "stats_updated": "2026-11-14T01:27:43+00:00",
+ "synced": "2026-11-14T10:27:06+00:00",
+ "stats_updated": "2026-11-14T10:26:52+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 23,
-   "views": 19237,
+   "views": 19238,
    "uploads": 26,
    "analytics": true,
    "daily": [
@@ -24,8 +24,8 @@
     },
     {
      "day": "2026-10-19",
-     "views": 751,
-     "estimatedMinutesWatched": 113,
+     "views": 759,
+     "estimatedMinutesWatched": 115,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -59,8 +59,8 @@
     },
     {
      "day": "2026-10-24",
-     "views": 354,
-     "estimatedMinutesWatched": 57,
+     "views": 359,
+     "estimatedMinutesWatched": 58,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -461,7 +461,7 @@
     {
      "date": "2026-11-14",
      "subscribers": 23,
-     "views": 19237
+     "views": 19238
     }
    ]
   },
@@ -474,7 +474,7 @@
     "23:15"
    ],
    "subscribers": 8,
-   "views": 9882,
+   "views": 9885,
    "uploads": 25,
    "analytics": true,
    "daily": [
@@ -522,7 +522,7 @@
     },
     {
      "day": "2026-10-24",
-     "views": 742,
+     "views": 747,
      "estimatedMinutesWatched": 100,
      "subscribersGained": 2,
      "subscribersLost": 1
@@ -890,7 +890,7 @@
     {
      "date": "2026-11-14",
      "subscribers": 8,
-     "views": 9882
+     "views": 9885
     }
    ]
   },
@@ -903,7 +903,7 @@
     "02:15"
    ],
    "subscribers": 10,
-   "views": 9714,
+   "views": 9719,
    "uploads": 27,
    "analytics": true,
    "daily": [
@@ -951,8 +951,8 @@
     },
     {
      "day": "2026-10-24",
-     "views": 324,
-     "estimatedMinutesWatched": 35,
+     "views": 330,
+     "estimatedMinutesWatched": 36,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -1298,7 +1298,7 @@
     {
      "date": "2026-11-14",
      "subscribers": 10,
-     "views": 9714
+     "views": 9719
     }
    ]
   },
@@ -1311,7 +1311,7 @@
     "03:30"
    ],
    "subscribers": 19,
-   "views": 10692,
+   "views": 10693,
    "uploads": 20,
    "analytics": true,
    "daily": [
@@ -1324,7 +1324,7 @@
     },
     {
      "day": "2026-10-19",
-     "views": 1103,
+     "views": 1106,
      "estimatedMinutesWatched": 212,
      "subscribersGained": 5,
      "subscribersLost": 0
@@ -1359,7 +1359,7 @@
     },
     {
      "day": "2026-10-24",
-     "views": 599,
+     "views": 610,
      "estimatedMinutesWatched": 66,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -1707,7 +1707,7 @@
     {
      "date": "2026-11-14",
      "subscribers": 19,
-     "views": 10692
+     "views": 10693
     }
    ]
   }
@@ -1726,7 +1726,7 @@
    "url": "https://youtube.com/shorts/C6WGwdUEvxQ",
    "privacy": "public",
    "publish_at": "2026-11-11T01:30:00.000Z",
-   "views": 351,
+   "views": 350,
    "likes": 4,
    "comments": 1,
    "analytics": {
@@ -1827,7 +1827,7 @@
    "url": "https://youtube.com/shorts/rtX5lzMFCzI",
    "privacy": "public",
    "publish_at": "2026-11-10T21:15:00.000Z",
-   "views": 850,
+   "views": 844,
    "likes": 8,
    "comments": 0,
    "analytics": {
@@ -3326,7 +3326,7 @@
    "url": "https://youtube.com/shorts/96bXaFxSHYI",
    "privacy": "public",
    "publish_at": "2026-11-04T22:30:00.000Z",
-   "views": 239,
+   "views": 240,
    "likes": 4,
    "comments": 0,
    "analytics": {
@@ -8220,15 +8220,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-14T10:20:26.552253+00:00",
-   "stage": "writing",
+   "updated": "2026-11-14T10:20:42.862697+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-14T10:20:28.889690+00:00"
+  "snapshot_at": "2026-11-14T10:27:06.850106+00:00"
  },
  "insights": {
-  "updated": "2026-11-14T01:27:56+00:00",
+  "updated": "2026-11-14T10:27:01+00:00",
   "videos_analysed": 98,
   "rules": [
    {
