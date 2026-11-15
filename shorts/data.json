@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-15T22:43:46+00:00",
- "stats_updated": "2026-11-15T16:22:18+00:00",
+ "synced": "2026-11-15T22:48:57+00:00",
+ "stats_updated": "2026-11-15T22:48:38+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 23,
-   "views": 19239,
+   "views": 19242,
    "uploads": 26,
    "analytics": true,
    "daily": [
@@ -186,6 +186,13 @@
     {
      "day": "2026-11-12",
      "views": 6,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-13",
+     "views": 2,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -466,7 +473,7 @@
     {
      "date": "2026-11-15",
      "subscribers": 23,
-     "views": 19239
+     "views": 19242
     }
    ]
   },
@@ -655,6 +662,13 @@
      "day": "2026-11-12",
      "views": 19,
      "estimatedMinutesWatched": 2,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-13",
+     "views": 3,
+     "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
     }
@@ -913,7 +927,7 @@
     "02:15"
    ],
    "subscribers": 10,
-   "views": 9720,
+   "views": 9721,
    "uploads": 27,
    "analytics": true,
    "daily": [
@@ -1089,6 +1103,13 @@
      "day": "2026-11-12",
      "views": 20,
      "estimatedMinutesWatched": 3,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-13",
+     "views": 5,
+     "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
     }
@@ -1313,7 +1334,7 @@
     {
      "date": "2026-11-15",
      "subscribers": 10,
-     "views": 9720
+     "views": 9721
     }
    ]
   },
@@ -1502,6 +1523,13 @@
      "day": "2026-11-12",
      "views": 3,
      "estimatedMinutesWatched": 1,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-13",
+     "views": 2,
+     "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
     }
@@ -1750,7 +1778,7 @@
    "likes": 4,
    "comments": 1,
    "analytics": {
-    "views": 350,
+    "views": 352,
     "estimatedMinutesWatched": 131,
     "averageViewDuration": 34,
     "averageViewPercentage": 49.14,
@@ -1800,10 +1828,10 @@
    "likes": 13,
    "comments": 0,
    "analytics": {
-    "views": 718,
-    "estimatedMinutesWatched": 116,
+    "views": 722,
+    "estimatedMinutesWatched": 117,
     "averageViewDuration": 24,
-    "averageViewPercentage": 77.69,
+    "averageViewPercentage": 77.54,
     "subscribersGained": 1,
     "likes": 13,
     "shares": 0,
@@ -2285,10 +2313,10 @@
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 645,
+    "views": 646,
     "estimatedMinutesWatched": 91,
     "averageViewDuration": 16,
-    "averageViewPercentage": 56.16,
+    "averageViewPercentage": 56.13,
     "subscribersGained": 0,
     "likes": 10,
     "shares": 0,
@@ -3350,7 +3378,7 @@
    "likes": 4,
    "comments": 0,
    "analytics": {
-    "views": 239,
+    "views": 240,
     "estimatedMinutesWatched": 35,
     "averageViewDuration": 15,
     "averageViewPercentage": 50.92,
@@ -3446,10 +3474,10 @@
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 1055,
+    "views": 1058,
     "estimatedMinutesWatched": 159,
     "averageViewDuration": 19,
-    "averageViewPercentage": 68.66,
+    "averageViewPercentage": 68.58,
     "subscribersGained": 0,
     "likes": 10,
     "shares": 0,
@@ -4326,7 +4354,7 @@
    "likes": 3,
    "comments": 0,
    "analytics": {
-    "views": 277,
+    "views": 278,
     "estimatedMinutesWatched": 38,
     "averageViewDuration": 20,
     "averageViewPercentage": 55.37,
@@ -8240,15 +8268,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-15T22:43:43.261932+00:00",
-   "stage": "writing",
+   "updated": "2026-11-15T22:43:59.357357+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-15T22:43:46.309879+00:00"
+  "snapshot_at": "2026-11-15T22:48:56.938061+00:00"
  },
  "insights": {
-  "updated": "2026-11-15T16:22:26+00:00",
+  "updated": "2026-11-15T22:48:51+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8274,7 +8302,7 @@
   ],
   "start_hold": 0.943,
   "experiments": {
-   "money-facts": "under 32s"
+   "deep-sea-files": "under 32s"
   },
   "targets": {
    "words": [
@@ -8338,7 +8366,7 @@
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
       "views": 1058,
-      "watched": 68.66,
+      "watched": 68.58,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
       "hook_style": "question"
