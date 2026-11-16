@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-16T19:28:58+00:00",
- "stats_updated": "2026-11-16T15:34:47+00:00",
+ "synced": "2026-11-16T19:37:05+00:00",
+ "stats_updated": "2026-11-16T19:36:43+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 23,
-   "views": 19244,
+   "views": 19246,
    "uploads": 26,
    "analytics": true,
    "daily": [
@@ -471,7 +471,7 @@
     {
      "date": "2026-11-16",
      "subscribers": 23,
-     "views": 19244
+     "views": 19246
     }
    ]
   },
@@ -3704,7 +3704,7 @@
    "url": "https://youtube.com/shorts/LSij0PQBqZA",
    "privacy": "public",
    "publish_at": "2026-11-02T22:30:00.000Z",
-   "views": 481,
+   "views": 483,
    "likes": 4,
    "comments": 0,
    "analytics": {
@@ -8260,15 +8260,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-16T19:28:55.074649+00:00",
-   "stage": "writing",
+   "updated": "2026-11-16T19:29:08.906614+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-16T19:28:58.065229+00:00"
+  "snapshot_at": "2026-11-16T19:37:05.542827+00:00"
  },
  "insights": {
-  "updated": "2026-11-16T15:35:09+00:00",
+  "updated": "2026-11-16T19:36:59+00:00",
   "videos_analysed": 98,
   "rules": [
    {
