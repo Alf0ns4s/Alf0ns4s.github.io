@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-16T06:28:50+00:00",
- "stats_updated": "2026-11-15T22:48:38+00:00",
+ "synced": "2026-11-16T06:30:56+00:00",
+ "stats_updated": "2026-11-16T06:30:40+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,17 +11,10 @@
     "00:30"
    ],
    "subscribers": 23,
-   "views": 19242,
+   "views": 19244,
    "uploads": 26,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-19",
-     "views": 759,
-     "estimatedMinutesWatched": 115,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-20",
      "views": 540,
@@ -474,6 +467,11 @@
      "date": "2026-11-15",
      "subscribers": 23,
      "views": 19242
+    },
+    {
+     "date": "2026-11-16",
+     "subscribers": 23,
+     "views": 19244
     }
    ]
   },
@@ -490,13 +488,6 @@
    "uploads": 25,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-19",
-     "views": 107,
-     "estimatedMinutesWatched": 16,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-20",
      "views": 492,
@@ -915,6 +906,11 @@
      "date": "2026-11-15",
      "subscribers": 8,
      "views": 9879
+    },
+    {
+     "date": "2026-11-16",
+     "subscribers": 8,
+     "views": 9879
     }
    ]
   },
@@ -931,13 +927,6 @@
    "uploads": 27,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-19",
-     "views": 82,
-     "estimatedMinutesWatched": 11,
-     "subscribersGained": 0,
-     "subscribersLost": 1
-    },
     {
      "day": "2026-10-20",
      "views": 157,
@@ -1335,6 +1324,11 @@
      "date": "2026-11-15",
      "subscribers": 10,
      "views": 9721
+    },
+    {
+     "date": "2026-11-16",
+     "subscribers": 10,
+     "views": 9721
     }
    ]
   },
@@ -1351,13 +1345,6 @@
    "uploads": 20,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-19",
-     "views": 1106,
-     "estimatedMinutesWatched": 212,
-     "subscribersGained": 5,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-20",
      "views": 777,
@@ -1756,6 +1743,11 @@
      "date": "2026-11-15",
      "subscribers": 19,
      "views": 10694
+    },
+    {
+     "date": "2026-11-16",
+     "subscribers": 19,
+     "views": 10694
     }
    ]
   }
@@ -1824,7 +1816,7 @@
    "url": "https://youtube.com/shorts/J-xpfeH_-mM",
    "privacy": "public",
    "publish_at": "2026-11-11T00:15:00.000Z",
-   "views": 720,
+   "views": 719,
    "likes": 13,
    "comments": 0,
    "analytics": {
@@ -7487,7 +7479,7 @@
    "url": "https://youtube.com/shorts/BcBogfVHAKs",
    "privacy": "public",
    "publish_at": "2026-10-16T23:15:00.000Z",
-   "views": 1103,
+   "views": 1105,
    "likes": 24,
    "comments": 3,
    "analytics": {
@@ -8268,15 +8260,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-16T06:28:47.274369+00:00",
-   "stage": "writing",
+   "updated": "2026-11-16T06:29:01.308729+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-16T06:28:50.068746+00:00"
+  "snapshot_at": "2026-11-16T06:30:56.822189+00:00"
  },
  "insights": {
-  "updated": "2026-11-15T22:48:51+00:00",
+  "updated": "2026-11-16T06:30:52+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8397,7 +8389,7 @@
      },
      {
       "title": "Can You Read This 600-Year-Old Book? Nobody Can",
-      "views": 1103,
+      "views": 1105,
       "watched": 55.14,
       "duration": 42.6,
       "hook": "Can you read this 600-year-old book?",
