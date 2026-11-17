@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-17T03:50:12+00:00",
- "stats_updated": "2026-11-16T19:36:43+00:00",
+ "synced": "2026-11-17T03:55:00+00:00",
+ "stats_updated": "2026-11-17T03:54:42+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,17 +11,10 @@
     "00:30"
    ],
    "subscribers": 23,
-   "views": 19246,
+   "views": 19248,
    "uploads": 26,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-20",
-     "views": 540,
-     "estimatedMinutesWatched": 71,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-21",
      "views": 193,
@@ -186,6 +179,13 @@
     {
      "day": "2026-11-13",
      "views": 2,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-14",
+     "views": 3,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -472,6 +472,11 @@
      "date": "2026-11-16",
      "subscribers": 23,
      "views": 19246
+    },
+    {
+     "date": "2026-11-17",
+     "subscribers": 23,
+     "views": 19248
     }
    ]
   },
@@ -488,13 +493,6 @@
    "uploads": 25,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-20",
-     "views": 492,
-     "estimatedMinutesWatched": 69,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-21",
      "views": 181,
@@ -659,6 +657,13 @@
     {
      "day": "2026-11-13",
      "views": 3,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-14",
+     "views": 0,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -911,6 +916,11 @@
      "date": "2026-11-16",
      "subscribers": 8,
      "views": 9879
+    },
+    {
+     "date": "2026-11-17",
+     "subscribers": 8,
+     "views": 9879
     }
    ]
   },
@@ -923,17 +933,10 @@
     "02:15"
    ],
    "subscribers": 10,
-   "views": 9721,
+   "views": 9723,
    "uploads": 27,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-20",
-     "views": 157,
-     "estimatedMinutesWatched": 18,
-     "subscribersGained": 3,
-     "subscribersLost": 1
-    },
     {
      "day": "2026-10-21",
      "views": 170,
@@ -1098,6 +1101,13 @@
     {
      "day": "2026-11-13",
      "views": 5,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-14",
+     "views": 2,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -1329,6 +1339,11 @@
      "date": "2026-11-16",
      "subscribers": 10,
      "views": 9721
+    },
+    {
+     "date": "2026-11-17",
+     "subscribers": 10,
+     "views": 9723
     }
    ]
   },
@@ -1345,13 +1360,6 @@
    "uploads": 20,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-20",
-     "views": 777,
-     "estimatedMinutesWatched": 157,
-     "subscribersGained": 2,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-21",
      "views": 189,
@@ -1515,6 +1523,13 @@
     },
     {
      "day": "2026-11-13",
+     "views": 2,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-14",
      "views": 2,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
@@ -1748,6 +1763,11 @@
      "date": "2026-11-16",
      "subscribers": 19,
      "views": 10694
+    },
+    {
+     "date": "2026-11-17",
+     "subscribers": 19,
+     "views": 10694
     }
    ]
   }
@@ -1816,14 +1836,14 @@
    "url": "https://youtube.com/shorts/J-xpfeH_-mM",
    "privacy": "public",
    "publish_at": "2026-11-11T00:15:00.000Z",
-   "views": 720,
+   "views": 722,
    "likes": 13,
    "comments": 0,
    "analytics": {
-    "views": 722,
-    "estimatedMinutesWatched": 117,
+    "views": 724,
+    "estimatedMinutesWatched": 118,
     "averageViewDuration": 24,
-    "averageViewPercentage": 77.54,
+    "averageViewPercentage": 77.62,
     "subscribersGained": 1,
     "likes": 13,
     "shares": 0,
@@ -2739,7 +2759,7 @@
    "likes": 45,
    "comments": 0,
    "analytics": {
-    "views": 1595,
+    "views": 1596,
     "estimatedMinutesWatched": 224,
     "averageViewDuration": 13,
     "averageViewPercentage": 48.29,
@@ -4153,7 +4173,7 @@
    "likes": 13,
    "comments": 1,
    "analytics": {
-    "views": 775,
+    "views": 776,
     "estimatedMinutesWatched": 265,
     "averageViewDuration": 33,
     "averageViewPercentage": 47.22,
@@ -4295,7 +4315,7 @@
    "likes": 19,
    "comments": 2,
    "analytics": {
-    "views": 1124,
+    "views": 1125,
     "estimatedMinutesWatched": 153,
     "averageViewDuration": 15,
     "averageViewPercentage": 46.98,
@@ -6267,7 +6287,7 @@
    "likes": 4,
    "comments": 1,
    "analytics": {
-    "views": 264,
+    "views": 265,
     "estimatedMinutesWatched": 26,
     "averageViewDuration": 17,
     "averageViewPercentage": 44.21,
@@ -6624,10 +6644,10 @@
    "likes": 12,
    "comments": 1,
    "analytics": {
-    "views": 1386,
+    "views": 1387,
     "estimatedMinutesWatched": 140,
     "averageViewDuration": 14,
-    "averageViewPercentage": 48.53,
+    "averageViewPercentage": 48.5,
     "subscribersGained": 0,
     "likes": 12,
     "shares": 0,
@@ -8260,15 +8280,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-17T03:50:10.258616+00:00",
-   "stage": "writing",
+   "updated": "2026-11-17T03:50:26.101042+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-17T03:50:12.868654+00:00"
+  "snapshot_at": "2026-11-17T03:55:00.125645+00:00"
  },
  "insights": {
-  "updated": "2026-11-16T19:36:59+00:00",
+  "updated": "2026-11-17T03:54:54+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8294,7 +8314,7 @@
   ],
   "start_hold": 0.943,
   "experiments": {
-   "deep-sea-files": "under 32s"
+   "outbreak-files": "under 32s"
   },
   "targets": {
    "words": [
