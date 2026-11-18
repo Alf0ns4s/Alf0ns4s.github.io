@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-18T11:28:45+00:00",
- "stats_updated": "2026-11-18T00:57:46+00:00",
+ "synced": "2026-11-18T11:43:17+00:00",
+ "stats_updated": "2026-11-18T11:43:03+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 23,
-   "views": 19248,
+   "views": 19252,
    "uploads": 26,
    "analytics": true,
    "daily": [
@@ -31,8 +31,8 @@
     },
     {
      "day": "2026-10-24",
-     "views": 354,
-     "estimatedMinutesWatched": 57,
+     "views": 359,
+     "estimatedMinutesWatched": 58,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -481,7 +481,7 @@
     {
      "date": "2026-11-18",
      "subscribers": 23,
-     "views": 19248
+     "views": 19252
     }
    ]
   },
@@ -514,7 +514,7 @@
     },
     {
      "day": "2026-10-24",
-     "views": 742,
+     "views": 747,
      "estimatedMinutesWatched": 100,
      "subscribersGained": 2,
      "subscribersLost": 1
@@ -943,7 +943,7 @@
     "02:15"
    ],
    "subscribers": 10,
-   "views": 9726,
+   "views": 9729,
    "uploads": 27,
    "analytics": true,
    "daily": [
@@ -963,8 +963,8 @@
     },
     {
      "day": "2026-10-24",
-     "views": 324,
-     "estimatedMinutesWatched": 35,
+     "views": 330,
+     "estimatedMinutesWatched": 36,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -1156,33 +1156,9 @@
       "pct": 0.3
      }
     ],
-    "ages": [
-     {
-      "age": "13-17",
-      "pct": 35.0
-     },
-     {
-      "age": "18-24",
-      "pct": 9.9
-     },
-     {
-      "age": "25-34",
-      "pct": 30.1
-     },
-     {
-      "age": "35-44",
-      "pct": 20.7
-     },
-     {
-      "age": "45-54",
-      "pct": 3.2
-     },
-     {
-      "age": "55-64",
-      "pct": 1.1
-     }
-    ],
-    "since": "2026-10-13"
+    "ages": [],
+    "since": "2026-10-13",
+    "ages_error": "HttpError: <HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-10-13&endDate=2026-11-18&metrics=viewerPe"
    },
    "history": [
     {
@@ -1358,7 +1334,7 @@
     {
      "date": "2026-11-18",
      "subscribers": 10,
-     "views": 9726
+     "views": 9729
     }
    ]
   },
@@ -1391,7 +1367,7 @@
     },
     {
      "day": "2026-10-24",
-     "views": 599,
+     "views": 610,
      "estimatedMinutesWatched": 66,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -2341,7 +2317,7 @@
    "url": "https://youtube.com/shorts/tUtHQNOaJUc",
    "privacy": "public",
    "publish_at": "2026-11-07T22:30:00.000Z",
-   "views": 640,
+   "views": 641,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -4087,7 +4063,7 @@
    "url": "https://youtube.com/shorts/qat4DYoLUWQ",
    "privacy": "public",
    "publish_at": "2026-10-31T22:30:00.000Z",
-   "views": 167,
+   "views": 168,
    "likes": 2,
    "comments": 0,
    "analytics": {
@@ -8300,15 +8276,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-18T11:28:42.593830+00:00",
-   "stage": "writing",
+   "updated": "2026-11-18T11:28:56.074868+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-18T11:28:45.585460+00:00"
+  "snapshot_at": "2026-11-18T11:43:17.126963+00:00"
  },
  "insights": {
-  "updated": "2026-11-18T00:57:56+00:00",
+  "updated": "2026-11-18T11:43:11+00:00",
   "videos_analysed": 98,
   "rules": [
    {
