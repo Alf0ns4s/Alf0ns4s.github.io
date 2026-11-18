@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-18T00:43:51+00:00",
- "stats_updated": "2026-11-17T16:00:14+00:00",
+ "synced": "2026-11-18T00:58:02+00:00",
+ "stats_updated": "2026-11-18T00:57:46+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -15,13 +15,6 @@
    "uploads": 26,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-21",
-     "views": 193,
-     "estimatedMinutesWatched": 19,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-22",
      "views": 1461,
@@ -38,8 +31,8 @@
     },
     {
      "day": "2026-10-24",
-     "views": 359,
-     "estimatedMinutesWatched": 58,
+     "views": 354,
+     "estimatedMinutesWatched": 57,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -186,6 +179,13 @@
     {
      "day": "2026-11-14",
      "views": 3,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-15",
+     "views": 2,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -477,6 +477,11 @@
      "date": "2026-11-17",
      "subscribers": 23,
      "views": 19248
+    },
+    {
+     "date": "2026-11-18",
+     "subscribers": 23,
+     "views": 19248
     }
    ]
   },
@@ -494,13 +499,6 @@
    "analytics": true,
    "daily": [
     {
-     "day": "2026-10-21",
-     "views": 181,
-     "estimatedMinutesWatched": 19,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
-    {
      "day": "2026-10-22",
      "views": 206,
      "estimatedMinutesWatched": 28,
@@ -516,7 +514,7 @@
     },
     {
      "day": "2026-10-24",
-     "views": 747,
+     "views": 742,
      "estimatedMinutesWatched": 100,
      "subscribersGained": 2,
      "subscribersLost": 1
@@ -663,6 +661,13 @@
     },
     {
      "day": "2026-11-14",
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-15",
      "views": 0,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
@@ -921,6 +926,11 @@
      "date": "2026-11-17",
      "subscribers": 8,
      "views": 9879
+    },
+    {
+     "date": "2026-11-18",
+     "subscribers": 8,
+     "views": 9879
     }
    ]
   },
@@ -933,17 +943,10 @@
     "02:15"
    ],
    "subscribers": 10,
-   "views": 9723,
+   "views": 9726,
    "uploads": 27,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-21",
-     "views": 170,
-     "estimatedMinutesWatched": 16,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-22",
      "views": 278,
@@ -960,8 +963,8 @@
     },
     {
      "day": "2026-10-24",
-     "views": 330,
-     "estimatedMinutesWatched": 36,
+     "views": 324,
+     "estimatedMinutesWatched": 35,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -1107,6 +1110,13 @@
     },
     {
      "day": "2026-11-14",
+     "views": 2,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-15",
      "views": 2,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
@@ -1344,6 +1354,11 @@
      "date": "2026-11-17",
      "subscribers": 10,
      "views": 9723
+    },
+    {
+     "date": "2026-11-18",
+     "subscribers": 10,
+     "views": 9726
     }
    ]
   },
@@ -1356,17 +1371,10 @@
     "03:30"
    ],
    "subscribers": 19,
-   "views": 10694,
+   "views": 10695,
    "uploads": 20,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-21",
-     "views": 189,
-     "estimatedMinutesWatched": 25,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-22",
      "views": 272,
@@ -1383,7 +1391,7 @@
     },
     {
      "day": "2026-10-24",
-     "views": 610,
+     "views": 599,
      "estimatedMinutesWatched": 66,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -1531,6 +1539,13 @@
     {
      "day": "2026-11-14",
      "views": 2,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-15",
+     "views": 0,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -1768,6 +1783,11 @@
      "date": "2026-11-17",
      "subscribers": 19,
      "views": 10694
+    },
+    {
+     "date": "2026-11-18",
+     "subscribers": 19,
+     "views": 10695
     }
    ]
   }
@@ -1836,7 +1856,7 @@
    "url": "https://youtube.com/shorts/J-xpfeH_-mM",
    "privacy": "public",
    "publish_at": "2026-11-11T00:15:00.000Z",
-   "views": 722,
+   "views": 723,
    "likes": 13,
    "comments": 0,
    "analytics": {
@@ -2804,7 +2824,7 @@
    "url": "https://youtube.com/shorts/KH8VUl5lsa4",
    "privacy": "public",
    "publish_at": "2026-11-07T00:15:00.000Z",
-   "views": 20,
+   "views": 21,
    "likes": 0,
    "comments": 0,
    "analytics": {
@@ -3531,7 +3551,7 @@
    "url": "https://youtube.com/shorts/EseupOzmhlc",
    "privacy": "public",
    "publish_at": "2026-11-04T00:15:00.000Z",
-   "views": 440,
+   "views": 441,
    "likes": 5,
    "comments": 0,
    "analytics": {
@@ -3586,10 +3606,10 @@
    "likes": 5,
    "comments": 0,
    "analytics": {
-    "views": 389,
-    "estimatedMinutesWatched": 39,
+    "views": 391,
+    "estimatedMinutesWatched": 40,
     "averageViewDuration": 13,
-    "averageViewPercentage": 47.59,
+    "averageViewPercentage": 47.4,
     "subscribersGained": 1,
     "likes": 5,
     "shares": 0,
@@ -6234,7 +6254,7 @@
    "url": "https://youtube.com/shorts/cme0bOrKPzc",
    "privacy": "public",
    "publish_at": "2026-10-24T21:30:00.000Z",
-   "views": 286,
+   "views": 287,
    "likes": 7,
    "comments": 1,
    "analytics": {
@@ -7503,10 +7523,10 @@
    "likes": 24,
    "comments": 3,
    "analytics": {
-    "views": 1103,
-    "estimatedMinutesWatched": 200,
+    "views": 1105,
+    "estimatedMinutesWatched": 201,
     "averageViewDuration": 23,
-    "averageViewPercentage": 55.14,
+    "averageViewPercentage": 55.059999999999995,
     "subscribersGained": 1,
     "likes": 24,
     "shares": 0,
@@ -8280,15 +8300,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-18T00:43:48.303514+00:00",
-   "stage": "writing",
+   "updated": "2026-11-18T00:44:02.493787+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-18T00:43:51.348325+00:00"
+  "snapshot_at": "2026-11-18T00:58:02.081795+00:00"
  },
  "insights": {
-  "updated": "2026-11-17T16:00:25+00:00",
+  "updated": "2026-11-18T00:57:56+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8314,7 +8334,7 @@
   ],
   "start_hold": 0.943,
   "experiments": {
-   "outbreak-files": "under 32s"
+   "mystery-files": "under 32s"
   },
   "targets": {
    "words": [
@@ -8410,7 +8430,7 @@
      {
       "title": "Can You Read This 600-Year-Old Book? Nobody Can",
       "views": 1105,
-      "watched": 55.14,
+      "watched": 55.059999999999995,
       "duration": 42.6,
       "hook": "Can you read this 600-year-old book?",
       "hook_style": "question"
