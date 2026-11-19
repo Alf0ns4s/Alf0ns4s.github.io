@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-19T02:28:57+00:00",
- "stats_updated": "2026-11-18T20:32:09+00:00",
+ "synced": "2026-11-19T02:34:43+00:00",
+ "stats_updated": "2026-11-19T02:34:26+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -15,13 +15,6 @@
    "uploads": 26,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-22",
-     "views": 1461,
-     "estimatedMinutesWatched": 139,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-23",
      "views": 592,
@@ -489,6 +482,11 @@
      "date": "2026-11-18",
      "subscribers": 23,
      "views": 19252
+    },
+    {
+     "date": "2026-11-19",
+     "subscribers": 23,
+     "views": 19252
     }
    ]
   },
@@ -505,13 +503,6 @@
    "uploads": 25,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-22",
-     "views": 206,
-     "estimatedMinutesWatched": 28,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-23",
      "views": 962,
@@ -640,7 +631,7 @@
     },
     {
      "day": "2026-11-10",
-     "views": 916,
+     "views": 911,
      "estimatedMinutesWatched": 110,
      "subscribersGained": 1,
      "subscribersLost": 1
@@ -945,6 +936,11 @@
      "date": "2026-11-18",
      "subscribers": 8,
      "views": 9879
+    },
+    {
+     "date": "2026-11-19",
+     "subscribers": 8,
+     "views": 9879
     }
    ]
   },
@@ -961,13 +957,6 @@
    "uploads": 27,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-22",
-     "views": 278,
-     "estimatedMinutesWatched": 47,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-23",
      "views": 90,
@@ -1096,21 +1085,21 @@
     },
     {
      "day": "2026-11-10",
-     "views": 634,
+     "views": 631,
      "estimatedMinutesWatched": 104,
      "subscribersGained": 1,
      "subscribersLost": 0
     },
     {
      "day": "2026-11-11",
-     "views": 67,
+     "views": 66,
      "estimatedMinutesWatched": 9,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
     {
      "day": "2026-11-12",
-     "views": 20,
+     "views": 19,
      "estimatedMinutesWatched": 3,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -1380,6 +1369,11 @@
      "date": "2026-11-18",
      "subscribers": 10,
      "views": 9729
+    },
+    {
+     "date": "2026-11-19",
+     "subscribers": 10,
+     "views": 9729
     }
    ]
   },
@@ -1396,13 +1390,6 @@
    "uploads": 20,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-22",
-     "views": 272,
-     "estimatedMinutesWatched": 39,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-23",
      "views": 609,
@@ -1531,7 +1518,7 @@
     },
     {
      "day": "2026-11-10",
-     "views": 365,
+     "views": 363,
      "estimatedMinutesWatched": 135,
      "subscribersGained": 1,
      "subscribersLost": 1
@@ -1632,29 +1619,9 @@
       "pct": 0.0
      }
     ],
-    "ages": [
-     {
-      "age": "13-17",
-      "pct": 31.8
-     },
-     {
-      "age": "18-24",
-      "pct": 4.5
-     },
-     {
-      "age": "25-34",
-      "pct": 33.9
-     },
-     {
-      "age": "35-44",
-      "pct": 25.4
-     },
-     {
-      "age": "45-54",
-      "pct": 4.4
-     }
-    ],
-    "since": "2026-10-16"
+    "ages": [],
+    "since": "2026-10-16",
+    "ages_error": "HttpError: <HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-10-16&endDate=2026-11-19&metrics=viewerPe"
    },
    "history": [
     {
@@ -1816,6 +1783,11 @@
      "date": "2026-11-18",
      "subscribers": 19,
      "views": 10695
+    },
+    {
+     "date": "2026-11-19",
+     "subscribers": 19,
+     "views": 10695
     }
    ]
   }
@@ -1838,14 +1810,14 @@
    "likes": 4,
    "comments": 1,
    "analytics": {
-    "views": 352,
+    "views": 350,
     "estimatedMinutesWatched": 131,
     "averageViewDuration": 34,
     "averageViewPercentage": 49.14,
     "subscribersGained": 1,
     "likes": 4,
     "shares": 0,
-    "comments": 0
+    "comments": 1
    },
    "thumb": "thumbs/20261110-173219_outbreak-files.jpg",
    "score": 100,
@@ -1888,7 +1860,7 @@
    "likes": 13,
    "comments": 0,
    "analytics": {
-    "views": 727,
+    "views": 722,
     "estimatedMinutesWatched": 118,
     "averageViewDuration": 24,
     "averageViewPercentage": 77.72,
@@ -1939,8 +1911,8 @@
    "likes": 8,
    "comments": 0,
    "analytics": {
-    "views": 849,
-    "estimatedMinutesWatched": 96,
+    "views": 844,
+    "estimatedMinutesWatched": 95,
     "averageViewDuration": 16,
     "averageViewPercentage": 54.32,
     "subscribersGained": 1,
@@ -2175,8 +2147,8 @@
    "likes": 4,
    "comments": 0,
    "analytics": {
-    "views": 1056,
-    "estimatedMinutesWatched": 148,
+    "views": 1049,
+    "estimatedMinutesWatched": 147,
     "averageViewDuration": 15,
     "averageViewPercentage": 54.11,
     "subscribersGained": 0,
@@ -2226,8 +2198,8 @@
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 1035,
-    "estimatedMinutesWatched": 131,
+    "views": 1027,
+    "estimatedMinutesWatched": 130,
     "averageViewDuration": 21,
     "averageViewPercentage": 72.49,
     "subscribersGained": 0,
@@ -2320,8 +2292,8 @@
    "likes": 3,
    "comments": 2,
    "analytics": {
-    "views": 244,
-    "estimatedMinutesWatched": 73,
+    "views": 238,
+    "estimatedMinutesWatched": 72,
     "averageViewDuration": 31,
     "averageViewPercentage": 39.96,
     "subscribersGained": 1,
@@ -2369,12 +2341,12 @@
    "url": "https://youtube.com/shorts/tUtHQNOaJUc",
    "privacy": "public",
    "publish_at": "2026-11-07T22:30:00.000Z",
-   "views": 641,
+   "views": 644,
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 646,
-    "estimatedMinutesWatched": 91,
+    "views": 640,
+    "estimatedMinutesWatched": 90,
     "averageViewDuration": 16,
     "averageViewPercentage": 56.13,
     "subscribersGained": 0,
@@ -2424,7 +2396,7 @@
    "likes": 0,
    "comments": 0,
    "analytics": {
-    "views": 22,
+    "views": 21,
     "estimatedMinutesWatched": 2,
     "averageViewDuration": 23,
     "averageViewPercentage": 76.16,
@@ -2660,8 +2632,8 @@
    "likes": 4,
    "comments": 0,
    "analytics": {
-    "views": 749,
-    "estimatedMinutesWatched": 95,
+    "views": 744,
+    "estimatedMinutesWatched": 94,
     "averageViewDuration": 23,
     "averageViewPercentage": 79.53,
     "subscribersGained": 0,
@@ -2807,7 +2779,7 @@
    "likes": 45,
    "comments": 0,
    "analytics": {
-    "views": 1596,
+    "views": 1593,
     "estimatedMinutesWatched": 224,
     "averageViewDuration": 13,
     "averageViewPercentage": 48.29,
@@ -8328,15 +8300,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-19T02:28:54.695125+00:00",
-   "stage": "writing",
+   "updated": "2026-11-19T02:29:09.381686+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-19T02:28:57.630523+00:00"
+  "snapshot_at": "2026-11-19T02:34:43.632227+00:00"
  },
  "insights": {
-  "updated": "2026-11-18T20:32:18+00:00",
+  "updated": "2026-11-19T02:34:38+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8362,7 +8334,7 @@
   ],
   "start_hold": 0.943,
   "experiments": {
-   "mystery-files": "under 32s"
+   "money-facts": "under 32s"
   },
   "targets": {
    "words": [
