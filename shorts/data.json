@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-20T20:13:45+00:00",
- "stats_updated": "2026-11-20T15:19:56+00:00",
+ "synced": "2026-11-20T20:21:29+00:00",
+ "stats_updated": "2026-11-20T20:21:13+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -186,6 +186,13 @@
     {
      "day": "2026-11-17",
      "views": 5,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-18",
+     "views": 9,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -682,6 +689,13 @@
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-18",
+     "views": 2,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
     }
    ],
    "audience": {
@@ -1141,6 +1155,13 @@
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-18",
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
     }
    ],
    "audience": {
@@ -1576,6 +1597,13 @@
     {
      "day": "2026-11-17",
      "views": 1,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-18",
+     "views": 0,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -2385,7 +2413,7 @@
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 641,
+    "views": 644,
     "estimatedMinutesWatched": 90,
     "averageViewDuration": 16,
     "averageViewPercentage": 56.13,
@@ -3170,10 +3198,10 @@
    "likes": 21,
    "comments": 0,
    "analytics": {
-    "views": 1218,
+    "views": 1219,
     "estimatedMinutesWatched": 197,
     "averageViewDuration": 18,
-    "averageViewPercentage": 60.53999999999999,
+    "averageViewPercentage": 60.51,
     "subscribersGained": 5,
     "likes": 21,
     "shares": 1,
@@ -3546,10 +3574,10 @@
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 1058,
-    "estimatedMinutesWatched": 159,
+    "views": 1060,
+    "estimatedMinutesWatched": 160,
     "averageViewDuration": 19,
-    "averageViewPercentage": 68.58,
+    "averageViewPercentage": 68.38,
     "subscribersGained": 0,
     "likes": 10,
     "shares": 0,
@@ -3642,7 +3670,7 @@
    "url": "https://youtube.com/shorts/qq-nWdLaJSo",
    "privacy": "public",
    "publish_at": "2026-11-03T22:30:00.000Z",
-   "views": 391,
+   "views": 392,
    "likes": 5,
    "comments": 0,
    "analytics": {
@@ -4131,10 +4159,10 @@
    "likes": 2,
    "comments": 0,
    "analytics": {
-    "views": 167,
+    "views": 168,
     "estimatedMinutesWatched": 24,
     "averageViewDuration": 17,
-    "averageViewPercentage": 53.54,
+    "averageViewPercentage": 53.14,
     "subscribersGained": 0,
     "likes": 2,
     "shares": 0,
@@ -6704,10 +6732,10 @@
    "likes": 12,
    "comments": 1,
    "analytics": {
-    "views": 1387,
-    "estimatedMinutesWatched": 140,
+    "views": 1388,
+    "estimatedMinutesWatched": 141,
     "averageViewDuration": 14,
-    "averageViewPercentage": 48.5,
+    "averageViewPercentage": 48.57,
     "subscribersGained": 0,
     "likes": 12,
     "shares": 0,
@@ -7866,10 +7894,10 @@
    "likes": 16,
    "comments": 4,
    "analytics": {
-    "views": 1156,
+    "views": 1158,
     "estimatedMinutesWatched": 168,
     "averageViewDuration": 19,
-    "averageViewPercentage": 51.17,
+    "averageViewPercentage": 51.06,
     "subscribersGained": 0,
     "likes": 16,
     "shares": 0,
@@ -8176,7 +8204,7 @@
    "likes": 32,
    "comments": 2,
    "analytics": {
-    "views": 1207,
+    "views": 1208,
     "estimatedMinutesWatched": 294,
     "averageViewDuration": 27,
     "averageViewPercentage": 57.38999999999999,
@@ -8340,15 +8368,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-20T20:13:42.948481+00:00",
-   "stage": "writing",
+   "updated": "2026-11-20T20:13:59.253150+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-20T20:13:45.901841+00:00"
+  "snapshot_at": "2026-11-20T20:21:29.079724+00:00"
  },
  "insights": {
-  "updated": "2026-11-20T15:20:05+00:00",
+  "updated": "2026-11-20T20:21:22+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8438,7 +8466,7 @@
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
       "views": 1062,
-      "watched": 68.58,
+      "watched": 68.38,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
       "hook_style": "question"
