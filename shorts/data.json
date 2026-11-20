@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-20T11:31:55+00:00",
- "stats_updated": "2026-11-20T02:19:30+00:00",
+ "synced": "2026-11-20T11:40:59+00:00",
+ "stats_updated": "2026-11-20T11:40:32+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 23,
-   "views": 19255,
+   "views": 19269,
    "uploads": 26,
    "analytics": true,
    "daily": [
@@ -491,7 +491,7 @@
     {
      "date": "2026-11-20",
      "subscribers": 23,
-     "views": 19255
+     "views": 19269
     }
    ]
   },
@@ -504,7 +504,7 @@
     "23:15"
    ],
    "subscribers": 8,
-   "views": 9879,
+   "views": 9882,
    "uploads": 25,
    "analytics": true,
    "daily": [
@@ -950,7 +950,7 @@
     {
      "date": "2026-11-20",
      "subscribers": 8,
-     "views": 9879
+     "views": 9882
     }
    ]
   },
@@ -3166,7 +3166,7 @@
    "url": "https://youtube.com/shorts/5SmYbSElyM8",
    "privacy": "public",
    "publish_at": "2026-11-05T22:30:00.000Z",
-   "views": 1220,
+   "views": 1222,
    "likes": 21,
    "comments": 0,
    "analytics": {
@@ -3542,7 +3542,7 @@
    "url": "https://youtube.com/shorts/mGe76XcAsNk",
    "privacy": "public",
    "publish_at": "2026-11-04T21:15:00.000Z",
-   "views": 1061,
+   "views": 1062,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -8340,15 +8340,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-20T11:31:52.228278+00:00",
-   "stage": "writing",
+   "updated": "2026-11-20T11:32:06.057932+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-20T11:31:55.112863+00:00"
+  "snapshot_at": "2026-11-20T11:40:59.928848+00:00"
  },
  "insights": {
-  "updated": "2026-11-20T02:19:42+00:00",
+  "updated": "2026-11-20T11:40:54+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8437,7 +8437,7 @@
      },
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
-      "views": 1061,
+      "views": 1062,
       "watched": 68.58,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
