@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-20T02:13:56+00:00",
- "stats_updated": "2026-11-19T20:38:18+00:00",
+ "synced": "2026-11-20T02:19:48+00:00",
+ "stats_updated": "2026-11-20T02:19:30+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -15,13 +15,6 @@
    "uploads": 26,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-23",
-     "views": 592,
-     "estimatedMinutesWatched": 69,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-24",
      "views": 359,
@@ -122,15 +115,15 @@
     },
     {
      "day": "2026-11-07",
-     "views": 241,
+     "views": 237,
      "estimatedMinutesWatched": 26,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
     {
      "day": "2026-11-08",
-     "views": 1577,
-     "estimatedMinutesWatched": 219,
+     "views": 1565,
+     "estimatedMinutesWatched": 218,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -494,6 +487,11 @@
      "date": "2026-11-19",
      "subscribers": 23,
      "views": 19255
+    },
+    {
+     "date": "2026-11-20",
+     "subscribers": 23,
+     "views": 19255
     }
    ]
   },
@@ -510,13 +508,6 @@
    "uploads": 25,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-23",
-     "views": 962,
-     "estimatedMinutesWatched": 132,
-     "subscribersGained": 2,
-     "subscribersLost": 1
-    },
     {
      "day": "2026-10-24",
      "views": 747,
@@ -617,15 +608,15 @@
     },
     {
      "day": "2026-11-07",
-     "views": 747,
-     "estimatedMinutesWatched": 98,
+     "views": 743,
+     "estimatedMinutesWatched": 97,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
     {
      "day": "2026-11-08",
-     "views": 1003,
-     "estimatedMinutesWatched": 120,
+     "views": 994,
+     "estimatedMinutesWatched": 118,
      "subscribersGained": 0,
      "subscribersLost": 0
     },
@@ -955,6 +946,11 @@
      "date": "2026-11-19",
      "subscribers": 8,
      "views": 9879
+    },
+    {
+     "date": "2026-11-20",
+     "subscribers": 8,
+     "views": 9879
     }
    ]
   },
@@ -971,13 +967,6 @@
    "uploads": 27,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-23",
-     "views": 90,
-     "estimatedMinutesWatched": 19,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-24",
      "views": 330,
@@ -1078,7 +1067,7 @@
     },
     {
      "day": "2026-11-07",
-     "views": 59,
+     "views": 58,
      "estimatedMinutesWatched": 7,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -1395,6 +1384,11 @@
      "date": "2026-11-19",
      "subscribers": 10,
      "views": 9729
+    },
+    {
+     "date": "2026-11-20",
+     "subscribers": 10,
+     "views": 9729
     }
    ]
   },
@@ -1411,13 +1405,6 @@
    "uploads": 20,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-23",
-     "views": 609,
-     "estimatedMinutesWatched": 56,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-24",
      "views": 610,
@@ -1518,8 +1505,8 @@
     },
     {
      "day": "2026-11-07",
-     "views": 188,
-     "estimatedMinutesWatched": 50,
+     "views": 182,
+     "estimatedMinutesWatched": 49,
      "subscribersGained": 1,
      "subscribersLost": 1
     },
@@ -1834,6 +1821,11 @@
     },
     {
      "date": "2026-11-19",
+     "subscribers": 19,
+     "views": 10695
+    },
+    {
+     "date": "2026-11-20",
      "subscribers": 19,
      "views": 10695
     }
@@ -2389,7 +2381,7 @@
    "url": "https://youtube.com/shorts/tUtHQNOaJUc",
    "privacy": "public",
    "publish_at": "2026-11-07T22:30:00.000Z",
-   "views": 646,
+   "views": 648,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -3174,7 +3166,7 @@
    "url": "https://youtube.com/shorts/5SmYbSElyM8",
    "privacy": "public",
    "publish_at": "2026-11-05T22:30:00.000Z",
-   "views": 1219,
+   "views": 1220,
    "likes": 21,
    "comments": 0,
    "analytics": {
@@ -3550,7 +3542,7 @@
    "url": "https://youtube.com/shorts/mGe76XcAsNk",
    "privacy": "public",
    "publish_at": "2026-11-04T21:15:00.000Z",
-   "views": 1060,
+   "views": 1061,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -8348,15 +8340,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-20T02:13:53.381313+00:00",
-   "stage": "writing",
+   "updated": "2026-11-20T02:14:07.459476+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-20T02:13:56.459098+00:00"
+  "snapshot_at": "2026-11-20T02:19:48.577178+00:00"
  },
  "insights": {
-  "updated": "2026-11-19T20:38:27+00:00",
+  "updated": "2026-11-20T02:19:42+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8382,7 +8374,7 @@
   ],
   "start_hold": 0.943,
   "experiments": {
-   "money-facts": "under 32s"
+   "deep-sea-files": "under 32s"
   },
   "targets": {
    "words": [
@@ -8445,7 +8437,7 @@
      },
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
-      "views": 1060,
+      "views": 1061,
       "watched": 68.58,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
