@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-21T19:13:46+00:00",
- "stats_updated": "2026-11-21T14:33:25+00:00",
+ "synced": "2026-11-21T19:16:25+00:00",
+ "stats_updated": "2026-11-21T19:16:11+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 23,
-   "views": 19278,
+   "views": 19282,
    "uploads": 26,
    "analytics": true,
    "daily": [
@@ -496,7 +496,7 @@
     {
      "date": "2026-11-21",
      "subscribers": 23,
-     "views": 19278
+     "views": 19282
     }
    ]
   },
@@ -509,7 +509,7 @@
     "23:15"
    ],
    "subscribers": 8,
-   "views": 9884,
+   "views": 9887,
    "uploads": 25,
    "analytics": true,
    "daily": [
@@ -960,7 +960,7 @@
     {
      "date": "2026-11-21",
      "subscribers": 8,
-     "views": 9884
+     "views": 9887
     }
    ]
   },
@@ -973,7 +973,7 @@
     "02:15"
    ],
    "subscribers": 10,
-   "views": 9729,
+   "views": 9731,
    "uploads": 27,
    "analytics": true,
    "daily": [
@@ -1403,7 +1403,7 @@
     {
      "date": "2026-11-21",
      "subscribers": 10,
-     "views": 9729
+     "views": 9731
     }
    ]
   },
@@ -2401,7 +2401,7 @@
    "url": "https://youtube.com/shorts/tUtHQNOaJUc",
    "privacy": "public",
    "publish_at": "2026-11-07T22:30:00.000Z",
-   "views": 649,
+   "views": 650,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -3562,7 +3562,7 @@
    "url": "https://youtube.com/shorts/mGe76XcAsNk",
    "privacy": "public",
    "publish_at": "2026-11-04T21:15:00.000Z",
-   "views": 1063,
+   "views": 1065,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -8360,15 +8360,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-21T19:13:43.661023+00:00",
-   "stage": "writing",
+   "updated": "2026-11-21T19:14:01.833154+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-21T19:13:46.819199+00:00"
+  "snapshot_at": "2026-11-21T19:16:25.676974+00:00"
  },
  "insights": {
-  "updated": "2026-11-21T14:33:34+00:00",
+  "updated": "2026-11-21T19:16:20+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8457,7 +8457,7 @@
      },
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
-      "views": 1063,
+      "views": 1065,
       "watched": 68.38,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
