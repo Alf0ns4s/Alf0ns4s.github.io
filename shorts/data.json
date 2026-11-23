@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-23T12:28:56+00:00",
- "stats_updated": "2026-11-23T01:43:45+00:00",
+ "synced": "2026-11-23T12:42:39+00:00",
+ "stats_updated": "2026-11-23T12:42:19+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,7 +11,7 @@
     "00:30"
    ],
    "subscribers": 23,
-   "views": 19294,
+   "views": 19298,
    "uploads": 26,
    "analytics": true,
    "daily": [
@@ -506,7 +506,7 @@
     {
      "date": "2026-11-23",
      "subscribers": 23,
-     "views": 19294
+     "views": 19298
     }
    ]
   },
@@ -993,7 +993,7 @@
     "02:15"
    ],
    "subscribers": 10,
-   "views": 9731,
+   "views": 9733,
    "uploads": 27,
    "analytics": true,
    "daily": [
@@ -1433,7 +1433,7 @@
     {
      "date": "2026-11-23",
      "subscribers": 10,
-     "views": 9731
+     "views": 9733
     }
    ]
   },
@@ -1446,7 +1446,7 @@
     "03:30"
    ],
    "subscribers": 19,
-   "views": 10701,
+   "views": 10702,
    "uploads": 20,
    "analytics": true,
    "daily": [
@@ -1887,7 +1887,7 @@
     {
      "date": "2026-11-23",
      "subscribers": 19,
-     "views": 10701
+     "views": 10702
     }
    ]
   }
@@ -2388,7 +2388,7 @@
    "url": "https://youtube.com/shorts/5EN6t23FiIk",
    "privacy": "public",
    "publish_at": "2026-11-07T01:30:00.000Z",
-   "views": 239,
+   "views": 240,
    "likes": 3,
    "comments": 2,
    "analytics": {
@@ -3702,7 +3702,7 @@
    "url": "https://youtube.com/shorts/qq-nWdLaJSo",
    "privacy": "public",
    "publish_at": "2026-11-03T22:30:00.000Z",
-   "views": 392,
+   "views": 393,
    "likes": 5,
    "comments": 0,
    "analytics": {
@@ -7672,7 +7672,7 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1107,
+   "views": 1108,
    "likes": 15,
    "comments": 2,
    "analytics": {
@@ -8400,15 +8400,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-23T12:28:53.749632+00:00",
-   "stage": "writing",
+   "updated": "2026-11-23T12:29:08.685292+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-23T12:28:56.792963+00:00"
+  "snapshot_at": "2026-11-23T12:42:39.216050+00:00"
  },
  "insights": {
-  "updated": "2026-11-23T01:43:53+00:00",
+  "updated": "2026-11-23T12:42:34+00:00",
   "videos_analysed": 98,
   "rules": [
    {
