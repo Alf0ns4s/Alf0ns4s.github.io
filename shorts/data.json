@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-24T23:43:48+00:00",
- "stats_updated": "2026-11-24T17:32:17+00:00",
+ "synced": "2026-11-24T23:54:11+00:00",
+ "stats_updated": "2026-11-24T23:53:55+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -186,6 +186,13 @@
     {
      "day": "2026-11-21",
      "views": 12,
+     "estimatedMinutesWatched": 1,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-22",
+     "views": 5,
      "estimatedMinutesWatched": 1,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -702,6 +709,13 @@
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-22",
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
     }
    ],
    "audience": {
@@ -1181,6 +1195,13 @@
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-22",
+     "views": 2,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
     }
    ],
    "audience": {
@@ -1639,6 +1660,13 @@
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-22",
+     "views": 6,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
     }
    ],
    "audience": {
@@ -1976,11 +2004,11 @@
    "url": "https://youtube.com/shorts/J-xpfeH_-mM",
    "privacy": "public",
    "publish_at": "2026-11-11T00:15:00.000Z",
-   "views": 725,
+   "views": 726,
    "likes": 13,
    "comments": 0,
    "analytics": {
-    "views": 724,
+    "views": 725,
     "estimatedMinutesWatched": 118,
     "averageViewDuration": 24,
     "averageViewPercentage": 77.53,
@@ -2412,7 +2440,7 @@
    "likes": 3,
    "comments": 2,
    "analytics": {
-    "views": 239,
+    "views": 240,
     "estimatedMinutesWatched": 72,
     "averageViewDuration": 30,
     "averageViewPercentage": 39.67,
@@ -3530,10 +3558,10 @@
    "likes": 4,
    "comments": 0,
    "analytics": {
-    "views": 245,
-    "estimatedMinutesWatched": 36,
+    "views": 249,
+    "estimatedMinutesWatched": 37,
     "averageViewDuration": 15,
-    "averageViewPercentage": 50.27,
+    "averageViewPercentage": 50.13000000000001,
     "subscribersGained": 0,
     "likes": 4,
     "shares": 0,
@@ -3726,10 +3754,10 @@
    "likes": 5,
    "comments": 0,
    "analytics": {
-    "views": 392,
+    "views": 393,
     "estimatedMinutesWatched": 40,
     "averageViewDuration": 13,
-    "averageViewPercentage": 47.4,
+    "averageViewPercentage": 47.5,
     "subscribersGained": 1,
     "likes": 5,
     "shares": 0,
@@ -6523,7 +6551,7 @@
    "url": "https://youtube.com/shorts/GsHQIkCo4u0",
    "privacy": "public",
    "publish_at": "2026-10-23T20:15:00.000Z",
-   "views": 1058,
+   "views": 1059,
    "likes": 16,
    "comments": 1,
    "analytics": {
@@ -7190,7 +7218,7 @@
    "likes": 1,
    "comments": 1,
    "analytics": {
-    "views": 42,
+    "views": 43,
     "estimatedMinutesWatched": 2,
     "averageViewDuration": 8,
     "averageViewPercentage": 24.42,
@@ -7696,7 +7724,7 @@
    "likes": 15,
    "comments": 2,
    "analytics": {
-    "views": 1103,
+    "views": 1108,
     "estimatedMinutesWatched": 174,
     "averageViewDuration": 21,
     "averageViewPercentage": 51.12,
@@ -8420,15 +8448,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-24T23:43:45.022984+00:00",
-   "stage": "writing",
+   "updated": "2026-11-24T23:43:59.955409+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-24T23:43:48.257545+00:00"
+  "snapshot_at": "2026-11-24T23:54:11.624199+00:00"
  },
  "insights": {
-  "updated": "2026-11-24T17:32:27+00:00",
+  "updated": "2026-11-24T23:54:05+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8454,7 +8482,7 @@
   ],
   "start_hold": 0.943,
   "experiments": {
-   "deep-sea-files": "under 32s"
+   "outbreak-files": "under 32s"
   },
   "targets": {
    "words": [
@@ -8525,7 +8553,7 @@
      },
      {
       "title": "How a Roblox Horror Game Makes $30M From Plays",
-      "views": 1058,
+      "views": 1059,
       "watched": 48.87,
       "duration": 34.5,
       "hook": "What if a Roblox game earns $30 million?",
