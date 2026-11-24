@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-24T01:58:53+00:00",
- "stats_updated": "2026-11-23T17:56:42+00:00",
+ "synced": "2026-11-24T02:13:02+00:00",
+ "stats_updated": "2026-11-24T02:12:45+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -11,17 +11,10 @@
     "00:30"
    ],
    "subscribers": 23,
-   "views": 19298,
+   "views": 19299,
    "uploads": 26,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-27",
-     "views": 547,
-     "estimatedMinutesWatched": 125,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-28",
      "views": 990,
@@ -186,6 +179,13 @@
     {
      "day": "2026-11-20",
      "views": 10,
+     "estimatedMinutesWatched": 1,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-21",
+     "views": 12,
      "estimatedMinutesWatched": 1,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -507,6 +507,11 @@
      "date": "2026-11-23",
      "subscribers": 23,
      "views": 19298
+    },
+    {
+     "date": "2026-11-24",
+     "subscribers": 23,
+     "views": 19299
     }
    ]
   },
@@ -523,13 +528,6 @@
    "uploads": 25,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-27",
-     "views": 76,
-     "estimatedMinutesWatched": 13,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-28",
      "views": 16,
@@ -694,6 +692,13 @@
     {
      "day": "2026-11-20",
      "views": 4,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-21",
+     "views": 7,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -981,6 +986,11 @@
      "date": "2026-11-23",
      "subscribers": 8,
      "views": 9894
+    },
+    {
+     "date": "2026-11-24",
+     "subscribers": 8,
+     "views": 9894
     }
    ]
   },
@@ -997,13 +1007,6 @@
    "uploads": 27,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-27",
-     "views": 1182,
-     "estimatedMinutesWatched": 286,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-28",
      "views": 100,
@@ -1168,6 +1171,13 @@
     {
      "day": "2026-11-20",
      "views": 2,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-21",
+     "views": 0,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -1434,6 +1444,11 @@
      "date": "2026-11-23",
      "subscribers": 10,
      "views": 9733
+    },
+    {
+     "date": "2026-11-24",
+     "subscribers": 10,
+     "views": 9733
     }
    ]
   },
@@ -1446,17 +1461,10 @@
     "03:30"
    ],
    "subscribers": 19,
-   "views": 10702,
+   "views": 10704,
    "uploads": 20,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-27",
-     "views": 391,
-     "estimatedMinutesWatched": 147,
-     "subscribersGained": 1,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-10-28",
      "views": 109,
@@ -1621,6 +1629,13 @@
     {
      "day": "2026-11-20",
      "views": 0,
+     "estimatedMinutesWatched": 0,
+     "subscribersGained": 0,
+     "subscribersLost": 0
+    },
+    {
+     "day": "2026-11-21",
+     "views": 3,
      "estimatedMinutesWatched": 0,
      "subscribersGained": 0,
      "subscribersLost": 0
@@ -1888,6 +1903,11 @@
      "date": "2026-11-23",
      "subscribers": 19,
      "views": 10702
+    },
+    {
+     "date": "2026-11-24",
+     "subscribers": 19,
+     "views": 10704
     }
    ]
   }
@@ -2298,10 +2318,10 @@
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 1027,
+    "views": 1029,
     "estimatedMinutesWatched": 130,
     "averageViewDuration": 20,
-    "averageViewPercentage": 72.1,
+    "averageViewPercentage": 71.94,
     "subscribersGained": 0,
     "likes": 10,
     "shares": 0,
@@ -2392,7 +2412,7 @@
    "likes": 3,
    "comments": 2,
    "analytics": {
-    "views": 238,
+    "views": 239,
     "estimatedMinutesWatched": 72,
     "averageViewDuration": 30,
     "averageViewPercentage": 39.67,
@@ -2445,10 +2465,10 @@
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 649,
+    "views": 652,
     "estimatedMinutesWatched": 91,
     "averageViewDuration": 16,
-    "averageViewPercentage": 56.28999999999999,
+    "averageViewPercentage": 56.03,
     "subscribersGained": 0,
     "likes": 10,
     "shares": 0,
@@ -3506,14 +3526,14 @@
    "url": "https://youtube.com/shorts/96bXaFxSHYI",
    "privacy": "public",
    "publish_at": "2026-11-04T22:30:00.000Z",
-   "views": 250,
+   "views": 253,
    "likes": 4,
    "comments": 0,
    "analytics": {
-    "views": 243,
+    "views": 245,
     "estimatedMinutesWatched": 36,
     "averageViewDuration": 15,
-    "averageViewPercentage": 50.35000000000001,
+    "averageViewPercentage": 50.27,
     "subscribersGained": 0,
     "likes": 4,
     "shares": 0,
@@ -3606,10 +3626,10 @@
    "likes": 10,
    "comments": 0,
    "analytics": {
-    "views": 1063,
+    "views": 1068,
     "estimatedMinutesWatched": 160,
     "averageViewDuration": 19,
-    "averageViewPercentage": 68.38,
+    "averageViewPercentage": 68.48,
     "subscribersGained": 0,
     "likes": 10,
     "shares": 0,
@@ -4191,14 +4211,14 @@
    "likes": 2,
    "comments": 1,
    "analytics": {
-    "views": 170,
+    "views": 174,
     "estimatedMinutesWatched": 25,
-    "averageViewDuration": 17,
-    "averageViewPercentage": 53.18999999999999,
+    "averageViewDuration": 16,
+    "averageViewPercentage": 52.83,
     "subscribersGained": 0,
     "likes": 2,
     "shares": 0,
-    "comments": 0
+    "comments": 1
    },
    "thumb": "thumbs/20261031-122429_deep-sea-files.jpg",
    "score": 95,
@@ -5264,7 +5284,7 @@
    "url": "https://youtube.com/shorts/g95c9QJtQE8",
    "privacy": "public",
    "publish_at": "2026-10-28T22:30:00.000Z",
-   "views": 196,
+   "views": 197,
    "likes": 1,
    "comments": 1,
    "analytics": {
@@ -6764,7 +6784,7 @@
    "likes": 12,
    "comments": 1,
    "analytics": {
-    "views": 1390,
+    "views": 1392,
     "estimatedMinutesWatched": 141,
     "averageViewDuration": 14,
     "averageViewPercentage": 48.48,
@@ -7672,14 +7692,14 @@
    "url": "https://youtube.com/shorts/UyU3Ihs8fbE",
    "privacy": "public",
    "publish_at": "2026-10-17T00:30:00.000Z",
-   "views": 1108,
+   "views": 1109,
    "likes": 15,
    "comments": 2,
    "analytics": {
-    "views": 1101,
+    "views": 1103,
     "estimatedMinutesWatched": 174,
     "averageViewDuration": 21,
-    "averageViewPercentage": 51.23,
+    "averageViewPercentage": 51.12,
     "subscribersGained": 5,
     "likes": 15,
     "shares": 0,
@@ -8236,7 +8256,7 @@
    "likes": 32,
    "comments": 2,
    "analytics": {
-    "views": 1209,
+    "views": 1210,
     "estimatedMinutesWatched": 294,
     "averageViewDuration": 27,
     "averageViewPercentage": 57.3,
@@ -8400,15 +8420,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-24T01:58:49.933160+00:00",
-   "stage": "writing",
+   "updated": "2026-11-24T01:59:05.069289+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-24T01:58:53.223325+00:00"
+  "snapshot_at": "2026-11-24T02:13:02.185670+00:00"
  },
  "insights": {
-  "updated": "2026-11-23T17:56:51+00:00",
+  "updated": "2026-11-24T02:12:56+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8434,7 +8454,7 @@
   ],
   "start_hold": 0.943,
   "experiments": {
-   "money-facts": "under 32s"
+   "deep-sea-files": "under 32s"
   },
   "targets": {
    "words": [
@@ -8490,7 +8510,7 @@
      {
       "title": "Can Cash Rounding Change Your Soda Bill?",
       "views": 1029,
-      "watched": 72.1,
+      "watched": 71.94,
       "duration": 28.9,
       "hook": "Can one cent turn into five?",
       "hook_style": "question"
@@ -8498,7 +8518,7 @@
      {
       "title": "How Steam Lets You Refund, Then Rebuy for Less",
       "views": 1068,
-      "watched": 68.38,
+      "watched": 68.48,
       "duration": 27.5,
       "hook": "Bought a Steam game before a sale?",
       "hook_style": "question"
