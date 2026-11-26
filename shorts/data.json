@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-26T16:46:50+00:00",
- "stats_updated": "2026-11-26T16:46:30+00:00",
+ "synced": "2026-11-26T16:55:05+00:00",
+ "stats_updated": "2026-11-26T16:54:51+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -2354,7 +2354,7 @@
    "url": "https://youtube.com/shorts/RDXBqQLqvro",
    "privacy": "public",
    "publish_at": "2026-11-08T21:15:00.000Z",
-   "views": 1030,
+   "views": 1029,
    "likes": 10,
    "comments": 0,
    "analytics": {
@@ -8465,10 +8465,10 @@
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-26T16:46:50.540925+00:00"
+  "snapshot_at": "2026-11-26T16:55:05.227573+00:00"
  },
  "insights": {
-  "updated": "2026-11-26T16:46:45+00:00",
+  "updated": "2026-11-26T16:54:58+00:00",
   "videos_analysed": 98,
   "rules": [
    {
@@ -8549,7 +8549,7 @@
     "top": [
      {
       "title": "Can Cash Rounding Change Your Soda Bill?",
-      "views": 1030,
+      "views": 1029,
       "watched": 71.94,
       "duration": 28.9,
       "hook": "Can one cent turn into five?",
