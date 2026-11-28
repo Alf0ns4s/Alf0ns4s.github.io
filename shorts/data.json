@@ -1,5 +1,5 @@
 {
- "synced": "2026-11-28T09:43:48+00:00",
+ "synced": "2026-11-28T09:58:53+00:00",
  "stats_updated": "2026-11-28T07:49:56+00:00",
  "channels": [
   {
@@ -8396,7 +8396,7 @@
    ],
    "all_channels_scheduled": false
   },
-  "updated": "2026-11-28T09:43:45.459506+00:00",
+  "updated": "2026-11-28T09:58:50.142707+00:00",
   "channels": [
    {
     "channel": "deep-sea-files",
@@ -8500,12 +8500,12 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-28T09:43:45.511372+00:00",
+   "updated": "2026-11-28T09:58:50.199399+00:00",
    "stage": "writing",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-28T09:43:48.207608+00:00"
+  "snapshot_at": "2026-11-28T09:58:53.537130+00:00"
  },
  "insights": {
   "updated": "2026-11-28T07:50:05+00:00",
