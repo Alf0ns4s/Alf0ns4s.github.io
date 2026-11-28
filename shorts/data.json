@@ -1,6 +1,6 @@
 {
- "synced": "2026-11-28T07:43:46+00:00",
- "stats_updated": "2026-11-27T23:27:48+00:00",
+ "synced": "2026-11-28T07:50:10+00:00",
+ "stats_updated": "2026-11-28T07:49:56+00:00",
  "channels": [
   {
    "id": "deep-sea-files",
@@ -15,13 +15,6 @@
    "uploads": 26,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-31",
-     "views": 478,
-     "estimatedMinutesWatched": 101,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-11-01",
      "views": 141,
@@ -534,6 +527,11 @@
      "date": "2026-11-27",
      "subscribers": 23,
      "views": 19308
+    },
+    {
+     "date": "2026-11-28",
+     "subscribers": 23,
+     "views": 19308
     }
    ]
   },
@@ -550,13 +548,6 @@
    "uploads": 25,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-31",
-     "views": 38,
-     "estimatedMinutesWatched": 4,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-11-01",
      "views": 672,
@@ -1035,6 +1026,11 @@
      "date": "2026-11-27",
      "subscribers": 8,
      "views": 9898
+    },
+    {
+     "date": "2026-11-28",
+     "subscribers": 8,
+     "views": 9898
     }
    ]
   },
@@ -1051,13 +1047,6 @@
    "uploads": 27,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-31",
-     "views": 187,
-     "estimatedMinutesWatched": 28,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-11-01",
      "views": 967,
@@ -1515,6 +1504,11 @@
      "date": "2026-11-27",
      "subscribers": 10,
      "views": 9735
+    },
+    {
+     "date": "2026-11-28",
+     "subscribers": 10,
+     "views": 9735
     }
    ]
   },
@@ -1527,17 +1521,10 @@
     "03:30"
    ],
    "subscribers": 19,
-   "views": 10705,
+   "views": 10706,
    "uploads": 20,
    "analytics": true,
    "daily": [
-    {
-     "day": "2026-10-31",
-     "views": 21,
-     "estimatedMinutesWatched": 9,
-     "subscribersGained": 0,
-     "subscribersLost": 0
-    },
     {
      "day": "2026-11-01",
      "views": 9,
@@ -1996,6 +1983,11 @@
      "date": "2026-11-27",
      "subscribers": 19,
      "views": 10705
+    },
+    {
+     "date": "2026-11-28",
+     "subscribers": 19,
+     "views": 10706
     }
    ]
   }
@@ -3519,7 +3511,7 @@
    "url": "https://youtube.com/shorts/jqgNYibBEyk",
    "privacy": "public",
    "publish_at": "2026-11-05T00:15:00.000Z",
-   "views": 121,
+   "views": 122,
    "likes": 0,
    "comments": 0,
    "analytics": {
@@ -3759,7 +3751,7 @@
    "url": "https://youtube.com/shorts/EseupOzmhlc",
    "privacy": "public",
    "publish_at": "2026-11-04T00:15:00.000Z",
-   "views": 441,
+   "views": 442,
    "likes": 5,
    "comments": 0,
    "analytics": {
@@ -8508,15 +8500,15 @@
    }
   ],
   "worker": {
-   "updated": "2026-11-28T07:43:43.934788+00:00",
-   "stage": "writing",
+   "updated": "2026-11-28T07:44:03.011069+00:00",
+   "stage": "dashboard",
    "failures": []
   },
   "schedule": "Cloud writer: hourly at :03. Cloud renderer: every 15 minutes at :13, :28, :43 and :58. Delayed runs catch up within existing limits.",
-  "snapshot_at": "2026-11-28T07:43:46.907481+00:00"
+  "snapshot_at": "2026-11-28T07:50:10.584268+00:00"
  },
  "insights": {
-  "updated": "2026-11-27T23:27:56+00:00",
+  "updated": "2026-11-28T07:50:05+00:00",
   "videos_analysed": 98,
   "rules": [
    {
